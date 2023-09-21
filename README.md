@@ -1,4 +1,4 @@
-### ／人◕ ‿‿ ◕人＼
+／人◕ ‿‿ ◕人＼
 
 <!--
 **lowrank/lowrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
