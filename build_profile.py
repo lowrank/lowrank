@@ -9,7 +9,6 @@ def fetch_rss_feed(url, num_entries=5):
         entries = feedparser.parse(url).entries
     else:
         entries = feedparser.parse(url).entries[:num_entries]
-        print(entries)
 
     return [
         {
@@ -29,7 +28,7 @@ def replace_chunk(content, marker, chunk, inline=False):
         chunk = '\n{}\n'.format(chunk)
     chunk = '<!-- {} starts -->{}<!-- {} ends -->'.format(marker, chunk, marker)
     chunk = chunk.replace('\\','')
-    print(chunk)
+
     return r.sub(chunk, content)
 
 if __name__ == '__main__':
@@ -47,7 +46,6 @@ if __name__ == '__main__':
 
     entries = fetch_rss_feed('http://export.arxiv.org/rss/math.NA', 0)
     
-    print(entries[-1])
     print('Recent Posts on Arxiv Math.NA\n')
 
     entries_md = '\n'.join(
