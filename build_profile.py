@@ -42,8 +42,11 @@ if __name__ == '__main__':
     )
 
     rewritten = replace_chunk(readme_contents, 'quanta', entries_md)
+
     readme.open('w').write(rewritten)
 
+
+    readme_contents = readme.open().read()
     entries = fetch_rss_feed('http://export.arxiv.org/rss/math.NA', 0)
     
     print('Recent Posts on Arxiv Math.NA\n')
