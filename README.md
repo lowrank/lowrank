@@ -8,21 +8,19 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="http://arxiv.org/abs/2309.14511">A pointwise tracking optimal control problem for the stationary Navier--Stokes equations. (arXiv:2309.14511v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.14584">A Sparse Fast Chebyshev Transform for High-Dimensional Approximation. (arXiv:2309.14584v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.14589">On the area of optimal parameters choice for the numerical method of non-stationary hydrodynamics problem with feature. (arXiv:2309.14589v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.14599">A Carleman-Picard approach for reconstructing zero-order coefficients in parabolic equations with limited data. (arXiv:2309.14599v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.14747">Analysis of Vibration and Thermal of a Modeled Circuit Board of Automated External Defibrillator (AED) Medical Device. (arXiv:2309.14747v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.14784">Approximation Rates for Deep Calibration of (Rough) Stochastic Volatility Models. (arXiv:2309.14784v1 [q-fin.MF])</a>
-* <a href="http://arxiv.org/abs/2309.14802">Development of boundary layers in Euler fluids that on "activation'' respond like Navier-Stokes fluids. (arXiv:2309.14802v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.14815">Removing the mask -- reconstructing a scalar field on the sphere from a masked field. (arXiv:2309.14815v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.14875">Enhanced Channel Estimation in mm-Wave MIMO Systems Leveraging Integrated Communication and Sensing. (arXiv:2309.14875v1 [eess.SP])</a>
-* <a href="http://arxiv.org/abs/2309.14956">Reconstruction of obstacles in a Stokes flow as a shape-from-moments problem. (arXiv:2309.14956v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2309.15003">Convergence Analysis of Nonlinear Kaczmarz Method for Systems of Nonlinear Equations with Component-wise Convex Mapping. (arXiv:2309.15003v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2002.03812">Characterization and Representation of Weighted Core Inverse of Matrices. (arXiv:2002.03812v3 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2109.14851">The Deep Minimizing Movement Scheme. (arXiv:2109.14851v5 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2207.06022">A Numerical Framework For Nonlinear Peridynamics On Two-dimensional Manifolds Based On Implicit P-(Ec)k Schemes. (arXiv:2207.06022v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2209.13186">A universal median quasi-Monte Carlo integration. (arXiv:2209.13186v4 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2303.06671">An extension of the approximate component mode synthesis method to the heterogeneous Helmholtz equation. (arXiv:2303.06671v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2307.16334">An overlapping domain decomposition method for the solution of parametric elliptic problems via proper generalized decomposition. (arXiv:2307.16334v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2309.15269">Theoretical Foundations of Community Rating by a Private Monopolist Insurer: Framework, Regulation, and Numerical Analysis. (arXiv:2309.15269v1 [econ.TH])</a>
+* <a href="http://arxiv.org/abs/2309.15346">Efficient implementation of the hybridized Raviart-Thomas mixed method by converting flux subspaces into stabilizations. (arXiv:2309.15346v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2309.15667">Uniform Poincar'e inequalities for the Discrete de Rham complex on general domains. (arXiv:2309.15667v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2309.15759">Recycling MMGKS for large-scale dynamic and streaming data. (arXiv:2309.15759v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2309.15805">Novel approach for solving multipoint boundary value problem for integro-differential equation. (arXiv:2309.15805v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2107.02579">Numerical Matrix Decomposition. (arXiv:2107.02579v6 [math.HO] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2206.06536">On Learning the Dynamical Response of Nonlinear Control Systems with Deep Operator Networks. (arXiv:2206.06536v2 [math.DS] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2206.15051">Group-invariant tensor train networks for supervised learning. (arXiv:2206.15051v2 [cs.LG] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2303.15451">Automated tuning for the parameters of linear solvers. (arXiv:2303.15451v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2304.08332">Multiscale hierarchical decomposition methods for ill-posed problems. (arXiv:2304.08332v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2304.14884">A registration method for reduced basis problems using linear optimal transport. (arXiv:2304.14884v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.00485">Representing the Special Linear Group with Block Unitriangular Matrices. (arXiv:2305.00485v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.08074">Orthogonal polynomial approximation and Extended Dynamic Mode Decomposition in chaos. (arXiv:2305.08074v4 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2306.05288">Design and analysis of an exactly divergence-free hybridized discontinuous Galerkin method for incompressible flows on meshes with quadrilateral cells. (arXiv:2306.05288v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2307.15285">Optimal Approximation of Zonoids and Uniform Approximation by Shallow Neural Networks. (arXiv:2307.15285v2 [stat.ML] UPDATED)</a>
 <!-- arxiv-math-na ends -->
