@@ -8,30 +8,16 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="http://arxiv.org/abs/2310.10766">Nearly Optimal Approximation Rates for Deep Super ReLU Networks on Sobolev Spaces. (arXiv:2310.10766v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.10783">Laplace-based strategies for Bayesian optimal experimental design with nuisance uncertainty. (arXiv:2310.10783v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.10831">Accurate Data-Driven Surrogates of Dynamical Systems for Forward Propagation of Uncertainty. (arXiv:2310.10831v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.10866">The linear elasticity system under singular forces. (arXiv:2310.10866v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.10869">Approximation properties of slice-matching operators. (arXiv:2310.10869v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.10977">A positivity-preserving numerical method for a thin liquid film on a vertical cylindrical fiber. (arXiv:2310.10977v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.10990">A second-order exponential integration constraint energy minimizing generalized multiscale method for parabolic problems. (arXiv:2310.10990v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11019">Numerical simulation of time fractional Kudryashov Sinelshchikov equation describing the pressure waves in a mixture of liquid and gas bubbles. (arXiv:2310.11019v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11225">Sparse grid approximation of the stochastic Landau-Lifshitz-Gilbert equation. (arXiv:2310.11225v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11234">Imaging of nonlinear materials via the Monotonicity Principle. (arXiv:2310.11234v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11271">Error analysis for hybrid finite element/neural network discretizations. (arXiv:2310.11271v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11292">Two subspace methods for frequency sparse graph signals. (arXiv:2310.11292v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11349">A robust and high precision algorithm for elastic scattering problems from cornered domains. (arXiv:2310.11349v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11365">Monte-Carlo/Moments micro-macro Parareal method for unimodal and bimodal scalar McKean-Vlasov SDEs. (arXiv:2310.11365v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2011.05845">On a general matrix-valued unbalanced optimal transport problem. (arXiv:2011.05845v3 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2205.10027">pISTA: preconditioned Iterative Soft Thresholding Algorithm for Graphical Lasso. (arXiv:2205.10027v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2206.10745">Derivative-Informed Neural Operator: An Efficient Framework for High-Dimensional Parametric Derivative Learning. (arXiv:2206.10745v4 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2212.12897">Optimal regularized hypothesis testing in statistical inverse problems. (arXiv:2212.12897v2 [math.ST] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2301.02136">Multiscale Transforms for Signals on Simplicial Complexes. (arXiv:2301.02136v5 [cs.SI] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2305.18642">Optimal approximation of infinite-dimensional holomorphic functions. (arXiv:2305.18642v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2305.19880">Stability and convergence of in time approximations of hyperbolic elastodynamics via stepwise minimization. (arXiv:2305.19880v3 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2306.03955">Kernel quadrature with randomly pivoted Cholesky. (arXiv:2306.03955v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2307.07707">Local Element Operations for Curved Simplex Meshes. (arXiv:2307.07707v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2307.14494">Finding roots of complex analytic functions via generalized colleague matrices. (arXiv:2307.14494v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2309.05211">On Quaternion Higher-Order Singular Value Decomposition: Models and Analysis. (arXiv:2309.05211v3 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2310.01541">Restoring the Discontinuous Heat Equation Source Using Sparse Boundary Data and Dynamic Sensors. (arXiv:2310.01541v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.11740">A fast normal splitting preconditioner for attractive coupled nonlinear Schr"odinger equations with fractional Laplacian. (arXiv:2310.11740v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.11789">Adversarial Training for Physics-Informed Neural Networks. (arXiv:2310.11789v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2310.11935">An EigenValue Stabilization Technique for Immersed Boundary Finite Element Methods in Explicit Dynamics. (arXiv:2310.11935v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.11956">Acoustic shape optimization using energy stable curvilinear finite differences. (arXiv:2310.11956v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.11961">A Kernel-Density-Estimator Minimizing Movement Scheme for Diffusion Equations. (arXiv:2310.11961v1 [math.AP])</a>
+* <a href="http://arxiv.org/abs/2310.12029">Total variation regularization for recovering the spatial source term in a time-fractional diffusion equation. (arXiv:2310.12029v1 [math.OC])</a>
+* <a href="http://arxiv.org/abs/2310.12053">Rational function approximation with normalized positive denominators. (arXiv:2310.12053v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12095">On the latent dimension of deep autoencoders for reduced order modeling of PDEs parametrized by random fields. (arXiv:2310.12095v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2211.06206">Theoretical error estimates for computing the matrix logarithm by Pad'e-type approximants. (arXiv:2211.06206v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.16530">Bi-fidelity Variational Auto-encoder for Uncertainty Quantification. (arXiv:2305.16530v2 [stat.ML] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.10618">Interpolatory $mathcal{H}_2$-optimality Conditions for Structured Linear Time-invariant Systems. (arXiv:2310.10618v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.11349">A robust and high precision algorithm for elastic scattering problems from cornered domains. (arXiv:2310.11349v2 [math.NA] UPDATED)</a>
 <!-- arxiv-math-na ends -->
