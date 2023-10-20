@@ -8,16 +8,30 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="http://arxiv.org/abs/2310.11740">A fast normal splitting preconditioner for attractive coupled nonlinear Schr"odinger equations with fractional Laplacian. (arXiv:2310.11740v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11789">Adversarial Training for Physics-Informed Neural Networks. (arXiv:2310.11789v1 [cs.LG])</a>
-* <a href="http://arxiv.org/abs/2310.11935">An EigenValue Stabilization Technique for Immersed Boundary Finite Element Methods in Explicit Dynamics. (arXiv:2310.11935v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11956">Acoustic shape optimization using energy stable curvilinear finite differences. (arXiv:2310.11956v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.11961">A Kernel-Density-Estimator Minimizing Movement Scheme for Diffusion Equations. (arXiv:2310.11961v1 [math.AP])</a>
-* <a href="http://arxiv.org/abs/2310.12029">Total variation regularization for recovering the spatial source term in a time-fractional diffusion equation. (arXiv:2310.12029v1 [math.OC])</a>
-* <a href="http://arxiv.org/abs/2310.12053">Rational function approximation with normalized positive denominators. (arXiv:2310.12053v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.12095">On the latent dimension of deep autoencoders for reduced order modeling of PDEs parametrized by random fields. (arXiv:2310.12095v1 [cs.LG])</a>
-* <a href="http://arxiv.org/abs/2211.06206">Theoretical error estimates for computing the matrix logarithm by Pad'e-type approximants. (arXiv:2211.06206v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2305.16530">Bi-fidelity Variational Auto-encoder for Uncertainty Quantification. (arXiv:2305.16530v2 [stat.ML] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2310.10618">Interpolatory $mathcal{H}_2$-optimality Conditions for Structured Linear Time-invariant Systems. (arXiv:2310.10618v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2310.11349">A robust and high precision algorithm for elastic scattering problems from cornered domains. (arXiv:2310.11349v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.12279">Adjoint-based inversion of frictional parameters in earthquake modeling. (arXiv:2310.12279v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12364">Faster randomized partial trace estimation. (arXiv:2310.12364v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12422">Low rank approximation method for perturbed linear systems with applications to elliptic type stochastic PDEs. (arXiv:2310.12422v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12461">Balanced Group Convolution: An Improved Group Convolution Based on Approximability Estimates. (arXiv:2310.12461v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2310.12486">Trapped acoustic waves and raindrops: high-order accurate integral equation method for localized excitation of a periodic staircase. (arXiv:2310.12486v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12498">Quasi Manhattan Wasserstein Distance. (arXiv:2310.12498v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2310.12545">Multilevel Picard algorithm for general semilinear parabolic PDEs with gradient-dependent nonlinearities. (arXiv:2310.12545v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12582">Empirical Risk Minimization over Artificial Neural Networks Overcomes the Curse of Dimensionality in the Numerical Approximation of Linear Kolmogorov Partial Differential Equations with Unbounded Initial Functions. (arXiv:2310.12582v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12605">Accurate Coarse Residual for Two-Level Asynchronous Domain Decomposition Methods. (arXiv:2310.12605v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12659">A Comparison Of Direct Solvers In FROSch Applied To Chemo-Mechanics. (arXiv:2310.12659v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12691">Discrete-to-Continuum Rates of Convergence for $p$-Laplacian Regularization. (arXiv:2310.12691v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12712">Curvature Aligned Simplex Gradient: Principled Sample Set Construction For Numerical Differentiation. (arXiv:2310.12712v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12737">A new complex variable solution on noncircular shallow tunnelling with reasonable far-field displacement. (arXiv:2310.12737v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12739">Strongly stable dual-pairing summation by parts finite difference schemes for the vector invariant nonlinear shallow water equations -- I: numerical scheme and validation. (arXiv:2310.12739v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12740">On the power of iid information for linear approximation. (arXiv:2310.12740v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12846">Physical Information Neural Networks for Solving High-index Differential-algebraic Equation Systems Based on Radau Methods. (arXiv:2310.12846v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12870">Structure preservation in high-order hybrid discretisations of advection-diffusion equations: linear and nonlinear approaches. (arXiv:2310.12870v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.12969">Demystifying the Myths and Legends of Nonconvex Convergence of SGD. (arXiv:2310.12969v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2109.11729">Optimal error bounds in the absence of constraint qualifications with applications to the $p$-cones and beyond. (arXiv:2109.11729v3 [math.OC] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2302.01205">A characteristic mapping method for incompressible hydrodynamics on a rotating sphere. (arXiv:2302.01205v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2303.15861">Accelerating exponential integrators to efficiently solve semilinear advection-diffusion-reaction equations. (arXiv:2303.15861v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2304.04951">Computing the Tracy-Widom distribution for arbitrary $beta>0$. (arXiv:2304.04951v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2307.05345">A generalization of Floater--Hormann interpolants. (arXiv:2307.05345v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2307.12444">Proximal Galerkin: A structure-preserving finite element method for pointwise bound constraints. (arXiv:2307.12444v4 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.01851">An equioscillation theorem for multivariate Chebyshev approximation. (arXiv:2310.01851v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.12053">Rational function approximation with normalized positive denominators. (arXiv:2310.12053v2 [math.NA] UPDATED)</a>
 <!-- arxiv-math-na ends -->
