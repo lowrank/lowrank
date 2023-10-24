@@ -8,5 +8,62 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="http://arxiv.org/abs/2310.13765">Computationally Efficient and Error Aware Surrogate Construction for Numerical Solutions of Subsurface Flow Through Porous Media. (arXiv:2310.13765v1 [stat.CO])</a>
+* <a href="http://arxiv.org/abs/2310.13780">A Modular Framework for Implicit 3D-0D Coupling in Cardiac Mechanics. (arXiv:2310.13780v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.13908">Numerical simulation of an extensible capsule using regularized Stokes kernels and overset finite differences. (arXiv:2310.13908v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.13920">New lower order mixed finite element methods for linear elasticity. (arXiv:2310.13920v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.13943">Heat diffusion blurs photothermal images with increasing depth. (arXiv:2310.13943v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.13947">Extreme learning machine to solve a class of biharmonic equation based on its coupled scheme. (arXiv:2310.13947v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.13952">Breaking the Resolution limit in Photoacoustic Imaging using Positivity and Sparsity. (arXiv:2310.13952v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.13971">A well-balanced second-order finite volume approximation for a coupled system of granular flow. (arXiv:2310.13971v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.13978">Energy-stable discretization of the one-dimensional two-fluid model. (arXiv:2310.13978v1 [physics.flu-dyn])</a>
+* <a href="http://arxiv.org/abs/2310.14046">Least p-Variances Theory. (arXiv:2310.14046v1 [math.ST])</a>
+* <a href="http://arxiv.org/abs/2310.14084">Graph Neural Networks and Applied Linear Algebra. (arXiv:2310.14084v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14175">A semi-randomized and augmented Kaczmarz method with simple random sampling for large-scale inconsistent linear systems. (arXiv:2310.14175v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14199">Partially Explicit Generalized Multiscale Method for Poroelasticity Problem. (arXiv:2310.14199v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14242">Composition and substitution of Regularity Structures B-series. (arXiv:2310.14242v1 [math.PR])</a>
+* <a href="http://arxiv.org/abs/2310.14260">Relation between size of mixing zone and intermediate concentration in miscible displacement. (arXiv:2310.14260v1 [physics.flu-dyn])</a>
+* <a href="http://arxiv.org/abs/2310.14266">On Universal Eigenvalues and Eigenvectors of Hypermatrices. (arXiv:2310.14266v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14276">Smoothed projections over manifolds in finite element exterior calculus. (arXiv:2310.14276v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14290">Data-driven Morozov regularization of inverse problems. (arXiv:2310.14290v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14313">Arbitrary order spline representation of cohomology generators for isogeometric analysis of eddy current problems. (arXiv:2310.14313v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14333">Analysis of Iterative Methods for the Linear Boltzmann Transport Equation. (arXiv:2310.14333v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14351">Nonasymptotic Convergence Rate of Quasi-Monte Carlo: Applications to Linear Elliptic PDEs with Lognormal Coefficients and Importance Samplings. (arXiv:2310.14351v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14391">Performance bounds for Reduced Order Models with Application to Parametric Transport. (arXiv:2310.14391v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14394">Neural Networks are Integrable. (arXiv:2310.14394v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14458">Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation. (arXiv:2310.14458v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2310.14459">ANN-MoC Method for Inverse Transient Transport Problems in One-Dimensional Geometry. (arXiv:2310.14459v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14470">Regularized Stokeslet Surfaces. (arXiv:2310.14470v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14522">A kernel-based method for Schr"odinger bridges. (arXiv:2310.14522v1 [math.OC])</a>
+* <a href="http://arxiv.org/abs/2310.14622">High order asymptotic preserving and well-balanced schemes for the shallow water equations with source terms. (arXiv:2310.14622v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14650">Asymptotic expansions for the solution of a linear PDE with a multifrequency highly oscillatory potential. (arXiv:2310.14650v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14707">A Hybrid GNN approach for predicting node data for 3D meshes. (arXiv:2310.14707v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2310.14746">Homogenized lattice Boltzmann methods for fluid flow through porous media -- part I: kinetic model derivation. (arXiv:2310.14746v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14754">Approximately well-balanced Discontinuous Galerkin methods using bases enriched with Physics-Informed Neural Networks. (arXiv:2310.14754v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14762">Native spaces and generalization of Wu functions. (arXiv:2310.14762v1 [math.CA])</a>
+* <a href="http://arxiv.org/abs/2310.14787">An Algorithm for Approximating Implicit Functions by Polynomials without Higher-Order Differentiability. (arXiv:2310.14787v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.14931">Topological Derivative for Shallow Water Equations. (arXiv:2310.14931v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.15048">A Fast Adaptive Method for the Evaluation of Heat Potentials in One Dimension. (arXiv:2310.15048v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.15078">Convergence of a steepest descent algorithm in shape optimisation using $W^{1,infty}$ functions. (arXiv:2310.15078v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2310.15116">Hermite-Pad'{e} approximation, multiple orthogonal polynomials, and multidimensional Toda equations. (arXiv:2310.15116v1 [nlin.SI])</a>
+* <a href="http://arxiv.org/abs/1211.3798">Systematic Stochastic Reduction of Inertial Fluid-Structure Interactions subject to Thermal Fluctuations. (arXiv:1211.3798v2 [cond-mat.soft] UPDATED)</a>
+* <a href="http://arxiv.org/abs/1906.01146">Surface Fluctuating Hydrodynamics Methods for the Drift-Diffusion Dynamics of Particles and Microstructures within Curved Fluid Interfaces. (arXiv:1906.01146v3 [cond-mat.soft] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2106.11753">Symplectic Learning for Hamiltonian Neural Networks. (arXiv:2106.11753v2 [cs.LG] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2107.14362">MLMOD: Machine Learning Methods for Data-Driven Modeling in LAMMPS. (arXiv:2107.14362v2 [cs.LG] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2111.06829">High-Order Nystr"om/Convolution-Quadrature Solution of Time-Domain Scattering from Closed and Open Lipschitz Boundaries with Dirichlet and Neumann Boundary Conditions. (arXiv:2111.06829v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2207.06926">Double-Loop Importance Sampling for McKean--Vlasov Stochastic Differential Equation. (arXiv:2207.06926v5 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2208.09969">Interior over-penalized enriched Galerkin methods for second order elliptic equations. (arXiv:2208.09969v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2209.02873">A Novel Difference Equation Approach for the Stability and Robustness of Compact Schemes for Variable Coefficient PDEs. (arXiv:2209.02873v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2211.10192">Data-driven basis for reconstructing the contrast in inverse scattering: Picard criterion, regularity, regularization, and stability. (arXiv:2211.10192v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2212.07248">Randomized Joint Diagonalization of Symmetric Matrices. (arXiv:2212.07248v4 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2301.12584">Fast Exact Leverage Score Sampling from Khatri-Rao Products with Applications to Tensor Decomposition. (arXiv:2301.12584v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2302.13159">Stability Analysis of a Simple Discretization Method for a Class of Strongly Singular Integral Equations. (arXiv:2302.13159v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2303.01029">Linear combination of Hamiltonian simulation for nonunitary dynamics with optimal state preparation cost. (arXiv:2303.01029v2 [quant-ph] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2303.05823">High order linearly implicit methods for semilinear evolution PDEs. (arXiv:2303.05823v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2303.10256">PINNSim: A Simulator for Power System Dynamics based on Physics-Informed Neural Networks. (arXiv:2303.10256v2 [eess.SY] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.10522">On a Doubly Reduced Model for Dynamics of Heterogeneous Mixtures of Stiffened Gases, its Regularizations and their Implementations. (arXiv:2305.10522v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2307.05266">On the efficient preconditioning of the Stokes equations in tight geometries. (arXiv:2307.05266v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2307.05434">Embedded symmetric positive semi-definite machine-learned elements for reduced-order modeling in finite-element simulations with application to threaded fasteners. (arXiv:2307.05434v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2307.13086">Reconstruction techniques for complex potentials. (arXiv:2307.13086v2 [math.CA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.10041">Convolution quadratures based on block generalized Adams methods. (arXiv:2310.10041v2 [math.NA] UPDATED)</a>
 <!-- arxiv-math-na ends -->
