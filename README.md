@@ -8,27 +8,22 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="http://arxiv.org/abs/2310.19809">MgNO: Efficient Parameterization of Linear Operators via Multigrid. (arXiv:2310.19809v1 [cs.LG])</a>
-* <a href="http://arxiv.org/abs/2310.19844">Design and Analysis of Robust Ballistic Landings on the Secondary of a Binary Asteroid. (arXiv:2310.19844v1 [astro-ph.IM])</a>
-* <a href="http://arxiv.org/abs/2310.19930">Scaling-robust built-in a posteriori error estimation for discontinuous least-squares finite element methods. (arXiv:2310.19930v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20056">On the data-driven description of lattice materials mechanics. (arXiv:2310.20056v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20112">Well-Posedness of the Bochner Integral Form of Operator-Valued Riccati Equations. (arXiv:2310.20112v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20177">An extended Fourier pseudospectral method for the Gross-Pitaevskii equation with low regularity potential. (arXiv:2310.20177v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20181">An explicit and symmetric exponential wave integrator for the nonlinear Schr"{o}dinger equation with low regularity potential and nonlinearity. (arXiv:2310.20181v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20267">A non-overlapping optimization-based domain decomposition approach to component-based model reduction of incompressible flows. (arXiv:2310.20267v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20290">On Rayleigh Quotient Iteration for Dual Quaternion Hermitian Eigenvalue Problem. (arXiv:2310.20290v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20310">Energy Conserving Higher Order Mixed Finite Element Discretizations of Maxwell's Equations. (arXiv:2310.20310v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20360">Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory. (arXiv:2310.20360v1 [cs.LG])</a>
-* <a href="http://arxiv.org/abs/2310.20428">In the recovery of sparse vectors from quadratic measurements, the presence of linear terms breaks the square root bottleneck. (arXiv:2310.20428v1 [cs.IT])</a>
-* <a href="http://arxiv.org/abs/2310.20653">Finite Difference Approximation with ADI Scheme for Two-dimensional Keller-Segel Equations. (arXiv:2310.20653v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2310.20708">Unexpected Improvements to Expected Improvement for Bayesian Optimization. (arXiv:2310.20708v1 [cs.LG])</a>
-* <a href="http://arxiv.org/abs/1906.04223">Superfast Low Rank Approximation of a Matrix. (arXiv:1906.04223v9 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/1906.04929">More on low rank approximation of a matrix. (arXiv:1906.04929v11 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2212.04079">A numerical domain decomposition method for solving elliptic equations on manifolds. (arXiv:2212.04079v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2302.14697">A short proof for the parameter continuation theorem. (arXiv:2302.14697v4 [math.AG] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2303.00402">On discrete ground states of rotating Bose-Einstein condensates. (arXiv:2303.00402v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2304.09074">Electrical Impedance Tomography with Deep Calder'on Method. (arXiv:2304.09074v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2306.01525">Study of the convergence of the Meshless Lattice Boltzmann Method in Taylor-Green and annular channel flows. (arXiv:2306.01525v2 [physics.flu-dyn] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2308.01445">A digital twin framework for civil engineering structures. (arXiv:2308.01445v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2310.05027">Rigid Clumps in the MercuryDPM Particle Dynamics Code. (arXiv:2310.05027v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2311.00081">Convolution Quadrature for the quasilinear subdiffusion equation. (arXiv:2311.00081v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00199">On the alternating randomized block Kaczmarz method. (arXiv:2311.00199v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00212">A Unified Framework to Enforce, Discover, and Promote Symmetry in Machine Learning. (arXiv:2311.00212v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2311.00224">Domain decomposition-based coupling of physics-informed neural networks via the Schwarz alternating method. (arXiv:2311.00224v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00253">Computational multiphase micro-periporomechanics for dynamic shear banding and fracturing of unsaturated porous media. (arXiv:2311.00253v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00259">Solutions to Elliptic and Parabolic Problems via Finite Difference Based Unsupervised Small Linear Convolutional Neural Networks. (arXiv:2311.00259v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2311.00403">Structure-Preserving Time Discretization of Port-Hamiltonian Systems via Discrete Gradient Pairs. (arXiv:2311.00403v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00529">A Unified Framework for the Error Analysis of Physics-Informed Neural Networks. (arXiv:2311.00529v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00534">Error analysis for a finite element approximation of the steady $p(cdot)$-Navier-Stokes equations. (arXiv:2311.00534v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00554">A higher order numerical method for singularly perturbed elliptic problems with characteristic boundary layers. (arXiv:2311.00554v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00610">Regularized Shannon sampling formulas related to the special affine Fourier transform. (arXiv:2311.00610v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00637">Analysis of the Single Reference Coupled Cluster Method for Electronic Structure Calculations: The Discrete Coupled Cluster Equations. (arXiv:2311.00637v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.00701">The Moving Discontinuous Galerkin Method with Interface Condition Enforcement for Robust Simulations of High-Speed Viscous Flows. (arXiv:2311.00701v1 [physics.flu-dyn])</a>
+* <a href="http://arxiv.org/abs/1906.04112">CUR Low Rank Approximation of a Matrix at Sublinear Cost. (arXiv:1906.04112v5 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2212.00302">An analysis of the Rayleigh-Ritz and refined Rayleigh-Ritz methods for nonlinear eigenvalue problems. (arXiv:2212.00302v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.07539">Sampling recovery in $L_2$ and other norms. (arXiv:2305.07539v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.07788">Finite element approximation for the delayed generalized Burgers-Huxley equation with weakly singular kernel: Part II Non-Conforming and DG approximation. (arXiv:2310.07788v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.14762">Native spaces and generalization of Wu functions. (arXiv:2310.14762v2 [math.CA] UPDATED)</a>
 <!-- arxiv-math-na ends -->
