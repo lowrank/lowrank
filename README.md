@@ -8,5 +8,20 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="http://arxiv.org/abs/2311.01467">The numerical linear algebra of weights: from the spectral analysis to conditioning and preconditioning in the Laplacian case. (arXiv:2311.01467v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.01519">Discussion of the Effect of Inter-group Sub-groups Using a Consensus Model Incorporating External Effective or Immobile Magnetic Fields. (arXiv:2311.01519v1 [physics.soc-ph])</a>
+* <a href="http://arxiv.org/abs/2311.01603">Analysis of distributional Riemann curvature tensor in any dimension. (arXiv:2311.01603v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.01664">A Theoretical Case Study of the Generalisation of Machine-learned Potentials. (arXiv:2311.01664v1 [physics.comp-ph])</a>
+* <a href="http://arxiv.org/abs/2311.01708">Physics-Informed Generator-Encoder Adversarial Networks with Latent Space Matching for Stochastic Differential Equations. (arXiv:2311.01708v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2311.01774">Optimal Control with Obstacle Avoidance for Incompressible Ideal Flows of an Inviscid Fluid. (arXiv:2311.01774v1 [math-ph])</a>
+* <a href="http://arxiv.org/abs/2311.01924">Cascadic Tensor Multigrid Method and Economic Cascadic Tensor Multigrid Method for Image Restoration Problems. (arXiv:2311.01924v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.02002">A Variational Perspective on High-Resolution ODEs. (arXiv:2311.02002v1 [math.OC])</a>
+* <a href="http://arxiv.org/abs/2311.02031">IRKA is a Riemannian Gradient Descent Method. (arXiv:2311.02031v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.02037">An Efficient Framework for Global Non-Convex Polynomial Optimization with Nonlinear Polynomial Constraints. (arXiv:2311.02037v1 [math.OC])</a>
+* <a href="http://arxiv.org/abs/2211.04399">Stability estimates for the expected utility in Bayesian optimal experimental design. (arXiv:2211.04399v2 [math.ST] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2301.10097">Canonical momentum based numerical schemes for hybrid plasma models with kinetic ions and massless electrons. (arXiv:2301.10097v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2302.05535">K-Spectral Sets. (arXiv:2302.05535v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2302.11024">Gradient Flows for Sampling: Mean-Field Models, Gaussian Approximations and Affine Invariance. (arXiv:2302.11024v6 [stat.ML] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2303.09448">Topology optimization of flexoelectric metamaterials with apparent piezoelectricity. (arXiv:2303.09448v2 [physics.app-ph] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.19571">A numerical study of the Dirichlet-to-Neumann operator in planar domains. (arXiv:2310.19571v2 [math.NA] UPDATED)</a>
 <!-- arxiv-math-na ends -->
