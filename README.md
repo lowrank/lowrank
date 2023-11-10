@@ -8,22 +8,24 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="http://arxiv.org/abs/2311.04289">Parameter Tuning in the Radial Kernel-Based Partition of Unity Method by Bayesian Optimization. (arXiv:2311.04289v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04299">Node-Binded Communities for Interpolation on Graphs. (arXiv:2311.04299v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04306">High-Order Numerical Method for 1D Non-local Diffusive Equation. (arXiv:2311.04306v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04311">Bayesian Approach for Radial Kernel Parameter Tuning. (arXiv:2311.04311v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04362">Fast and forward stable randomized algorithms for linear least-squares problems. (arXiv:2311.04362v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04371">How Charles Babbage invented the Computer. (arXiv:2311.04371v1 [cs.AR])</a>
-* <a href="http://arxiv.org/abs/2311.04531">An Unsupervised Deep Learning Approach for the Wave Equation Inverse Problem. (arXiv:2311.04531v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04615">Discrete stochastic maximal $ L^p $-regularity and convergence of a spatial semidiscretization for a stochastic parabolic equation. (arXiv:2311.04615v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04627">Fokker-Planck analysis of superresolution microscopy images. (arXiv:2311.04627v1 [math.OC])</a>
-* <a href="http://arxiv.org/abs/2311.04648">Chrono DEM-Engine: A Discrete Element Method dual-GPU simulator with customizable contact forces and element shape. (arXiv:2311.04648v2 [cs.CE])</a>
-* <a href="http://arxiv.org/abs/2311.04771">Computing $H^2$-conforming finite element approximations without having to implement $C^1$-elements. (arXiv:2311.04771v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04779">Optimal Deep Neural Network Approximation for Korobov Functions with respect to Sobolev Norms. (arXiv:2311.04779v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2311.04810">Finite Element Methods for the Stretching and Bending of Thin Structures with Folding. (arXiv:2311.04810v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2304.03546">Hermitian Preconditioning for a class of Non-Hermitian Linear Systems. (arXiv:2304.03546v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2306.13477">A Stabilized Circuit-Consistent Foil Conductor Model. (arXiv:2306.13477v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2310.13564">$hp$-optimal convergence of the original DG method for linear hyperbolic problems on special simplicial meshes. (arXiv:2310.13564v3 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2311.00081">Convolution Quadrature for the quasilinear subdiffusion equation. (arXiv:2311.00081v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2311.01467">The numerical linear algebra of weights: from the spectral analysis to conditioning and preconditioning in the Laplacian case. (arXiv:2311.01467v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2311.04935">Node-Bound Communities for Partition of Unity Interpolation on Graphs. (arXiv:2311.04935v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.05009">Consensus-based construction of high-dimensional free energy surface. (arXiv:2311.05009v1 [physics.comp-ph])</a>
+* <a href="http://arxiv.org/abs/2311.05012">Frequency-Based Reduced Models from Purely Time-Domain Data via Data Informativity. (arXiv:2311.05012v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.05024">Einstien-Multidimensional Extrapolation methods. (arXiv:2311.05024v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.05025">Unbiased Kinetic Langevin Monte Carlo with Inexact Gradients. (arXiv:2311.05025v1 [stat.CO])</a>
+* <a href="http://arxiv.org/abs/2311.05116">Covering Number of Real Algebraic Varieties: Improved Bound and Applications. (arXiv:2311.05116v1 [math.AG])</a>
+* <a href="http://arxiv.org/abs/2311.05162">Global error estimates of high-order fully decoupled schemes for the Cahn-Hilliard-Navier-Stokes model of Two-Phase Incompressible Flows. (arXiv:2311.05162v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.05170">A Local Parallel Finite Element Method for Super-Hydrophobic Proppants in a Hydraulic Fracturing System Based on a 2D/3D Transient Triple-Porosity Navier-Stokes Model. (arXiv:2311.05170v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.05191">Determining Sources in the Bioluminescence Tomography Problem. (arXiv:2311.05191v1 [math.AP])</a>
+* <a href="http://arxiv.org/abs/2311.05306">The Exponential Stabilization of a Heat and Piezoelectric Beam Interaction with Static or Hybrid Feedback Controllers. (arXiv:2311.05306v1 [math.OC])</a>
+* <a href="http://arxiv.org/abs/2311.05311">Newton-GSOR method for solving large-scale unconstrained optimization problems. (arXiv:2311.05311v1 [math.OC])</a>
+* <a href="http://arxiv.org/abs/2311.05321">Finite Element Analysis of the Oseen eigenvalue problem. (arXiv:2311.05321v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.05322">Numerical Modeling for Shoulder Injury Detection Using Microwave Imaging. (arXiv:2311.05322v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.05395">An SBP-SAT Continuous Galerkin Finite Element Formulation for Smooth and Discontinuous Fields. (arXiv:2311.05395v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2302.12761">Randomized low-rank approximation of parameter-dependent matrices. (arXiv:2302.12761v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2303.05089">Adiabatic elimination for composite open quantum systems: reduced model formulation and numerical simulations. (arXiv:2303.05089v5 [quant-ph] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2304.04234">Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations. (arXiv:2304.04234v3 [cs.LG] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2308.05061">Fine-Tune Language Models as Multi-Modal Differential Equation Solvers. (arXiv:2308.05061v3 [cs.LG] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2308.10130">On the Approximation of Operator-Valued Riccati Equations in Hilbert Spaces. (arXiv:2308.10130v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2311.04648">Chrono DEM-Engine: A Discrete Element Method dual-GPU simulator with customizable contact forces and element shape. (arXiv:2311.04648v2 [cs.CE] UPDATED)</a>
 <!-- arxiv-math-na ends -->
