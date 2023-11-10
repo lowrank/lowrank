@@ -17,7 +17,7 @@
 * <a href="http://arxiv.org/abs/2311.04531">An Unsupervised Deep Learning Approach for the Wave Equation Inverse Problem. (arXiv:2311.04531v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2311.04615">Discrete stochastic maximal $ L^p $-regularity and convergence of a spatial semidiscretization for a stochastic parabolic equation. (arXiv:2311.04615v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2311.04627">Fokker-Planck analysis of superresolution microscopy images. (arXiv:2311.04627v1 [math.OC])</a>
-* <a href="http://arxiv.org/abs/2311.04648">Chrono DEM-Engine: A Discrete Element Method dual-GPU simulator with customizable contact forces and element shape. (arXiv:2311.04648v1 [cs.CE])</a>
+* <a href="http://arxiv.org/abs/2311.04648">Chrono DEM-Engine: A Discrete Element Method dual-GPU simulator with customizable contact forces and element shape. (arXiv:2311.04648v2 [cs.CE])</a>
 * <a href="http://arxiv.org/abs/2311.04771">Computing $H^2$-conforming finite element approximations without having to implement $C^1$-elements. (arXiv:2311.04771v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2311.04779">Optimal Deep Neural Network Approximation for Korobov Functions with respect to Sobolev Norms. (arXiv:2311.04779v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2311.04810">Finite Element Methods for the Stretching and Bending of Thin Structures with Folding. (arXiv:2311.04810v1 [math.NA])</a>
