@@ -8,5 +8,18 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="http://arxiv.org/abs/2311.07698">Chaotic dynamics of two-dimensional flows around a cylinder. (arXiv:2311.07698v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.07814">A novel and simple spectral method for nonlocal PDEs with the fractional Laplacian. (arXiv:2311.07814v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.07821">Statistical Parameterized Physics-Based Machine Learning Digital Twin Models for Laser Powder Bed Fusion Process. (arXiv:2311.07821v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2311.07883">Analysis of a tensor POD-ROM for parameter dependent parabolic problems. (arXiv:2311.07883v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.08124">High-order accurate well-balanced energy stable finite difference schemes for multi-layer shallow water equations on fixed and adaptive moving meshes. (arXiv:2311.08124v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.08130">Modal Analysis of the Wake Shed Behind a Horizontal Axis Wind Turbine with Flexible Blades. (arXiv:2311.08130v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.08196">Computational homogenization of higher-order electro-mechanical materials with built-in generalized periodicity conditions. (arXiv:2311.08196v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2311.08316">CholeskyQR with Randomization and Pivoting for Tall Matrices (CQRRPT). (arXiv:2311.08316v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2204.03170">Decay Rate of $exp(A^{-1}t)A^{-1}$ on a Hilbert Space and the Crank-Nicolson Scheme with Smooth Initial Data. (arXiv:2204.03170v2 [math.FA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2302.14456">Riemannian preconditioned algorithms for tensor completion via tensor ring decomposition. (arXiv:2302.14456v2 [math.OC] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2307.01988">On the convergence analysis of the greedy randomized Kaczmarz method. (arXiv:2307.01988v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2310.08450">Monotone discretizations of levelset convex geometric PDEs. (arXiv:2310.08450v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2311.06115">Efficient and Scalable Kernel Matrix Approximations using Hierarchical Decomposition. (arXiv:2311.06115v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2311.06849">Analytic regularity for a singularly perturbed fourth order reaction-diffusion boundary value problem. (arXiv:2311.06849v2 [math.CA] UPDATED)</a>
 <!-- arxiv-math-na ends -->
