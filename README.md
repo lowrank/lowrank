@@ -8,31 +8,26 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="http://arxiv.org/abs/2401.12991">Catenary and Mercator projection. (arXiv:2401.12991v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13100">Bayesian sampling using interacting particles. (arXiv:2401.13100v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13125">Tensor train based sampling algorithms for approximating regularized Wasserstein proximal operators. (arXiv:2401.13125v2 [math.OC])</a>
-* <a href="http://arxiv.org/abs/2401.13152">Periodic Fractional Discrete Nonlinear Schr"odinger Equation and Modulational Instability. (arXiv:2401.13152v1 [math.AP])</a>
-* <a href="http://arxiv.org/abs/2401.13196">Stable numerics for finite-strain elasticity. (arXiv:2401.13196v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13209">Symmetric, Optimization-based, Cross-element Compatible Nodal Distributions for High-order Finite Elements. (arXiv:2401.13209v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13274">An energy-stable parametric finite element method for the planar Willmore flow. (arXiv:2401.13274v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13314">An Explicit Scheme for Pathwise XVA Computations. (arXiv:2401.13314v1 [q-fin.RM])</a>
-* <a href="http://arxiv.org/abs/2401.13322">Polynomial-free unisolvence of polyharmonic splines with odd exponent by random sampling. (arXiv:2401.13322v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13358">Sequential solution strategies for the Cahn-Hilliard-Biot model. (arXiv:2401.13358v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13361">A note on the numerical approximation of Greeks for American-style options. (arXiv:2401.13361v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13376">lymph: discontinuous poLYtopal methods for Multi-PHysics differential problems. (arXiv:2401.13376v2 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13428">Numerical Approximations and Convergence Analysis of Piecewise Diffusion Markov Processes, with Application to Glioma Cell Migration. (arXiv:2401.13428v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13483">Radial perfectly matched layers and infinite elements for the anisotropic wave equation. (arXiv:2401.13483v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13486">Separable Physics-Informed Neural Networks for the solution of elasticity problems. (arXiv:2401.13486v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13494">NSNO: Neumann Series Neural Operator for Solving Helmholtz Equations in Inhomogeneous Medium. (arXiv:2401.13494v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13496">Transient Forward Harmonic Adjoint Sensitivity Analysis. (arXiv:2401.13496v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.13652">Graph-Informed Neural Networks for Sparse Grid-Based Discontinuity Detectors. (arXiv:2401.13652v2 [cs.LG])</a>
-* <a href="http://arxiv.org/abs/2302.10684">Contraction and Convergence Rates for Discretized Kinetic Langevin Dynamics. (arXiv:2302.10684v4 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2303.11964">Fast exact simulation of the first passage of a tempered stable subordinator across a non-increasing function. (arXiv:2303.11964v2 [math.PR] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2304.14785">Improved estimates for the sharp interface limit of the stochastic Cahn-Hilliard equation with space-time white noise. (arXiv:2304.14785v2 [math.PR] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2305.02803">Tensor PCA from basis in tensor space. (arXiv:2305.02803v3 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2307.02096">Adaptive multi-stage integration schemes for Hamiltonian Monte Carlo. (arXiv:2307.02096v2 [stat.CO] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2308.07287">On semidefinite programming characterizations of the numerical radius and its dual norm. (arXiv:2308.07287v3 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2309.09089">On the geometry and dynamical formulation of the Sinkhorn algorithm for optimal transport. (arXiv:2309.09089v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2309.15003">Convergence Analysis of Nonlinear Kaczmarz Method for Systems of Nonlinear Equations with Component-wise Convex Mapping. (arXiv:2309.15003v2 [math.NA] UPDATED)</a>
-* <a href="http://arxiv.org/abs/2401.09919">Tractability of linear ill-posed problems in Hilbert space. (arXiv:2401.09919v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2401.13754">Multi-Function Multi-Way Analog Technology for Sustainable Machine Intelligence Computation. (arXiv:2401.13754v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2401.13926">Iterative Methods in GPU-Resident Linear Solvers for Nonlinear Constrained Optimization. (arXiv:2401.13926v1 [cs.CE])</a>
+* <a href="http://arxiv.org/abs/2401.13985">A new analysis of empirical interpolation methods and Chebyshev greedy algorithms. (arXiv:2401.13985v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2401.14055">Multi-machine preventative maintenance scheduling with imperfect interventions: a restless bandit approach. (arXiv:2401.14055v1 [cs.DM])</a>
+* <a href="http://arxiv.org/abs/2401.14081">Accelerating Fractional PINNs using Operational Matrices of Derivative. (arXiv:2401.14081v1 [cs.LG])</a>
+* <a href="http://arxiv.org/abs/2401.14100">Randomized Complexity of Mean Computation and the Adaption Problem. (arXiv:2401.14100v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2401.14163">The stabilizer-free weak Galerkin finite element method for the Biharmonic equation using polynomials of reduced order. (arXiv:2401.14163v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2401.14169">A finite volume method preserving the invariant region property for the quasimonotone reaction-diffusion systems. (arXiv:2401.14169v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2401.14202">Dynamic image reconstruction in MPI with RESESOP-Kaczmarz. (arXiv:2401.14202v1 [math.OC])</a>
+* <a href="http://arxiv.org/abs/2401.14310">A high-order discontinuous Galerkin method for the numerical modeling of epileptic seizures. (arXiv:2401.14310v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2401.14382">An Orthogonal Polynomial Kernel-Based Machine Learning Model for Differential-Algebraic Equations. (arXiv:2401.14382v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2102.02476">Error analysis of some nonlocal diffusion discretization schemes. (arXiv:2102.02476v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2205.12023">A divergence preserving cut finite element method for Darcy flow. (arXiv:2205.12023v8 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2207.05323">Implementing real polyhedral homotopy. (arXiv:2207.05323v2 [math.AG] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.04608">Inferring Object Boundaries and their Roughness with Uncertainty Quantification. (arXiv:2305.04608v3 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.08098">A Theory of General Difference in Continuous and Discrete Domain. (arXiv:2305.08098v2 [cs.DM] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2305.10803">Two-step Newton's method for deflation-one singular zeros of analytic systems. (arXiv:2305.10803v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2306.07072">Exact and Approximate Moment Derivation for Probabilistic Loops With Non-Polynomial Assignments. (arXiv:2306.07072v2 [stat.AP] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2311.02508">Dissipative quadratizations of polynomial ODE systems. (arXiv:2311.02508v2 [eess.SY] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2401.13125">Tensor train based sampling algorithms for approximating regularized Wasserstein proximal operators. (arXiv:2401.13125v2 [math.OC] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2401.13376">lymph: discontinuous poLYtopal methods for Multi-PHysics differential problems. (arXiv:2401.13376v2 [math.NA] UPDATED)</a>
+* <a href="http://arxiv.org/abs/2401.13652">Graph-Informed Neural Networks for Sparse Grid-Based Discontinuity Detectors. (arXiv:2401.13652v2 [cs.LG] UPDATED)</a>
 <!-- arxiv-math-na ends -->
