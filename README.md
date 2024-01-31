@@ -40,7 +40,7 @@
 * <a href="http://arxiv.org/abs/2401.16156">A fitted scheme for a Caputo initial-boundary value problem. (arXiv:2401.16156v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2401.16178">B'ezier curves and the Takagi function. (arXiv:2401.16178v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2401.16199">Optimal quadrature errors and sampling numbers for Sobolev spaces with logarithmic perturbation on spheres. (arXiv:2401.16199v1 [math.NA])</a>
-* <a href="http://arxiv.org/abs/2401.16250">Efficient Solution of ill-posed integral equations through averaging. (arXiv:2401.16250v1 [math.NA])</a>
+* <a href="http://arxiv.org/abs/2401.16250">Efficient solution of ill-posed integral equations through averaging. (arXiv:2401.16250v2 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2401.16261">Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model. (arXiv:2401.16261v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2401.16316">Convergence Analysis of a Preconditioned Steepest Descent Solver for the Cahn-Hilliard Equation with Logarithmic Potential. (arXiv:2401.16316v1 [math.NA])</a>
 * <a href="http://arxiv.org/abs/2401.16322">High-order exponential integration for seismic wave modeling. (arXiv:2401.16322v1 [math.NA])</a>
