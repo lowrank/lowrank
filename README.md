@@ -8,28 +8,5 @@
 <!-- quanta ends -->
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2401.16543">KFVM-WENO: A high-order accurate kernel-based finite volume method for compressible hydrodynamics</a>
-* <a href="https://arxiv.org/abs/2401.16632">Hybridized Implicit-Explicit Flux Reconstruction Methods</a>
-* <a href="https://arxiv.org/abs/2401.16763">What is a limit of structure-preserving numerical methods for compressible flows?</a>
-* <a href="https://arxiv.org/abs/2401.16835">Efficient numerical approximations for a non-conservative Nonlinear Schrodinger equation appearing in wind-forced ocean waves</a>
-* <a href="https://arxiv.org/abs/2401.16885">Local modification of subdiffusion by initial Fickian diffusion: Multiscale modeling, analysis and computation</a>
-* <a href="https://arxiv.org/abs/2401.16896">Parallelly Sliced Optimal Transport on Spheres and on the Rotation Group</a>
-* <a href="https://arxiv.org/abs/2401.16967">A direct finite element method for elliptic interface problems</a>
-* <a href="https://arxiv.org/abs/2401.17233">Inf-Sup neural networks for high-dimensional elliptic PDE problems</a>
-* <a href="https://arxiv.org/abs/2401.17237">Goal Oriented Adaptive Space Time Finite Element Methods Applied to Touching Domains</a>
-* <a href="https://arxiv.org/abs/2401.17239">Optimal control approach for moving bottom detection in one-dimensional shallow waters by surface measurements</a>
-* <a href="https://arxiv.org/abs/2401.16836">Coseparable Nonnegative Tensor Factorization With T-CUR Decomposition</a>
-* <a href="https://arxiv.org/abs/2401.17012">On the Algorithmic Verification of Nonlinear Superposition for Systems of First Order Ordinary Differential Equations</a>
-* <a href="https://arxiv.org/abs/2401.17037">Bayesian Optimization with Noise-Free Observations: Improved Regret Bounds via Random Exploration</a>
-* <a href="https://arxiv.org/abs/2401.17172">Learning Domain-Independent Green's Function For Elliptic Partial Differential Equations</a>
-* <a href="https://arxiv.org/abs/2401.17182">Detailed Error Analysis of the HHL Algorithm</a>
-* <a href="https://arxiv.org/abs/2401.17184">Rigorous Error Analysis for Logarithmic Number Systems</a>
-* <a href="https://arxiv.org/abs/2201.05741">Solving, Tracking and Stopping Streaming Linear Inverse Problems</a>
-* <a href="https://arxiv.org/abs/2304.03823">Multidimensional adaptive order GP-WENO via kernel-based reconstruction</a>
-* <a href="https://arxiv.org/abs/2307.05012">Best approximation results and essential boundary conditions for novel types of weak adversarial network discretizations for PDEs</a>
-* <a href="https://arxiv.org/abs/2312.14057">Weighted least-squares approximation with determinantal point processes and generalized volume sampling</a>
-* <a href="https://arxiv.org/abs/2401.16250">Efficient solution of ill-posed integral equations through averaging</a>
-* <a href="https://arxiv.org/abs/2202.02097">On the velocity-stress formulation for geometrically nonlinear elastodynamics and its structure-preserving discretization</a>
-* <a href="https://arxiv.org/abs/2304.14604">Deep Neural-network Prior for Orbit Recovery from Method of Moments</a>
-* <a href="https://arxiv.org/abs/2310.18897">Enhancing Low-Order Discontinuous Galerkin Methods with Neural Ordinary Differential Equations for Compressible Navier--Stokes Equations</a>
+
 <!-- arxiv-math-na ends -->
