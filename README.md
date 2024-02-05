@@ -7,7 +7,7 @@
 * <a href="https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/">How to Build an Origami Computer</a> - Tue, 30 Jan 2024 15:34:13 +0000
 <!-- quanta ends -->
 
-### SIAM News Research
+### 📝 SIAM News Research
 <!-- siam-news starts -->
 * <a href="https://sinews.siam.org/Details-Page/dynamical-systems-applications-for-missions-to-detect-life-in-ocean-worlds">Dynamical Systems Applications for Missions to Detect Life in Ocean Worlds</a> - Mon, 29 Jan 2024 15:41:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-impact-of-mosquito-insecticide-resistance-on-malaria-control">The Impact of Mosquito Insecticide Resistance on Malaria Control</a> - Wed, 24 Jan 2024 13:00:00 GMT
