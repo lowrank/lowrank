@@ -6,6 +6,11 @@
 * <a href="https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/">Plants Find Light Using Gaps Between Their Cells</a> - Wed, 31 Jan 2024 15:10:45 +0000
 * <a href="https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/">How to Build an Origami Computer</a> - Tue, 30 Jan 2024 15:34:13 +0000
 <!-- quanta ends -->
+
+### SIAM News Research
+<!-- siam-news starts -->
+<!-- siam-news ends -->
+
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
 * <a href="https://arxiv.org/abs/2402.00946">High order recovery of geometric interfaces from cell-average data</a>
