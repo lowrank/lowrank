@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/">Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics</a> - Wed, 07 Feb 2024 16:12:53 +0000
 * <a href="https://www.quantamagazine.org/radio-maps-may-reveal-the-universes-biggest-magnetic-fields-20240206/">Radio Maps May Reveal the Universe’s Biggest Magnetic Fields</a> - Tue, 06 Feb 2024 14:51:33 +0000
 * <a href="https://www.quantamagazine.org/what-your-brain-is-doing-when-youre-not-doing-anything-20240205/">What Your Brain Is Doing When You’re Not Doing Anything</a> - Mon, 05 Feb 2024 15:01:41 +0000
 * <a href="https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/">In a ‘Dark Dimension,’ Physicists Search for the Universe’s Missing Matter</a> - Thu, 01 Feb 2024 15:40:30 +0000
 * <a href="https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/">What Makes for ‘Good’ Mathematics?</a> - Thu, 01 Feb 2024 14:03:12 +0000
-* <a href="https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/">Plants Find Light Using Gaps Between Their Cells</a> - Wed, 31 Jan 2024 15:10:45 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
