@@ -18,23 +18,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2402.04348">Inversion of the Laplace Transform of Point Masses</a>
-* <a href="https://arxiv.org/abs/2402.04385">Locating the roots of a quadratic equation in one variable through a Line-Circumference (LC) geometric construction in the plane of complex numbers</a>
-* <a href="https://arxiv.org/abs/2402.04407">Sharp Lower Bounds on the Manifold Widths of Sobolev and Besov Spaces</a>
-* <a href="https://arxiv.org/abs/2402.04514">Graph-based methods for hyperbolic systems of conservation laws using discontinuous space discretizations, Part I: building blocks</a>
-* <a href="https://arxiv.org/abs/2402.04610">Early Stopping of Untrained Convolutional Neural Networks</a>
-* <a href="https://arxiv.org/abs/2402.04638">An efficient unconditional energy stable scheme for the simulation of droplet formation</a>
-* <a href="https://arxiv.org/abs/2402.04670">A comparison of different approaches to compute surface tension contribution in incompressible two-phase flows</a>
-* <a href="https://arxiv.org/abs/2402.04772">Stochastic Data-Driven Bouligand Landweber Method for Solving Non-smooth Inverse Problems</a>
-* <a href="https://arxiv.org/abs/2402.04944">Elastic Analysis of Augmented Curves and Constrained Surfaces</a>
-* <a href="https://arxiv.org/abs/2402.05041">Non-reversible lifts of reversible diffusion processes and relaxation times</a>
-* <a href="https://arxiv.org/abs/2112.06065">Symmetric bases for finite element exterior calculus spaces</a>
-* <a href="https://arxiv.org/abs/2211.13692">To be or not to be stable, that is the question: understanding neural networks for inverse problems</a>
-* <a href="https://arxiv.org/abs/2212.04466">On inclusion of time-varying source in the acoustic wave equation</a>
-* <a href="https://arxiv.org/abs/2212.06594">A Hausdorff-measure boundary element method for acoustic scattering by fractal screens</a>
-* <a href="https://arxiv.org/abs/2302.02639">New lower bounds for the integration of periodic functions</a>
-* <a href="https://arxiv.org/abs/2311.12568">The $beta$ Maps: Strong Clustering and Distribution Results on the Complex Unit Circle</a>
-* <a href="https://arxiv.org/abs/2209.04538">Phase field model for multi-material shape optimization of inextensible rods</a>
-* <a href="https://arxiv.org/abs/2312.05647">Avoiding matrix exponentials for large transition rate matrices</a>
-* <a href="https://arxiv.org/abs/2402.02347">Riemannian Preconditioned LoRA for Fine-Tuning Foundation Models</a>
+* <a href="https://arxiv.org/abs/2402.05229">Long time numerical stability of implicit schemes for stochastic heat equations</a>
+* <a href="https://arxiv.org/abs/2402.05308">Corotational modeling and NURBS-based kinematic constraint implementation in three-dimensional vehicle-track-structure interaction analysis</a>
+* <a href="https://arxiv.org/abs/2402.05347">Robust Implicit Adaptive Low Rank Time-Stepping Methods for Matrix Differential Equations</a>
+* <a href="https://arxiv.org/abs/2402.05507">SeAr PC: Sensitivity Enhanced Arbitrary Polynomial Chaos</a>
+* <a href="https://arxiv.org/abs/2402.05562">Uncertainty calibration for probabilistic projection methods</a>
+* <a href="https://arxiv.org/abs/2402.05563">Neural Multigrid Architectures</a>
+* <a href="https://arxiv.org/abs/2402.05585">Neural functional a posteriori error estimates</a>
+* <a href="https://arxiv.org/abs/2402.05598">Neural operators meet conjugate gradients: The FCG-NO method for efficient PDE solving</a>
+* <a href="https://arxiv.org/abs/2402.05630">Strassen's algorithm is not optimally accurate</a>
+* <a href="https://arxiv.org/abs/2402.05684">Optimum dimensional synthesis of planar mechanisms with geometric constraints</a>
+* <a href="https://arxiv.org/abs/2402.05707">Neumann-Neumann type domain decomposition of elliptic problems on metric graphs</a>
+* <a href="https://arxiv.org/abs/2402.05768">A non-damped stabilization algorithm for multibody dynamics</a>
+* <a href="https://arxiv.org/abs/2402.05867">Exploring pseudorandom value addition operations in datasets: A layered approach to escape from normal-Gaussian patterns</a>
+* <a href="https://arxiv.org/abs/2402.05499">Sustainable allocation of greenhouse gas emission permits for firms with Leontief technologies</a>
+* <a href="https://arxiv.org/abs/2402.05579">Quantifier Elimination for Normal Cone Computations</a>
+* <a href="https://arxiv.org/abs/2402.05676">Using nodal coordinates as variables for the dimensional synthesis of mechanisms</a>
+* <a href="https://arxiv.org/abs/2402.05923">Mean field control of droplet dynamics with high order finite element computations</a>
+* <a href="https://arxiv.org/abs/2207.04950">Neural and spectral operator surrogates: unified construction and expression rate bounds</a>
+* <a href="https://arxiv.org/abs/2208.04850">Evolving finite elements for advection diffusion with an evolving interface</a>
+* <a href="https://arxiv.org/abs/2302.04086">Block Diagonalization of Quaternion Circulant Matrices with Applications</a>
+* <a href="https://arxiv.org/abs/2306.07701">Particle simulation methods for the Landau-Fokker-Planck equation with uncertain data</a>
+* <a href="https://arxiv.org/abs/2308.08261">B-stability of numerical integrators on Riemannian manifolds</a>
+* <a href="https://arxiv.org/abs/2310.00889">Efficient Convergent Boundary Integral Methods for Slender Bodies</a>
+* <a href="https://arxiv.org/abs/2401.02889">Energy-Preserving Reduced Operator Inference for Efficient Design and Control</a>
+* <a href="https://arxiv.org/abs/2401.12799">Some convergence analysis for multicontinuum homogenization</a>
+* <a href="https://arxiv.org/abs/2307.11422">A pressure-free long-time stable reduced-order model for two-dimensional Rayleigh-B'enard convection</a>
+* <a href="https://arxiv.org/abs/2312.01709">A New Challenging Curve Fitting Benchmark Test Set for Global Optimization</a>
 <!-- arxiv-math-na ends -->
