@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/smartwatches-should-facilitate-the-aggregation-of-mental-health-data">Smartwatches Should Facilitate the Aggregation of Mental Health Data</a> - Fri, 09 Feb 2024 20:09:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/dynamical-systems-applications-for-missions-to-detect-life-in-ocean-worlds">Dynamical Systems Applications for Missions to Detect Life in Ocean Worlds</a> - Mon, 29 Jan 2024 15:41:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-impact-of-mosquito-insecticide-resistance-on-malaria-control">The Impact of Mosquito Insecticide Resistance on Malaria Control</a> - Wed, 24 Jan 2024 13:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/reflecting-on-the-science-technology-and-artistry-of-origami-engineering">Reflecting on the Science, Technology, and Artistry of Origami Engineering</a> - Mon, 22 Jan 2024 17:06:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/designing-the-smart-grid-of-the-future">Designing the Smart Grid of the Future</a> - Mon, 22 Jan 2024 13:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/off-diagonal-ramsey-numbers-from-pseudorandom-graphs">Off-diagonal Ramsey Numbers From Pseudorandom Graphs</a> - Mon, 22 Jan 2024 13:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
