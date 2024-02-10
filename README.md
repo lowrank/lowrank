@@ -18,31 +18,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2402.05229">Long time numerical stability of implicit schemes for stochastic heat equations</a>
-* <a href="https://arxiv.org/abs/2402.05308">Corotational modeling and NURBS-based kinematic constraint implementation in three-dimensional vehicle-track-structure interaction analysis</a>
-* <a href="https://arxiv.org/abs/2402.05347">Robust Implicit Adaptive Low Rank Time-Stepping Methods for Matrix Differential Equations</a>
-* <a href="https://arxiv.org/abs/2402.05507">SeAr PC: Sensitivity Enhanced Arbitrary Polynomial Chaos</a>
-* <a href="https://arxiv.org/abs/2402.05562">Uncertainty calibration for probabilistic projection methods</a>
-* <a href="https://arxiv.org/abs/2402.05563">Neural Multigrid Architectures</a>
-* <a href="https://arxiv.org/abs/2402.05585">Neural functional a posteriori error estimates</a>
-* <a href="https://arxiv.org/abs/2402.05598">Neural operators meet conjugate gradients: The FCG-NO method for efficient PDE solving</a>
-* <a href="https://arxiv.org/abs/2402.05630">Strassen's algorithm is not optimally accurate</a>
-* <a href="https://arxiv.org/abs/2402.05684">Optimum dimensional synthesis of planar mechanisms with geometric constraints</a>
-* <a href="https://arxiv.org/abs/2402.05707">Neumann-Neumann type domain decomposition of elliptic problems on metric graphs</a>
-* <a href="https://arxiv.org/abs/2402.05768">A non-damped stabilization algorithm for multibody dynamics</a>
-* <a href="https://arxiv.org/abs/2402.05867">Exploring pseudorandom value addition operations in datasets: A layered approach to escape from normal-Gaussian patterns</a>
-* <a href="https://arxiv.org/abs/2402.05499">Sustainable allocation of greenhouse gas emission permits for firms with Leontief technologies</a>
-* <a href="https://arxiv.org/abs/2402.05579">Quantifier Elimination for Normal Cone Computations</a>
-* <a href="https://arxiv.org/abs/2402.05676">Using nodal coordinates as variables for the dimensional synthesis of mechanisms</a>
-* <a href="https://arxiv.org/abs/2402.05923">Mean field control of droplet dynamics with high order finite element computations</a>
-* <a href="https://arxiv.org/abs/2207.04950">Neural and spectral operator surrogates: unified construction and expression rate bounds</a>
-* <a href="https://arxiv.org/abs/2208.04850">Evolving finite elements for advection diffusion with an evolving interface</a>
-* <a href="https://arxiv.org/abs/2302.04086">Block Diagonalization of Quaternion Circulant Matrices with Applications</a>
-* <a href="https://arxiv.org/abs/2306.07701">Particle simulation methods for the Landau-Fokker-Planck equation with uncertain data</a>
-* <a href="https://arxiv.org/abs/2308.08261">B-stability of numerical integrators on Riemannian manifolds</a>
-* <a href="https://arxiv.org/abs/2310.00889">Efficient Convergent Boundary Integral Methods for Slender Bodies</a>
-* <a href="https://arxiv.org/abs/2401.02889">Energy-Preserving Reduced Operator Inference for Efficient Design and Control</a>
-* <a href="https://arxiv.org/abs/2401.12799">Some convergence analysis for multicontinuum homogenization</a>
-* <a href="https://arxiv.org/abs/2307.11422">A pressure-free long-time stable reduced-order model for two-dimensional Rayleigh-B'enard convection</a>
-* <a href="https://arxiv.org/abs/2312.01709">A New Challenging Curve Fitting Benchmark Test Set for Global Optimization</a>
+
 <!-- arxiv-math-na ends -->
