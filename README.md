@@ -18,27 +18,25 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2402.08049">An algorithm for dynamic vehicle-track-structure interaction analysis for high-speed trains</a>
-* <a href="https://arxiv.org/abs/2402.08139">A Consistently Oriented Basis for Eigenanalysis: Improved Directional Statistics</a>
-* <a href="https://arxiv.org/abs/2402.08291">On a modified Hilbert transformation, the discrete inf-sup condition, and error estimates</a>
-* <a href="https://arxiv.org/abs/2402.08358">De la Vall'ee Poussin filtered polynomial approximation on the half line</a>
-* <a href="https://arxiv.org/abs/2402.08395">New limiter regions for multidimensional flows</a>
-* <a href="https://arxiv.org/abs/2402.08494">Deep learning enhanced cost-aware multi-fidelity uncertainty quantification of a computational model for radiotherapy</a>
-* <a href="https://arxiv.org/abs/2402.08515">A Krylov Eigenvalue Solver Based on Filtered Time Domain Solutions</a>
-* <a href="https://arxiv.org/abs/2402.08568">Convergence Analysis of a Variable Projection Method for Regularized Separable Nonlinear Inverse Problems</a>
-* <a href="https://arxiv.org/abs/2402.08607">A robust second-order low-rank BUG integrator based on the midpoint rule</a>
-* <a href="https://arxiv.org/abs/2402.08134">Randomized Algorithms for Symmetric Nonnegative Matrix Factorization</a>
-* <a href="https://arxiv.org/abs/2402.08172">A Projection-Based Time-Divided Reduced Order Model for Fluid-Structure Interactions</a>
-* <a href="https://arxiv.org/abs/2402.08187">Learning time-dependent PDE via graph neural networks and deep operator network for robust accuracy on irregular grids</a>
-* <a href="https://arxiv.org/abs/2402.08296">Multi-Level GNN Preconditioner for Solving Large Scale Problems</a>
-* <a href="https://arxiv.org/abs/2402.08536">Retractions on closed sets</a>
-* <a href="https://arxiv.org/abs/2109.02553">Broken-FEEC discretizations and Hodge Laplace problems</a>
-* <a href="https://arxiv.org/abs/2210.11025">Double precision is not necessary for LSQR for solving discrete linear ill-posed problems</a>
-* <a href="https://arxiv.org/abs/2301.13058">Bilinear optimal control for the fractional Laplacian: analysis and discretization</a>
-* <a href="https://arxiv.org/abs/2303.10233">Fast solution of incompressible flow problems with two-level pressure approximation</a>
-* <a href="https://arxiv.org/abs/2303.15458">A Stochastic Method for Solving Time-Fractional Differential Equations</a>
-* <a href="https://arxiv.org/abs/2306.02060">A unified Bayesian inversion approach for a class of tumor growth models with different pressure laws</a>
-* <a href="https://arxiv.org/abs/2306.07435">Randomized least-squares with minimal oversampling and interpolation in general spaces</a>
-* <a href="https://arxiv.org/abs/2312.16690">Resonance based schemes for SPDEs</a>
-* <a href="https://arxiv.org/abs/2401.00236">Simultaneously determine elastic impedance and shape by a Newton-type iterative method</a>
+* <a href="https://arxiv.org/abs/2402.08909">A locally mass-conservative enriched Petrov-Galerkin method without penalty for the Darcy flow in porous media</a>
+* <a href="https://arxiv.org/abs/2402.08912">Supercloseness of the DDG method for a singularly perturbed convection diffusion problem on Shishkin mesh</a>
+* <a href="https://arxiv.org/abs/2402.08926">Conformal Finite Element Methods for Nonlinear Rosenau-Burgers-Biharmonic Models</a>
+* <a href="https://arxiv.org/abs/2402.08973">Convergence rate and exponential stability of backward Euler method for neutral stochastic delay differential equations under generalized monotonicity conditions</a>
+* <a href="https://arxiv.org/abs/2402.09072">Trace Ratio Based Manifold Learning with Tensor Data</a>
+* <a href="https://arxiv.org/abs/2402.09196">comparison of two models to predict vertebral failure loads on the same experimental dataset</a>
+* <a href="https://arxiv.org/abs/2402.09210">Inter-laboratory replicability and sensitivity study of a finite element model to quantify human femur failure load: case of metastases</a>
+* <a href="https://arxiv.org/abs/2402.09252">An asymptotic-preserving scheme for Euler equations I: non-ideal gases</a>
+* <a href="https://arxiv.org/abs/2402.09277">A Modular Deep Learning-based Approach for Diffuse Optical Tomography Reconstruction</a>
+* <a href="https://arxiv.org/abs/2402.09295">Analysis of an Adaptive Safeguarded Newton-Anderson Algorithm with Applications to Fluid Problems</a>
+* <a href="https://arxiv.org/abs/2402.08711">Correction to "Wasserstein distance estimates for the distributions of numerical approximations to ergodic stochastic differential equations"</a>
+* <a href="https://arxiv.org/abs/2402.09379">Fixed-sparsity matrix approximation from matrix-vector products</a>
+* <a href="https://arxiv.org/abs/2204.09815">Parametric Level-sets Enhanced To Improve Reconstruction (PaLEnTIR)</a>
+* <a href="https://arxiv.org/abs/2302.06239">Finite element hybridization of port-Hamiltonian systems</a>
+* <a href="https://arxiv.org/abs/2305.05629">Structured condition numbers for a linear function of the solution of the generalized saddle point problem</a>
+* <a href="https://arxiv.org/abs/2306.12772">On the rate of convergence of Yosida approximation for the nonlocal Cahn-Hilliard equation</a>
+* <a href="https://arxiv.org/abs/2310.20310">Energy Conserving Higher Order Mixed Finite Element Discretizations of Maxwell's Equations</a>
+* <a href="https://arxiv.org/abs/2402.03487">Shooting Methods for Fractional Dirichlet-Type Boundary Value Problems of Order $alpha in (1,2)$ With Caputo Derivatives</a>
+* <a href="https://arxiv.org/abs/2204.10164">Linearised Calder'on problem: Reconstruction and Lipschitz stability for infinite-dimensional spaces of unbounded perturbations</a>
+* <a href="https://arxiv.org/abs/2307.05432">Self-Supervised Learning with Lie Symmetries for Partial Differential Equations</a>
+* <a href="https://arxiv.org/abs/2401.12490">A low-rank augmented Lagrangian method for large-scale semidefinite programming based on a hybrid convex-nonconvex approach</a>
 <!-- arxiv-math-na ends -->
