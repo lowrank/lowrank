@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/quanta-relaunches-hyperjumps-math-game-20240216/">Quanta Relaunches Hyperjumps Math Game</a> - Fri, 16 Feb 2024 15:22:22 +0000
+* <a href="https://www.quantamagazine.org/hyperjumps-math-game-20240216/">Hyperjumps Math Game</a> - Fri, 16 Feb 2024 15:21:16 +0000
 * <a href="https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/">Unfolding the Mysteries of Polygonal Billiards</a> - Thu, 15 Feb 2024 16:05:41 +0000
 * <a href="https://www.quantamagazine.org/how-did-altruism-evolve-20240215/">How Did Altruism Evolve?</a> - Thu, 15 Feb 2024 14:08:27 +0000
 * <a href="https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/">A ‘Lobby’ Where a Molecule Mob Tells Genes What to Do</a> - Wed, 14 Feb 2024 15:47:52 +0000
-* <a href="https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/">How Quickly Do Large Language Models Learn Unexpected Skills?</a> - Tue, 13 Feb 2024 15:32:10 +0000
-* <a href="https://www.quantamagazine.org/to-see-black-holes-in-detail-she-uses-echoes-like-a-bat-20240212/">To See Black Holes in Stunning Detail, She Uses ‘Echoes’ Like a Bat</a> - Mon, 12 Feb 2024 17:43:29 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
