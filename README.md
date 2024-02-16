@@ -18,25 +18,24 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2402.08909">A locally mass-conservative enriched Petrov-Galerkin method without penalty for the Darcy flow in porous media</a>
-* <a href="https://arxiv.org/abs/2402.08912">Supercloseness of the DDG method for a singularly perturbed convection diffusion problem on Shishkin mesh</a>
-* <a href="https://arxiv.org/abs/2402.08926">Conformal Finite Element Methods for Nonlinear Rosenau-Burgers-Biharmonic Models</a>
-* <a href="https://arxiv.org/abs/2402.08973">Convergence rate and exponential stability of backward Euler method for neutral stochastic delay differential equations under generalized monotonicity conditions</a>
-* <a href="https://arxiv.org/abs/2402.09072">Trace Ratio Based Manifold Learning with Tensor Data</a>
-* <a href="https://arxiv.org/abs/2402.09196">comparison of two models to predict vertebral failure loads on the same experimental dataset</a>
-* <a href="https://arxiv.org/abs/2402.09210">Inter-laboratory replicability and sensitivity study of a finite element model to quantify human femur failure load: case of metastases</a>
-* <a href="https://arxiv.org/abs/2402.09252">An asymptotic-preserving scheme for Euler equations I: non-ideal gases</a>
-* <a href="https://arxiv.org/abs/2402.09277">A Modular Deep Learning-based Approach for Diffuse Optical Tomography Reconstruction</a>
-* <a href="https://arxiv.org/abs/2402.09295">Analysis of an Adaptive Safeguarded Newton-Anderson Algorithm with Applications to Fluid Problems</a>
+* <a href="https://arxiv.org/abs/2402.09531">The dimension weighted fast multipole method for scattered data approximation</a>
+* <a href="https://arxiv.org/abs/2402.09607">Numerical Study of a Strongly Coupled Two-scale System with Nonlinear Dispersion</a>
+* <a href="https://arxiv.org/abs/2402.09699">G-Drazin inverse combined with inner inverse</a>
+* <a href="https://arxiv.org/abs/2402.09740">Inversion of limited-aperture Fresnel experimental data using orthogonality sampling method with single and multiple sources</a>
+* <a href="https://arxiv.org/abs/2402.09803">An Inverse Problems Approach to Pulse Wave Analysis in the Human Brain</a>
+* <a href="https://arxiv.org/abs/2402.09814">A P'eclet-robust discontinuous Galerkin method for nonlinear diffusion with advection</a>
+* <a href="https://arxiv.org/abs/2402.09850">Application of a metric for complex polynomials to bounded modification of planar Pythagorean-hodograph curves</a>
+* <a href="https://arxiv.org/abs/2402.10152">A new type of simplified inverse Lax-Wendroff boundary treatment I: hyperbolic conservation laws</a>
+* <a href="https://arxiv.org/abs/2402.09319">Eulerian Formulation of the Tensor-Based Morphology Equations for Strain-Based Blood Damage Modeling</a>
+* <a href="https://arxiv.org/abs/2402.09462">Stochastic differential equations for performance analysis of wireless communication systems</a>
+* <a href="https://arxiv.org/abs/2402.09622">Advanced fuel fusion, phase space engineering, and structure-preserving geometric algorithms</a>
+* <a href="https://arxiv.org/abs/2402.09772">Optimal Experimental Design for Partially Observable Pure Birth Processes</a>
+* <a href="https://arxiv.org/abs/2402.10124">A Blob Method for Mean Field Control With Terminal Constraints</a>
+* <a href="https://arxiv.org/abs/2302.10682">Approximation of Splines in Wasserstein Spaces</a>
+* <a href="https://arxiv.org/abs/2310.00172">A physics-informed deep learning approach for solving strongly degenerate parabolic problems</a>
+* <a href="https://arxiv.org/abs/2308.04970">Fitting Concentric Elliptical Shapes Under General Model</a>
+* <a href="https://arxiv.org/abs/2312.11477">Reconstructing relaxed configurations in elastic bodies: Mathematical formulations and numerical methods for cardiac modeling</a>
+* <a href="https://arxiv.org/abs/2402.08172">A Projection-Based Time-Segmented Reduced Order Model for Fluid-Structure Interactions</a>
 * <a href="https://arxiv.org/abs/2402.08711">Correction to "Wasserstein distance estimates for the distributions of numerical approximations to ergodic stochastic differential equations"</a>
 * <a href="https://arxiv.org/abs/2402.09379">Fixed-sparsity matrix approximation from matrix-vector products</a>
-* <a href="https://arxiv.org/abs/2204.09815">Parametric Level-sets Enhanced To Improve Reconstruction (PaLEnTIR)</a>
-* <a href="https://arxiv.org/abs/2302.06239">Finite element hybridization of port-Hamiltonian systems</a>
-* <a href="https://arxiv.org/abs/2305.05629">Structured condition numbers for a linear function of the solution of the generalized saddle point problem</a>
-* <a href="https://arxiv.org/abs/2306.12772">On the rate of convergence of Yosida approximation for the nonlocal Cahn-Hilliard equation</a>
-* <a href="https://arxiv.org/abs/2310.20310">Energy Conserving Higher Order Mixed Finite Element Discretizations of Maxwell's Equations</a>
-* <a href="https://arxiv.org/abs/2402.03487">Shooting Methods for Fractional Dirichlet-Type Boundary Value Problems of Order $alpha in (1,2)$ With Caputo Derivatives</a>
-* <a href="https://arxiv.org/abs/2204.10164">Linearised Calder'on problem: Reconstruction and Lipschitz stability for infinite-dimensional spaces of unbounded perturbations</a>
-* <a href="https://arxiv.org/abs/2307.05432">Self-Supervised Learning with Lie Symmetries for Partial Differential Equations</a>
-* <a href="https://arxiv.org/abs/2401.12490">A low-rank augmented Lagrangian method for large-scale semidefinite programming based on a hybrid convex-nonconvex approach</a>
 <!-- arxiv-math-na ends -->
