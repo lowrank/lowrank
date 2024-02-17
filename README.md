@@ -18,24 +18,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2402.09531">The dimension weighted fast multipole method for scattered data approximation</a>
-* <a href="https://arxiv.org/abs/2402.09607">Numerical Study of a Strongly Coupled Two-scale System with Nonlinear Dispersion</a>
-* <a href="https://arxiv.org/abs/2402.09699">G-Drazin inverse combined with inner inverse</a>
-* <a href="https://arxiv.org/abs/2402.09740">Inversion of limited-aperture Fresnel experimental data using orthogonality sampling method with single and multiple sources</a>
-* <a href="https://arxiv.org/abs/2402.09803">An Inverse Problems Approach to Pulse Wave Analysis in the Human Brain</a>
-* <a href="https://arxiv.org/abs/2402.09814">A P'eclet-robust discontinuous Galerkin method for nonlinear diffusion with advection</a>
-* <a href="https://arxiv.org/abs/2402.09850">Application of a metric for complex polynomials to bounded modification of planar Pythagorean-hodograph curves</a>
-* <a href="https://arxiv.org/abs/2402.10152">A new type of simplified inverse Lax-Wendroff boundary treatment I: hyperbolic conservation laws</a>
-* <a href="https://arxiv.org/abs/2402.09319">Eulerian Formulation of the Tensor-Based Morphology Equations for Strain-Based Blood Damage Modeling</a>
-* <a href="https://arxiv.org/abs/2402.09462">Stochastic differential equations for performance analysis of wireless communication systems</a>
-* <a href="https://arxiv.org/abs/2402.09622">Advanced fuel fusion, phase space engineering, and structure-preserving geometric algorithms</a>
-* <a href="https://arxiv.org/abs/2402.09772">Optimal Experimental Design for Partially Observable Pure Birth Processes</a>
-* <a href="https://arxiv.org/abs/2402.10124">A Blob Method for Mean Field Control With Terminal Constraints</a>
-* <a href="https://arxiv.org/abs/2302.10682">Approximation of Splines in Wasserstein Spaces</a>
-* <a href="https://arxiv.org/abs/2310.00172">A physics-informed deep learning approach for solving strongly degenerate parabolic problems</a>
-* <a href="https://arxiv.org/abs/2308.04970">Fitting Concentric Elliptical Shapes Under General Model</a>
-* <a href="https://arxiv.org/abs/2312.11477">Reconstructing relaxed configurations in elastic bodies: Mathematical formulations and numerical methods for cardiac modeling</a>
-* <a href="https://arxiv.org/abs/2402.08172">A Projection-Based Time-Segmented Reduced Order Model for Fluid-Structure Interactions</a>
-* <a href="https://arxiv.org/abs/2402.08711">Correction to "Wasserstein distance estimates for the distributions of numerical approximations to ergodic stochastic differential equations"</a>
-* <a href="https://arxiv.org/abs/2402.09379">Fixed-sparsity matrix approximation from matrix-vector products</a>
+
 <!-- arxiv-math-na ends -->
