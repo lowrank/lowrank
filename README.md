@@ -18,5 +18,24 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2402.10281">Comparison of variational discretizations for a convection-diffusion problem</a>
+* <a href="https://arxiv.org/abs/2402.10346">Wavelet compressed, modified Hilbert transform in the space-time discretization of the heat equation</a>
+* <a href="https://arxiv.org/abs/2402.10469">Pressure-stabilized fixed-stress iterative solutions of compositional poromechanics</a>
+* <a href="https://arxiv.org/abs/2402.10488">Reduced Order Model Enhanced Source Iteration with Synthetic Acceleration for Parametric Radiative Transfer Equation</a>
+* <a href="https://arxiv.org/abs/2402.10549">High-order reliable numerical methods for epidemic models with non-constant recruitment rate</a>
+* <a href="https://arxiv.org/abs/2402.10569">Asymptotic spectral properties and preconditioning of an approximated nonlocal Helmholtz equation with Caputo fractional Laplacian and variable coefficient wave number $mu$</a>
+* <a href="https://arxiv.org/abs/2402.10570">Optimisation--Based Coupling of Finite Element Model and Reduced Order Model for Computational Fluid Dynamics</a>
+* <a href="https://arxiv.org/abs/2402.10615">A mortar method for the coupled Stokes-Darcy problem using the MAC scheme for Stokes and mixed finite elements for Darcy</a>
+* <a href="https://arxiv.org/abs/2402.10641">A Predictive Surrogate Model for Heat Transfer of an Impinging Jet on a Concave Surface</a>
+* <a href="https://arxiv.org/abs/2402.10649">Hermite Neural Network Simulation for Solving the 2D Schrodinger Equation</a>
+* <a href="https://arxiv.org/abs/2402.10741">Identifying heterogeneous micromechanical properties of biological tissues via physics-informed neural networks</a>
+* <a href="https://arxiv.org/abs/2402.10809">A lattice Boltzmann method for non-Newtonian blood flow in coiled intracranial aneurysms</a>
+* <a href="https://arxiv.org/abs/2402.10319">Modeling Blood Alcohol Concentration Using Fractional Differential Equations Based on the $psi$-Caputo Derivative</a>
+* <a href="https://arxiv.org/abs/2402.10326">Mathematical Opportunities in Digital Twins (MATH-DT)</a>
+* <a href="https://arxiv.org/abs/2402.10708">Application of an adaptive model hierarchy to parametrized optimal control problems</a>
+* <a href="https://arxiv.org/abs/2304.01722">Learning quantities of interest from parametric PDEs: An efficient neural-weighted Minimal Residual approach</a>
+* <a href="https://arxiv.org/abs/2304.13806">The Hellan-Herrmann-Johnson and TDNNS method for linear and nonlinear shells</a>
+* <a href="https://arxiv.org/abs/2305.15949">Complexity analysis of quasi continuous level Monte Carlo</a>
+* <a href="https://arxiv.org/abs/2205.13055">Complexity-optimal and Parameter-free First-order Methods for Finding Stationary Points of Composite Optimization Problems</a>
+* <a href="https://arxiv.org/abs/2304.10640">On the Effects of Data Heterogeneity on the Convergence Rates of Distributed Linear System Solvers</a>
 <!-- arxiv-math-na ends -->
