@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/">A New Agenda for Low-Dimensional Topology</a> - Thu, 22 Feb 2024 15:32:38 +0000
 * <a href="https://www.quantamagazine.org/a-multitalented-scientist-seeks-the-origins-of-multicellularity-20240221/">A Multitalented Scientist Seeks the Origins of Multicellularity</a> - Wed, 21 Feb 2024 15:16:55 +0000
 * <a href="https://www.quantamagazine.org/inside-scientists-life-saving-prediction-of-the-iceland-eruption-20240220/">Inside Scientists’ Life-Saving Prediction of the Iceland Eruption</a> - Tue, 20 Feb 2024 15:27:49 +0000
 * <a href="https://www.quantamagazine.org/quanta-relaunches-hyperjumps-math-game-20240216/">Quanta Relaunches Hyperjumps Math Game</a> - Fri, 16 Feb 2024 15:22:22 +0000
 * <a href="https://www.quantamagazine.org/hyperjumps-math-game-20240216/">Hyperjumps Math Game</a> - Fri, 16 Feb 2024 15:21:16 +0000
-* <a href="https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/">Unfolding the Mysteries of Polygonal Billiards</a> - Thu, 15 Feb 2024 16:05:41 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
