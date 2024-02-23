@@ -18,36 +18,19 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2402.13347">Edge-averaged virtual element methods for convection-diffusion and convection-dominated problems</a>
-* <a href="https://arxiv.org/abs/2402.13373">New preconditioner strategy for solving block four-by-four linear systems: An application to the saddle-point problem from 3D Stokes equation</a>
-* <a href="https://arxiv.org/abs/2402.13381">Tree semi-separable matrices: a simultaneous generalization of sequentially and hierarchically semi-separable representations</a>
-* <a href="https://arxiv.org/abs/2402.13409">An efficient finite element method for computing the response of a strain-limiting elastic solid containing a v-notch and inclusions</a>
-* <a href="https://arxiv.org/abs/2402.13565">On the application of subspace migration from scattering matrix with constant-valued diagonal elements in microwave imaging</a>
-* <a href="https://arxiv.org/abs/2402.13656">Numerical methods for closed-loop systems with non-autonomous data</a>
-* <a href="https://arxiv.org/abs/2402.13681">Extrapolated Shock Tracking: Bridging shock-fitting and embedded boundary methods</a>
-* <a href="https://arxiv.org/abs/2402.13695">Computational unique continuation with finite dimensional Neumann trace</a>
-* <a href="https://arxiv.org/abs/2402.13738">A mixed finite-element, finite-volume, semi-implicit discretisation for atmospheric dynamics: Spherical geometry</a>
-* <a href="https://arxiv.org/abs/2402.13788">A Unifying Theory for Runge--Kutta-like Time Integrators: Convergence and Stability</a>
-* <a href="https://arxiv.org/abs/2402.13922">Development of multi-physics finite element model to investigate electromagnetic forming and simultaneous multi-point perforations of aluminium tube</a>
-* <a href="https://arxiv.org/abs/2402.13971">Multi-indice B-series</a>
-* <a href="https://arxiv.org/abs/2402.13975">A sublinear-time randomized algorithm for column and row subset selection based on strong rank-revealing QR factorizations</a>
-* <a href="https://arxiv.org/abs/2402.13259">Fast Discrete-Event Simulation of Markovian Queueing Networks through Euler Approximation</a>
-* <a href="https://arxiv.org/abs/2402.13412">Scaling physics-informed hard constraints with mixture-of-experts</a>
-* <a href="https://arxiv.org/abs/2402.13572">On the Expressive Power of a Variant of the Looped Transformer</a>
-* <a href="https://arxiv.org/abs/2402.13670">The Riemannian Convex Bundle Method</a>
-* <a href="https://arxiv.org/abs/2402.13732">On optimal error rates for strong approximation of SDEs with a drift coefficient of fractional Sobolev regularity</a>
-* <a href="https://arxiv.org/abs/2209.12235">A Comparative Study of Iterative Riemann Solvers for the Shallow Water and Euler Equations</a>
-* <a href="https://arxiv.org/abs/2303.03547">Small singular values can increase in lower precision</a>
-* <a href="https://arxiv.org/abs/2304.09933">Analysis of a Computational Framework for Bayesian Inverse Problems: Ensemble Kalman Updates and MAP Estimators Under Mesh Refinement</a>
-* <a href="https://arxiv.org/abs/2305.04427">Numerical discretizations of a convective Brinkman-Forchheimer model under singular forcing</a>
-* <a href="https://arxiv.org/abs/2306.04929">Numerical coupling of aerosol emissions, dry removal, and turbulent mixing in the E3SM Atmosphere Model version 1 (EAMv1), part II: a semi-discrete error analysis framework for assessing coupling schemes</a>
-* <a href="https://arxiv.org/abs/2309.16378">Meshless interface tracking for the simulation of dendrite envelope growth</a>
-* <a href="https://arxiv.org/abs/2310.05440">Efficient Modeling and Simulation of Chemo-Elasto-Plastically Coupled Battery Active Particles</a>
-* <a href="https://arxiv.org/abs/2310.13920">New low-order mixed finite element methods for linear elasticity</a>
-* <a href="https://arxiv.org/abs/2401.17957">Avoiding breakdown in incomplete factorizations in low precision arithmetic</a>
-* <a href="https://arxiv.org/abs/2402.00550">Numerical simulation of endovascular treatment options for cerebral aneurysms</a>
-* <a href="https://arxiv.org/abs/2402.12088">Uniqueness, stability and algorithm for an inverse wave-number-dependent source problems</a>
-* <a href="https://arxiv.org/abs/2402.13092">Contractivity of neural ODEs: an eigenvalue optimization problem</a>
-* <a href="https://arxiv.org/abs/2307.06629">A well-balanced discontinuous Galerkin method for the first--order Z4 formulation of the Einstein--Euler system</a>
-* <a href="https://arxiv.org/abs/2402.11205">An Efficient Quantum Circuit for Block Encoding a Pairing Hamiltonian</a>
+* <a href="https://arxiv.org/abs/2402.14615">An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System</a>
+* <a href="https://arxiv.org/abs/2402.14657">Stabilization of a matrix via a low rank-adaptive ODE</a>
+* <a href="https://arxiv.org/abs/2402.14691">Error Estimates for First- and Second-Order Lagrange-Galerkin Moving Mesh Schemes for the One-Dimensional Convection-Diffusion Equation</a>
+* <a href="https://arxiv.org/abs/2402.14696">On Schr"odingerization based quantum algorithms for linear dynamical systems with inhomogeneous terms</a>
+* <a href="https://arxiv.org/abs/2402.14026">Probability Tools for Sequential Random Projection</a>
+* <a href="https://arxiv.org/abs/2402.14475">DynGMA: a robust approach for learning stochastic differential equations from data</a>
+* <a href="https://arxiv.org/abs/2402.14539">Transforming Norm-based To Graph-based Spatial Representation for Spatio-Temporal Epidemiological Models</a>
+* <a href="https://arxiv.org/abs/2402.14646">CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations</a>
+* <a href="https://arxiv.org/abs/2006.12091">Adaptive Parameter Tuning for Reachability Analysis of Linear Systems</a>
+* <a href="https://arxiv.org/abs/2209.09321">Fully-Automated Verification of Linear Systems Using Inner- and Outer-Approximations of Reachable Sets</a>
+* <a href="https://arxiv.org/abs/2303.03060">Numerical analysis of a nonsmooth quasilinear elliptic control problem: II. Finite element discretization and error estimates</a>
+* <a href="https://arxiv.org/abs/2210.09023">Ratio convergence rates for Euclidean first-passage percolation: Applications to the graph infinity Laplacian</a>
+* <a href="https://arxiv.org/abs/2302.04124">An extended Gauss-Newton method for full waveform inversion</a>
+* <a href="https://arxiv.org/abs/2306.05843">Adaptive Batch Sizes for Active Learning A Probabilistic Numerics Approach</a>
+* <a href="https://arxiv.org/abs/2402.12744">Surrogate Models for Vibrational Entropy Based on a Spatial Decomposition</a>
 <!-- arxiv-math-na ends -->
