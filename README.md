@@ -18,5 +18,34 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2402.14936">A Fast Direct Solver for Elliptic PDEs on a Hierarchy of Adaptively Refined Quadtrees</a>
+* <a href="https://arxiv.org/abs/2402.14956">Robust mass lumping and outlier removal strategies in isogeometric analysis</a>
+* <a href="https://arxiv.org/abs/2402.15033">Two-Stage Block Orthogonalization to Improve Performance of $s$-step GMRES</a>
+* <a href="https://arxiv.org/abs/2402.15141">A note on the adjoint method for neural ordinary differential equation network</a>
+* <a href="https://arxiv.org/abs/2402.15142">Higher-Order Energy-Decreasing Exponential Time Differencing Runge-Kutta methods for Gradient Flows</a>
+* <a href="https://arxiv.org/abs/2402.15150">The Runge--Kutta discontinuous Galerkin method with stage-dependent polynomial spaces for hyperbolic conservation laws</a>
+* <a href="https://arxiv.org/abs/2402.15161">A unified constraint formulation of immersed body techniques for coupled fluid-solid motion: continuous equations and numerical algorithms</a>
+* <a href="https://arxiv.org/abs/2402.15184">A Linear Inverse Model for Colored-Gaussian Noise</a>
+* <a href="https://arxiv.org/abs/2402.15361">A priori error estimates of Runge-Kutta discontinuous Galerkin schemes to smooth solutions of fractional conservation laws</a>
+* <a href="https://arxiv.org/abs/2402.15367">A CWENO large time-step scheme for Hamilton--Jacobi equations</a>
+* <a href="https://arxiv.org/abs/2402.15437">GQL-Based Bound-Preserving and Locally Divergence-Free Central Discontinuous Galerkin Schemes for Relativistic Magnetohydrodynamics</a>
+* <a href="https://arxiv.org/abs/2402.15446">High-order accurate positivity-preserving and well-balanced discontinuous Galerkin schemes for ten-moment Gaussian closure equations with source terms</a>
+* <a href="https://arxiv.org/abs/2402.15097">Learning solution operators of PDEs defined on varying domains via MIONet</a>
+* <a href="https://arxiv.org/abs/2402.15353">Background Denoising for Ptychography via Wigner Distribution Deconvolution</a>
+* <a href="https://arxiv.org/abs/2402.15406">Conformalized-DeepONet: A Distribution-Free Framework for Uncertainty Quantification in Deep Operator Networks</a>
+* <a href="https://arxiv.org/abs/2003.12801">Probability error bounds for approximation of functions in reproducing kernel Hilbert spaces</a>
+* <a href="https://arxiv.org/abs/2204.00994">Convergence of the Planewave Approximations for Quantum Incommensurate Systems</a>
+* <a href="https://arxiv.org/abs/2207.06342">Efficient error and variance estimation for randomized matrix computations</a>
+* <a href="https://arxiv.org/abs/2212.03614">A mathematical theory for mass lumping and its generalization with applications to isogeometric analysis</a>
+* <a href="https://arxiv.org/abs/2304.13332">Entropy-based convergence rates of greedy algorithms</a>
+* <a href="https://arxiv.org/abs/2304.14169">Tractability of sampling recovery on unweighted function classes</a>
+* <a href="https://arxiv.org/abs/2307.03349">Point spread function approximation of high rank Hessians with locally supported non-negative integral kernels</a>
+* <a href="https://arxiv.org/abs/2307.06471">The Runge--Kutta discontinuous Galerkin method with compact stencils for hyperbolic conservation laws</a>
+* <a href="https://arxiv.org/abs/2402.14615">An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System</a>
+* <a href="https://arxiv.org/abs/2402.14691">Error Estimates for First- and Second-Order Lagrange-Galerkin Moving Mesh Schemes for the One-Dimensional Convection-Diffusion Equation</a>
+* <a href="https://arxiv.org/abs/2208.00541">On the reconstruction of unknown driving forces from low-mode observations in the 2D Navier-Stokes Equations</a>
+* <a href="https://arxiv.org/abs/2302.06573">Propagation of weakly advantageous mutations in cancer cell population</a>
+* <a href="https://arxiv.org/abs/2308.06338">Size Lowerbounds for Deep Operator Networks</a>
+* <a href="https://arxiv.org/abs/2402.06956">Uniform enclosures for the phase and zeros of Bessel functions and their derivatives</a>
+* <a href="https://arxiv.org/abs/2402.13027">Solving the decision-making differential equations from eye fixation data in Unity software by using Hermite Long-Short-Term Memory neural network</a>
 <!-- arxiv-math-na ends -->
