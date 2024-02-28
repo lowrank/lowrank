@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/">How Selective Forgetting Can Help AI Learn Better</a> - Wed, 28 Feb 2024 15:38:58 +0000
 * <a href="https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/">‘Entropy Bagels’ and Other Complex Structures Emerge From Simple Rules</a> - Tue, 27 Feb 2024 15:49:38 +0000
 * <a href="https://www.quantamagazine.org/a-quantum-trick-implied-eternal-stability-now-its-falling-apart-20240226/">A Quantum Trick Implied Eternal Stability. Now the Idea May Be Falling Apart.</a> - Mon, 26 Feb 2024 15:35:43 +0000
 * <a href="https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/">Never-Repeating Tiles Can Safeguard Quantum Information</a> - Fri, 23 Feb 2024 14:50:29 +0000
 * <a href="https://www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/">A New Agenda for Low-Dimensional Topology</a> - Thu, 22 Feb 2024 15:32:38 +0000
-* <a href="https://www.quantamagazine.org/a-multitalented-scientist-seeks-the-origins-of-multicellularity-20240221/">A Multitalented Scientist Seeks the Origins of Multicellularity</a> - Wed, 21 Feb 2024 15:16:55 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
