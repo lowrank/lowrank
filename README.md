@@ -18,23 +18,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2402.17873">Randomized matrix computations: Themes and variations</a>
-* <a href="https://arxiv.org/abs/2402.18003">Infrared Small Target Detection via tensor $L_{2,1}$ norm minimization and ASSTV regularization: A Novel Tensor Recovery Approach</a>
-* <a href="https://arxiv.org/abs/2402.18071">Improved uniform error bounds for long-time dynamics of the high-dimensional nonlinear space fractional sine-Gordon equation with weak nonlinearity</a>
-* <a href="https://arxiv.org/abs/2402.18073">Tensor Network Space-Time Spectral Collocation Method for Time Dependent Convection-Diffusion-Reaction Equations</a>
-* <a href="https://arxiv.org/abs/2402.18074">A One-step Image Retargeing Algorithm Based on Conformal Energy</a>
-* <a href="https://arxiv.org/abs/2402.18148">A metamodel for confined yield stress flows and parameters' estimation</a>
-* <a href="https://arxiv.org/abs/2402.18322">Unveiling novel insights into Kirchhoff migration for effective object detection using experimental Fresnel dataset</a>
-* <a href="https://arxiv.org/abs/2402.18403">Preconditioned iterative solvers for constrained high-order implicit shock tracking methods</a>
-* <a href="https://arxiv.org/abs/2402.18406">WKB-based third order method for the highly oscillatory 1D stationary Schr"odinger equation</a>
-* <a href="https://arxiv.org/abs/2402.18427">Better than best low-rank approximation with the singular value decomposition</a>
-* <a href="https://arxiv.org/abs/2302.14119">Double-loop quasi-Monte Carlo estimator for nested integration</a>
-* <a href="https://arxiv.org/abs/2303.02638">Discretization of non-uniform rational B-spline (NURBS) models for meshless isogeometric analysis</a>
-* <a href="https://arxiv.org/abs/2305.06070">Numerical Ergodicity and Uniform Estimate of Monotone SPDEs Driven by Multiplicative Noise</a>
-* <a href="https://arxiv.org/abs/2401.06280">Stress-hybrid virtual element method on six-noded triangular meshes for compressible and nearly-incompressible linear elasticity</a>
-* <a href="https://arxiv.org/abs/2402.02905">Variational discretizations of ideal magnetohydrodynamics in smooth regime using finite element exterior calculus</a>
-* <a href="https://arxiv.org/abs/2402.10906">Towards a sharper phase-field method: a hybrid diffuse-semisharp approach for microstructure evolution problems</a>
-* <a href="https://arxiv.org/abs/2402.17273">Real-time tracking of moving objects from scattering matrix in real-world microwave imaging</a>
-* <a href="https://arxiv.org/abs/2311.06906">Particle-based algorithm for stochastic optimal control</a>
-* <a href="https://arxiv.org/abs/2402.00466">Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core</a>
+* <a href="https://arxiv.org/abs/2402.18660">Versatile mixed methods for compressible flows</a>
+* <a href="https://arxiv.org/abs/2402.18721">A collocation method for nonlinear tensor differential equations on low-rank manifolds</a>
+* <a href="https://arxiv.org/abs/2402.18740">Sixth-order parabolic equation on an interval: Eigenfunction expansion, Green's function, and intermediate asymptotics for a finite thin film with elastic resistance</a>
+* <a href="https://arxiv.org/abs/2402.18793">An Adaptive Orthogonal Basis Method for Computing Multiple Solutions of Differential Equations with polynomial nonlinearities</a>
+* <a href="https://arxiv.org/abs/2402.18860">Error estimation for finite element method on meshes that contain thin elements</a>
+* <a href="https://arxiv.org/abs/2402.18937">Equivalence of ADER and Lax-Wendroff in DG / FR framework for linear problems</a>
+* <a href="https://arxiv.org/abs/2402.18982">Splitting integrators for linear Vlasov equations with stochastic perturbations</a>
+* <a href="https://arxiv.org/abs/2402.19015">Fractional material derivative: pointwise representation and a finite volume numerical scheme</a>
+* <a href="https://arxiv.org/abs/2402.19056">Recovering the Polytropic Exponent in the Porous Medium Equation: Asymptotic Approach</a>
+* <a href="https://arxiv.org/abs/2402.19125">Highly efficient Gauss's law-preserving spectral algorithms for Maxwell's double-curl source and eigenvalue problems based on eigen-decomposition</a>
+* <a href="https://arxiv.org/abs/2402.19132">Weighted least $ell_p$ approximation on compact Riemannian manifolds</a>
+* <a href="https://arxiv.org/abs/2402.19147">Efficient quaternion CUR method for low-rank approximation to quaternion matrix</a>
+* <a href="https://arxiv.org/abs/2402.19191">An asymptotic-preserving method for the three-temperature radiative transfer model</a>
+* <a href="https://arxiv.org/abs/2402.19381">Optimized Bayesian Framework for Inverse Heat Transfer Problems Using Reduced Order Methods</a>
+* <a href="https://arxiv.org/abs/2402.18596">Image-To-Mesh Conversion for Biomedical Simulations</a>
+* <a href="https://arxiv.org/abs/2402.19084">High multiplicity of positive solutions in a superlinear problem of Moore-Nehari type</a>
+* <a href="https://arxiv.org/abs/2402.19242">Derivative-enhanced Deep Operator Network</a>
+* <a href="https://arxiv.org/abs/2203.01360">Neural Galerkin Schemes with Active Learning for High-Dimensional Evolution Equations</a>
+* <a href="https://arxiv.org/abs/2301.12584">Fast Exact Leverage Score Sampling from Khatri-Rao Products with Applications to Tensor Decomposition</a>
+* <a href="https://arxiv.org/abs/2303.00696">Trust your source: quantifying source condition elements for variational regularisation methods</a>
+* <a href="https://arxiv.org/abs/2308.04075">Boundary-preserving Lamperti-splitting schemes for some Stochastic Differential Equations</a>
+* <a href="https://arxiv.org/abs/2308.05500">An Adaptive Algorithm Based on Stochastic Discontinuous Galerkin for Convection Dominated Equations with Random Data</a>
+* <a href="https://arxiv.org/abs/2309.00799">An Elementary Construction of Modified Hamiltonians and Modified Measures of 2D Kahan Maps</a>
+* <a href="https://arxiv.org/abs/2311.12451">A frame approach for equations involving the fractional Laplacian</a>
+* <a href="https://arxiv.org/abs/2402.17688">Novel spectral methods for shock capturing and the removal of tygers in computational fluid dynamics</a>
+* <a href="https://arxiv.org/abs/2309.05979">Measure preservation and integrals for Lotka--Volterra tree-systems and their Kahan discretisation</a>
+* <a href="https://arxiv.org/abs/2310.07333">Computing approximate roots of monotone functions</a>
 <!-- arxiv-math-na ends -->
