@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/fusing-artificial-intelligence-and-optimization-with-trustworthy-optimization-proxies">Fusing Artificial Intelligence and Optimization with Trustworthy Optimization Proxies</a> - Fri, 01 Mar 2024 13:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/the-turbulent-tale-of-icy-clouds">The Turbulent Tale of Icy Clouds</a> - Fri, 01 Mar 2024 13:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/five-key-concepts-that-shaped-iterative-solution-methods-for-linear-systems">Five Key Concepts That Shaped Iterative Solution Methods for Linear Systems</a> - Fri, 01 Mar 2024 13:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/the-operator-is-the-model">The Operator is the Model</a> - Fri, 01 Mar 2024 13:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-role-of-artificial-intelligence-enduring-the-covid-19-pandemic">The Role of Artificial Intelligence (En)during the COVID-19 Pandemic</a> - Tue, 27 Feb 2024 16:51:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/smartwatches-should-facilitate-the-aggregation-of-mental-health-data">Smartwatches Should Facilitate the Aggregation of Mental Health Data</a> - Fri, 09 Feb 2024 20:09:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/dynamical-systems-applications-for-missions-to-detect-life-in-ocean-worlds">Dynamical Systems Applications for Missions to Detect Life in Ocean Worlds</a> - Mon, 29 Jan 2024 15:41:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/the-impact-of-mosquito-insecticide-resistance-on-malaria-control">The Impact of Mosquito Insecticide Resistance on Malaria Control</a> - Wed, 24 Jan 2024 13:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/reflecting-on-the-science-technology-and-artistry-of-origami-engineering">Reflecting on the Science, Technology, and Artistry of Origami Engineering</a> - Mon, 22 Jan 2024 17:06:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
