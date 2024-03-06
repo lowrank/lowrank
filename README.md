@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/cellular-self-destruction-may-be-ancient-but-why-20240306/">Cellular Self-Destruction May Be Ancient. But Why?</a> - Wed, 06 Mar 2024 14:54:31 +0000
 * <a href="https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/">Elliptic Curve ‘Murmurations’ Found With AI Take Flight</a> - Tue, 05 Mar 2024 15:12:30 +0000
 * <a href="https://www.quantamagazine.org/fresh-x-rays-reveal-a-universe-as-clumpy-as-cosmology-predicts-20240304/">Fresh X-Rays Reveal a Universe as Clumpy as Cosmology Predicts</a> - Mon, 04 Mar 2024 15:26:00 +0000
 * <a href="https://www.quantamagazine.org/mollusk-eyes-reveal-how-future-evolution-depends-on-the-past-20240229/">Mollusk Eyes Reveal How Future Evolution Depends on the Past</a> - Thu, 29 Feb 2024 19:00:00 +0000
 * <a href="https://www.quantamagazine.org/what-is-the-nature-of-time-20240229/">What Is the Nature of Time?</a> - Thu, 29 Feb 2024 14:00:20 +0000
-* <a href="https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/">How Selective Forgetting Can Help AI Learn Better</a> - Wed, 28 Feb 2024 15:38:58 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
