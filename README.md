@@ -18,31 +18,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2403.04095">Helmholtz preconditioning for the compressible Euler equations using mixed finite elements with Lorenz staggering</a>
-* <a href="https://arxiv.org/abs/2403.04291">Positivity preserving and mass conservative projection method for the Poisson-Nernst-Planck equation</a>
-* <a href="https://arxiv.org/abs/2403.04313">A robust shifted proper orthogonal decomposition: Proximal methods for decomposing flows with multiple transports</a>
-* <a href="https://arxiv.org/abs/2403.04329">A mechanism-informed reinforcement learning framework for shape optimization of airfoils</a>
-* <a href="https://arxiv.org/abs/2403.04334">A High-order Nystr"om-based Scheme Explicitly Enforcing Surface Density Continuity for the Electric Field Integral Equation</a>
-* <a href="https://arxiv.org/abs/2403.04377">A Lagrangian approach for solving an axisymmetric thermo-electromagnetic problem. Application to time-varying geometry processes</a>
-* <a href="https://arxiv.org/abs/2403.04390">A low-memory Lanczos method with rational Krylov compression for matrix functions</a>
-* <a href="https://arxiv.org/abs/2403.04407">Unbiased Markov chain quasi-Monte Carlo for Gibbs samplers</a>
-* <a href="https://arxiv.org/abs/2403.04448">Continuous-discrete derivative-free extended Kalman filter based on Euler-Maruyama and It^{o}-Taylor discretizations: Conventional and square-root implementations</a>
-* <a href="https://arxiv.org/abs/2403.04491">Scalable approximation and solvers for ionic electrodiffusion in cellular geometries</a>
-* <a href="https://arxiv.org/abs/2403.04499">Pressure-improved Scott-Vogelius type elements</a>
-* <a href="https://arxiv.org/abs/2403.04514">A finite element contour integral method for computing the resonances of metallic grating structures with subwavelength holes</a>
-* <a href="https://arxiv.org/abs/2403.04517">A structure-preserving semi-implicit IMEX finite volume scheme for ideal magnetohydrodynamics at all Mach and Alfv'en numbers</a>
-* <a href="https://arxiv.org/abs/2403.04557">Parameter identification in PDEs by the solution of monotone inclusion problems</a>
-* <a href="https://arxiv.org/abs/2403.04699">Discrete hypocoercivity for a nonlinear kinetic reaction model</a>
-* <a href="https://arxiv.org/abs/2403.04702">Convergence of a Ramshaw-Mesina Iteration</a>
-* <a href="https://arxiv.org/abs/2403.03969">On Outer Bi-Lipschitz Extensions of Linear Johnson-Lindenstrauss Embeddings of Subsets of $mathbb{R}^N$</a>
-* <a href="https://arxiv.org/abs/2403.04083">Time-lapse full-waveform permeability inversion: a feasibility study</a>
-* <a href="https://arxiv.org/abs/2403.04459">An efficient method for calculating resonant modes in biperiodic photonic structures</a>
-* <a href="https://arxiv.org/abs/2203.04629">A comparison of variational upwinding schemes for geophysical fluids, and their application to potential enstrophy conserving discretisations</a>
-* <a href="https://arxiv.org/abs/2402.13788">A Unifying Theory for Runge-Kutta-like Time Integrators: Convergence and Stability</a>
-* <a href="https://arxiv.org/abs/2403.03905">Black-Box $k$-to-$1$-PCA Reductions: Theory and Applications</a>
-* <a href="https://arxiv.org/abs/2012.02266">Four spacetime dimensional simulation of rheological waves in solids and the merits of thermodynamics</a>
-* <a href="https://arxiv.org/abs/2301.01716">First-order penalty methods for bilevel optimization</a>
-* <a href="https://arxiv.org/abs/2302.08585">Numerical Nonlinear Algebra</a>
-* <a href="https://arxiv.org/abs/2402.05041">Non-reversible lifts of reversible diffusion processes and relaxation times</a>
-* <a href="https://arxiv.org/abs/2403.03542">DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training</a>
+
 <!-- arxiv-math-na ends -->
