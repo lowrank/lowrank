@@ -18,5 +18,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2403.04889">Towards Robust Data-Driven Automated Recovery of Symbolic Conservation Laws from Limited Data</a>
+* <a href="https://arxiv.org/abs/2403.04916">Numerical solution of FDE-IVPs by using Fractional HBVMs: the fhbvm code</a>
+* <a href="https://arxiv.org/abs/2403.04946">Tensor approximation of functional differential equations</a>
+* <a href="https://arxiv.org/abs/2403.05144">Multirate Time-Integration based on Dynamic ODE Partitioning through Adaptively Refined Meshes for Compressible Fluid Dynamics</a>
+* <a href="https://arxiv.org/abs/2403.05200">A fully discretization, unconditionally energy stable finite element method solving the thermodynamically consistent diffuse interface model for incompressible two-phase MHD flows with large density ratios</a>
+* <a href="https://arxiv.org/abs/2403.05214">A note on the singular value decomposition of idempotent and involutory matrices</a>
+* <a href="https://arxiv.org/abs/2403.05494">A one-dimensional model for aspiration therapy in blood vessels</a>
+* <a href="https://arxiv.org/abs/2403.05501">Nodal finite element approximation of peridynamics</a>
+* <a href="https://arxiv.org/abs/2403.04937">Gradient-free neural topology optimization</a>
+* <a href="https://arxiv.org/abs/2403.05138">Greedy feature selection: Classifier-dependent feature selection via greedy methods</a>
+* <a href="https://arxiv.org/abs/2403.05401">Numerical simulations of a stochastic dynamics leading to cascades and loss of regularity: applications to fluid turbulence and generation of fractional Gaussian fields</a>
+* <a href="https://arxiv.org/abs/2202.07593">The dependency of spectral gaps on the convergence of the inverse iteration for a nonlinear eigenvector problem</a>
+* <a href="https://arxiv.org/abs/2205.07495">Greedy Recombination Interpolation Method (GRIM)</a>
+* <a href="https://arxiv.org/abs/2211.12971">Cooperative data-driven modeling</a>
+* <a href="https://arxiv.org/abs/2306.05993">A Bayesian Approach to Modeling Finite Element Discretization Error</a>
+* <a href="https://arxiv.org/abs/2306.15802">Implicit Boundary Conditions in Partial Differential Equations Discretizations: Identifying Spurious Modes and Model Reduction</a>
+* <a href="https://arxiv.org/abs/2306.17056">Localized implicit time stepping for the wave equation</a>
+* <a href="https://arxiv.org/abs/2307.08986">Modified memoryless spectral-scaling Broyden family on Riemannian manifolds</a>
+* <a href="https://arxiv.org/abs/2308.12781">A Riemannian optimization method to compute the nearest singular pencil</a>
+* <a href="https://arxiv.org/abs/2309.06125">From low-rank retractions to dynamical low-rank approximation and back</a>
+* <a href="https://arxiv.org/abs/2311.00529">A Unified Framework for the Error Analysis of Physics-Informed Neural Networks</a>
+* <a href="https://arxiv.org/abs/2311.02490">Improved Convergence Rates of Windowed Anderson Acceleration for Symmetric Fixed-Point Iterations</a>
+* <a href="https://arxiv.org/abs/2311.16609">Eigenmatrix for unstructured sparse recovery</a>
+* <a href="https://arxiv.org/abs/2403.01566">Adaptive multiplication of $mathcal{H}^2$-matrices with block-relative error control</a>
+* <a href="https://arxiv.org/abs/2306.15276">Heuristic Approaches to Obtain Low-Discrepancy Point Sets via Subset Selection</a>
+* <a href="https://arxiv.org/abs/2311.00701">The Moving Discontinuous Galerkin Method with Interface Condition Enforcement for the Simulation of Hypersonic, Viscous Flows</a>
+* <a href="https://arxiv.org/abs/2403.03542">DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training</a>
 <!-- arxiv-math-na ends -->
