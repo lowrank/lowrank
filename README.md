@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/">‘The Rest of the World Disappears’: Claire Voisin on Mathematical Creativity</a> - Wed, 13 Mar 2024 14:10:51 +0000
 * <a href="https://www.quantamagazine.org/physicists-finally-find-a-problem-only-quantum-computers-can-do-20240312/">Physicists Finally Find a Problem That Only Quantum Computers Can Do</a> - Tue, 12 Mar 2024 14:07:59 +0000
 * <a href="https://www.quantamagazine.org/tiny-tweaks-to-neurons-can-rewire-animal-motion-20240311/">Tiny Tweaks to Neurons Can Rewire Animal Motion</a> - Mon, 11 Mar 2024 14:00:03 +0000
 * <a href="https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/">New Breakthrough Brings Matrix Multiplication Closer to Ideal</a> - Thu, 07 Mar 2024 15:30:13 +0000
 * <a href="https://www.quantamagazine.org/cellular-self-destruction-may-be-ancient-but-why-20240306/">Cellular Self-Destruction May Be Ancient. But Why?</a> - Wed, 06 Mar 2024 14:54:31 +0000
-* <a href="https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/">Elliptic Curve ‘Murmurations’ Found With AI Take Flight</a> - Tue, 05 Mar 2024 15:12:30 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
