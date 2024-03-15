@@ -18,34 +18,26 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2403.07875">Parallelization in time by diagonalization</a>
-* <a href="https://arxiv.org/abs/2403.07899">Note on a weakly over-penalised symmetric interior penalty method on anisotropic meshes for the Poisson equation, Ver. 1</a>
-* <a href="https://arxiv.org/abs/2403.07934">Stability of the Ritz projection in weighted $W^{1,1}$</a>
-* <a href="https://arxiv.org/abs/2403.07936">Accelerating multigrid solver with generative super-resolution</a>
-* <a href="https://arxiv.org/abs/2403.07961">The $L_p$-discrepancy for finite $p>1$ suffers from the curse of dimensionality</a>
-* <a href="https://arxiv.org/abs/2403.08084">Extending Irksome: improvements in automated Runge--Kutta time stepping for finite element methods</a>
-* <a href="https://arxiv.org/abs/2403.08220">Efficient geometric Markov chain Monte Carlo for nonlinear Bayesian inversion enabled by derivative-informed neural operators</a>
-* <a href="https://arxiv.org/abs/2403.08253">Explicit radial basis function Runge-Kutta methods</a>
-* <a href="https://arxiv.org/abs/2403.08269">A posteriori error estimates for the Generalized Burgers-Huxley equation with weakly singular kernels</a>
-* <a href="https://arxiv.org/abs/2403.08275">Fully discrete finite difference schemes for the Fractional Korteweg-de Vries equation</a>
-* <a href="https://arxiv.org/abs/2403.08290">A fast wavefield evaluation method using a modified proxy-surface accelerated interpolative decomposition for scattering problems in two dimensions</a>
-* <a href="https://arxiv.org/abs/2403.08292">Weak Collocation Regression for Inferring Stochastic Dynamics with L'{e}vy Noise</a>
-* <a href="https://arxiv.org/abs/2403.08336">Mean field error estimate of the random batch method for large interacting particle system</a>
-* <a href="https://arxiv.org/abs/2403.08346">Discretization of Total Variation in Optimization with Integrality Constraint</a>
-* <a href="https://arxiv.org/abs/2403.08419">Boundary and distributed optimal control for a population dynamics PDE model with discontinuous in time Galerkin FEM schemes</a>
-* <a href="https://arxiv.org/abs/2403.08457">Non-linear collision-induced breakage equation: finite volume and semi-analytical methods</a>
-* <a href="https://arxiv.org/abs/2403.08597">Hamiltonian Boundary Value Methods (HBVMs) for functional differential equations with piecewise continuous arguments</a>
-* <a href="https://arxiv.org/abs/2403.08612">Tangential Fixpoint Iterations for Gromov-Wasserstein Barycenters</a>
-* <a href="https://arxiv.org/abs/2403.08617">A semidefinite programming characterization of the Crawford number</a>
-* <a href="https://arxiv.org/abs/2403.08672">Non-linear collision-induced breakage equation: approximate solution and error estimation</a>
-* <a href="https://arxiv.org/abs/2403.08714">Dynamic computerized tomography using inexact models and motion estimation</a>
-* <a href="https://arxiv.org/abs/2403.07929">Sketching the Heat Kernel: Using Gaussian Processes to Embed Data</a>
-* <a href="https://arxiv.org/abs/2112.09743">Dimension reduction, exact recovery, and error estimates for sparse reconstruction in phase space</a>
-* <a href="https://arxiv.org/abs/2307.04580">An implicit DG solver for incompressible two-phase flows with an artificial compressibility formulation</a>
-* <a href="https://arxiv.org/abs/2310.05679">A spatial-temporal weight analysis and novel nonlinear weights of weighted essentially non-oscillatory schemes for hyperbolic conservation laws</a>
-* <a href="https://arxiv.org/abs/2310.11225">Sparse grid approximation of stochastic parabolic PDEs: The Landau--Lifshitz--Gilbert equation</a>
-* <a href="https://arxiv.org/abs/2311.05880">High-order bounds-satisfying approximation of partial differential equations via finite element variational inequalities</a>
-* <a href="https://arxiv.org/abs/2302.14615">Randomized Kaczmarz in Adversarial Distributed Setting</a>
-* <a href="https://arxiv.org/abs/2311.05306">The Exponential Stabilization of a Heat and Piezoelectric Beam Interaction with Static or Hybrid Feedback Controllers</a>
-* <a href="https://arxiv.org/abs/2402.13732">On optimal error rates for strong approximation of SDEs with a drift coefficient of fractional Sobolev regularity</a>
+* <a href="https://arxiv.org/abs/2403.08809">Efficient Matching Boundary Conditions of Two-dimensional Honeycomb Lattice for Atomic Simulations</a>
+* <a href="https://arxiv.org/abs/2403.08816">A Linear, Exponential-Discontinuous Scheme for Discrete-Ordinates Calculations in Slab Geometry</a>
+* <a href="https://arxiv.org/abs/2403.08894">Interpolatory model order reduction of large-scale dynamical systems with root mean squared error measures</a>
+* <a href="https://arxiv.org/abs/2403.08898">Robust a posteriori error control for the Allen-Cahn equation with variable mobility</a>
+* <a href="https://arxiv.org/abs/2403.09001">Solving Partial Differential Equations Using Artificial Neural Networks</a>
+* <a href="https://arxiv.org/abs/2403.09178">High-order numerical integration on regular embedded surfaces</a>
+* <a href="https://arxiv.org/abs/2403.09200">Rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of gradient-dependent semilinear heat equations</a>
+* <a href="https://arxiv.org/abs/2403.09293">Long-time weak convergence analysis of a semi-discrete scheme for stochastic Maxwell equations</a>
+* <a href="https://arxiv.org/abs/2403.09378">The Fekete problem in segmental polynomial interpolation</a>
+* <a href="https://arxiv.org/abs/2403.09586">Enhanced One-Step Neville Algorithm with Access to the Convergence Rate</a>
+* <a href="https://arxiv.org/abs/2403.09618">Dynamically accelerating the power iteration with momentum</a>
+* <a href="https://arxiv.org/abs/2403.08922">Multi-product Hamiltonian simulation with explicit commutator scaling</a>
+* <a href="https://arxiv.org/abs/2403.09158">An FFT based approach to account for elastic interactions in OkMC: Application to dislocation loops in iron</a>
+* <a href="https://arxiv.org/abs/2403.09170">Analysis of singular subspaces under random perturbations</a>
+* <a href="https://arxiv.org/abs/2208.07540">Large-Scale Minimization of the Pseudospectral Abscissa</a>
+* <a href="https://arxiv.org/abs/2212.03614">A mathematical theory for mass lumping and its generalization with applications to isogeometric analysis</a>
+* <a href="https://arxiv.org/abs/2301.13351">A fast algebraic multigrid solver and accurate discretization for highly anisotropic heat flux I: open field lines</a>
+* <a href="https://arxiv.org/abs/2302.06406">On generalized preconditioners for time-parallel parabolic optimal control</a>
+* <a href="https://arxiv.org/abs/2402.00147">Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system</a>
+* <a href="https://arxiv.org/abs/2403.06266">An adaptive mesh refinement strategy to ensure quasi-optimality of the conforming finite element method for the Helmholtz equation via T-coercivity</a>
+* <a href="https://arxiv.org/abs/2211.08760">SVD-PINNs: Transfer Learning of Physics-Informed Neural Networks via Singular Value Decomposition</a>
+* <a href="https://arxiv.org/abs/2311.00860">Zero Coordinate Shift: Whetted Automatic Differentiation for Physics-informed Operator Learning</a>
 <!-- arxiv-math-na ends -->
