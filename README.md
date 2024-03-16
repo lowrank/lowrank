@@ -18,26 +18,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2403.08809">Efficient Matching Boundary Conditions of Two-dimensional Honeycomb Lattice for Atomic Simulations</a>
-* <a href="https://arxiv.org/abs/2403.08816">A Linear, Exponential-Discontinuous Scheme for Discrete-Ordinates Calculations in Slab Geometry</a>
-* <a href="https://arxiv.org/abs/2403.08894">Interpolatory model order reduction of large-scale dynamical systems with root mean squared error measures</a>
-* <a href="https://arxiv.org/abs/2403.08898">Robust a posteriori error control for the Allen-Cahn equation with variable mobility</a>
-* <a href="https://arxiv.org/abs/2403.09001">Solving Partial Differential Equations Using Artificial Neural Networks</a>
-* <a href="https://arxiv.org/abs/2403.09178">High-order numerical integration on regular embedded surfaces</a>
-* <a href="https://arxiv.org/abs/2403.09200">Rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of gradient-dependent semilinear heat equations</a>
-* <a href="https://arxiv.org/abs/2403.09293">Long-time weak convergence analysis of a semi-discrete scheme for stochastic Maxwell equations</a>
-* <a href="https://arxiv.org/abs/2403.09378">The Fekete problem in segmental polynomial interpolation</a>
-* <a href="https://arxiv.org/abs/2403.09586">Enhanced One-Step Neville Algorithm with Access to the Convergence Rate</a>
-* <a href="https://arxiv.org/abs/2403.09618">Dynamically accelerating the power iteration with momentum</a>
-* <a href="https://arxiv.org/abs/2403.08922">Multi-product Hamiltonian simulation with explicit commutator scaling</a>
-* <a href="https://arxiv.org/abs/2403.09158">An FFT based approach to account for elastic interactions in OkMC: Application to dislocation loops in iron</a>
-* <a href="https://arxiv.org/abs/2403.09170">Analysis of singular subspaces under random perturbations</a>
-* <a href="https://arxiv.org/abs/2208.07540">Large-Scale Minimization of the Pseudospectral Abscissa</a>
-* <a href="https://arxiv.org/abs/2212.03614">A mathematical theory for mass lumping and its generalization with applications to isogeometric analysis</a>
-* <a href="https://arxiv.org/abs/2301.13351">A fast algebraic multigrid solver and accurate discretization for highly anisotropic heat flux I: open field lines</a>
-* <a href="https://arxiv.org/abs/2302.06406">On generalized preconditioners for time-parallel parabolic optimal control</a>
-* <a href="https://arxiv.org/abs/2402.00147">Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system</a>
-* <a href="https://arxiv.org/abs/2403.06266">An adaptive mesh refinement strategy to ensure quasi-optimality of the conforming finite element method for the Helmholtz equation via T-coercivity</a>
-* <a href="https://arxiv.org/abs/2211.08760">SVD-PINNs: Transfer Learning of Physics-Informed Neural Networks via Singular Value Decomposition</a>
-* <a href="https://arxiv.org/abs/2311.00860">Zero Coordinate Shift: Whetted Automatic Differentiation for Physics-informed Operator Learning</a>
+
 <!-- arxiv-math-na ends -->
