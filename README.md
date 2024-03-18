@@ -18,5 +18,28 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2403.09872">Finite element approximation for a convective Brinkman--Forchheimer problem coupled with a heat equation</a>
+* <a href="https://arxiv.org/abs/2403.09932">Tensor Deli: Tensor Completion for Low CP-Rank Tensors via Random Sampling</a>
+* <a href="https://arxiv.org/abs/2403.10203">Effective polygonal mesh generation and refinement for VEM</a>
+* <a href="https://arxiv.org/abs/2403.10282">Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: Numerical Analysis</a>
+* <a href="https://arxiv.org/abs/2403.10284">Boundary parameter matching for isogeometric analysis using Schwarz-Christoffel mapping</a>
+* <a href="https://arxiv.org/abs/2403.10308">Supplement Matrix and a Practical Method for Computing Eigenvalues of a Dual Hermitian Matrix</a>
+* <a href="https://arxiv.org/abs/2403.10354">Resolving Full-Wave Through-Wall Transmission Effects in Multi-Static Synthetic Aperture Radar</a>
+* <a href="https://arxiv.org/abs/2403.10370">Hessian-free force-gradient integrators</a>
+* <a href="https://arxiv.org/abs/2403.09778">Existence and uniqueness for the solutions of non-autonomous stochastic differential algebraic equations with locally Lipschitz coefficients</a>
+* <a href="https://arxiv.org/abs/2403.09895">Overcoming the cohesive zone limit in the modelling of composites delamination with TUBA cohesive elements</a>
+* <a href="https://arxiv.org/abs/2403.09941">Bicausal optimal transport for SDEs with irregular coefficients</a>
+* <a href="https://arxiv.org/abs/2403.10032">Quantum Circuits for partial differential equations via Schr"odingerisation</a>
+* <a href="https://arxiv.org/abs/2403.10260">Structural Preprocessing Method for Nonlinear Differential-Algebraic Equations Using Linear Symbolic Matrices</a>
+* <a href="https://arxiv.org/abs/2403.10432">Model free collision aggregation for the computation of escape distributions</a>
+* <a href="https://arxiv.org/abs/2010.07282">Monotonicity of $Q^3$ spectral element method for discrete Laplacian</a>
+* <a href="https://arxiv.org/abs/2101.02256">Locally supported, quasi-interpolatory bases for the approximation of functions on graphs</a>
+* <a href="https://arxiv.org/abs/2202.05587">Formalization of Asymptotic Convergence for Stationary Iterative Methods</a>
+* <a href="https://arxiv.org/abs/2301.13770">Energy-Conserving Neural Network for Turbulence Closure Modeling</a>
+* <a href="https://arxiv.org/abs/2305.11356">A New Div-Div-Conforming Symmetric Tensor Finite Element Space with Applications to the Biharmonic Equation</a>
+* <a href="https://arxiv.org/abs/2306.16506">Equivariant Neural Networks for Indirect Measurements</a>
+* <a href="https://arxiv.org/abs/2311.08761">A unified framework for multiscale spectral generalized FEMs and low-rank approximations to multiscale PDEs</a>
+* <a href="https://arxiv.org/abs/2305.18702">Adversarial Adaptive Sampling: Unify PINN and Optimal Transport for the Approximation of PDEs</a>
+* <a href="https://arxiv.org/abs/2311.17248">Deep Regularized Compound Gaussian Network for Solving Linear Inverse Problems</a>
+* <a href="https://arxiv.org/abs/2402.15656">Learning Semilinear Neural Operators : A Unified Recursive Framework For Prediction And Data Assimilation</a>
 <!-- arxiv-math-na ends -->
