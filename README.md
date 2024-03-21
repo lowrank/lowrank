@@ -18,33 +18,28 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2403.12340">A fast low-rank inversion algorithm of dielectric matrix in GW approximation</a>
-* <a href="https://arxiv.org/abs/2403.12460">Stochastic variance reduced gradient method for linear ill-posed inverse problems</a>
-* <a href="https://arxiv.org/abs/2403.12501">Multilevel Markov Chain Monte Carlo for Bayesian inverse problems for Navier Stokes equation with Lagrangian Observations</a>
-* <a href="https://arxiv.org/abs/2403.12557">Numerical approximation of a class of constrained Hamilton-Jacobi equations</a>
-* <a href="https://arxiv.org/abs/2403.12577">Rate-optimal higher-order adaptive conforming FEM for biharmonic eigenvalue problems on polygonal domains</a>
-* <a href="https://arxiv.org/abs/2403.12611">MOCCA: A Fast Algorithm for Parallel MRI Reconstruction Using Model Based Coil Calibration</a>
-* <a href="https://arxiv.org/abs/2403.12650">Adaptive Multilevel Neural Networks for Parametric PDEs with Error Estimation</a>
-* <a href="https://arxiv.org/abs/2403.12689">Stabilizing DG Methods Using Dafermos' Entropy Rate Criterion: III -- Unstructured Grids</a>
-* <a href="https://arxiv.org/abs/2403.12699">A second-order iterative time integration scheme for linear poroelasticity</a>
-* <a href="https://arxiv.org/abs/2403.12735">To blow-up or not to blow-up for a granular kinetic equation</a>
-* <a href="https://arxiv.org/abs/2403.12793">Importance sampling for rare event tracking within the ensemble Kalman filtering framework</a>
-* <a href="https://arxiv.org/abs/2403.12826">Cross Algorithms for Cost-Effective Time Integration of Nonlinear Tensor Differential Equations on Low-Rank Tucker Tensor and Tensor Train Manifolds</a>
-* <a href="https://arxiv.org/abs/2403.12909">Local reconstruction analysis of inverting the Radon transform in the plane from noisy discrete data</a>
-* <a href="https://arxiv.org/abs/2403.12954">Damped energy-norm a posteriori error estimates for fully discrete approximations of the wave equation using C2-reconstructions</a>
-* <a href="https://arxiv.org/abs/2403.12206">Useful Compact Representations for Data-Fitting</a>
-* <a href="https://arxiv.org/abs/2403.12278">Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices</a>
-* <a href="https://arxiv.org/abs/2403.12764">Neural Parameter Regression for Explicit Representations of PDE Solution Operators</a>
-* <a href="https://arxiv.org/abs/2403.12770">Multispectral Image Restoration by Generalized Opponent Transformation Total Variation</a>
-* <a href="https://arxiv.org/abs/2307.05816">Implicit Adaptive Mesh Refinement for Dispersive Tsunami Propagation</a>
-* <a href="https://arxiv.org/abs/2307.12677">Stability of step size control based on a posteriori error estimates</a>
-* <a href="https://arxiv.org/abs/2310.14394">Neural Networks are Integrable</a>
-* <a href="https://arxiv.org/abs/2311.03883">Multiderivative time integration methods preserving nonlinear functionals via relaxation</a>
-* <a href="https://arxiv.org/abs/2311.06465">The stabilizer free weak Galerkin mixed finite elements method for the biharmonic equation</a>
-* <a href="https://arxiv.org/abs/2312.09319">A bubble VEM-fully discrete polytopal scheme for mixed-dimensional poromechanics with frictional contact at matrix fracture interfaces</a>
-* <a href="https://arxiv.org/abs/2401.09834">Convergence of a spatial semidiscretization for a three-dimensional stochastic Allen-Cahn equation with multiplicative noise</a>
-* <a href="https://arxiv.org/abs/2403.11993">Adaptive stepsize algorithms for Langevin dynamics</a>
-* <a href="https://arxiv.org/abs/2401.09516">Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling</a>
-* <a href="https://arxiv.org/abs/2402.12744">Surrogate models for vibrational entropy based on a spatial decomposition</a>
-* <a href="https://arxiv.org/abs/2403.11437">Formalization of Complexity Analysis of the First-order Optimization Algorithms</a>
+* <a href="https://arxiv.org/abs/2403.13123">A note on incomplete Cholesky factorizations in half precision arithmetic</a>
+* <a href="https://arxiv.org/abs/2403.13189">The Johnson-Mercier elasticity element in any dimensions</a>
+* <a href="https://arxiv.org/abs/2403.13203">Quadratic Point Estimate Method for Probabilistic Moments Computation</a>
+* <a href="https://arxiv.org/abs/2403.13406">Fourth-order entropy-stable lattice Boltzmann schemes for hyperbolic systems</a>
+* <a href="https://arxiv.org/abs/2403.13420">Bound-Preserving Framework for Central-Upwind Schemes for General Hyperbolic Conservation Laws</a>
+* <a href="https://arxiv.org/abs/2403.13454">Adaptive time step selection for Spectral Deferred Corrections</a>
+* <a href="https://arxiv.org/abs/2403.13489">Antithetic Multilevel Methods for Elliptic and Hypo-Elliptic Diffusions with Applications</a>
+* <a href="https://arxiv.org/abs/2403.13515">Efficient numerical methods for the Maxey-Riley equations with Basset history term</a>
+* <a href="https://arxiv.org/abs/2403.13534">A high-fidelity material point method for frictional contact problems</a>
+* <a href="https://arxiv.org/abs/2403.13746">A variationally consistent membrane wrinkling model based on tension-compression decomposition of the strain tensor</a>
+* <a href="https://arxiv.org/abs/2403.13770">A convergent adaptive finite element stochastic Galerkin method based on multilevel expansions of random fields</a>
+* <a href="https://arxiv.org/abs/2403.13136">Multi-fidelity surrogate with heterogeneous input spaces for modeling melt pools in laser-directed energy deposition</a>
+* <a href="https://arxiv.org/abs/2403.13302">From primary HPV infection to carcinoma in situ: a mathematical approach of cervical intraepithelial neoplasia</a>
+* <a href="https://arxiv.org/abs/2403.13540">Solution of the Bj"orling problem by discrete approximation</a>
+* <a href="https://arxiv.org/abs/2403.13704">Improving the Adaptive Moment Estimation (ADAM) stochastic optimizer through an Implicit-Explicit (IMEX) time-stepping approach</a>
+* <a href="https://arxiv.org/abs/2403.13781">Sparse Implementation of Versatile Graph-Informed Layers</a>
+* <a href="https://arxiv.org/abs/2305.11514">A new family of fourth-order energy-preserving integrators</a>
+* <a href="https://arxiv.org/abs/2311.09465">A new stabilized time-spectral finite element solver for fast simulation of blood flow</a>
+* <a href="https://arxiv.org/abs/2311.10666">A tight lower bound on the minimal dispersion</a>
+* <a href="https://arxiv.org/abs/2312.00022">A finite element method for stochastic diffusion equations using fluctuating hydrodynamics</a>
+* <a href="https://arxiv.org/abs/2209.09371">Topological data analysis on noisy quantum computers</a>
+* <a href="https://arxiv.org/abs/2308.01151">Conservation, convergence, and computation for evolving heterogeneous elastic wires</a>
+* <a href="https://arxiv.org/abs/2312.13477">Approximating reproduction numbers: a general numerical method for age-structured models</a>
+* <a href="https://arxiv.org/abs/2403.09170">Analysis of singular subspaces under random perturbations</a>
 <!-- arxiv-math-na ends -->
