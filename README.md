@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/math-that-connects-where-were-going-to-where-weve-been-20240322/">Math That Connects Where We’re Going to Where We’ve Been</a> - Fri, 22 Mar 2024 13:08:27 +0000
 * <a href="https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/">How Chain-of-Thought Reasoning Helps Neural Networks Compute</a> - Thu, 21 Mar 2024 15:15:08 +0000
 * <a href="https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/">Michel Talagrand Wins Abel Prize for Work Wrangling Randomness</a> - Wed, 20 Mar 2024 11:00:17 +0000
 * <a href="https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/">Doubts Grow About the Biosignature Approach to Alien-Hunting</a> - Tue, 19 Mar 2024 13:50:35 +0000
 * <a href="https://www.quantamagazine.org/brains-background-noise-may-explain-value-of-shock-therapy-20240318/">Brain’s ‘Background Noise’ May Explain Value of Shock Therapy</a> - Mon, 18 Mar 2024 13:52:49 +0000
-* <a href="https://www.quantamagazine.org/swirling-forces-crushing-pressures-measured-in-the-proton-20240314/">Swirling Forces, Crushing Pressures Measured in the Proton</a> - Thu, 14 Mar 2024 14:03:46 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
