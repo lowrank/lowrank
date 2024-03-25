@@ -18,5 +18,26 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2403.14777">A fourth-order exponential time differencing scheme with dimensional splitting for non-linear reaction-diffusion systems</a>
+* <a href="https://arxiv.org/abs/2403.14848">Learning WENO for entropy stable schemes to solve conservation laws</a>
+* <a href="https://arxiv.org/abs/2403.14957">Two-scale Analysis for Multiscale Landau-Lifshitz-Gilbert Equation: Theory and Numerical Methods</a>
+* <a href="https://arxiv.org/abs/2403.14961">Anderson Acceleration with Truncated Gram-Schmidt</a>
+* <a href="https://arxiv.org/abs/2403.15043">Stability of conforming space-time isogeometric methods for the wave equation</a>
+* <a href="https://arxiv.org/abs/2403.15136">Mixed finite element methods for linear Cosserat equations</a>
+* <a href="https://arxiv.org/abs/2403.15147">Splitting methods for unbounded operators</a>
+* <a href="https://arxiv.org/abs/2403.15286">Accelerating Aeroelastic UVLM Simulations by Inexact Newton Algorithms</a>
+* <a href="https://arxiv.org/abs/2403.14688">Kernel Alignment for Unsupervised Feature Selection via Matrix Factorization</a>
+* <a href="https://arxiv.org/abs/2403.14844">Extrapolating Solution Paths of Polynomial Homotopies towards Singularities with PHCpack and phcpy</a>
+* <a href="https://arxiv.org/abs/2403.15024">Riemannian Optimization and the Hartree-Fock Method</a>
+* <a href="https://arxiv.org/abs/2403.15099">Optimal Contract Design for End-of-Life Care Payments</a>
+* <a href="https://arxiv.org/abs/2211.08375">Stability and convergence of the Euler scheme for stochastic linear evolution equations in Banach spaces</a>
+* <a href="https://arxiv.org/abs/2301.02386">A Stochastic ADMM Algorithm for Large-Scale Ptychography with Weighted Difference of Anisotropic and Isotropic Total Variation</a>
+* <a href="https://arxiv.org/abs/2305.03469">Data-inspired modeling of accidents in traffic flow networks</a>
+* <a href="https://arxiv.org/abs/2308.06052">Doubling the rate -- improved error bounds for orthogonal projection with application to numerical analysis</a>
+* <a href="https://arxiv.org/abs/2311.07440">Optimal finite element approximation of unique continuation</a>
+* <a href="https://arxiv.org/abs/2310.19419">Eigenvector Continuation and Projection-Based Emulators</a>
+* <a href="https://arxiv.org/abs/2311.10270">Multiscale Hodge Scattering Networks for Data Analysis</a>
+* <a href="https://arxiv.org/abs/2402.04944">Elastic Analysis of Augmented Curves and Constrained Surfaces</a>
+* <a href="https://arxiv.org/abs/2402.10326">Mathematical Opportunities in Digital Twins (MATH-DT)</a>
+* <a href="https://arxiv.org/abs/2403.00488">Inferring solar differential rotation and viscosity via passive imaging with inertial waves</a>
 <!-- arxiv-math-na ends -->
