@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/the-researcher-who-explores-computation-by-conjuring-new-worlds-20240327/">The Researcher Who Explores Computation by Conjuring New Worlds</a> - Wed, 27 Mar 2024 14:48:36 +0000
 * <a href="https://www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/">Topologists Tackle the Trouble With Poll Placement</a> - Tue, 26 Mar 2024 13:50:38 +0000
 * <a href="https://www.quantamagazine.org/the-best-qubits-for-quantum-computing-might-just-be-atoms-20240325/">The Best Qubits for Quantum Computing Might Just Be Atoms</a> - Mon, 25 Mar 2024 14:55:21 +0000
 * <a href="https://www.quantamagazine.org/math-that-connects-where-were-going-to-where-weve-been-20240322/">Math That Connects Where We’re Going to Where We’ve Been</a> - Fri, 22 Mar 2024 13:08:27 +0000
 * <a href="https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/">How Chain-of-Thought Reasoning Helps Neural Networks Compute</a> - Thu, 21 Mar 2024 15:15:08 +0000
-* <a href="https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/">Michel Talagrand Wins Abel Prize for Work Wrangling Randomness</a> - Wed, 20 Mar 2024 11:00:17 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
