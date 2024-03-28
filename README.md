@@ -18,23 +18,36 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2403.17123">A high-order explicit Runge-Kutta approximation technique for the Shallow Water Equations</a>
-* <a href="https://arxiv.org/abs/2403.17289">Linear Numerical Schemes for a $textbf{Q}$-Tensor System for Nematic Liquid Crystals</a>
-* <a href="https://arxiv.org/abs/2403.17322">A novel directly energy-preserving method for charged particle dynamics</a>
-* <a href="https://arxiv.org/abs/2403.17434">Numerical analysis of a FE/SAV scheme for a Caginalp phase field model with mechanical effects in stereolithography</a>
-* <a href="https://arxiv.org/abs/2403.17504">Stability evaluation of approximate Riemann solvers using the direct Lyapunov method</a>
-* <a href="https://arxiv.org/abs/2403.17506">Algorithmic unfolding for image reconstruction and localization problems in fluorescence microscopy</a>
-* <a href="https://arxiv.org/abs/2403.17585">A new construction of modified equations for variational integrators</a>
-* <a href="https://arxiv.org/abs/2403.17731">Coupled Boundary and Volume Integral Equations for Electromagnetic Scattering</a>
-* <a href="https://arxiv.org/abs/2403.17841">Normalized B-spline-like representation for low-degree Hermite osculatory interpolation problems</a>
-* <a href="https://arxiv.org/abs/2403.17018">Uncertainty quantification in the Henry problem using the multilevel Monte Carlo method</a>
-* <a href="https://arxiv.org/abs/2403.17371">Robust Containment Queries over Collections of Rational Parametric Curves via Generalized Winding Numbers</a>
-* <a href="https://arxiv.org/abs/2302.08448">Polynomial and rational measure modifications of orthogonal polynomials via infinite-dimensional banded matrix factorizations</a>
-* <a href="https://arxiv.org/abs/2305.04937">Randomly sampling bipartite networks with fixed degree sequences</a>
-* <a href="https://arxiv.org/abs/2306.17657">Diffraction of acoustic waves by multiple semi-infinite arrays</a>
-* <a href="https://arxiv.org/abs/2309.17027">Unfitted Spectral Element Method for interfacial models</a>
-* <a href="https://arxiv.org/abs/2310.00226">A simple GPU implementation of spectral-element methods for solving 3D Poisson type equations on rectangular domains and its applications</a>
-* <a href="https://arxiv.org/abs/2302.13143">Ensemble learning for Physics Informed Neural Networks: a Gradient Boosting approach</a>
-* <a href="https://arxiv.org/abs/2310.09311">Assessment of Climate Change Impacts on the Precipitation and Temperature: A Case Study on Krishna River Basin</a>
-* <a href="https://arxiv.org/abs/2402.09379">Fixed-sparsity matrix approximation from matrix-vector products</a>
+* <a href="https://arxiv.org/abs/2403.17963">A better compression driver? CutFEM 3D shape optimization taking viscothermal losses into account</a>
+* <a href="https://arxiv.org/abs/2403.18017">Nonsingularity of unsymmetric Kansa matrices: random collocation by MultiQuadrics and Inverse MultiQuadrics</a>
+* <a href="https://arxiv.org/abs/2403.18053">Shear banding and cracking in unsaturated porous media through a nonlocal THM meshfree paradigm</a>
+* <a href="https://arxiv.org/abs/2403.18088">Discretize first, filter next: learning divergence-consistent closure models for large-eddy simulation</a>
+* <a href="https://arxiv.org/abs/2403.18171">Higher order multi-dimension reduction methods via Einstein-product</a>
+* <a href="https://arxiv.org/abs/2403.18217">Mixed Variational Formulation of Coupled Plates</a>
+* <a href="https://arxiv.org/abs/2403.18285">Stability and convergence of the penalty formulation for nonlinear magnetostatics</a>
+* <a href="https://arxiv.org/abs/2403.18287">Frozen Gaussian approximation for the fractional Schr"odinger equation</a>
+* <a href="https://arxiv.org/abs/2403.18362">Fractional variational integrators based on convolution quadrature</a>
+* <a href="https://arxiv.org/abs/2403.18378">Improvements to the theoretical estimates of the Schwarz preconditioner with $Delta$-GenEO coarse space for the indefinite Helmholtz problem</a>
+* <a href="https://arxiv.org/abs/2403.18472">Computational decomposition and composition technique for approximate solution of nonstationary problems</a>
+* <a href="https://arxiv.org/abs/2403.18520">Global convergence of iterative solvers for problems of nonlinear magnetostatics</a>
+* <a href="https://arxiv.org/abs/2403.18527">Wirtinger gradient descent methods for low-dose Poisson phase retrieval</a>
+* <a href="https://arxiv.org/abs/2403.18552">Generalized convergence of the deep BSDE method: a step towards fully-coupled FBSDEs and applications in stochastic control</a>
+* <a href="https://arxiv.org/abs/2403.18641">Improving Efficiency of Parallel Across the Method Spectral Deferred Corrections</a>
+* <a href="https://arxiv.org/abs/2403.18704">Convergence rates under a range invariance condition with application to electrical impedance tomography</a>
+* <a href="https://arxiv.org/abs/2403.18724">An exactly curl-free finite-volume scheme for a hyperbolic compressible barotropic two-phase model</a>
+* <a href="https://arxiv.org/abs/2403.18749">Robust Numerical Algebraic Geometry</a>
+* <a href="https://arxiv.org/abs/2403.18044">Deep polytopic autoencoders for low-dimensional linear parameter-varying approximations and nonlinear feedback design</a>
+* <a href="https://arxiv.org/abs/2403.18155">An inexact infeasible arc-search interior-point method for linear programming problems</a>
+* <a href="https://arxiv.org/abs/2403.18310">A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites</a>
+* <a href="https://arxiv.org/abs/2403.18517">Efficient Algorithms for Regularized Nonnegative Scale-invariant Low-rank Approximation Models</a>
+* <a href="https://arxiv.org/abs/2403.18735">Nonlinear model reduction for operator learning</a>
+* <a href="https://arxiv.org/abs/2403.18809">$L^infty$-error bounds for approximations of the Koopman operator by kernel extended dynamic mode decomposition</a>
+* <a href="https://arxiv.org/abs/2208.02767">Parabolic PDE-constrained optimal control under uncertainty with entropic risk measure using quasi-Monte Carlo integration</a>
+* <a href="https://arxiv.org/abs/2305.01716">The Pseudoinverse of $A=CR$ is $A^+=R^+C^+$ (?)</a>
+* <a href="https://arxiv.org/abs/2305.17294">A boundary integral equation method for the complete electrode model in electrical impedance tomography with tests on experimental data</a>
+* <a href="https://arxiv.org/abs/2311.13888">On the robustness of high-order upwind summation-by-parts methods for nonlinear conservation laws</a>
+* <a href="https://arxiv.org/abs/2403.06646">Unisolvence of random Kansa collocation by Thin-Plate Splines for the Poisson equation</a>
+* <a href="https://arxiv.org/abs/2403.07961">The $L_p$-discrepancy for finite $p>1$ suffers from the curse of dimensionality</a>
+* <a href="https://arxiv.org/abs/2403.16975">Unconditionally positivity-preserving approximations of the Ait-Sahalia type model: Explicit Milstein-type schemes</a>
+* <a href="https://arxiv.org/abs/1904.07184">A monotone scheme for G-equations with application to the explicit convergence rate of robust central limit theorem</a>
 <!-- arxiv-math-na ends -->
