@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
-* <a href="https://sinews.siam.org/Details-Page/decision-support-systems-to-enhance-food-security-in-the-uk">Decision Support Systems to Enhance Food Security in the U.K.</a> - Fri, 29 Mar 2024 15:11:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/risk-randomness-and-the-power-of-the-lindy-effect">Risk, Randomness, and the Power of the Lindy Effect</a> - Thu, 28 Mar 2024 17:35:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/next-generation-fft-algorithms-at-pp24">Next-generation FFT Algorithms at PP24</a> - Wed, 27 Mar 2024 17:49:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/high-throughput-screening-systems-for-drug-discovery-and-virus-detection-a-parametric-graph-approach">High-throughput Screening Systems for Drug Discovery and Virus Detection: A Parametric Graph Approach</a> - Mon, 25 Mar 2024 16:54:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/learning-based-faulty-state-estimation-in-lithium-ion-batteries">Learning-based Faulty State Estimation in Lithium-ion Batteries</a> - Thu, 21 Mar 2024 17:30:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/an-introduction-to-quantum-computing-and-applied-mathematics">An Introduction to Quantum Computing and Applied Mathematics</a> - Mon, 01 Apr 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/what-can-quantum-computers-do-for-applied-mathematicians">What Can Quantum Computers Do for Applied Mathematicians?</a> - Mon, 01 Apr 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/bridging-the-worlds-of-quantum-computing-and-machine-learning">Bridging the Worlds of Quantum Computing and Machine Learning</a> - Mon, 01 Apr 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/quantum-computing-for-financial-mathematics">Quantum Computing for Financial Mathematics</a> - Mon, 01 Apr 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/quantum-advantages-and-end-to-end-complexity">Quantum Advantages and End-to-end Complexity</a> - Mon, 01 Apr 2024 12:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
