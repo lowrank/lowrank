@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/how-the-ancient-art-of-eclipse-prediction-became-an-exact-science-20240405/">How the Ancient Art of Eclipse Prediction Became an Exact Science</a> - Fri, 05 Apr 2024 15:03:13 +0000
 * <a href="https://www.quantamagazine.org/dark-energy-may-be-weakening-major-astrophysics-study-finds-20240404/">Dark Energy May Be Weakening, Major Astrophysics Study Finds</a> - Thu, 04 Apr 2024 15:00:41 +0000
 * <a href="https://www.quantamagazine.org/overexposure-distorted-the-science-of-mirror-neurons-20240402/">Overexposure Distorted the Science of Mirror Neurons</a> - Tue, 02 Apr 2024 14:05:46 +0000
 * <a href="https://www.quantamagazine.org/merging-fields-mathematicians-go-the-distance-on-old-problem-20240401/">Merging Fields, Mathematicians Go the Distance on Old Problem</a> - Mon, 01 Apr 2024 13:50:22 +0000
 * <a href="https://www.quantamagazine.org/the-social-benefits-of-getting-our-brains-in-sync-20240328/">The Social Benefits of Getting Our Brains in Sync</a> - Thu, 28 Mar 2024 13:56:52 +0000
-* <a href="https://www.quantamagazine.org/how-is-flocking-like-computing-20240328/">How Is Flocking Like Computing?</a> - Thu, 28 Mar 2024 13:00:00 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
