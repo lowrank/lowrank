@@ -18,27 +18,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2404.02433">A fast cosine transformation accelerated method for predicting effective thermal conductivity</a>
-* <a href="https://arxiv.org/abs/2404.02493">A Neural Multigrid Solver for Helmholtz Equations with High Wavenumber and Heterogeneous Media</a>
-* <a href="https://arxiv.org/abs/2404.02521">Space-time parallel scaling of Parareal with a Fourier Neural Operator as coarse propagator</a>
-* <a href="https://arxiv.org/abs/2404.02556">Adaptive hp-Polynomial Based Sparse Grid Collocation Algorithms for Piecewise Smooth Functions with Kinks</a>
-* <a href="https://arxiv.org/abs/2404.02641">Goal-oriented time adaptivity for port-Hamiltonian systems</a>
-* <a href="https://arxiv.org/abs/2404.02758">Coarse spaces for non-symmetric two-level preconditioners based on local generalized eigenproblems</a>
-* <a href="https://arxiv.org/abs/2404.02768">Locking-free hybrid high-order method for linear elasticity</a>
-* <a href="https://arxiv.org/abs/2404.02770">Proper Implicit Discretization of Arbitrary-Order Robust Exact Differentiators</a>
-* <a href="https://arxiv.org/abs/2404.02804">Residual-Based a Posteriori Error Estimators for Algebraic Stabilizations</a>
-* <a href="https://arxiv.org/abs/2404.02843">Characterization of Matrices Satisfying the Reverse Order Law for the Moore-Penrose Pseudoinverse</a>
-* <a href="https://arxiv.org/abs/2404.02320">On Properties of Adjoint Systems for Evolutionary PDEs</a>
-* <a href="https://arxiv.org/abs/2404.02334">cppdlr: Imaginary time calculations using the discrete Lehmann representation</a>
-* <a href="https://arxiv.org/abs/2404.02482">Speed, power and cost implications for GPU acceleration of Computational Fluid Dynamics on HPC systems</a>
-* <a href="https://arxiv.org/abs/2404.02546">Analysis and approximation to parabolic optimal control problems with measure-valued controls in time</a>
-* <a href="https://arxiv.org/abs/2404.02609">Some properties of a modified Hilbert transform</a>
-* <a href="https://arxiv.org/abs/2404.02892">MODNO: Multi Operator Learning With Distributed Neural Operators</a>
-* <a href="https://arxiv.org/abs/2207.10665">One-dimensional Tensor Network Recovery</a>
-* <a href="https://arxiv.org/abs/2303.10771">Dictionary-based model reduction for state estimation</a>
-* <a href="https://arxiv.org/abs/2306.06333">A hybrid neural-network and MAC scheme for Stokes interface problems</a>
-* <a href="https://arxiv.org/abs/2310.17338">Acceleration and restart for the randomized Bregman-Kaczmarz method</a>
-* <a href="https://arxiv.org/abs/2204.07497">Helicity-conservative Physics-informed Neural Network Model for Navier-Stokes Equations</a>
-* <a href="https://arxiv.org/abs/2401.02023">On Complexity of Stability Analysis in Higher-order Ecological Networks through Tensor Decompositions</a>
-* <a href="https://arxiv.org/abs/2404.00162">Modeling Large-Scale Walking and Cycling Networks: A Machine Learning Approach Using Mobile Phone and Crowdsourced Data</a>
+* <a href="https://arxiv.org/abs/2404.03045">Analysis of a VEM-fully discrete polytopal scheme with bubble stabilisation for contact mechanics with Tresca friction</a>
+* <a href="https://arxiv.org/abs/2404.03119">Krylov-based Adaptive-Rank Implicit Time Integrators for Stiff Problems with Application to Nonlinear Fokker-Planck Kinetic Models</a>
+* <a href="https://arxiv.org/abs/2404.03125">A primal-dual adaptive finite element method for total variation based motion estimation</a>
+* <a href="https://arxiv.org/abs/2404.03218">An adaptive heavy ball method for ill-posed inverse problems</a>
+* <a href="https://arxiv.org/abs/2404.03265">Matrix-Free Geometric Multigrid Preconditioning Of Combined Newton-GMRES For Solving Phase-Field Fracture With Local Mesh Refinement</a>
+* <a href="https://arxiv.org/abs/2404.03338">Approximation of Some Nonlinear Fractional Order BVPs by Weighted Residual Methods</a>
+* <a href="https://arxiv.org/abs/2404.03393">A superconvergence result in the RBF-FD method</a>
+* <a href="https://arxiv.org/abs/2404.03450">Computational analysis of a contraction rheometer for the grade-two fluid model</a>
+* <a href="https://arxiv.org/abs/2404.03603">Analysis of second-order temporal schemes for modeling flow-solute transport in unsaturated porous media</a>
+* <a href="https://arxiv.org/abs/2404.03035">Global Convergence of High-Order Regularization Methods with Sums-of-Squares Taylor Models</a>
+* <a href="https://arxiv.org/abs/2404.03050">ANOVA-boosting for Random Fourier Features</a>
+* <a href="https://arxiv.org/abs/2404.03081">First-order PDES for Graph Neural Networks: Advection And Burgers Equation Models</a>
+* <a href="https://arxiv.org/abs/2404.03124">The Diffusive Ultrasound Modulated Bioluminescence Tomography with Partial Data and Uncertain Optical Parameters</a>
+* <a href="https://arxiv.org/abs/2404.03182">Direct interpolative construction of the discrete Fourier transform as a matrix product operator</a>
+* <a href="https://arxiv.org/abs/2404.03342">Two-dimensional moment problem and Schur algorithm</a>
+* <a href="https://arxiv.org/abs/2108.08332">Schur complement based preconditioners for twofold and block tridiagonal saddle point problems</a>
+* <a href="https://arxiv.org/abs/2203.06361">Preserving Lagrangian structure in data-driven reduced-order modeling of large-scale dynamical systems</a>
+* <a href="https://arxiv.org/abs/2305.06151">Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence</a>
+* <a href="https://arxiv.org/abs/2305.19880">Stability and convergence of in time approximations of hyperbolic elastodynamics via stepwise minimization</a>
+* <a href="https://arxiv.org/abs/2306.17825">Scalable tensor methods for nonuniform hypergraphs</a>
+* <a href="https://arxiv.org/abs/2307.08986">Modified memoryless spectral-scaling Broyden family on Riemannian manifolds</a>
+* <a href="https://arxiv.org/abs/2309.09238">Reduced projection method for photonic moir'e lattices</a>
+* <a href="https://arxiv.org/abs/2402.02902">The eXtended Virtual Element Method for elliptic problems with weakly singular solutions</a>
+* <a href="https://arxiv.org/abs/2403.16714">A Mixed Multiscale Spectral Generalized Finite Element Method</a>
+* <a href="https://arxiv.org/abs/2403.19123">Schr"odingerisation based computationally stable algorithms for ill-posed problems in partial differential equations</a>
+* <a href="https://arxiv.org/abs/2404.00391">Robust time-discretisation and linearisation schemes for singular and degenerate evolution systems modelling biofilm growth</a>
+* <a href="https://arxiv.org/abs/2402.16377">Approximation and perturbations of stable solutions to a stationary mean field game system</a>
 <!-- arxiv-math-na ends -->
