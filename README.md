@@ -18,31 +18,27 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
+* <a href="https://arxiv.org/abs/2404.06574">The Tensor-Train Stochastic Finite Volume Method for Uncertainty Quantification</a>
+* <a href="https://arxiv.org/abs/2404.06630">An Energy Stable High-Order Cut Cell Discontinuous Galerkin Method with State Redistribution for Wave Propagation</a>
+* <a href="https://arxiv.org/abs/2404.06800">A general class of iterative splitting methods for solving linear systems</a>
+* <a href="https://arxiv.org/abs/2404.06834">Solving Parametric PDEs with Radial Basis Functions and Deep Neural Networks</a>
+* <a href="https://arxiv.org/abs/2404.06841">Projection method for quasiperiodic elliptic equations and application to quasiperiodic homogenization</a>
+* <a href="https://arxiv.org/abs/2404.07013">Numerical approximation of SDEs driven by fractional Brownian motion for all $Hin(0,1)$ using WIS integration</a>
+* <a href="https://arxiv.org/abs/2404.07126">Iterative solvers in adaptive FEM</a>
+* <a href="https://arxiv.org/abs/2404.07130">A conservative Eulerian finite element method for transport and diffusion in moving domains</a>
+* <a href="https://arxiv.org/abs/2404.05064">A Structure-Guided Gauss-Newton Method for Shallow ReLU Neural Network</a>
+* <a href="https://arxiv.org/abs/2404.06713">A Reexamination of the COnfLUX 2.5D LU Factorization Algorithm</a>
+* <a href="https://arxiv.org/abs/2404.06849">Higher Order Lipschitz Sandwich Theorems</a>
+* <a href="https://arxiv.org/abs/2404.06889">Edge Detection Quantumized: A Novel Quantum Algorithm For Image Processing</a>
+* <a href="https://arxiv.org/abs/2404.07015">POD Suboptimal Control of Evolution Problems: Theory and Applications</a>
+* <a href="https://arxiv.org/abs/2404.07172">A Gauss-Newton Approach for Min-Max Optimization in Generative Adversarial Networks</a>
+* <a href="https://arxiv.org/abs/2303.01856">Dynamical low-rank approximation of the Vlasov-Poisson equation with piecewise linear spatial boundary</a>
+* <a href="https://arxiv.org/abs/2306.00423">A provably stable numerical method for the anisotropic diffusion equation in confined magnetic fields</a>
+* <a href="https://arxiv.org/abs/2309.02446">Data Generation-based Operator Learning for Solving Partial Differential Equations on Unbounded Domains</a>
+* <a href="https://arxiv.org/abs/2309.11948">A structure-preserving finite element method for the multi-phase Mullins-Sekerka problem with triple junctions</a>
+* <a href="https://arxiv.org/abs/2310.15669">Robust Methods for Multiscale Coarse Approximations of Diffusion Models in Perforated Domains</a>
+* <a href="https://arxiv.org/abs/2403.15858">Homogeneous multigrid for hybrid discretizations: application to HHO methods</a>
+* <a href="https://arxiv.org/abs/2404.00414">Chebyshev and The Fast Fourier Transform Methods for Signal Interpolation</a>
 * <a href="https://arxiv.org/abs/2404.05948">On the robustness of double-word addition algorithms</a>
-* <a href="https://arxiv.org/abs/2404.05956">Distributed Tikhonov regularization for ill-posed inverse problems from a Bayesian perspective</a>
-* <a href="https://arxiv.org/abs/2404.06018">Preprocessed GMRES for fast solution of linear equations</a>
-* <a href="https://arxiv.org/abs/2404.06030">Optimization methods for solving matrix equations</a>
-* <a href="https://arxiv.org/abs/2404.06034">Low-rank generalized alternating direction implicit iteration method for solving matrix equations</a>
-* <a href="https://arxiv.org/abs/2404.06061">A preconditioned iteration method for solving saddle point problems</a>
-* <a href="https://arxiv.org/abs/2404.06260">Distributed finite element solution using model order reduction</a>
-* <a href="https://arxiv.org/abs/2404.06342">Oracle-Net for nonlinear compressed sensing in Electrical Impedance Tomography reconstruction problems</a>
-* <a href="https://arxiv.org/abs/2404.06490">Convergence analysis of novel discontinuous Galerkin methods for a convection dominated problem</a>
-* <a href="https://arxiv.org/abs/2404.05905">Computing Transition Pathways for the Study of Rare Events Using Deep Reinforcement Learning</a>
-* <a href="https://arxiv.org/abs/2404.05938">Neural networks can be FLOP-efficient integrators of 1D oscillatory integrands</a>
-* <a href="https://arxiv.org/abs/2404.06058">Entropy numbers of finite-dimensional Lorentz space embeddings</a>
-* <a href="https://arxiv.org/abs/2404.06134">The turnpike property for high-dimensional interacting agent systems in discrete time</a>
-* <a href="https://arxiv.org/abs/2404.06206">Deep Learning Method for Computing Committor Functions with Adaptive Sampling</a>
-* <a href="https://arxiv.org/abs/2404.06380">Asymptotic-preserving finite difference method for partially dissipative hyperbolic systems</a>
-* <a href="https://arxiv.org/abs/2206.14280">The numerical solution of fractional integral equations via orthogonal polynomials in fractional powers</a>
-* <a href="https://arxiv.org/abs/2304.05460">An Adaptive Factorized Nystr"om Preconditioner for Regularized Kernel Matrices</a>
-* <a href="https://arxiv.org/abs/2305.03020">Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization</a>
-* <a href="https://arxiv.org/abs/2306.03574">A block $alpha$-circulant based preconditioned MINRES method for wave equations</a>
-* <a href="https://arxiv.org/abs/2307.13114">Fourier-Domain Inversion for the Modulo Radon Transform</a>
-* <a href="https://arxiv.org/abs/2309.04494">On the Existence of Steady-State Solutions to the Equations Governing Fluid Flow in Networks</a>
-* <a href="https://arxiv.org/abs/2310.12739">Strongly stable dual-pairing summation by parts finite difference schemes for the vector invariant nonlinear shallow water equations -- I: Numerical scheme and validation on the plane</a>
-* <a href="https://arxiv.org/abs/2401.02842">Survey of a Class of Iterative Row-Action Methods: The Kaczmarz Method</a>
-* <a href="https://arxiv.org/abs/2401.05963">A uniform non-linear subdivision scheme reproducing polynomials at any non-uniform grid</a>
-* <a href="https://arxiv.org/abs/2403.19123">Schr"odingerisation based computationally stable algorithms for ill-posed problems in partial differential equations</a>
-* <a href="https://arxiv.org/abs/2306.09694">Linear convergence of forward-backward accelerated algorithms without knowledge of the modulus of strong convexity</a>
-* <a href="https://arxiv.org/abs/2403.14411">Rational approximation of operator semigroups via the $mathcal B$-calculus</a>
+* <a href="https://arxiv.org/abs/2310.02068">Well-posedness and numerical analysis of an elapsed time model with strongly coupled neural networks</a>
 <!-- arxiv-math-na ends -->
