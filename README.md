@@ -18,27 +18,28 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2404.06574">The Tensor-Train Stochastic Finite Volume Method for Uncertainty Quantification</a>
-* <a href="https://arxiv.org/abs/2404.06630">An Energy Stable High-Order Cut Cell Discontinuous Galerkin Method with State Redistribution for Wave Propagation</a>
-* <a href="https://arxiv.org/abs/2404.06800">A general class of iterative splitting methods for solving linear systems</a>
-* <a href="https://arxiv.org/abs/2404.06834">Solving Parametric PDEs with Radial Basis Functions and Deep Neural Networks</a>
-* <a href="https://arxiv.org/abs/2404.06841">Projection method for quasiperiodic elliptic equations and application to quasiperiodic homogenization</a>
-* <a href="https://arxiv.org/abs/2404.07013">Numerical approximation of SDEs driven by fractional Brownian motion for all $Hin(0,1)$ using WIS integration</a>
-* <a href="https://arxiv.org/abs/2404.07126">Iterative solvers in adaptive FEM</a>
-* <a href="https://arxiv.org/abs/2404.07130">A conservative Eulerian finite element method for transport and diffusion in moving domains</a>
-* <a href="https://arxiv.org/abs/2404.05064">A Structure-Guided Gauss-Newton Method for Shallow ReLU Neural Network</a>
-* <a href="https://arxiv.org/abs/2404.06713">A Reexamination of the COnfLUX 2.5D LU Factorization Algorithm</a>
-* <a href="https://arxiv.org/abs/2404.06849">Higher Order Lipschitz Sandwich Theorems</a>
-* <a href="https://arxiv.org/abs/2404.06889">Edge Detection Quantumized: A Novel Quantum Algorithm For Image Processing</a>
-* <a href="https://arxiv.org/abs/2404.07015">POD Suboptimal Control of Evolution Problems: Theory and Applications</a>
-* <a href="https://arxiv.org/abs/2404.07172">A Gauss-Newton Approach for Min-Max Optimization in Generative Adversarial Networks</a>
-* <a href="https://arxiv.org/abs/2303.01856">Dynamical low-rank approximation of the Vlasov-Poisson equation with piecewise linear spatial boundary</a>
-* <a href="https://arxiv.org/abs/2306.00423">A provably stable numerical method for the anisotropic diffusion equation in confined magnetic fields</a>
-* <a href="https://arxiv.org/abs/2309.02446">Data Generation-based Operator Learning for Solving Partial Differential Equations on Unbounded Domains</a>
-* <a href="https://arxiv.org/abs/2309.11948">A structure-preserving finite element method for the multi-phase Mullins-Sekerka problem with triple junctions</a>
-* <a href="https://arxiv.org/abs/2310.15669">Robust Methods for Multiscale Coarse Approximations of Diffusion Models in Perforated Domains</a>
-* <a href="https://arxiv.org/abs/2403.15858">Homogeneous multigrid for hybrid discretizations: application to HHO methods</a>
-* <a href="https://arxiv.org/abs/2404.00414">Chebyshev and The Fast Fourier Transform Methods for Signal Interpolation</a>
-* <a href="https://arxiv.org/abs/2404.05948">On the robustness of double-word addition algorithms</a>
-* <a href="https://arxiv.org/abs/2310.02068">Well-posedness and numerical analysis of an elapsed time model with strongly coupled neural networks</a>
+* <a href="https://arxiv.org/abs/2404.07210">Sampling recovery on function classes with a structural condition</a>
+* <a href="https://arxiv.org/abs/2404.07346">Phase-Field Modeling of Fracture for Ferromagnetic Materials through Maxwell's Equation</a>
+* <a href="https://arxiv.org/abs/2404.07526">On the convergence analysis of one-shot inversion methods</a>
+* <a href="https://arxiv.org/abs/2404.07576">GAN-based iterative motion estimation in HASTE MRI</a>
+* <a href="https://arxiv.org/abs/2404.07641">Structure-Preserving Numerical Methods for Fokker-Planck Equations</a>
+* <a href="https://arxiv.org/abs/2404.07710">An Explicit Primitive Conservative Solver for the Euler Equations with Arbitrary Equation of State</a>
+* <a href="https://arxiv.org/abs/2404.07805">Tensor Neural Network Interpolation and Its Applications</a>
+* <a href="https://arxiv.org/abs/2404.07844">Adaptive Hyperbolic-cross-space Mapped Jacobi Method on Unbounded Domains with Applications to Solving Multidimensional Spatiotemporal Integrodifferential Equations</a>
+* <a href="https://arxiv.org/abs/2404.07911">High-performance matrix-free unfitted finite element operator evaluation</a>
+* <a href="https://arxiv.org/abs/2404.07914">Convergence, divergence, and inherent oscillations in MFS solutions of two-dimensional Laplace-Neumann problems</a>
+* <a href="https://arxiv.org/abs/2404.07927">Robust elastic full-waveform inversion using an alternating direction method of multipliers with reconstructed wavefields</a>
+* <a href="https://arxiv.org/abs/2404.07466">Quantum Multigrid Algorithm for Finite Element Problems</a>
+* <a href="https://arxiv.org/abs/2404.07515">Stability in Phase Retrieval: Characterizing Condition Numbers and the Optimal Vector Set</a>
+* <a href="https://arxiv.org/abs/2404.07660">Approximation of Random Evolution Equations</a>
+* <a href="https://arxiv.org/abs/2212.07737">Deep learning-based reduced-order methods for fast transient dynamics</a>
+* <a href="https://arxiv.org/abs/2304.14737">Helmholtz FEM solutions are locally quasi-optimal modulo low frequencies</a>
+* <a href="https://arxiv.org/abs/2311.09425">Robust and conservative dynamical low-rank methods for the Vlasov equation via a novel macro-micro decomposition</a>
+* <a href="https://arxiv.org/abs/2401.03089">Continuously bounds-preserving discontinuous Galerkin methods for hyperbolic conservation laws</a>
+* <a href="https://arxiv.org/abs/2404.02843">Characterization of Matrices Satisfying the Reverse Order Law for the Moore-Penrose Pseudoinverse</a>
+* <a href="https://arxiv.org/abs/2404.03603">Analysis of second-order temporal schemes for modeling flow-solute transport in unsaturated porous media</a>
+* <a href="https://arxiv.org/abs/2302.13976">A Counterexample to the L'evy Flight Foraging Hypothesis in the Narrow Capture Framework</a>
+* <a href="https://arxiv.org/abs/2306.14290">Regularized methods via cubic model subspace minimization for nonconvex optimization</a>
+* <a href="https://arxiv.org/abs/2403.07295">Tight error bounds for log-determinant cones without constraint qualifications</a>
+* <a href="https://arxiv.org/abs/2404.06134">The turnpike property for high-dimensional interacting agent systems in discrete time</a>
 <!-- arxiv-math-na ends -->
