@@ -18,5 +18,20 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2404.08223">Subspace method based on neural networks for solving the partial differential equation</a>
+* <a href="https://arxiv.org/abs/2404.08321">Improved parameter selection strategy for the iterated Arnoldi-Tikhonov method</a>
+* <a href="https://arxiv.org/abs/2404.08442">Conforming virtual element method for nondivergence form linear elliptic equations with Cordes coefficients</a>
+* <a href="https://arxiv.org/abs/2404.08456">A backward differential deep learning-based algorithm for solving high-dimensional nonlinear backward stochastic differential equations</a>
+* <a href="https://arxiv.org/abs/2404.08463">Riemannian optimization on the symplectic Stiefel manifold using second-order information</a>
+* <a href="https://arxiv.org/abs/2404.08464">A stable decoupled perfectly matched layer for the 3D wave equation using the nodal discontinuous Galerkin method</a>
+* <a href="https://arxiv.org/abs/2404.08485">An Interior Penalty coupling strategy for Isogeometric non-conformal Kirchhoff-Love shell patches</a>
+* <a href="https://arxiv.org/abs/2404.08171">The Rank-1 Completion Problem for Cubic Tensors</a>
+* <a href="https://arxiv.org/abs/2108.09502">Perturbation analysis on T-eigenvalues of third-order tensors</a>
+* <a href="https://arxiv.org/abs/2308.15409">An Incremental SVD Method for Non-Fickian Flows in Porous Media: Addressing Storage and Computational Challenges</a>
+* <a href="https://arxiv.org/abs/2311.04362">Fast and forward stable randomized algorithms for linear least-squares problems</a>
+* <a href="https://arxiv.org/abs/2404.06834">Solving Parametric PDEs with Radial Basis Functions and Deep Neural Networks</a>
+* <a href="https://arxiv.org/abs/2404.07641">Structure-Preserving Numerical Methods for Fokker-Planck Equations</a>
+* <a href="https://arxiv.org/abs/2404.07911">High-performance matrix-free unfitted finite element operator evaluation</a>
+* <a href="https://arxiv.org/abs/2302.09872">A novel dual-decomposition method for non-convex mixed integer quadratically constrained quadratic problems</a>
+* <a href="https://arxiv.org/abs/2402.09319">Eulerian Formulation of the Tensor-Based Morphology Equations for Strain-Based Blood Damage Modeling</a>
 <!-- arxiv-math-na ends -->
