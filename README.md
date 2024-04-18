@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/cryptography-tricks-make-a-hard-problem-a-little-easier-20240418/">Cryptography Tricks Make a Hard Problem a Little Easier</a> - Thu, 18 Apr 2024 14:56:12 +0000
 * <a href="https://www.quantamagazine.org/hopes-of-big-bang-discoveries-ride-on-a-future-spacecraft-20240417/">Hopes of Big Bang Discoveries Ride on a Future Spacecraft</a> - Wed, 17 Apr 2024 14:50:47 +0000
 * <a href="https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/">Pleasure or Pain? He Maps the Neural Circuits That Decide.</a> - Tue, 16 Apr 2024 13:50:36 +0000
 * <a href="https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/">Geometers Engineer New Tools to Wrangle Spacecraft Orbits</a> - Mon, 15 Apr 2024 14:15:34 +0000
 * <a href="https://www.quantamagazine.org/how-do-machines-grok-data-20240412/">How Do Machines ‘Grok’ Data?</a> - Fri, 12 Apr 2024 14:00:12 +0000
-* <a href="https://www.quantamagazine.org/my-fantastic-voyage-at-quanta-magazine-20240412/">My Fantastic Voyage at Quanta Magazine</a> - Fri, 12 Apr 2024 13:00:26 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
