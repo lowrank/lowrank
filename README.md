@@ -9,8 +9,8 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/data-driven-mathematical-modeling-of-cancer">Data-driven Mathematical Modeling of Cancer</a> - Fri, 26 Apr 2024 15:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/a-is-for-applied-adventures-in-wildlife-tracking">A is for Applied: Adventures in Wildlife Tracking</a> - Thu, 18 Apr 2024 14:53:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/electrical-resistance-and-conformal-maps">Electrical Resistance and Conformal Maps</a> - Mon, 01 Apr 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/an-introduction-to-quantum-computing-and-applied-mathematics">An Introduction to Quantum Computing and Applied Mathematics</a> - Mon, 01 Apr 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/what-can-quantum-computers-do-for-applied-mathematicians">What Can Quantum Computers Do for Applied Mathematicians?</a> - Mon, 01 Apr 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/bridging-the-worlds-of-quantum-computing-and-machine-learning">Bridging the Worlds of Quantum Computing and Machine Learning</a> - Mon, 01 Apr 2024 12:00:00 GMT
