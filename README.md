@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/investigating-the-interplay-between-reproductive-hormones-and-ovarian-follicles">Investigating the Interplay Between Reproductive Hormones and Ovarian Follicles</a> - Tue, 30 Apr 2024 18:20:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/data-driven-mathematical-modeling-of-cancer">Data-driven Mathematical Modeling of Cancer</a> - Fri, 26 Apr 2024 15:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/a-is-for-applied-adventures-in-wildlife-tracking">A is for Applied: Adventures in Wildlife Tracking</a> - Thu, 18 Apr 2024 14:53:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/quantum-advantages-and-end-to-end-complexity">Quantum Advantages and End-to-end Complexity</a> - Mon, 01 Apr 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/electrical-resistance-and-conformal-maps">Electrical Resistance and Conformal Maps</a> - Mon, 01 Apr 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/an-introduction-to-quantum-computing-and-applied-mathematics">An Introduction to Quantum Computing and Applied Mathematics</a> - Mon, 01 Apr 2024 12:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
