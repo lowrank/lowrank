@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/">Scientists Find a Fast Way to Describe Quantum Systems</a> - Wed, 01 May 2024 14:13:48 +0000
 * <a href="https://www.quantamagazine.org/to-pack-spheres-tightly-mathematicians-throw-them-at-random-20240430/">To Pack Spheres Tightly, Mathematicians Throw Them at Random</a> - Tue, 30 Apr 2024 14:00:20 +0000
 * <a href="https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/">How a NASA Probe Solved a Scorching Solar Mystery</a> - Mon, 29 Apr 2024 13:49:26 +0000
 * <a href="https://www.quantamagazine.org/does-ai-know-what-an-apple-is-she-aims-to-find-out-20240425/">Does AI Know What an Apple Is? She Aims to Find Out.</a> - Thu, 25 Apr 2024 14:10:35 +0000
 * <a href="https://www.quantamagazine.org/what-does-milk-do-for-babies-20240425/">What Does Milk Do for Babies?</a> - Thu, 25 Apr 2024 13:00:01 +0000
-* <a href="https://www.quantamagazine.org/ecologists-struggle-to-get-a-grip-on-keystone-species-20240424/">Ecologists Struggle to Get a Grip on ‘Keystone Species’</a> - Wed, 24 Apr 2024 14:27:09 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
