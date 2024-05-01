@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
-* <a href="https://sinews.siam.org/Details-Page/investigating-the-interplay-between-reproductive-hormones-and-ovarian-follicles">Investigating the Interplay Between Reproductive Hormones and Ovarian Follicles</a> - Tue, 30 Apr 2024 18:20:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/data-driven-mathematical-modeling-of-cancer">Data-driven Mathematical Modeling of Cancer</a> - Fri, 26 Apr 2024 15:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/a-is-for-applied-adventures-in-wildlife-tracking">A is for Applied: Adventures in Wildlife Tracking</a> - Thu, 18 Apr 2024 14:53:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/quantum-advantages-and-end-to-end-complexity">Quantum Advantages and End-to-end Complexity</a> - Mon, 01 Apr 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/electrical-resistance-and-conformal-maps">Electrical Resistance and Conformal Maps</a> - Mon, 01 Apr 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/introducing-part-ii-of-the-special-issue-on-quantum-computing">Introducing Part II of the Special Issue on Quantum Computing</a> - Wed, 01 May 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/a-practical-introduction-to-quantum-computing">A Practical Introduction to Quantum Computing</a> - Wed, 01 May 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/fighting-errors-with-space">Fighting Errors with Space</a> - Wed, 01 May 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/challenges-and-opportunities-of-scaling-up-quantum-computation-and-circuits">Challenges and Opportunities of Scaling Up Quantum Computation and Circuits</a> - Wed, 01 May 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/an-in-depth-guide-to-the-methods-of-computational-imaging">An In-depth Guide to the Methods of Computational Imaging</a> - Wed, 01 May 2024 12:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
