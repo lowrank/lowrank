@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/high-fidelity-digital-twins">High-fidelity Digital Twins</a> - Fri, 03 May 2024 14:24:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/introducing-part-ii-of-the-special-issue-on-quantum-computing">Introducing Part II of the Special Issue on Quantum Computing</a> - Wed, 01 May 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/a-practical-introduction-to-quantum-computing">A Practical Introduction to Quantum Computing</a> - Wed, 01 May 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/fighting-errors-with-space">Fighting Errors with Space</a> - Wed, 01 May 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/challenges-and-opportunities-of-scaling-up-quantum-computation-and-circuits">Challenges and Opportunities of Scaling Up Quantum Computation and Circuits</a> - Wed, 01 May 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/an-in-depth-guide-to-the-methods-of-computational-imaging">An In-depth Guide to the Methods of Computational Imaging</a> - Wed, 01 May 2024 12:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
