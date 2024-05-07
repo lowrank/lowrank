@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/dogged-dark-matter-hunters-find-new-hiding-places-to-check-20240507/">Dogged Dark Matter Hunters Find New Hiding Places to Check</a> - Tue, 07 May 2024 14:37:01 +0000
 * <a href="https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/">A Rosetta Stone for Mathematics</a> - Mon, 06 May 2024 14:23:30 +0000
 * <a href="https://www.quantamagazine.org/the-mystery-of-the-missing-multicellular-prokaryotes-20240502/">The Mystery of the Missing Multicellular Prokaryotes</a> - Thu, 02 May 2024 14:23:48 +0000
 * <a href="https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/">Scientists Find a Fast Way to Describe Quantum Systems</a> - Wed, 01 May 2024 14:13:48 +0000
 * <a href="https://www.quantamagazine.org/to-pack-spheres-tightly-mathematicians-throw-them-at-random-20240430/">To Pack Spheres Tightly, Mathematicians Throw Them at Random</a> - Tue, 30 Apr 2024 14:00:20 +0000
-* <a href="https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/">How a NASA Probe Solved a Scorching Solar Mystery</a> - Mon, 29 Apr 2024 13:49:26 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
