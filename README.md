@@ -18,31 +18,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
+* <a href="https://arxiv.org/abs/2405.04615">Unique continuation for the wave equation based on a discontinuous Galerkin time discretization</a>
+* <a href="https://arxiv.org/abs/2405.04668">Energy Bounds for Discontinuous Galerkin Spectral Element Approximations of Well-Posed Overset Grid Problems for Hyperbolic Systems</a>
+* <a href="https://arxiv.org/abs/2405.04811">A general error analysis for randomized low-rank approximation with application to data assimilation</a>
+* <a href="https://arxiv.org/abs/2405.04958">Computation of some dispersive equations through their iterated linearisation</a>
+* <a href="https://arxiv.org/abs/2405.04961">A posteriori error analysis of hybrid higher order methods for the elliptic obstacle problem</a>
+* <a href="https://arxiv.org/abs/2405.04970">Numerical analysis of small-strain elasto-plastic deformation using local Radial Basis Function approximation with Picard iteration</a>
+* <a href="https://arxiv.org/abs/2405.05047">An adaptive finite element multigrid solver using GPU acceleration</a>
+* <a href="https://arxiv.org/abs/2405.05095">Approximation properties relative to continuous scale space for hybrid discretizations of Gaussian derivative operators</a>
+* <a href="https://arxiv.org/abs/2405.05098">Energy stable gradient flow schemes for shape and topology optimization in Navier-Stokes flows</a>
+* <a href="https://arxiv.org/abs/2405.05158">Analysis of the SQP Method for Hyperbolic PDE-Constrained Optimization in Acoustic Full Waveform Inversion</a>
+* <a href="https://arxiv.org/abs/2405.05179">Detection of a piecewise linear crack with one incident wave</a>
+* <a href="https://arxiv.org/abs/2405.05181">Randomized quasi-Monte Carlo and Owen's boundary growth condition: A spectral analysis</a>
+* <a href="https://arxiv.org/abs/2405.05187">A score-based particle method for homogeneous Landau equation</a>
+* <a href="https://arxiv.org/abs/2405.05192">Full error analysis of the random deep splitting method for nonlinear parabolic PDEs and PIDEs with infinite activity</a>
+* <a href="https://arxiv.org/abs/2405.05213">Exponential time propagators for elastodynamics</a>
+* <a href="https://arxiv.org/abs/2405.04612">Numerical Fuzz: A Type System for Rounding Error Analysis</a>
+* <a href="https://arxiv.org/abs/2405.04842">Effective alpha theory certification using interval arithmetic: alpha theory over regions</a>
+* <a href="https://arxiv.org/abs/2309.13843">Geometric Decomposition and Efficient Implementation of High Order Face and Edge Elements</a>
+* <a href="https://arxiv.org/abs/2310.09567">Automatic and Computationally Efficient Alignment in Fan- and Cone-beam Tomography</a>
+* <a href="https://arxiv.org/abs/2310.11956">Acoustic shape optimization using energy stable curvilinear finite differences</a>
+* <a href="https://arxiv.org/abs/2311.08130">Modal Analysis of the Wake Shed Behind a Horizontal Axis Wind Turbine with Flexible Blades</a>
+* <a href="https://arxiv.org/abs/2311.08872">Multilevel Monte Carlo methods for the Dean-Kawasaki equation from Fluctuating Hydrodynamics</a>
+* <a href="https://arxiv.org/abs/2312.00489">Optimal complexity of goal-oriented adaptive FEM for nonsymmetric linear elliptic PDEs</a>
 * <a href="https://arxiv.org/abs/2405.04091">Randomized iterative methods for generalized absolute value equations: Solvability and error bounds</a>
-* <a href="https://arxiv.org/abs/2405.04116">Semi-implicit Lagrangian Voronoi Approximation for the incompressible Navier-Stokes equations</a>
-* <a href="https://arxiv.org/abs/2405.04195">Rational methods for abstract linear, non-homogeneous problems without order reduction</a>
-* <a href="https://arxiv.org/abs/2405.04214">On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws</a>
-* <a href="https://arxiv.org/abs/2405.04330">How to reveal the rank of a matrix?</a>
-* <a href="https://arxiv.org/abs/2405.04347">Development of discontinuous Galerkin methods for hyperbolic systems that preserve a curl or a divergence constraint</a>
-* <a href="https://arxiv.org/abs/2405.04399">Solving ill-conditioned linear algebraic systems using methods that improve conditioning</a>
-* <a href="https://arxiv.org/abs/2405.04433">Learning local Dirichlet-to-Neumann maps of nonlinear elliptic PDEs with rough coefficients</a>
-* <a href="https://arxiv.org/abs/2405.04147">Multiparameter regularization and aggregation in the context of polynomial functional regression</a>
-* <a href="https://arxiv.org/abs/2405.04380">Preserving Nonlinear Constraints in Variational Flow Filtering Data Assimilation</a>
-* <a href="https://arxiv.org/abs/1811.02733">Generalized prolate spheroidal functions: algorithms and analysis</a>
-* <a href="https://arxiv.org/abs/2211.11926">The weak Galerkin finite element method for Stokes interface problems with curved interface</a>
-* <a href="https://arxiv.org/abs/2212.04083">Convergence of the Fourier-Galerkin spectral method for the Boltzmann equation with uncertainties</a>
-* <a href="https://arxiv.org/abs/2302.14119">Double-loop randomized quasi-Monte Carlo estimator for nested integration</a>
-* <a href="https://arxiv.org/abs/2306.02526">Fast and high-order approximation of parabolic equations using hierarchical direct solvers and implicit Runge-Kutta methods</a>
-* <a href="https://arxiv.org/abs/2306.06182">The effect of approximate coarsest-level solves on the convergence of multigrid V-cycle methods</a>
-* <a href="https://arxiv.org/abs/2308.05335">Match-based solution of general parametric eigenvalue problems</a>
-* <a href="https://arxiv.org/abs/2308.10720">On the accuracy of interpolation based on single-layer artificial neural networks with a focus on defeating the Runge phenomenon</a>
-* <a href="https://arxiv.org/abs/2310.01556">Second-order exponential splittings in the presence of unbounded and time-dependent operators: construction and convergence</a>
-* <a href="https://arxiv.org/abs/2311.03036">On regularized polynomial functional regression</a>
-* <a href="https://arxiv.org/abs/2401.01722">Splitting Methods for differential equations</a>
-* <a href="https://arxiv.org/abs/2402.00027">Perspectives on locally weighted ensemble Kalman methods</a>
-* <a href="https://arxiv.org/abs/2402.07060">Spectral convergence of a semi-discretized numerical system for the spatially homogeneous Boltzmann equation with uncertainties</a>
-* <a href="https://arxiv.org/abs/2404.19290">Efficient inverse $Z$-transform and Wiener-Hopf factorization</a>
-* <a href="https://arxiv.org/abs/2306.14207">Sampling discretization of the uniform norm and applications</a>
-* <a href="https://arxiv.org/abs/2403.03542">DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training</a>
-* <a href="https://arxiv.org/abs/2404.17039">Differentiating Through Linear Solvers</a>
+* <a href="https://arxiv.org/abs/2308.11925">Solving Elliptic Optimal Control Problems via Neural Networks and Optimality System</a>
+* <a href="https://arxiv.org/abs/2311.01336">Covariance estimation using h-statistics in Monte Carlo and multilevel Monte Carlo methods</a>
+* <a href="https://arxiv.org/abs/2401.16836">Coseparable Nonnegative Tensor Factorization With T-CUR Decomposition</a>
 <!-- arxiv-math-na ends -->
