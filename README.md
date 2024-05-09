@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/game-theory-can-make-ai-more-correct-and-efficient-20240509/">Game Theory Can Make AI More Correct and Efficient</a> - Thu, 09 May 2024 13:55:50 +0000
+* <a href="https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/">Will Better Superconductors Transform the World?</a> - Thu, 09 May 2024 13:03:57 +0000
 * <a href="https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/">New AI Tools Predict How Life’s Building Blocks Assemble</a> - Wed, 08 May 2024 15:00:29 +0000
 * <a href="https://www.quantamagazine.org/dogged-dark-matter-hunters-find-new-hiding-places-to-check-20240507/">Dogged Dark Matter Hunters Find New Hiding Places to Check</a> - Tue, 07 May 2024 14:37:01 +0000
 * <a href="https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/">A Rosetta Stone for Mathematics</a> - Mon, 06 May 2024 14:23:30 +0000
-* <a href="https://www.quantamagazine.org/the-mystery-of-the-missing-multicellular-prokaryotes-20240502/">The Mystery of the Missing Multicellular Prokaryotes</a> - Thu, 02 May 2024 14:23:48 +0000
-* <a href="https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/">Scientists Find a Fast Way to Describe Quantum Systems</a> - Wed, 01 May 2024 14:13:48 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
