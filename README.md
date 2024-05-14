@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/">Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture</a> - Tue, 14 May 2024 14:12:40 +0000
 * <a href="https://www.quantamagazine.org/how-idle-egg-cells-defend-their-dna-from-damage-20240513/">How ‘Idle’ Egg Cells Defend Their DNA From Damage</a> - Mon, 13 May 2024 14:35:50 +0000
 * <a href="https://www.quantamagazine.org/game-theory-can-make-ai-more-correct-and-efficient-20240509/">Game Theory Can Make AI More Correct and Efficient</a> - Thu, 09 May 2024 13:55:50 +0000
 * <a href="https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/">Will Better Superconductors Transform the World?</a> - Thu, 09 May 2024 13:03:57 +0000
 * <a href="https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/">New AI Tools Predict How Life’s Building Blocks Assemble</a> - Wed, 08 May 2024 15:00:29 +0000
-* <a href="https://www.quantamagazine.org/dogged-dark-matter-hunters-find-new-hiding-places-to-check-20240507/">Dogged Dark Matter Hunters Find New Hiding Places to Check</a> - Tue, 07 May 2024 14:37:01 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
