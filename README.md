@@ -18,31 +18,26 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2405.08269">On saturation of the discrepancy principle for nonlinear Tikhonov regularization in Hilbert spaces</a>
-* <a href="https://arxiv.org/abs/2405.08280">Parallel-in-Time Iterative Methods for Pricing American Options</a>
-* <a href="https://arxiv.org/abs/2405.08360">A Local discontinuous Galerkin method for the Benajamin-Ono equation</a>
-* <a href="https://arxiv.org/abs/2405.08513">Subspace method based on neural networks for solving the partial differential equation in weak form</a>
-* <a href="https://arxiv.org/abs/2405.08549">A Well-Balanced Method for an Unstaggered Central Scheme, the one-space Dimensional Case</a>
-* <a href="https://arxiv.org/abs/2405.08558">PTPI-DL-ROMs: pre-trained physics-informed deep learning-based reduced order models for nonlinear parametrized PDEs</a>
-* <a href="https://arxiv.org/abs/2405.08565">Space-time stochastic Galerkin boundary elements for acoustic scattering problems</a>
-* <a href="https://arxiv.org/abs/2405.08566">Space-time boundary elements for frictional contact in elastodynamics</a>
-* <a href="https://arxiv.org/abs/2405.08598">Spectral approximation of convolution operators of Fredholm type</a>
-* <a href="https://arxiv.org/abs/2405.08690">Double-activation neural network for solving parabolic equations with time delay</a>
-* <a href="https://arxiv.org/abs/2405.08721">A regularized eigenmatrix method for unstructured sparse recovery</a>
-* <a href="https://arxiv.org/abs/2405.08764">A Generalized Curvilinear Coordinate system-based Patch Dynamics Scheme in Equation-free Multiscale Modelling</a>
-* <a href="https://arxiv.org/abs/2405.08770">An optimization-based construction procedure for function space based summation-by-parts operators on arbitrary grids</a>
-* <a href="https://arxiv.org/abs/2405.08201">Numerical approximation of the stochastic heat equation with a distributional reaction term</a>
-* <a href="https://arxiv.org/abs/2405.08275">Power of $ell_1$-Norm Regularized Kaczmarz Algorithms for High-Order Tensor Recovery</a>
-* <a href="https://arxiv.org/abs/2405.08307">Sequential Maximal Updated Density Parameter Estimation for Dynamical Systems with Parameter Drift</a>
-* <a href="https://arxiv.org/abs/2405.08343">Accuracy Evaluation of a Lightweight Analytic Vehicle Dynamics Model for Maneuver Planning</a>
-* <a href="https://arxiv.org/abs/2405.08401">Realtime Global Optimization of a Fail-Safe Emergency Stop Maneuver for Arbitrary Electrical / Electronical Failures in Automated Driving</a>
-* <a href="https://arxiv.org/abs/2405.08635">Approaches to iterative algorithms for solving nonlinear equations with an application in tomographic absorption spectroscopy</a>
-* <a href="https://arxiv.org/abs/2305.17693">Deflation for the off-diagonal block in symmetric saddle point systems</a>
-* <a href="https://arxiv.org/abs/2311.14201">On the convergence of adaptive approximations for stochastic differential equations</a>
-* <a href="https://arxiv.org/abs/2312.00172">Projected exponential methods for stiff dynamical low-rank approximation problems</a>
-* <a href="https://arxiv.org/abs/2312.05601">A Meshless Solver for Blood Flow Simulations in Elastic Vessels Using Physics-Informed Neural Network</a>
-* <a href="https://arxiv.org/abs/2402.11184">A modified version of the PRESB preconditioner for a class of non-Hermitian complex systems of linear equations</a>
-* <a href="https://arxiv.org/abs/2404.18841">Deep orthogonal decomposition: a continuously adaptive data-driven approach to model order reduction</a>
-* <a href="https://arxiv.org/abs/2306.11286">Globally optimal solutions to a class of fractional optimization problems based on proximity gradient algorithm</a>
-* <a href="https://arxiv.org/abs/2312.16657">On a finite sum of cosecants appearing in various problems</a>
+* <a href="https://arxiv.org/abs/2405.08904">Multi-resolution Isogeometric Analysis -- Efficient adaptivity utilizing the multi-patch structure</a>
+* <a href="https://arxiv.org/abs/2405.09005">Cons-training tensor networks</a>
+* <a href="https://arxiv.org/abs/2405.09233">Tensor Krylov subspace methods via the T-product for large Sylvester tensor equations</a>
+* <a href="https://arxiv.org/abs/2405.09324">Learning Coarse-Grained Dynamics on Graph</a>
+* <a href="https://arxiv.org/abs/2405.09328">WENO scheme on characteristics for the equilibrium dispersive model of chromatography with generalized Langmuir isotherms</a>
+* <a href="https://arxiv.org/abs/2405.09367">Efficient WENO schemes for nonuniform grids</a>
+* <a href="https://arxiv.org/abs/2405.09400">Flow updates for domain decomposition of entropic optimal transport</a>
+* <a href="https://arxiv.org/abs/2405.09408">A velocity-based moving mesh Discontinuous Galerkin method for the advection-diffusion equation</a>
+* <a href="https://arxiv.org/abs/2405.09414">Improving the convergence analysis of linear subdivision schemes</a>
+* <a href="https://arxiv.org/abs/2405.09424">On backward problem for a time-fractional fourth order parabolic equation</a>
+* <a href="https://arxiv.org/abs/2405.09447">Rotated reference frames in radiative transport theory</a>
+* <a href="https://arxiv.org/abs/2405.08971">Computation-Aware Kalman Filtering and Smoothing</a>
+* <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a>
+* <a href="https://arxiv.org/abs/2405.09285">Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning</a>
+* <a href="https://arxiv.org/abs/2306.13351">Equations with infinite delay: pseudospectral discretization for numerical stability and bifurcation in an abstract framework</a>
+* <a href="https://arxiv.org/abs/2307.00229">Constrained Local Approximate Ideal Restriction for Advection-Diffusion Problems</a>
+* <a href="https://arxiv.org/abs/2307.08241">Weak approximation for stochastic reaction-diffusion equation near sharp interface limit</a>
+* <a href="https://arxiv.org/abs/2310.01745">A Volumetric Approach to Monge's Optimal Transport on Surfaces</a>
+* <a href="https://arxiv.org/abs/2311.16379">Enhanced Fractional Fourier Transform (FRFT) scheme using the closed Newton-Cotes rules</a>
+* <a href="https://arxiv.org/abs/2405.04195">Rational methods for abstract linear, non-homogeneous problems without order reduction</a>
+* <a href="https://arxiv.org/abs/2405.07396">An Unstructured Body-of-Revolution Electromagnetic Particle-in-Cell Algorithm with Radial Perfectly Matched Layers and Dual Polarizations</a>
+* <a href="https://arxiv.org/abs/2306.11286">Globally Optimal Solutions to a Class of Fractional Optimization Problems Based on Proximal Gradient Algorithm</a>
 <!-- arxiv-math-na ends -->
