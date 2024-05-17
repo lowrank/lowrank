@@ -18,26 +18,24 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2405.08904">Multi-resolution Isogeometric Analysis -- Efficient adaptivity utilizing the multi-patch structure</a>
-* <a href="https://arxiv.org/abs/2405.09005">Cons-training tensor networks</a>
-* <a href="https://arxiv.org/abs/2405.09233">Tensor Krylov subspace methods via the T-product for large Sylvester tensor equations</a>
-* <a href="https://arxiv.org/abs/2405.09324">Learning Coarse-Grained Dynamics on Graph</a>
-* <a href="https://arxiv.org/abs/2405.09328">WENO scheme on characteristics for the equilibrium dispersive model of chromatography with generalized Langmuir isotherms</a>
-* <a href="https://arxiv.org/abs/2405.09367">Efficient WENO schemes for nonuniform grids</a>
-* <a href="https://arxiv.org/abs/2405.09400">Flow updates for domain decomposition of entropic optimal transport</a>
-* <a href="https://arxiv.org/abs/2405.09408">A velocity-based moving mesh Discontinuous Galerkin method for the advection-diffusion equation</a>
-* <a href="https://arxiv.org/abs/2405.09414">Improving the convergence analysis of linear subdivision schemes</a>
-* <a href="https://arxiv.org/abs/2405.09424">On backward problem for a time-fractional fourth order parabolic equation</a>
-* <a href="https://arxiv.org/abs/2405.09447">Rotated reference frames in radiative transport theory</a>
-* <a href="https://arxiv.org/abs/2405.08971">Computation-Aware Kalman Filtering and Smoothing</a>
-* <a href="https://arxiv.org/abs/2405.09203">Monte Carlo methods on compact complex manifolds using Bergman kernels</a>
-* <a href="https://arxiv.org/abs/2405.09285">Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning</a>
-* <a href="https://arxiv.org/abs/2306.13351">Equations with infinite delay: pseudospectral discretization for numerical stability and bifurcation in an abstract framework</a>
-* <a href="https://arxiv.org/abs/2307.00229">Constrained Local Approximate Ideal Restriction for Advection-Diffusion Problems</a>
-* <a href="https://arxiv.org/abs/2307.08241">Weak approximation for stochastic reaction-diffusion equation near sharp interface limit</a>
-* <a href="https://arxiv.org/abs/2310.01745">A Volumetric Approach to Monge's Optimal Transport on Surfaces</a>
-* <a href="https://arxiv.org/abs/2311.16379">Enhanced Fractional Fourier Transform (FRFT) scheme using the closed Newton-Cotes rules</a>
-* <a href="https://arxiv.org/abs/2405.04195">Rational methods for abstract linear, non-homogeneous problems without order reduction</a>
-* <a href="https://arxiv.org/abs/2405.07396">An Unstructured Body-of-Revolution Electromagnetic Particle-in-Cell Algorithm with Radial Perfectly Matched Layers and Dual Polarizations</a>
-* <a href="https://arxiv.org/abs/2306.11286">Globally Optimal Solutions to a Class of Fractional Optimization Problems Based on Proximal Gradient Algorithm</a>
+* <a href="https://arxiv.org/abs/2405.09835">A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for scalar conservation laws</a>
+* <a href="https://arxiv.org/abs/2405.09952">Low-rank Tree Tensor Network Operators for Long-Range Pairwise Interactions</a>
+* <a href="https://arxiv.org/abs/2405.10146">Single-ensemble multilevel Monte Carlo for discrete interacting-particle methods</a>
+* <a href="https://arxiv.org/abs/2405.09752">Time-Varying Graph Signal Recovery Using High-Order Smoothness and Adaptive Low-rankness</a>
+* <a href="https://arxiv.org/abs/2405.09826">Lie symmetry analysis of (2+1)-dimensional time fractional Kadomtsev-Petviashvili equation</a>
+* <a href="https://arxiv.org/abs/2405.09992">Convergence of kinetic Langevin samplers for non-convex potentials</a>
+* <a href="https://arxiv.org/abs/2405.10263">On Partially Unitary Learning</a>
+* <a href="https://arxiv.org/abs/2210.07667">A $mu$-mode approach for exponential integrators: actions of $varphi$-functions of Kronecker sums</a>
+* <a href="https://arxiv.org/abs/2211.08375">Stability and convergence of the Euler scheme for stochastic linear evolution equations in Banach spaces</a>
+* <a href="https://arxiv.org/abs/2211.13739">Numerical Approximation of Gaussian random fields on Closed Surfaces</a>
+* <a href="https://arxiv.org/abs/2212.05694">Open Source Implementations of Numerical Algorithms for Computing the Complete Elliptic Integral of the First Kind</a>
+* <a href="https://arxiv.org/abs/2212.14853">Particle method and quantization-based schemes for the simulation of the McKean-Vlasov equation</a>
+* <a href="https://arxiv.org/abs/2305.04937">Randomly sampling bipartite networks with fixed degree sequences</a>
+* <a href="https://arxiv.org/abs/2306.07010">Analytic and Gevrey class regularity for parametric elliptic eigenvalue problems and applications</a>
+* <a href="https://arxiv.org/abs/2306.11365">Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor</a>
+* <a href="https://arxiv.org/abs/2307.10980">Denoising of Sphere- and SO(3)-Valued Data by Relaxed Tikhonov Regularization</a>
+* <a href="https://arxiv.org/abs/2310.16906">Sensitivity Analysis of the Information Gain in Infinite-Dimensional Bayesian Linear Inverse Problems</a>
+* <a href="https://arxiv.org/abs/2311.17032">Stability estimates of Nystr"om discretizations of Helmholtz decomposition boundary integral equation formulations for the solution of Navier scattering problems in two dimensions with Dirichlet boundary conditions</a>
+* <a href="https://arxiv.org/abs/2209.09936">Solving Fredholm Integral Equations of the First Kind via Wasserstein Gradient Flows</a>
+* <a href="https://arxiv.org/abs/2308.16731">An Efficient Framework for Global Non-Convex Polynomial Optimization over the Hypercube</a>
 <!-- arxiv-math-na ends -->
