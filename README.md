@@ -18,24 +18,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2405.09835">A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for scalar conservation laws</a>
-* <a href="https://arxiv.org/abs/2405.09952">Low-rank Tree Tensor Network Operators for Long-Range Pairwise Interactions</a>
-* <a href="https://arxiv.org/abs/2405.10146">Single-ensemble multilevel Monte Carlo for discrete interacting-particle methods</a>
-* <a href="https://arxiv.org/abs/2405.09752">Time-Varying Graph Signal Recovery Using High-Order Smoothness and Adaptive Low-rankness</a>
-* <a href="https://arxiv.org/abs/2405.09826">Lie symmetry analysis of (2+1)-dimensional time fractional Kadomtsev-Petviashvili equation</a>
-* <a href="https://arxiv.org/abs/2405.09992">Convergence of kinetic Langevin samplers for non-convex potentials</a>
-* <a href="https://arxiv.org/abs/2405.10263">On Partially Unitary Learning</a>
-* <a href="https://arxiv.org/abs/2210.07667">A $mu$-mode approach for exponential integrators: actions of $varphi$-functions of Kronecker sums</a>
-* <a href="https://arxiv.org/abs/2211.08375">Stability and convergence of the Euler scheme for stochastic linear evolution equations in Banach spaces</a>
-* <a href="https://arxiv.org/abs/2211.13739">Numerical Approximation of Gaussian random fields on Closed Surfaces</a>
-* <a href="https://arxiv.org/abs/2212.05694">Open Source Implementations of Numerical Algorithms for Computing the Complete Elliptic Integral of the First Kind</a>
-* <a href="https://arxiv.org/abs/2212.14853">Particle method and quantization-based schemes for the simulation of the McKean-Vlasov equation</a>
-* <a href="https://arxiv.org/abs/2305.04937">Randomly sampling bipartite networks with fixed degree sequences</a>
-* <a href="https://arxiv.org/abs/2306.07010">Analytic and Gevrey class regularity for parametric elliptic eigenvalue problems and applications</a>
-* <a href="https://arxiv.org/abs/2306.11365">Discrete maximal regularity for the discontinuous Galerkin time-stepping method without logarithmic factor</a>
-* <a href="https://arxiv.org/abs/2307.10980">Denoising of Sphere- and SO(3)-Valued Data by Relaxed Tikhonov Regularization</a>
-* <a href="https://arxiv.org/abs/2310.16906">Sensitivity Analysis of the Information Gain in Infinite-Dimensional Bayesian Linear Inverse Problems</a>
-* <a href="https://arxiv.org/abs/2311.17032">Stability estimates of Nystr"om discretizations of Helmholtz decomposition boundary integral equation formulations for the solution of Navier scattering problems in two dimensions with Dirichlet boundary conditions</a>
-* <a href="https://arxiv.org/abs/2209.09936">Solving Fredholm Integral Equations of the First Kind via Wasserstein Gradient Flows</a>
-* <a href="https://arxiv.org/abs/2308.16731">An Efficient Framework for Global Non-Convex Polynomial Optimization over the Hypercube</a>
+
 <!-- arxiv-math-na ends -->
