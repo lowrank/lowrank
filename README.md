@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/">How Failure Has Made Mathematics Stronger</a> - Wed, 22 May 2024 14:15:33 +0000
 * <a href="https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/">Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage</a> - Tue, 21 May 2024 14:10:37 +0000
 * <a href="https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/">AI Needs Enormous Computing Power. Could Light-Based Chips Help?</a> - Mon, 20 May 2024 14:40:50 +0000
 * <a href="https://www.quantamagazine.org/he-seeks-mystery-magnetic-fields-with-his-quantum-compass-20240517/">He Seeks Mystery Magnetic Fields With His Quantum Compass</a> - Fri, 17 May 2024 14:03:34 +0000
 * <a href="https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/">Computer Scientists Invent an Efficient New Way to Count</a> - Thu, 16 May 2024 14:07:42 +0000
-* <a href="https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/">Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture</a> - Tue, 14 May 2024 14:12:40 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
