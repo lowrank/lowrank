@@ -18,21 +18,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2405.12301">Tensor-Train WENO Scheme for Compressible Flows</a>
-* <a href="https://arxiv.org/abs/2405.12383">Half-closed Discontinuous Galerkin discretisations</a>
-* <a href="https://arxiv.org/abs/2405.12524">APTT: An accuracy-preserved tensor-train method for the Boltzmann-BGK equation</a>
-* <a href="https://arxiv.org/abs/2405.12562">Implicit-explicit Crank-Nicolson scheme for Oseen's equation at high Reynolds number</a>
-* <a href="https://arxiv.org/abs/2405.12624">Deep ReLU Neural Network Emulation in High-Frequency Acoustic Scattering</a>
-* <a href="https://arxiv.org/abs/2405.12729">Conditions for tractability of the weighted $L_p$-discrepancy and integration in non-homogeneous tensor product spaces</a>
-* <a href="https://arxiv.org/abs/2405.12814">A stable poro-mechanical formulation for Material Point Methods leveraging overlapping meshes and multi-field ghost penalisation</a>
-* <a href="https://arxiv.org/abs/2405.12848">A conservative relaxation Crank-Nicolson finite element method for the Schr"{o}dinger-Poisson equation</a>
-* <a href="https://arxiv.org/abs/2405.12446">Computer assisted proofs for transverse heteroclinics by the parameterization method</a>
-* <a href="https://arxiv.org/abs/2405.12655">Lipschitz minimization and the Goldstein modulus</a>
-* <a href="https://arxiv.org/abs/2405.12676">Experimental investigation of trans-scale displacement responses of wrinkle defects in fiber reinforced composite laminates</a>
-* <a href="https://arxiv.org/abs/2405.12823">Chordal-NMF with Riemannian Multiplicative Update</a>
-* <a href="https://arxiv.org/abs/2405.12925">Time-dependent Hamiltonian Simulation via Magnus Expansion: Algorithm and Superconvergence</a>
-* <a href="https://arxiv.org/abs/2105.08765">Moving Mesh with Streamline Upwind Petrov-Galerkin (MM-SUPG) Method for Time-dependent Convection-Dominated Convection-Diffusion Problems</a>
-* <a href="https://arxiv.org/abs/2403.07492">Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors</a>
-* <a href="https://arxiv.org/abs/2302.05104">Monte Carlo Neural PDE Solver for Learning PDEs via Probabilistic Representation</a>
-* <a href="https://arxiv.org/abs/2308.03813">High-Resolution Cranial Defect Reconstruction by Iterative, Low-Resolution, Point Cloud Completion Transformers</a>
+
 <!-- arxiv-math-na ends -->
