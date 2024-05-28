@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/">Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands</a> - Tue, 28 May 2024 14:09:01 +0000
 * <a href="https://www.quantamagazine.org/the-s-matrix-is-the-oracle-physicists-turn-to-in-times-of-crisis-20240523/">The S-Matrix Is the Oracle Physicists Turn To in Times of Crisis</a> - Thu, 23 May 2024 14:20:31 +0000
 * <a href="https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/">What Happens in the Brain to Cause Depression?</a> - Thu, 23 May 2024 13:00:20 +0000
 * <a href="https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/">How Failure Has Made Mathematics Stronger</a> - Wed, 22 May 2024 14:15:33 +0000
 * <a href="https://www.quantamagazine.org/electric-ripples-in-the-resting-brain-tag-memories-for-storage-20240521/">Electric ‘Ripples’ in the Resting Brain Tag Memories for Storage</a> - Tue, 21 May 2024 14:10:37 +0000
-* <a href="https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/">AI Needs Enormous Computing Power. Could Light-Based Chips Help?</a> - Mon, 20 May 2024 14:40:50 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
