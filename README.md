@@ -18,31 +18,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2405.18550">Unisolvence of unsymmetric random Kansa collocation by Gaussians and other analytic RBF vanishing at infinity</a>
-* <a href="https://arxiv.org/abs/2405.18567">Locally different models in a checkerboard pattern with mesh adaptation and error control for multiple quantities of interest</a>
-* <a href="https://arxiv.org/abs/2405.18619">Stability of the Rao-Nakra sandwich beam with a dissipation of fractional derivative type: theoretical and numerical study</a>
-* <a href="https://arxiv.org/abs/2405.18964">Diagonalization-Based Parallel-in-Time Preconditioners for Instationary Fluid Flow Control Problems</a>
+* <a href="https://arxiv.org/abs/2405.19483">IMEX methods for thin-film equations and Cahn-Hilliard equations with variable mobility</a>
+* <a href="https://arxiv.org/abs/2405.19500">The Numerical Solution of the External Dirichlet Generalized Harmonic Problem for a Sphere by the Method of Probabilistic Solution</a>
+* <a href="https://arxiv.org/abs/2405.19554">Numerical analysis of a 1/2-equation model of turbulence</a>
+* <a href="https://arxiv.org/abs/2405.19582">Evaluation of Resonances via AAA Rational Approximation of Randomly Scalarized Boundary Integral Resolvents</a>
+* <a href="https://arxiv.org/abs/2405.19713">Summing divergent matrix series</a>
+* <a href="https://arxiv.org/abs/2405.19844">The Neumann boundary condition for the two-dimensional Lax-Wendroff scheme. II</a>
+* <a href="https://arxiv.org/abs/2405.19896">Fast Numerical Approximation of Linear, Second-Order Hyperbolic Problems Using Model Order Reduction and the Laplace Transform</a>
+* <a href="https://arxiv.org/abs/2405.19969">Stable semi-implicit SDC methods for conservation laws</a>
+* <a href="https://arxiv.org/abs/2405.19994">High-order parallel-in-time method for the monodomain equation in cardiac electrophysiology</a>
+* <a href="https://arxiv.org/abs/2405.20000">Combining physics-informed graph neural network and finite difference for solving forward and inverse spatiotemporal PDEs</a>
+* <a href="https://arxiv.org/abs/2405.20006">SWIFT: A Monotonic, Flux-Form Semi-Lagrangian Tracer Transport Scheme for Flow with Large Courant Numbers</a>
+* <a href="https://arxiv.org/abs/2405.20020">About truncated Chebyshev spectral method for solving numerical differentiation and summation</a>
+* <a href="https://arxiv.org/abs/2405.20065">Variationally Correct Neural Residual Regression for Parametric PDEs: On the Viability of Controlled Accuracy</a>
+* <a href="https://arxiv.org/abs/2405.20094">Low-dimensional approximations of the conditional law of Volterra processes: a non-positive curvature approach</a>
+* <a href="https://arxiv.org/abs/2405.20150">Can the a.c.s. notion and the GLT theory handle approximated PDEs/FDEs with either moving or unbounded domains?</a>
+* <a href="https://arxiv.org/abs/2405.20211">Low-rank and sparse approximations for contact mechanics</a>
+* <a href="https://arxiv.org/abs/2405.20338">Mixed finite element methods for fourth order obstacle problems in linearised elasticity</a>
+* <a href="https://arxiv.org/abs/2405.19679">Efficient Trajectory Inference in Wasserstein Space Using Consecutive Averaging</a>
+* <a href="https://arxiv.org/abs/2405.20116">Complexity of Zeroth- and First-order Stochastic Trust-Region Algorithms</a>
+* <a href="https://arxiv.org/abs/2405.20182">Convergence Analysis for A Stochastic Maximum Principle Based Data Driven Feedback Control Algorithm</a>
+* <a href="https://arxiv.org/abs/2312.16485">Fractional differential problems with numerical anti-reflective boundary conditions: a computational/precision analysis and numerical results</a>
+* <a href="https://arxiv.org/abs/2401.09834">Convergence of a spatial semidiscretization for a three-dimensional stochastic Allen-Cahn equation with multiplicative noise</a>
+* <a href="https://arxiv.org/abs/2402.07053">Certified homotopy tracking using the Krawczyk method</a>
+* <a href="https://arxiv.org/abs/2405.09835">A high-order Eulerian-Lagrangian Runge-Kutta finite volume (EL-RK-FV) method for scalar nonlinear conservation laws</a>
 * <a href="https://arxiv.org/abs/2405.18982">Multilevel Interior Penalty Methods on GPUs</a>
-* <a href="https://arxiv.org/abs/2405.19003">A structure-preserving scheme for computing effective diffusivity and anomalous diffusion phenomena of random flows</a>
 * <a href="https://arxiv.org/abs/2405.19004">An implementation of tensor product patch smoothers on GPU</a>
-* <a href="https://arxiv.org/abs/2405.19044">On adaptive stochastic extended iterative methods for solving least squares</a>
-* <a href="https://arxiv.org/abs/2405.19048">Periodic Adjoint Sensitivity Analysis</a>
-* <a href="https://arxiv.org/abs/2405.19170">Greedy Kernel Methods for Approximating Breakthrough Curves for Reactive Flow from 3D Porous Geometry Data</a>
-* <a href="https://arxiv.org/abs/2405.19246">A numerical algorithm with linear complexity for Multi-marginal Optimal Transport with $L^1$ Cost</a>
-* <a href="https://arxiv.org/abs/2405.18705">A simple inverse power method for balanced graph cut</a>
-* <a href="https://arxiv.org/abs/2405.19256">Weak Generative Sampler to Efficiently Sample Invariant Distribution of Stochastic Differential Equation</a>
-* <a href="https://arxiv.org/abs/1911.00593">Entropy-stable positivity-preserving DG schemes for Boltzmann-Poisson models of collisional electronic transport along energy bands</a>
-* <a href="https://arxiv.org/abs/2207.12826">Variable Transformations in combination with Wavelets and ANOVA for high-dimensional approximation</a>
-* <a href="https://arxiv.org/abs/2302.03286">Algorithmically Designed Artificial Neural Networks (ADANNs): Higher order deep operator learning for parametric partial differential equations</a>
-* <a href="https://arxiv.org/abs/2302.14119">Double-loop randomized quasi-Monte Carlo estimator for nested integration</a>
-* <a href="https://arxiv.org/abs/2305.08693">Mixed finite elements for Kirchhoff-Love plate bending</a>
-* <a href="https://arxiv.org/abs/2306.07445">Least-Squares Neural Network (LSNN) Method For Linear Advection-Reaction Equation: Non-constant Jumps</a>
-* <a href="https://arxiv.org/abs/2306.13189">Reflectionless discrete perfectly matched layers for higher-order finite difference schemes</a>
-* <a href="https://arxiv.org/abs/2312.08201">Efficient solution of sequences of parametrized Lyapunov equations with applications</a>
-* <a href="https://arxiv.org/abs/2404.02133">Numerical simulation of the Gross-Pitaevskii equation via vortex tracking</a>
-* <a href="https://arxiv.org/abs/2207.09054">Towards a Low-SWaP 1024-beam Digital Array: A 32-beam Sub-system at 5.8 GHz</a>
-* <a href="https://arxiv.org/abs/2308.05882">GPLaSDI: Gaussian Process-based Interpretable Latent Space Dynamics Identification through Deep Autoencoder</a>
-* <a href="https://arxiv.org/abs/2310.08814">PT-symmetry enabled stable modes in multi-core fiber</a>
-* <a href="https://arxiv.org/abs/2403.18517">Efficient Algorithms for Regularized Nonnegative Scale-invariant Low-rank Approximation Models</a>
-* <a href="https://arxiv.org/abs/2405.03472">A Symplectic Analysis of Alternating Mirror Descent</a>
+* <a href="https://arxiv.org/abs/2205.09396">A segregated reduced order model of a pressure-based solver for turbulent compressible flows</a>
 <!-- arxiv-math-na ends -->
