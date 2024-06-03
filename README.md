@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/approximate-localized-multidimensional-patterns">Approximate Localized Multidimensional Patterns</a> - Mon, 03 Jun 2024 12:30:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/understanding-uncertainty-in-glacier-models-before-the-ice-melts">Understanding Uncertainty in Glacier Models — Before the Ice Melts</a> - Mon, 03 Jun 2024 12:30:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/siam-task-force-anticipates-future-directions-of-computational-science">SIAM Task Force Anticipates Future Directions of Computational Science</a> - Mon, 03 Jun 2024 12:30:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/an-exploration-of-dynamics-and-bifurcation-in-networks">An Exploration of Dynamics and Bifurcation in Networks</a> - Mon, 03 Jun 2024 12:30:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-shifting-nature-of-health-and-economic-evaluations-of-disease-interventions">The Shifting Nature of Health and Economic Evaluations of Disease Interventions</a> - Fri, 17 May 2024 15:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/actuarial-modeling-of-cyber-risk">Actuarial Modeling of Cyber Risk</a> - Wed, 15 May 2024 15:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/the-future-of-digital-health">The Future of Digital Health</a> - Mon, 13 May 2024 15:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/optimizing-tissue-vascularization-in-bioprinted-skin-grafts">Optimizing Tissue Vascularization in Bioprinted Skin Grafts</a> - Thu, 09 May 2024 15:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/innovative-microfluidic-device-design-detects-circulating-tumor-cells">Innovative Microfluidic Device Design Detects Circulating Tumor Cells</a> - Tue, 07 May 2024 17:16:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
