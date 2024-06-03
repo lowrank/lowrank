@@ -18,5 +18,16 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2405.20481">On the randomized Euler scheme for SDEs with integral-form drift</a>
+* <a href="https://arxiv.org/abs/2405.20618">CPAFT: A Consistent Parallel Advancing Front Technique for Unstructured Triangular/Tetrahedral Mesh Generation</a>
+* <a href="https://arxiv.org/abs/2405.20836">Solving partial differential equations with sampled neural networks</a>
+* <a href="https://arxiv.org/abs/2405.21005">Influx ratio preserving coupling conditions for the networked Lighthill-Whitham-Richards model</a>
+* <a href="https://arxiv.org/abs/2405.20390">Quantitative Convergences of Lie Group Momentum Optimizers</a>
+* <a href="https://arxiv.org/abs/2405.20662">Oscillations and differences in Besov-Morrey and Besov-type spaces</a>
+* <a href="https://arxiv.org/abs/1709.04044">Spectral ACMS: A robust localized Approximated Component Mode Synthesis Method</a>
+* <a href="https://arxiv.org/abs/2211.06166">Mathematical Modelling of Neuroblast Chemotaxis Migration towards the Olfactory Bulb</a>
+* <a href="https://arxiv.org/abs/2211.13862">Generalized Convolution Quadrature for non smooth sectorial problems</a>
+* <a href="https://arxiv.org/abs/2211.16168">Robust boundary integral equations for the solution of elastic scattering problems via Helmholtz decompositions</a>
+* <a href="https://arxiv.org/abs/2308.14143">Ensemble-localized Kernel Density Estimation with Applications to the Ensemble Gaussian Mixture Filter</a>
+* <a href="https://arxiv.org/abs/2404.19392">Convergence analysis of the transformed gradient projection algorithms on compact matrix manifolds</a>
 <!-- arxiv-math-na ends -->
