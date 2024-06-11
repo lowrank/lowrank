@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/the-dynamics-of-algae-and-exopolymeric-substances-in-sea-ice">The Dynamics of Algae and Exopolymeric Substances in Sea Ice</a> - Tue, 11 Jun 2024 20:19:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-coevolution-of-infodemics-and-epidemics-in-the-context-of-covid-19">The Coevolution of Infodemics and Epidemics in the Context of COVID-19</a> - Tue, 11 Jun 2024 02:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/approximate-localized-multidimensional-patterns">Approximate Localized Multidimensional Patterns</a> - Mon, 03 Jun 2024 12:30:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/understanding-uncertainty-in-glacier-models-before-the-ice-melts">Understanding Uncertainty in Glacier Models — Before the Ice Melts</a> - Mon, 03 Jun 2024 12:30:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/siam-task-force-anticipates-future-directions-of-computational-science">SIAM Task Force Anticipates Future Directions of Computational Science</a> - Mon, 03 Jun 2024 12:30:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/an-exploration-of-dynamics-and-bifurcation-in-networks">An Exploration of Dynamics and Bifurcation in Networks</a> - Mon, 03 Jun 2024 12:30:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
