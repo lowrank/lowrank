@@ -9,46 +9,43 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies">Predicting the Spread and Establishment Potential of Spotted Lanternflies</a> - Thu, 13 Jun 2024 04:30:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/math-modeling-unveils-the-threat-of-parasites-pesticides-and-seasonality-changes-to-honeybees">Math Modeling Unveils the Threat of Parasites, Pesticides, and Seasonality Changes to Honeybees</a> - Wed, 12 Jun 2024 16:48:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/machine-learning-forecasts-wildfire-risk-on-subseasonal-to-seasonal-timescales">Machine Learning Forecasts Wildfire Risk on Subseasonal to Seasonal Timescales</a> - Tue, 11 Jun 2024 21:02:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-dynamics-of-algae-and-exopolymeric-substances-in-sea-ice">The Dynamics of Algae and Exopolymeric Substances in Sea Ice</a> - Tue, 11 Jun 2024 20:19:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-coevolution-of-infodemics-and-epidemics-in-the-context-of-covid-19">The Coevolution of Infodemics and Epidemics in the Context of COVID-19</a> - Tue, 11 Jun 2024 02:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/approximate-localized-multidimensional-patterns">Approximate Localized Multidimensional Patterns</a> - Mon, 03 Jun 2024 12:30:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2406.06628">Convergence of Subdivision Schemes and Smoothness of Refinable Functions on p-adic Fields</a>
-* <a href="https://arxiv.org/abs/2406.06734">A Fast Solver for Tridiagonal Toeplitz Systems with Multiple Right-Hand Sides</a>
-* <a href="https://arxiv.org/abs/2406.06901">On Stewart's Perturbation Theorem for SVD</a>
-* <a href="https://arxiv.org/abs/2406.06942">Optimal Matrix-Mimetic Tensor Algebras via Variable Projection</a>
-* <a href="https://arxiv.org/abs/2406.07044">On inertial Levenberg-Marquardt type methods for solving nonlinear ill-posed operator equations</a>
-* <a href="https://arxiv.org/abs/2406.07045">Research on High-precision Detection Technology for Un-derground Space Information Data</a>
-* <a href="https://arxiv.org/abs/2406.07102">An efficient active-stress electromechanical isogeometric shell model for muscular thin film simulations</a>
-* <a href="https://arxiv.org/abs/2406.07108">On the power of adaption and randomization</a>
-* <a href="https://arxiv.org/abs/2406.07109">Solving singular generalized eigenvalue problems. Part III: structure preservation</a>
-* <a href="https://arxiv.org/abs/2406.07185">A Well-Balanced Method for an Unstaggered Central Scheme, the two-space Dimensional Case</a>
-* <a href="https://arxiv.org/abs/2406.07207">Model order reduction for seismic applications</a>
-* <a href="https://arxiv.org/abs/2406.07220">Probabilistic time integration for semi-explicit PDAEs</a>
-* <a href="https://arxiv.org/abs/2406.07303">Minimal-norm solution to the Fredholm integral equations of the first kind via the H-HK formulation</a>
-* <a href="https://arxiv.org/abs/2406.06707">Discovery of differential equations using sparse state and parameter regression</a>
-* <a href="https://arxiv.org/abs/2406.06812">On Learning what to Learn: heterogeneous observations of dynamics and establishing (possibly causal) relations among them</a>
-* <a href="https://arxiv.org/abs/2406.07441">GPU Accelerated Implicit Kinetic Meshfree Method based on Modified LU-SGS</a>
-* <a href="https://arxiv.org/abs/2406.07456">fKAN: Fractional Kolmogorov-Arnold Networks with trainable Jacobi basis functions</a>
-* <a href="https://arxiv.org/abs/2210.08247">A sparse spectral method for fractional differential equations in one-spatial dimension</a>
-* <a href="https://arxiv.org/abs/2303.02339">A Nystr"{o}m Method for Scattering by a Two-layered Medium with a Rough Boundary</a>
-* <a href="https://arxiv.org/abs/2304.09676">Efficient computation of the sinc matrix function for the integration of second-order differential equations</a>
-* <a href="https://arxiv.org/abs/2309.09036">A posteriori error control for a Discontinuous Galerkin approximation of a Keller-Segel model</a>
-* <a href="https://arxiv.org/abs/2311.15738">On full linear convergence and optimal complexity of adaptive FEM with inexact solver</a>
-* <a href="https://arxiv.org/abs/2311.16019">Sketched and Truncated Polynomial Krylov Subspace Methods: Matrix Sylvester Equations</a>
-* <a href="https://arxiv.org/abs/2401.07806">Optimal design for linear models via gradient flow</a>
-* <a href="https://arxiv.org/abs/2401.11890">Shape uncertainty quantification of Maxwell eigenvalues and -modes with application to TESLA cavities</a>
-* <a href="https://arxiv.org/abs/2402.06429">Exact a posteriori error control for variational problems via convex duality and explicit flux reconstruction</a>
-* <a href="https://arxiv.org/abs/2403.03905">Black-Box $k$-to-$1$-PCA Reductions: Theory and Applications</a>
-* <a href="https://arxiv.org/abs/2403.12826">Cross Interpolation for Solving High-Dimensional Dynamical Systems on Low-Rank Tucker and Tensor Train Manifolds</a>
-* <a href="https://arxiv.org/abs/2403.19433">Puzzle game: Prediction and Classification of Wordle Solution Words</a>
-* <a href="https://arxiv.org/abs/2107.11076">On the rate of convergence for an $alpha$-stable central limit theorem under sublinear expectation</a>
-* <a href="https://arxiv.org/abs/2305.17387">Learning from Integral Losses in Physics Informed Neural Networks</a>
-* <a href="https://arxiv.org/abs/2404.17542">A mesh-constrained discrete point method for incompressible flows with moving boundaries</a>
-* <a href="https://arxiv.org/abs/2405.16651">Variational Quantum Framework for Partial Differential Equation Constrained Optimization</a>
+* <a href="https://arxiv.org/abs/2406.07711">Multi-objective optimization for multi-agent injection strategies in subsurface CO$_2$ storage</a>
+* <a href="https://arxiv.org/abs/2406.07724">Nitsche stabilized Virtual element approximations for a Brinkman problem with mixed boundary conditions</a>
+* <a href="https://arxiv.org/abs/2406.07789">A posteriori error estimates for the exponential midpoint method for linear and semilinear parabolic equations</a>
+* <a href="https://arxiv.org/abs/2406.07924">The Galerkin method for a regularised combined field integral equation without a dual basis function</a>
+* <a href="https://arxiv.org/abs/2406.07941">Global-in-time energy stability: a powerful analysis tool for the gradient flow problem without maximum principle or Lipschitz assumption</a>
+* <a href="https://arxiv.org/abs/2406.07950">Reduced Basis method for finite volume simulations of parabolic PDEs applied to porous media flows</a>
+* <a href="https://arxiv.org/abs/2406.08185">Non-stationary Gaussian random fields on hypersurfaces: Sampling and strong error analysis</a>
+* <a href="https://arxiv.org/abs/2406.08257">The need for accuracy and smoothness in numerical simulations</a>
+* <a href="https://arxiv.org/abs/2406.08331">Genetic Column Generation for Computing Lower Bounds for Adversarial Classification</a>
+* <a href="https://arxiv.org/abs/2406.07684">Scalable Optimal Motion Planning for Multi-Agent Systems by Cosserat Theory of Rods</a>
+* <a href="https://arxiv.org/abs/2406.07751">A square root algorithm faster than Newton's method for multiprecision numbers, using floating-point arithmetic</a>
+* <a href="https://arxiv.org/abs/2406.08147">A New Linear Programming Approach and a New Backtracking Strategy for Multiple-Gradient Descent in Multi-Objective Optimization</a>
+* <a href="https://arxiv.org/abs/2310.00226">A simple GPU implementation of spectral-element methods for solving 3D Poisson type equations on rectangular domains and its applications</a>
+* <a href="https://arxiv.org/abs/2310.00605">The Generalized Matrix Norm Problem</a>
+* <a href="https://arxiv.org/abs/2312.01179">Determining initial conditions for nonlinear hyperbolic equations with time dimensional reduction and the Carleman contraction</a>
+* <a href="https://arxiv.org/abs/2312.07042">Rectified deep neural networks overcome the curse of dimensionality when approximating solutions of McKean--Vlasov stochastic differential equations</a>
+* <a href="https://arxiv.org/abs/2401.05624">Efficient Spectral Element Method for the Euler Equations on Unbounded Domains in Multiple Dimensions</a>
+* <a href="https://arxiv.org/abs/2401.08260">Fast Kernel Summation in High Dimensions via Slicing and Fourier Transforms</a>
+* <a href="https://arxiv.org/abs/2401.17973">Validated numerics for algebraic path tracking</a>
+* <a href="https://arxiv.org/abs/2403.08894">Interpolatory model order reduction of large-scale dynamical systems with root mean squared error measures</a>
+* <a href="https://arxiv.org/abs/2403.12340">A fast low-rank inversion algorithm of dielectric matrix in GW approximation</a>
+* <a href="https://arxiv.org/abs/2404.15288">Hybrid weakly over-penalised symmetric interior penalty method on anisotropic meshes</a>
+* <a href="https://arxiv.org/abs/2404.18603">Beating Posits at Their Own Game: Takum Arithmetic</a>
+* <a href="https://arxiv.org/abs/2405.05095">Approximation properties relative to continuous scale space for hybrid discretizations of Gaussian derivative operators</a>
+* <a href="https://arxiv.org/abs/2405.14229">Piecewise rational rotation-minimizing motions via data stream interpolation</a>
+* <a href="https://arxiv.org/abs/2406.06244">Lower eigenvalue bounds with hybrid high-order methods</a>
+* <a href="https://arxiv.org/abs/2206.02001">A PDE-based Explanation of Extreme Numerical Sensitivities and Edge of Stability in Training Neural Networks</a>
+* <a href="https://arxiv.org/abs/2207.02600">Non-asymptotic convergence bounds for modified tamed unadjusted Langevin algorithm in non-convex setting</a>
+* <a href="https://arxiv.org/abs/2403.01496">A face-centred finite volume method for laminar and turbulent incompressible flows</a>
+* <a href="https://arxiv.org/abs/2403.10642">Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs</a>
 <!-- arxiv-math-na ends -->
