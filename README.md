@@ -18,14 +18,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2406.09217">Convergence and error control of consistent PINNs for elliptic PDEs</a>
-* <a href="https://arxiv.org/abs/2406.09276">Multigrid preconditioning for discontinuous Galerkin discretizations of an elliptic optimal control problem with a convection-dominated state equation</a>
-* <a href="https://arxiv.org/abs/2406.08640">Adaptively Implicit Advection for Atmospheric Flows</a>
-* <a href="https://arxiv.org/abs/2406.09194">Bengining overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Iductive Bias</a>
-* <a href="https://arxiv.org/abs/2201.09646">Numerical analysis of a mixed-dimensional poromechanical model with frictionless contact at matrix-fracture interfaces</a>
-* <a href="https://arxiv.org/abs/2307.06529">Wavelet-based Edge Multiscale Parareal Algorithm for subdiffusion equations with heterogeneous coefficients in a large time domain</a>
-* <a href="https://arxiv.org/abs/2405.15419">On Phase Unwrapping via Digital Wavefront Sensors</a>
-* <a href="https://arxiv.org/abs/2402.06784">Transfer learning with generative models for object detection on limited datasets</a>
-* <a href="https://arxiv.org/abs/2404.16762">Analysis of Flame Structure and Interactions Between Chemical Reactions, Species Transport and Heat Release in Laminar Flames</a>
-* <a href="https://arxiv.org/abs/2404.19645">Best polynomial approximation for non-autonomous linear ODEs in the $star$-product framework</a>
+
 <!-- arxiv-math-na ends -->
