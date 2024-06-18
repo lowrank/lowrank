@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/across-a-continent-trees-sync-their-fruiting-to-the-sun-20240618/">Across a Continent, Trees Sync Their Fruiting to the Sun</a> - Tue, 18 Jun 2024 13:50:35 +0000
 * <a href="https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/">The Enduring Mystery of How Water Freezes</a> - Mon, 17 Jun 2024 14:15:32 +0000
 * <a href="https://www.quantamagazine.org/the-brainstem-fine-tunes-inflammation-throughout-the-body-20240614/">The Brainstem Fine-Tunes Inflammation Throughout the Body</a> - Fri, 14 Jun 2024 13:47:54 +0000
 * <a href="https://www.quantamagazine.org/computation-is-all-around-us-and-you-can-see-it-if-you-try-20240612/">Computation Is All Around Us, and You Can See It if You Try</a> - Wed, 12 Jun 2024 13:26:12 +0000
 * <a href="https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/">The New Math of How Large-Scale Order Emerges</a> - Mon, 10 Jun 2024 14:50:02 +0000
-* <a href="https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/">In Highly Connected Networks, There’s Always a Loop</a> - Fri, 07 Jun 2024 14:20:26 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
