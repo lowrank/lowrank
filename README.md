@@ -9,7 +9,7 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
-* <a href="https://sinews.siam.org/Details-Page/maintaining-cooperation-with-indirect-reciprocity-in-a-private-assessment-model">Maintaining Cooperation with Indirect Reciprocity in a Private Assessment Model</a> - Thu, 20 Jun 2024 20:41:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/maintaining-cooperation-with-indirect-reciprocity-in-a-private-assessment-model">Maintaining Cooperation with Indirect Reciprocity in a Private Assessment Model</a> - Fri, 21 Jun 2024 13:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/evaluating-the-performance-of-a-ground-source-heat-pump-system-in-cyprus">Evaluating the Performance of a Ground Source Heat Pump System in Cyprus</a> - Thu, 20 Jun 2024 16:55:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/epidemic-simulator-and-web-app-models-viral-transmission-in-indoor-spaces">Epidemic Simulator and Web App Models Viral Transmission in Indoor Spaces</a> - Thu, 13 Jun 2024 21:51:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/optimization-techniques-maximize-real-time-management-of-water-supply-systems">Optimization Techniques Maximize Real-time Management of Water Supply Systems</a> - Thu, 13 Jun 2024 20:08:00 GMT
