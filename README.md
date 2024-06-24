@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/the-question-of-whats-fair-illuminates-the-question-of-whats-hard-20240624/">The Question of What’s Fair Illuminates the Question of What’s Hard</a> - Mon, 24 Jun 2024 14:50:15 +0000
 * <a href="https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/">How the Square Root of 2 Became a Number</a> - Fri, 21 Jun 2024 13:50:15 +0000
 * <a href="https://www.quantamagazine.org/how-is-science-even-possible-20240620/">How Is Science Even Possible?</a> - Thu, 20 Jun 2024 13:20:11 +0000
 * <a href="https://www.quantamagazine.org/across-a-continent-trees-sync-their-fruiting-to-the-sun-20240618/">Across a Continent, Trees Sync Their Fruiting to the Sun</a> - Tue, 18 Jun 2024 13:50:35 +0000
 * <a href="https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/">The Enduring Mystery of How Water Freezes</a> - Mon, 17 Jun 2024 14:15:32 +0000
-* <a href="https://www.quantamagazine.org/the-brainstem-fine-tunes-inflammation-throughout-the-body-20240614/">The Brainstem Fine-Tunes Inflammation Throughout the Body</a> - Fri, 14 Jun 2024 13:47:54 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
