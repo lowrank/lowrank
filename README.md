@@ -18,21 +18,23 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2406.17311">Operator splitting for coupled linear port-Hamiltonian systems</a>
-* <a href="https://arxiv.org/abs/2406.17364">Annealing-based approach to solving partial differential equations</a>
-* <a href="https://arxiv.org/abs/2406.17461">Error Estimates for Data-driven Weakly Convex Frame-based Image Regularization</a>
-* <a href="https://arxiv.org/abs/2406.17597">Constructing structured tensor priors for Bayesian inverse problems</a>
-* <a href="https://arxiv.org/abs/2406.17656">Optimization of Approximate Maps for Linear Systems Arising in Discretized PDEs</a>
-* <a href="https://arxiv.org/abs/2406.17119">Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone</a>
-* <a href="https://arxiv.org/abs/2406.17263">Efficient, Multimodal, and Derivative-Free Bayesian Inference With Fisher-Rao Gradient Flows</a>
-* <a href="https://arxiv.org/abs/2406.17763">DiffusionPDE: Generative PDE-Solving Under Partial Observation</a>
-* <a href="https://arxiv.org/abs/2210.16945">A new variable shape parameter strategy for RBF approximation using neural networks</a>
-* <a href="https://arxiv.org/abs/2310.10618">Interpolatory $mathcal{H}_2$-optimality Conditions for Structured Linear Time-invariant Systems</a>
-* <a href="https://arxiv.org/abs/2405.13649">Generalized Jacobi Method for Computing Eigenvalues of Dual Quaternion Hermitian Matrices</a>
-* <a href="https://arxiv.org/abs/2406.10761">A note on best n-term approximation for generalized Wiener classes</a>
-* <a href="https://arxiv.org/abs/2101.11932">Approximation Theory of Tree Tensor Networks: Tensorized Multivariate Functions</a>
+* <a href="https://arxiv.org/abs/2406.17879">On the Two-parameter Matrix pencil Problem</a>
+* <a href="https://arxiv.org/abs/2406.17900">Structure-preserving Local Discontinuous Galerkin method for nonlinear cross-diffusion systems</a>
+* <a href="https://arxiv.org/abs/2406.17981">A Split Fast Fourier Transform Algorithm for Block Toeplitz Matrix-Vector Multiplication</a>
+* <a href="https://arxiv.org/abs/2406.18015">A hybrid numerical method for elastic wave propagation in discontinuous media with complex geometry</a>
+* <a href="https://arxiv.org/abs/2406.18393">Stability and Robustness of Time-discretization Schemes for the Allen-Cahn Equation via Bifurcation and Perturbation Analysis</a>
+* <a href="https://arxiv.org/abs/2406.18398">A note on the stability of two families of two-step schemes</a>
+* <a href="https://arxiv.org/abs/2406.17933">Modeling and simulations of high-density two-phase flows using projection-based Cahn-Hilliard Navier-Stokes equations</a>
+* <a href="https://arxiv.org/abs/2406.18423">Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets</a>
+* <a href="https://arxiv.org/abs/2109.04106">Function recovery on manifolds using scattered data</a>
+* <a href="https://arxiv.org/abs/2211.12175">Randomized sketching of nonlinear eigenvalue problems</a>
+* <a href="https://arxiv.org/abs/2301.13613">Geometry-based approximation of waves in complex domains</a>
+* <a href="https://arxiv.org/abs/2305.06823">Multigrid preconditioning of singularly perturbed convection-diffusion equations</a>
+* <a href="https://arxiv.org/abs/2311.09442">Local spline refinement driven by fault jump estimates for scattered data approximation</a>
+* <a href="https://arxiv.org/abs/2401.15962">An implicit staggered algorithm for CPFEM-based analysis of aluminum</a>
+* <a href="https://arxiv.org/abs/2404.07210">Sampling recovery on function classes with a structural condition</a>
+* <a href="https://arxiv.org/abs/2404.08463">Riemannian optimization on the symplectic Stiefel manifold using second-order information</a>
+* <a href="https://arxiv.org/abs/2308.03096">Gradient Coding with Iterative Block Leverage Score Sampling</a>
 * <a href="https://arxiv.org/abs/2310.19809">MgNO: Efficient Parameterization of Linear Operators via Multigrid</a>
-* <a href="https://arxiv.org/abs/2401.02736">On the numerical reliability of nonsmooth autodiff: a MaxPool case study</a>
-* <a href="https://arxiv.org/abs/2401.10710">Classification with neural networks with quadratic decision functions</a>
-* <a href="https://arxiv.org/abs/2406.14649">A macroscopic pedestrian model with variable maximal density</a>
+* <a href="https://arxiv.org/abs/2403.20152">Investigating the Combinatorial Potential and Applicability of Random Equation Systems with Mixture Models in a Bayesian Framework</a>
 <!-- arxiv-math-na ends -->
