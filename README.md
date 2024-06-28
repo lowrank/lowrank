@@ -9,28 +9,35 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
-
+* <a href="https://sinews.siam.org/Details-Page/maintaining-cooperation-with-indirect-reciprocity-in-a-private-assessment-model">Maintaining Cooperation with Indirect Reciprocity in a Private Assessment Model</a> - Fri, 21 Jun 2024 13:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/evaluating-the-performance-of-a-ground-source-heat-pump-system-in-cyprus">Evaluating the Performance of a Ground Source Heat Pump System in Cyprus</a> - Thu, 20 Jun 2024 16:55:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/epidemic-simulator-and-web-app-models-viral-transmission-in-indoor-spaces">Epidemic Simulator and Web App Models Viral Transmission in Indoor Spaces</a> - Thu, 13 Jun 2024 21:51:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/optimization-techniques-maximize-real-time-management-of-water-supply-systems">Optimization Techniques Maximize Real-time Management of Water Supply Systems</a> - Thu, 13 Jun 2024 20:08:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/mathematical-model-explores-tissue-specific-insulin-resistance-in-adolescent-girls-with-pcos">Mathematical Model Explores Tissue-specific Insulin Resistance in Adolescent Girls with PCOS</a> - Thu, 13 Jun 2024 02:30:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2406.17879">On the Two-parameter Matrix pencil Problem</a>
-* <a href="https://arxiv.org/abs/2406.17900">Structure-preserving Local Discontinuous Galerkin method for nonlinear cross-diffusion systems</a>
-* <a href="https://arxiv.org/abs/2406.17981">A Split Fast Fourier Transform Algorithm for Block Toeplitz Matrix-Vector Multiplication</a>
-* <a href="https://arxiv.org/abs/2406.18015">A hybrid numerical method for elastic wave propagation in discontinuous media with complex geometry</a>
-* <a href="https://arxiv.org/abs/2406.18393">Stability and Robustness of Time-discretization Schemes for the Allen-Cahn Equation via Bifurcation and Perturbation Analysis</a>
-* <a href="https://arxiv.org/abs/2406.18398">A note on the stability of two families of two-step schemes</a>
-* <a href="https://arxiv.org/abs/2406.17933">Modeling and simulations of high-density two-phase flows using projection-based Cahn-Hilliard Navier-Stokes equations</a>
-* <a href="https://arxiv.org/abs/2406.18423">Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets</a>
-* <a href="https://arxiv.org/abs/2109.04106">Function recovery on manifolds using scattered data</a>
-* <a href="https://arxiv.org/abs/2211.12175">Randomized sketching of nonlinear eigenvalue problems</a>
-* <a href="https://arxiv.org/abs/2301.13613">Geometry-based approximation of waves in complex domains</a>
-* <a href="https://arxiv.org/abs/2305.06823">Multigrid preconditioning of singularly perturbed convection-diffusion equations</a>
-* <a href="https://arxiv.org/abs/2311.09442">Local spline refinement driven by fault jump estimates for scattered data approximation</a>
-* <a href="https://arxiv.org/abs/2401.15962">An implicit staggered algorithm for CPFEM-based analysis of aluminum</a>
-* <a href="https://arxiv.org/abs/2404.07210">Sampling recovery on function classes with a structural condition</a>
-* <a href="https://arxiv.org/abs/2404.08463">Riemannian optimization on the symplectic Stiefel manifold using second-order information</a>
-* <a href="https://arxiv.org/abs/2308.03096">Gradient Coding with Iterative Block Leverage Score Sampling</a>
-* <a href="https://arxiv.org/abs/2310.19809">MgNO: Efficient Parameterization of Linear Operators via Multigrid</a>
-* <a href="https://arxiv.org/abs/2403.20152">Investigating the Combinatorial Potential and Applicability of Random Equation Systems with Mixture Models in a Bayesian Framework</a>
+* <a href="https://arxiv.org/abs/2406.18948">Supercloseness of the HDG method on Shishkin mesh for a singularly perturbed convection diffusion problem in 2D</a>
+* <a href="https://arxiv.org/abs/2406.18963">Generation of Random (Generalized) Orthogonal Matrices</a>
+* <a href="https://arxiv.org/abs/2406.19000">Simpson's quadrature for a nonlinear variational symplectic scheme</a>
+* <a href="https://arxiv.org/abs/2406.19339">Rational Empirical Interpolation Methods with Applications</a>
+* <a href="https://arxiv.org/abs/2406.18613">Inducing Riesz and orthonormal bases in $L^2$ via composition operators</a>
+* <a href="https://arxiv.org/abs/2406.18726">Data-driven identification of port-Hamiltonian DAE systems by Gaussian processes</a>
+* <a href="https://arxiv.org/abs/2406.18794">Operator Learning of Lipschitz Operators: An Information-Theoretic Perspective</a>
+* <a href="https://arxiv.org/abs/2406.18833">Quantum annealing-based structural optimization with a multiplicative design update</a>
+* <a href="https://arxiv.org/abs/2406.18860">A Thermo-Electro-Mechanical Model for Long-Term Reliability of Aging Transmission Lines</a>
+* <a href="https://arxiv.org/abs/2406.19377">Grassmannian optimization is NP-hard</a>
+* <a href="https://arxiv.org/abs/2112.09750">Arbitrary-order pressure-robust DDR and VEM methods for the Stokes problem on polyhedral meshes</a>
+* <a href="https://arxiv.org/abs/2208.02213">Block Discrete Empirical Interpolation Methods</a>
+* <a href="https://arxiv.org/abs/2211.04676">Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations</a>
+* <a href="https://arxiv.org/abs/2307.13820">Riemannian Newton methods for energy minimization problems of Kohn-Sham type</a>
+* <a href="https://arxiv.org/abs/2308.14537">Solving parametric elliptic interface problems via interfaced operator network</a>
+* <a href="https://arxiv.org/abs/2402.18403">Preconditioned iterative solvers for constrained high-order implicit shock tracking methods</a>
+* <a href="https://arxiv.org/abs/2403.05144">Multirate Time-Integration based on Dynamic ODE Partitioning through Adaptively Refined Meshes for Compressible Fluid Dynamics</a>
+* <a href="https://arxiv.org/abs/2406.16089">A projected Euler Method for Random Periodic Solutions of Semi-linear SDEs with non-globally Lipschitz coefficients</a>
+* <a href="https://arxiv.org/abs/2406.17364">Annealing-based approach to solving partial differential equations</a>
+* <a href="https://arxiv.org/abs/2310.04355">Computation of viscoelastic shear shock waves using finite volume schemes with artificial compressibility</a>
+* <a href="https://arxiv.org/abs/2404.16762">Analysis of Flame Structure and Interactions Between Chemical Reactions, Species Transport and Heat Release in Laminar Flames</a>
+* <a href="https://arxiv.org/abs/2406.10511">Efficient Hardware Accelerator Based on Medium Granularity Dataflow for SpTRSV</a>
 <!-- arxiv-math-na ends -->
