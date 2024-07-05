@@ -9,11 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
-* <a href="https://sinews.siam.org/Details-Page/maintaining-cooperation-with-indirect-reciprocity-in-a-private-assessment-model">Maintaining Cooperation with Indirect Reciprocity in a Private Assessment Model</a> - Fri, 21 Jun 2024 13:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/evaluating-the-performance-of-a-ground-source-heat-pump-system-in-cyprus">Evaluating the Performance of a Ground Source Heat Pump System in Cyprus</a> - Thu, 20 Jun 2024 16:55:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/epidemic-simulator-and-web-app-models-viral-transmission-in-indoor-spaces">Epidemic Simulator and Web App Models Viral Transmission in Indoor Spaces</a> - Thu, 13 Jun 2024 21:51:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/optimization-techniques-maximize-real-time-management-of-water-supply-systems">Optimization Techniques Maximize Real-time Management of Water Supply Systems</a> - Thu, 13 Jun 2024 20:08:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/mathematical-model-explores-tissue-specific-insulin-resistance-in-adolescent-girls-with-pcos">Mathematical Model Explores Tissue-specific Insulin Resistance in Adolescent Girls with PCOS</a> - Thu, 13 Jun 2024 02:30:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/from-a-point-to-a-torus-unveiling-emergent-dynamics-with-higher-order-bifurcations">From a Point to a Torus: Unveiling Emergent Dynamics with Higher-order Bifurcations</a> - Fri, 05 Jul 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/the-mathematics-of-reliable-artificial-intelligence">The Mathematics of Reliable Artificial Intelligence</a> - Fri, 05 Jul 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/the-geometry-of-the-neuromanifold">The Geometry of the Neuromanifold</a> - Fri, 05 Jul 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/modeling-the-impact-of-rainfall-variability-on-vegetation-in-drylands">Modeling the Impact of Rainfall Variability on Vegetation in Drylands</a> - Fri, 05 Jul 2024 12:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/does-air-rotate-with-the-tire">Does Air Rotate with the Tire?</a> - Fri, 05 Jul 2024 12:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
