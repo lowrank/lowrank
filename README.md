@@ -60,7 +60,7 @@
 * <a href="https://arxiv.org/abs/2407.04021">Total Lagrangian Smoothed Particle Hydrodynamics with An Improved Bond-Based Deformation Gradient for Large Strain Solid Dynamics</a>
 * <a href="https://arxiv.org/abs/2407.04206">Computational Graph Representation of Equations System Constructors in Hierarchical Circuit Simulation</a>
 * <a href="https://arxiv.org/abs/2407.04361">Crouzeix-Raviart elements on simplicial meshes in $d$ dimensions</a>
-* <a href="https://arxiv.org/abs/2407.04364">Constraint Energy Minimizing GMsFEM for Helmholtz equations in heterogeneous medium</a>
+* <a href="https://arxiv.org/abs/2407.04364">Robust Multiscale Methods for Helmholtz equations in high contrast heterogeneous media</a>
 * <a href="https://arxiv.org/abs/2407.04399">Theoretical analysis of a finite-volume scheme for a stochastic Allen-Cahn problem with constraint</a>
 * <a href="https://arxiv.org/abs/2407.04401">High-order WENO finite-difference methods for hyperbolic nonconservative systems of Partial Differential Equations</a>
 * <a href="https://arxiv.org/abs/2407.04428">FEM-BEM coupling for the high-frequency Helmholtz problem</a>
