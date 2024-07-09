@@ -9,11 +9,7 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
-* <a href="https://sinews.siam.org/Details-Page/from-a-point-to-a-torus-unveiling-emergent-dynamics-with-higher-order-bifurcations">From a Point to a Torus: Unveiling Emergent Dynamics with Higher-order Bifurcations</a> - Fri, 05 Jul 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/the-mathematics-of-reliable-artificial-intelligence">The Mathematics of Reliable Artificial Intelligence</a> - Fri, 05 Jul 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/the-geometry-of-the-neuromanifold">The Geometry of the Neuromanifold</a> - Fri, 05 Jul 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/modeling-the-impact-of-rainfall-variability-on-vegetation-in-drylands">Modeling the Impact of Rainfall Variability on Vegetation in Drylands</a> - Fri, 05 Jul 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/does-air-rotate-with-the-tire">Does Air Rotate with the Tire?</a> - Fri, 05 Jul 2024 12:00:00 GMT
+
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
