@@ -9,55 +9,44 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
+* <a href="https://sinews.siam.org/Details-Page/regression-and-machine-learning-offer-insights-about-body-composition-benchmarks">Regression and Machine Learning Offer Insights About Body Composition Benchmarks</a> - Wed, 10 Jul 2024 02:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/water-temperature-and-dissolved-oxygen-levels-impact-crustacean-populations-in-connecticut-waterways">Water Temperature and Dissolved Oxygen Levels Impact Crustacean Populations in Connecticut Waterways</a> - Tue, 09 Jul 2024 20:30:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/optimizing-nonprofit-scheduling-at-project-open-hand">Optimizing Nonprofit Scheduling at Project Open Hand</a> - Tue, 09 Jul 2024 19:08:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/from-a-point-to-a-torus-unveiling-emergent-dynamics-with-higher-order-bifurcations">From a Point to a Torus: Unveiling Emergent Dynamics with Higher-order Bifurcations</a> - Fri, 05 Jul 2024 12:00:00 GMT
 * <a href="https://sinews.siam.org/Details-Page/the-mathematics-of-reliable-artificial-intelligence">The Mathematics of Reliable Artificial Intelligence</a> - Fri, 05 Jul 2024 12:00:00 GMT
-* <a href="https://sinews.siam.org/Details-Page/the-geometry-of-the-neuromanifold">The Geometry of the Neuromanifold</a> - Fri, 05 Jul 2024 12:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2407.05041">Local convergence analysis of L1/finite element scheme for a constant delay reaction-subdiffusion equation with uniform time mesh</a>
-* <a href="https://arxiv.org/abs/2407.05049">A hybrid upwind scheme for two-phase flow in fractured porous media</a>
-* <a href="https://arxiv.org/abs/2407.05078">Function and derivative approximation by shallow neural networks</a>
-* <a href="https://arxiv.org/abs/2407.05129">Modeling localized failure in geomaterials by large-deformation-plasticity periporomechanics</a>
-* <a href="https://arxiv.org/abs/2407.05185">Sequential hybrid finite element and material point method to simulate slope failures</a>
-* <a href="https://arxiv.org/abs/2407.05230">Matrix perturbation bounds via contour bootstrapping</a>
-* <a href="https://arxiv.org/abs/2407.05253">A Third-order Implicit-Explicit Runge-Kutta Method for Landau-Lifshitz Equation with Arbitrary Damping Parameters</a>
-* <a href="https://arxiv.org/abs/2407.05275">Numerical solution of two dimensional scalar conservation laws using compact implicit numerical schemes</a>
-* <a href="https://arxiv.org/abs/2407.05475">pythOS: A Python library for solving IVPs by operator splitting</a>
-* <a href="https://arxiv.org/abs/2407.05477">Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators</a>
-* <a href="https://arxiv.org/abs/2407.05568">High-order accurate entropy stable schemes for compressible Euler equations with van der Waals equation of state on adaptive moving meshes</a>
-* <a href="https://arxiv.org/abs/2407.05626">A Stochastic Interacting Particle-Field Algorithm for a Haptotaxis Advection-Diffusion System Modeling Cancer Cell Invasion</a>
-* <a href="https://arxiv.org/abs/2407.05724">Nonintrusive model order reduction for stochastic differential equations</a>
-* <a href="https://arxiv.org/abs/2407.05772">Compression using Quasi-Interpolation</a>
-* <a href="https://arxiv.org/abs/2407.05823">A boundary integral equation formulation for transient electromagnetic transmission problems on Lipschitz domains</a>
-* <a href="https://arxiv.org/abs/2407.05894">On Nonlinear Closures for Moment Equations Based on Orthogonal Polynomials</a>
-* <a href="https://arxiv.org/abs/2407.05927">Multiscale Modeling Framework using Element-based Galerkin Methods for Moist Atmospheric Limited-Area Simulations</a>
-* <a href="https://arxiv.org/abs/2407.05930">A multigrid reduction framework for domains with symmetries</a>
-* <a href="https://arxiv.org/abs/2407.05945">An Arnoldi-based approach to polynomial and rational least squares problems</a>
-* <a href="https://arxiv.org/abs/2407.05949">Analysis and finite element approximation of a diffuse interface approach to the Stokes--Biot coupling</a>
-* <a href="https://arxiv.org/abs/2407.06022">Investigation of microstructural evolution of irradiation-induced defects in tungsten: an experimental-numerical approach</a>
-* <a href="https://arxiv.org/abs/2407.06049">On the Consistency of Dynamic Wetting Boundary Conditions for the Navier-Stokes-Cahn-Hilliard Equations</a>
-* <a href="https://arxiv.org/abs/2407.06158">Local error estimates and post processing for the Galerkin boundary element method on polygons</a>
-* <a href="https://arxiv.org/abs/2407.05159">Roughness regularization for functional data analysis with free knots spline estimation</a>
-* <a href="https://arxiv.org/abs/2407.05223">On the Higuchi fractal dimension of invariant measures for countable idempotent iterated function systems</a>
-* <a href="https://arxiv.org/abs/2407.05634">Infinite quantum signal processing for arbitrary SzegH o functions</a>
-* <a href="https://arxiv.org/abs/2407.05719">A naive integral</a>
-* <a href="https://arxiv.org/abs/2407.05966">On Bellman equations for continuous-time policy evaluation I: discretization and approximation</a>
-* <a href="https://arxiv.org/abs/2305.19853">Parametric Shape Holomorphy of Boundary Integral Operators with Applications</a>
-* <a href="https://arxiv.org/abs/2308.05244">Hybrid approach to the joint spectral radius computation</a>
-* <a href="https://arxiv.org/abs/2312.00489">Optimal complexity of goal-oriented adaptive FEM for nonsymmetric linear elliptic PDEs</a>
-* <a href="https://arxiv.org/abs/2401.13196">Stable numerics for finite-strain elasticity</a>
-* <a href="https://arxiv.org/abs/2403.03782">On the Injectivity Radius of the Stiefel Manifold: Numerical investigations and an explicit construction of a cut point at short distance</a>
-* <a href="https://arxiv.org/abs/2403.13746">A variationally consistent membrane wrinkling model based on tension-compression decomposition of the strain tensor</a>
-* <a href="https://arxiv.org/abs/2404.04089">A single shooting method with approximate Fr'{e}chet derivative for computing geodesics on the Stiefel manifold</a>
-* <a href="https://arxiv.org/abs/2405.10390">Two-point stress approximation: A simple and robust finite volume method for linearized (poro-)mechanics and Stokes flow</a>
-* <a href="https://arxiv.org/abs/2407.02602">Properties of core-EP matrices and binary relationships</a>
-* <a href="https://arxiv.org/abs/2407.04364">Robust Multiscale Methods for Helmholtz equations in high contrast heterogeneous media</a>
-* <a href="https://arxiv.org/abs/2305.16689">Epidemic Transmission Modeling with Fractional Derivatives and Environmental Pathogens</a>
-* <a href="https://arxiv.org/abs/2401.11646">Nonparametric Density Estimation via Variance-Reduced Sketching</a>
-* <a href="https://arxiv.org/abs/2402.07759">Robust and accurate simulations of flows over orography using non-conforming meshes</a>
-* <a href="https://arxiv.org/abs/2406.17119">Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone</a>
+* <a href="https://arxiv.org/abs/2407.06306">A Hybrid Algorithm for Computing a Partial Singular Value Decomposition Satisfying a Given Threshold</a>
+* <a href="https://arxiv.org/abs/2407.06437">Higher Order Multidimensional Slope Limiters with Local Maximum Principles</a>
+* <a href="https://arxiv.org/abs/2407.06467">A Constrained Least-Squares Ghost Sample Points (CLS-GSP) Method for Differential Operators on Point Clouds</a>
+* <a href="https://arxiv.org/abs/2407.06656">Estimates on the stability constant for the truncated Fourier transform</a>
+* <a href="https://arxiv.org/abs/2407.06664">PDEformer-1: A Foundation Model for One-Dimensional Partial Differential Equations</a>
+* <a href="https://arxiv.org/abs/2407.06674">Almost-sure quasi-optimal approximation in reproducing kernel Hilbert spaces</a>
+* <a href="https://arxiv.org/abs/2407.06678">Multilevel quadrature formulae for the optimal control of random PDEs</a>
+* <a href="https://arxiv.org/abs/2407.06784">Preasymptotic error estimates of EEM and CIP-EEM for the time-harmonic Maxwell equations with large wave number</a>
+* <a href="https://arxiv.org/abs/2407.06831">A Locking-free modified conforming FEM for planar elasticity</a>
+* <a href="https://arxiv.org/abs/2407.06834">Efficient nonlocal linear image denoising: Bilevel optimization with Nonequispaced Fast Fourier Transform and matrix-free preconditioning</a>
+* <a href="https://arxiv.org/abs/2407.06929">Convergence of the Semi-Discrete WaveHoltz Iteration</a>
+* <a href="https://arxiv.org/abs/2407.04013">Approximation of rogue waves using Malmquist-Takenaka functions</a>
+* <a href="https://arxiv.org/abs/2407.06312">Limits and Powers of Koopman Learning</a>
+* <a href="https://arxiv.org/abs/2407.06333">A third-order finite difference weighted essentially non-oscillatory scheme with shallow neural network</a>
+* <a href="https://arxiv.org/abs/2407.06418">System stabilization with policy optimization on unstable latent manifolds</a>
+* <a href="https://arxiv.org/abs/2407.06783">Convergence rates for Poisson learning to a Poisson equation with measure data</a>
+* <a href="https://arxiv.org/abs/2407.07031">A scalable multidimensional fully implicit solver for Hall magnetohydrodynamics</a>
+* <a href="https://arxiv.org/abs/2310.10783">Laplace-based strategies for Bayesian optimal experimental design with nuisance uncertainty</a>
+* <a href="https://arxiv.org/abs/2310.13564">$hp$-optimal convergence of the original DG method for linear hyperbolic problems on special simplicial meshes</a>
+* <a href="https://arxiv.org/abs/2312.00630">A fast and efficient numerical method for computing the stress concentration between closely located stiff inclusions of general shapes</a>
+* <a href="https://arxiv.org/abs/2312.03295">Singular Layer Physics-Informed Neural Network Method for Convection-Dominated Boundary Layer Problems in Two Dimensions</a>
+* <a href="https://arxiv.org/abs/2312.15382">Efficient simulation of mixed boundary value problems and conformal mappings</a>
+* <a href="https://arxiv.org/abs/2312.17396">Mixed-Precision Paterson--Stockmeyer Method for Evaluating Polynomials of Matrices</a>
+* <a href="https://arxiv.org/abs/2403.18970">Two-level overlapping Schwarz preconditioners with universal coarse spaces for $2m$th-order elliptic problems</a>
+* <a href="https://arxiv.org/abs/2405.01079">Singular Value and Frame Decomposition-based Reconstruction for Atmospheric Tomography</a>
+* <a href="https://arxiv.org/abs/2405.03169">SOC-MartNet: A Martingale Neural Network for the Hamilton-Jacobi-Bellman Equation without Explicit inf H in Stochastic Optimal Controls</a>
+* <a href="https://arxiv.org/abs/2406.06342">A Guide to Stochastic Optimisation for Large-Scale Inverse Problems</a>
+* <a href="https://arxiv.org/abs/2407.00822">ROM inversion of monostatic data lifted to full MIMO</a>
+* <a href="https://arxiv.org/abs/2307.08136">On posterior consistency of data assimilation with Gaussian process priors: the 2D Navier-Stokes equations</a>
+* <a href="https://arxiv.org/abs/2401.09097">A hybrid tau-leap for simulating chemical kinetics with applications to parameter estimation</a>
+* <a href="https://arxiv.org/abs/2402.12072">Robustness and Exploration of Variational and Machine Learning Approaches to Inverse Problems: An Overview</a>
 <!-- arxiv-math-na ends -->
