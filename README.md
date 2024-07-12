@@ -24,7 +24,7 @@
 * <a href="https://arxiv.org/abs/2407.07371">Formulation and analysis of a DPG discretization for a simplified electrochemical model</a>
 * <a href="https://arxiv.org/abs/2407.07451">Hopf algebra structures for the backward error analysis of ergodic stochastic differential equations</a>
 * <a href="https://arxiv.org/abs/2407.07498">A preconditioner for the grad-div stabilized equal-order finite elements discretizations of the Oseen problem</a>
-* <a href="https://arxiv.org/abs/2407.07629">A Mixed Finite Element Method by Patch Reconstruction for the Quad-Curl Problem</a>
+* <a href="https://arxiv.org/abs/2407.07629">A Finite Element Method by Patch Reconstruction for the Quad-Curl Problem Using Mixed Formulations</a>
 * <a href="https://arxiv.org/abs/2407.07642">Machine learning of discrete field theories with guaranteed convergence and uncertainty quantification</a>
 * <a href="https://arxiv.org/abs/2407.07654">Explicit inverse of symmetric, tridiagonal near Toeplitz matrices Part II: with weakly diagonally dominant Toeplitz</a>
 * <a href="https://arxiv.org/abs/2407.07768">A short perspective on a posteriori error control and adaptive discretizations</a>
