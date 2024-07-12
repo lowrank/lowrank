@@ -18,35 +18,20 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2407.07199">Approximating and preconditioning the stiffness matrix in the GoFD approximation of the fractional Laplacian</a>
-* <a href="https://arxiv.org/abs/2407.07218">Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential equations</a>
-* <a href="https://arxiv.org/abs/2407.07253">Monolithic Multigrid Preconditioners for High-Order Discretizations of Stokes Equations</a>
-* <a href="https://arxiv.org/abs/2407.07371">Formulation and analysis of a DPG discretization for a simplified electrochemical model</a>
-* <a href="https://arxiv.org/abs/2407.07451">Hopf algebra structures for the backward error analysis of ergodic stochastic differential equations</a>
-* <a href="https://arxiv.org/abs/2407.07498">A preconditioner for the grad-div stabilized equal-order finite elements discretizations of the Oseen problem</a>
+* <a href="https://arxiv.org/abs/2407.08184">Geometry-based Multi-beam Survey Line Layout Problem</a>
+* <a href="https://arxiv.org/abs/2407.08383">Error estimates of physics-informed neural networks for approximating Boltzmann equation</a>
+* <a href="https://arxiv.org/abs/2407.08439">A fitted space-time finite element method for an advection-diffusion problem with moving interfaces</a>
+* <a href="https://arxiv.org/abs/2407.08615">MgFNO: Multi-grid Architecture Fourier Neural Operator for Parametric Partial Differential Equations</a>
+* <a href="https://arxiv.org/abs/2407.08092">Extending DD-$alpha$AMG on heterogeneous machines</a>
+* <a href="https://arxiv.org/abs/2407.08456">Propagation and non-reciprocity in time-modulated diffusion through the lens of high-order homogenization</a>
+* <a href="https://arxiv.org/abs/2109.00067">Sensitivity Approximation by the Peano-Baker Series</a>
+* <a href="https://arxiv.org/abs/2304.12465">Robust, randomized preconditioning for kernel ridge regression</a>
+* <a href="https://arxiv.org/abs/2306.01416">Algorithmic realization of the solution to the sign conflict problem for hanging nodes on hp-hexahedral N'ed'elec elements</a>
+* <a href="https://arxiv.org/abs/2310.06687">A Divergence-Free and $H(div)$-Conforming Embedded-Hybridized DG Method for the Incompressible Resistive MHD equations</a>
+* <a href="https://arxiv.org/abs/2401.00533">Convergence of the complex block Jacobi methods under the generalized serial pivot strategies</a>
+* <a href="https://arxiv.org/abs/2402.08395">New limiter regions for multidimensional flows</a>
+* <a href="https://arxiv.org/abs/2404.15315">Variationally consistent Hamiltonian model reduction</a>
 * <a href="https://arxiv.org/abs/2407.07629">A Finite Element Method by Patch Reconstruction for the Quad-Curl Problem Using Mixed Formulations</a>
-* <a href="https://arxiv.org/abs/2407.07642">Machine learning of discrete field theories with guaranteed convergence and uncertainty quantification</a>
-* <a href="https://arxiv.org/abs/2407.07654">Explicit inverse of symmetric, tridiagonal near Toeplitz matrices Part II: with weakly diagonally dominant Toeplitz</a>
-* <a href="https://arxiv.org/abs/2407.07768">A short perspective on a posteriori error control and adaptive discretizations</a>
-* <a href="https://arxiv.org/abs/2407.07814">Optimal sampling for least squares approximation with general dictionaries</a>
-* <a href="https://arxiv.org/abs/2407.07834">Generic Numerical Analysis of Stochastic Reaction Diffusion Model with applications in excitable media</a>
-* <a href="https://arxiv.org/abs/2407.07865">Two Nitsche-based mixed finite element discretizations for the seepage problem in Richards' equation</a>
-* <a href="https://arxiv.org/abs/2407.07375">Stable Weight Updating: A Key to Reliable PDE Solutions Using Deep Learning</a>
-* <a href="https://arxiv.org/abs/2407.07519">Bilinear optimal control for chemotaxis model: The case of two-sidedly degenerate diffusion with Volume-Filling Effect</a>
-* <a href="https://arxiv.org/abs/2407.07556">Mini-batch descent in semiflows</a>
-* <a href="https://arxiv.org/abs/1910.14376">The second boundary value problem for a discrete Monge-Ampere equation</a>
-* <a href="https://arxiv.org/abs/1911.00260">Convergence of a damped Newton's method for discrete Monge-Ampere functions with a prescribed asymptotic cone</a>
-* <a href="https://arxiv.org/abs/2302.00898">Reduced basis approximation of parametric eigenvalue problems in presence of clusters and intersections</a>
-* <a href="https://arxiv.org/abs/2307.14961">A localized orthogonal decomposition strategy for hybrid discontinuous Galerkin methods</a>
-* <a href="https://arxiv.org/abs/2310.07541">Building hierarchies of semiclassical Jacobi polynomials for spectral methods in annuli</a>
-* <a href="https://arxiv.org/abs/2310.10041">Convolution quadratures based on block generalized Adams methods</a>
-* <a href="https://arxiv.org/abs/2311.02031">IRKA is a Riemannian Gradient Descent Method</a>
-* <a href="https://arxiv.org/abs/2312.06191">Iterative methods of linearized moment equations for rarefied gases</a>
-* <a href="https://arxiv.org/abs/2402.10570">Optimisation-Based Coupling of Finite Element Model and Reduced Order Model for Computational Fluid Dynamics</a>
-* <a href="https://arxiv.org/abs/2403.09586">Enhanced and Generalized One-Step Neville Algorithm: Fractional Powers and Access to the Convergence Rate</a>
-* <a href="https://arxiv.org/abs/2404.05655">Convergence rates for a finite volume scheme of the stochastic heat equation</a>
-* <a href="https://arxiv.org/abs/2209.10909">Vanilla Feedforward Neural Networks as a Discretization of Dynamical Systems</a>
-* <a href="https://arxiv.org/abs/2406.17933">Modeling and simulations of high-density two-phase flows using projection-based Cahn-Hilliard Navier-Stokes equations</a>
-* <a href="https://arxiv.org/abs/2407.05634">Infinite quantum signal processing for arbitrary SzegH{o} functions</a>
-* <a href="https://arxiv.org/abs/2407.06333">A third-order finite difference weighted essentially non-oscillatory scheme with shallow neural network</a>
+* <a href="https://arxiv.org/abs/2310.04396">Interpolating Parametrized Quantum Circuits using Blackbox Queries</a>
+* <a href="https://arxiv.org/abs/2405.08201">Numerical approximation of the stochastic heat equation with a distributional reaction term</a>
 <!-- arxiv-math-na ends -->
