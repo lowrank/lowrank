@@ -18,5 +18,21 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2407.08988">FEM on nonuniform meshes for nonlocal Laplacian: Semi-analytic Implementation in One Dimension</a>
+* <a href="https://arxiv.org/abs/2407.09032">DRM Revisited: A Complete Error Analysis</a>
+* <a href="https://arxiv.org/abs/2407.09034">Numerical approximation of ergodic BSDEs using non linear Feynman-Kac formulas</a>
+* <a href="https://arxiv.org/abs/2407.09393">A Numerical Study of WENO Approximations to Sharp Propagating Fronts for Reaction-Diffusion Systems</a>
+* <a href="https://arxiv.org/abs/2407.09416">Structure preserving schemes for a class of Wasserstein gradient flows</a>
+* <a href="https://arxiv.org/abs/2407.09418">Efficient energy-stable parametric finite element methods for surface diffusion flow and applications in solid-state dewetting</a>
+* <a href="https://arxiv.org/abs/2407.09436">A novel direct Helmholtz solver in inhomogeneous media based on the operator Fourier transform functional calculus</a>
+* <a href="https://arxiv.org/abs/2407.08840">Data-driven Model Reduction for Soft Robots via Lagrangian Operator Inference</a>
+* <a href="https://arxiv.org/abs/2407.08871">Quantifying the Influence of Combined Lung and Kidney Support Using a Cardiovascular Model and Sensitivity Analysis-Informed Parameter Identification</a>
+* <a href="https://arxiv.org/abs/2407.08901">Accelerating Eigenvalue Computation for Nuclear Structure Calculations via Perturbative Corrections</a>
+* <a href="https://arxiv.org/abs/2407.09284">A Deep BSDE approximation of nonlinear integro-PDEs with unbounded nonlocal operators</a>
+* <a href="https://arxiv.org/abs/2207.14341">Tensor Decompositions for Count Data that Leverage Stochastic and Deterministic Optimization</a>
+* <a href="https://arxiv.org/abs/2301.08944">A high order unfitted finite element method for time-Harmonic Maxwell interface problems</a>
+* <a href="https://arxiv.org/abs/2305.06863">Deep Finite Volume Method for Partial Differential Equations</a>
+* <a href="https://arxiv.org/abs/2310.07331">Asymptotically stable Particle-in-Cell methods for the magnetized Vlasov--Poisson equations in orthogonal curvilinear coordinates</a>
+* <a href="https://arxiv.org/abs/2403.16975">Unconditionally positivity-preserving approximations of the Ait-Sahalia type model: Explicit Milstein-type schemes</a>
+* <a href="https://arxiv.org/abs/2406.06287">VS-PINN: A fast and efficient training of physics-informed neural networks using variable-scaling methods for solving PDEs with stiff behavior</a>
 <!-- arxiv-math-na ends -->
