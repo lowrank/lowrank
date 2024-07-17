@@ -20,7 +20,6 @@
 <!-- arxiv-math-na starts -->
 * <a href="https://arxiv.org/abs/2407.09659">A posteriori error analysis for a coupled Stokes-poroelastic system with multiple compartments</a>
 * <a href="https://arxiv.org/abs/2407.09660">A monotone finite element method for reaction-drift-diffusion equations with discontinuous reaction coefficients</a>
-* <a href="https://arxiv.org/abs/2407.09711">Data Analysis of Decision Support for Sustainable Welfare in The Presence of GDP Threshold Effects: A Case Study of Interactive Data Exploration</a>
 * <a href="https://arxiv.org/abs/2407.09720">Characterization of the forcing and sub-filter scale terms in the volume-filtering immersed boundary method</a>
 * <a href="https://arxiv.org/abs/2407.09749">Implicit learning to determine variable sound speed and the reconstruction operator in photoacoustic tomography</a>
 * <a href="https://arxiv.org/abs/2407.09848">Optimal Polynomial Smoothers for Parallel AMG</a>
