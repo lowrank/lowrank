@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/will-ai-ever-have-common-sense-20240718/">Will AI Ever Have Common Sense?</a> - Thu, 18 Jul 2024 13:10:54 +0000
 * <a href="https://www.quantamagazine.org/tight-knit-microbes-live-together-to-make-a-vital-nutrient-20240717/">Tight-Knit Microbes Live Together to Make a Vital Nutrient</a> - Wed, 17 Jul 2024 13:55:59 +0000
 * <a href="https://www.quantamagazine.org/sensational-proof-delivers-new-insights-into-prime-numbers-20240715/">‘Sensational’ Proof Delivers New Insights Into Prime Numbers</a> - Mon, 15 Jul 2024 13:55:18 +0000
 * <a href="https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/">What Could Explain the Gallium Anomaly?</a> - Fri, 12 Jul 2024 13:30:54 +0000
 * <a href="https://www.quantamagazine.org/how-americas-fastest-swimmers-use-math-to-win-gold-20240710/">How America’s Fastest Swimmers Use Math to Win Gold</a> - Wed, 10 Jul 2024 14:45:34 +0000
-* <a href="https://www.quantamagazine.org/what-is-machine-learning-20240708/">What Is Machine Learning?</a> - Mon, 08 Jul 2024 15:36:07 +0000
 <!-- quanta ends -->
 
 ### 📝 SIAM News Research
