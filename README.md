@@ -9,7 +9,11 @@
 
 ### 📝 SIAM News Research
 <!-- siam-news starts -->
-
+* <a href="https://sinews.siam.org/Details-Page/using-k-mer-analysis-to-understand-bacterial-genome-data">Using k-mer Analysis to Understand Bacterial Genome Data</a> - Wed, 17 Jul 2024 14:31:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/linear-regression-model-forecasts-water-consumption-trends-in-the-vicinity-of-zion-national-park">Linear Regression Model Forecasts Water Consumption Trends in the Vicinity of Zion National Park</a> - Thu, 11 Jul 2024 21:56:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/ordinary-differential-equation-model-investigates-the-dynamics-of-legionnaires-disease">Ordinary Differential Equation Model Investigates the Dynamics of Legionnaires' Disease</a> - Thu, 11 Jul 2024 02:00:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/the-ethical-considerations-of-infectious-disease-interventions">The Ethical Considerations of Infectious Disease Interventions</a> - Wed, 10 Jul 2024 21:29:00 GMT
+* <a href="https://sinews.siam.org/Details-Page/regression-and-machine-learning-offer-insights-about-body-composition-benchmarks">Regression and Machine Learning Offer Insights About Body Composition Benchmarks</a> - Wed, 10 Jul 2024 02:00:00 GMT
 <!-- siam-news ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
