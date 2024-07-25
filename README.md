@@ -14,28 +14,27 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2407.15965">High-dimensional sparse trigonometric approximation in the uniform norm and consequences for sampling recovery</a>
-* <a href="https://arxiv.org/abs/2407.15971">Well-posedness of the Stokes problem under modified pressure Dirichlet boundary conditions</a>
-* <a href="https://arxiv.org/abs/2407.15973">Mixed Precision Block-Jacobi Preconditioner: Algorithms, Performance Evaluation and Feature Analysis</a>
-* <a href="https://arxiv.org/abs/2407.15974">A priori and a posteriori error estimates for discontinuous Galerkin time-discrete methods via maximal regularity</a>
-* <a href="https://arxiv.org/abs/2407.16065">A discontinuous Galerkin method for the three-dimensional heterodimer model with application to prion-like proteins' dynamics</a>
-* <a href="https://arxiv.org/abs/2407.16091">Early Recognition of Parkinson's Disease Through Acoustic Analysis and Machine Learning</a>
-* <a href="https://arxiv.org/abs/2407.16401">Optimal parameter choice for regularized Shannon sampling formulas</a>
-* <a href="https://arxiv.org/abs/2407.16498">A high-order accurate unconditionally stable bound-preserving numerical scheme for the Cahn-Hilliard-Navier-Stokes equations</a>
-* <a href="https://arxiv.org/abs/2407.16559">Adaptive time-stepping for aggregation-shattering kinetics</a>
-* <a href="https://arxiv.org/abs/2407.16661">Regenerative Ulam-von Neumann Algorithm: An Innovative Markov chain Monte Carlo Method for Matrix Inversion</a>
-* <a href="https://arxiv.org/abs/2407.15895">Quantum Circuits for the heat equation with physical boundary conditions via Schrodingerisation</a>
-* <a href="https://arxiv.org/abs/2407.16175">A new Representation of $alpha$-Bernstein Operators</a>
-* <a href="https://arxiv.org/abs/2407.16212">Optimal experimental design: Formulations and computations</a>
-* <a href="https://arxiv.org/abs/2407.16474">Asymptotic properties for a general class of Szasz-Mirakjan-Durrmeyer operators</a>
-* <a href="https://arxiv.org/abs/2210.04709">Error analysis of a backward Euler positive preserving stabilized scheme for a Chemotaxis system</a>
-* <a href="https://arxiv.org/abs/2306.02547">An Euler-type method for Volterra integro-differential equations</a>
-* <a href="https://arxiv.org/abs/2308.10748">Iterative solution to the biharmonic equation in mixed form discretized by the Hybrid High-Order method</a>
-* <a href="https://arxiv.org/abs/2310.01713">First-order greedy invariant-domain preserving approximation for hyperbolic problems: scalar conservation laws, and p-system</a>
-* <a href="https://arxiv.org/abs/2401.11146">Generalized Optimal AMG Convergence Theory for Nonsymmetric and Indefinite Problems</a>
-* <a href="https://arxiv.org/abs/2402.07669">A History-dependent Dynamic Biot Model</a>
-* <a href="https://arxiv.org/abs/2211.12592">Representations of the symmetric group are decomposable in polynomial time</a>
-* <a href="https://arxiv.org/abs/2301.02268">Restarts subject to approximate sharpness: A parameter-free and optimal scheme for first-order methods</a>
-* <a href="https://arxiv.org/abs/2307.07679">Sharp Convergence Rates for Matching Pursuit</a>
-* <a href="https://arxiv.org/abs/2405.10916">Nearly self-similar blowup of generalized axisymmetric Navier-Stokes and Boussinesq equations</a>
+* <a href="https://arxiv.org/abs/2407.16815">Local subcell monolithic DG/FV convex property preserving scheme on unstructured grids and entropy consideration</a>
+* <a href="https://arxiv.org/abs/2407.16825">Polynomial histopolation on mock-Chebyshev segments</a>
+* <a href="https://arxiv.org/abs/2407.16925">Randomized dual singular value decomposition</a>
+* <a href="https://arxiv.org/abs/2407.16995">Solving Partial Differential Equations on Evolving Surfaces via the Constrained Least-Squares and Grid-Based Particle Method</a>
+* <a href="https://arxiv.org/abs/2407.17046">A C^s-smooth mixed degree and regularity isogeometric spline space over planar multi-patch domains</a>
+* <a href="https://arxiv.org/abs/2407.17047">Computing asymptotic eigenvectors and eigenvalues of perturbed symmetric matrices</a>
+* <a href="https://arxiv.org/abs/2407.17082">A Coupled Diffusion Approximation for Spatiotemporal Hemodynamic Response and Deoxygenated Blood Volume Fraction in Microcirculation</a>
+* <a href="https://arxiv.org/abs/2407.17092">Universal Approximation of Dynamical Systems by Semi-Autonomous Neural ODEs and Applications</a>
+* <a href="https://arxiv.org/abs/2407.17130">Multiscale modeling for a class of high-contrast heterogeneous sign-changing problems</a>
+* <a href="https://arxiv.org/abs/2407.17159">Pointwise error bounds in POD methods without difference quotients</a>
+* <a href="https://arxiv.org/abs/2407.17171">Deep Learning Reduced Order Modelling on Parametric and Data driven domains</a>
+* <a href="https://arxiv.org/abs/2407.17251">Applications of Dual Complex Adjoint Matrix in Eigenvalue Computation of Dual Quaternion Hermitian Matrix</a>
+* <a href="https://arxiv.org/abs/2407.17258">A New Scalar Auxiliary Variable Approach for Gradient Flows</a>
+* <a href="https://arxiv.org/abs/2407.16817">Harmonic maps from post-critically finite fractals to the circle</a>
+* <a href="https://arxiv.org/abs/2407.16872">How Can Deep Neural Networks Fail Even With Global Optima?</a>
+* <a href="https://arxiv.org/abs/2407.17146">Quantifying variabilities in cardiac digital twin models of the electrocardiogram</a>
+* <a href="https://arxiv.org/abs/2407.17151">High order approximations of the log-Heston process semigroup</a>
+* <a href="https://arxiv.org/abs/2303.00411">Pathwise Uniform Convergence of Time Discretisation Schemes for SPDEs</a>
+* <a href="https://arxiv.org/abs/2402.00737">Localization of point scatterers via sparse optimization on measures</a>
+* <a href="https://arxiv.org/abs/2402.04094">Stochastic theta methods for free stochastic differential equations</a>
+* <a href="https://arxiv.org/abs/2406.03468">Fast randomized least-squares solvers can be just as accurate and stable as classical direct solvers</a>
+* <a href="https://arxiv.org/abs/2407.13190">A Note on Generalized Locally Toeplitz Operators</a>
+* <a href="https://arxiv.org/abs/2310.10619">Shortest-path recovery from signature with an optimal control approach</a>
 <!-- arxiv-math-na ends -->
