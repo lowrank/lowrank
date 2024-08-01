@@ -14,25 +14,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2407.20356">Homomorphic data compression for real time photon correlation analysis</a>
-* <a href="https://arxiv.org/abs/2407.20417">Optimizing Variational Physics-Informed Neural Networks Using Least Squares</a>
-* <a href="https://arxiv.org/abs/2407.20424">A convergent augmented SAV scheme for stochastic Cahn--Hilliard equations with dynamic boundary conditions describing contact line tension</a>
-* <a href="https://arxiv.org/abs/2407.20490">Adaptive planning for risk-aware predictive digital twins</a>
-* <a href="https://arxiv.org/abs/2407.20625">Patterns in soil organic carbon dynamics: integrating microbial activity, chemotaxis and data-driven approaches</a>
-* <a href="https://arxiv.org/abs/2407.20655">Robust Augmented Mixed Finite Element Methods for Stoke Interface Problems with Discontinuous Viscosity in Multiple Subdomains</a>
-* <a href="https://arxiv.org/abs/2407.20698">Error estimates for full discretization of Cahn--Hilliard equation with dynamic boundary conditions</a>
-* <a href="https://arxiv.org/abs/2407.20702">A priori error estimates for optimal control problems governed by the transient Stokes equations and subject to state constraints pointwise in time</a>
-* <a href="https://arxiv.org/abs/2407.20966">High-order limiting methods using maximum principle bounds derived from the Boltzmann equation I: Euler equations</a>
-* <a href="https://arxiv.org/abs/2407.20353">Optimal Algorithms for Quantifying Spectral Size with Applications to Quasicrystals</a>
-* <a href="https://arxiv.org/abs/2407.20362">Generalized Ellipsoids</a>
-* <a href="https://arxiv.org/abs/2407.20520">Uncertainty Quantification under Noisy Constraints, with Applications to Raking</a>
-* <a href="https://arxiv.org/abs/2407.20741">Improving PINNs By Algebraic Inclusion of Boundary and Initial Conditions</a>
-* <a href="https://arxiv.org/abs/2407.20886">A Stochastic Precipitating Quasi-Geostrophic Model</a>
-* <a href="https://arxiv.org/abs/2402.16803">A stochastic perturbation approach to nonlinear bifurcating problems</a>
-* <a href="https://arxiv.org/abs/2402.17698">Learning reduced-order Quadratic-Linear models in Process Engineering using Operator Inference</a>
-* <a href="https://arxiv.org/abs/2404.13646">Physics-informed Discretization-independent Deep Compositional Operator Network</a>
-* <a href="https://arxiv.org/abs/2407.18886">Adaptive Parameter Selection in Nudging Based Data Assimilation</a>
-* <a href="https://arxiv.org/abs/2407.19217">Permuted preconditioning for extended saddle point problem arising from Neumann boundary control</a>
-* <a href="https://arxiv.org/abs/2407.19707">Neural networks for bifurcation and linear stability analysis of steady states in partial differential equations</a>
-* <a href="https://arxiv.org/abs/2302.02894">Spectral bounds for certain special type of rational matrices</a>
+* <a href="https://arxiv.org/abs/2407.21084">Quasi-Regression Monte-Carlo scheme for semi-linear PDEs and BSDEs with large scale parallelization on GPUs</a>
+* <a href="https://arxiv.org/abs/2407.21085">Stratified regression Monte-Carlo scheme for semilinear PDEs and BSDEs with large scale parallelization on GPUs</a>
+* <a href="https://arxiv.org/abs/2407.21283">High-order quasi-interpolation with generalized Gaussian kernels restricted over tori</a>
+* <a href="https://arxiv.org/abs/2407.21297">On the mean-field limit of the Cucker-Smale model with Random Batch Method</a>
+* <a href="https://arxiv.org/abs/2407.21505">Monotonicity, bounds and extrapolation of Block-Gauss and Gauss-Radau quadrature for computing $B^T phi (A) B$</a>
+* <a href="https://arxiv.org/abs/2407.21594">Stable Rank and Intrinsic Dimension of Real and Complex Matrices</a>
+* <a href="https://arxiv.org/abs/2407.21595">Precomputing approach for a two-scale phase transition model</a>
+* <a href="https://arxiv.org/abs/2407.21603">A {tau} Matrix Based Approximate Inverse Preconditioning for Tempered Fractional Diffusion Equations</a>
+* <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a>
+* <a href="https://arxiv.org/abs/2407.21672">Stable Sparse Operator Inference for Nonlinear Structural Dynamics</a>
+* <a href="https://arxiv.org/abs/2407.21722">Commutativity and spectral properties for a general class of Szasz-Mirakjan-Durrmeyer operators</a>
+* <a href="https://arxiv.org/abs/2407.21766">A Waveguide Port Boundary Condition based on approximation space restriction for Finite Element Analysis</a>
+* <a href="https://arxiv.org/abs/2407.21021">Isogeometric-based Asymptotic Analysis on Multi-layered Thin Shells</a>
+* <a href="https://arxiv.org/abs/2407.21642">Lyapunov weights to convey the meaning of time in physics-informed neural networks</a>
+* <a href="https://arxiv.org/abs/2407.21680">The Pascal Matrix, Commuting Tridiagonal Operators and Fourier Algebras</a>
+* <a href="https://arxiv.org/abs/2407.21707">Tree-Cotree-Based Tearing and Interconnecting for 3D Magnetostatics: A Dual-Primal Approach</a>
+* <a href="https://arxiv.org/abs/2309.12870">Penalty Ensembles for Navier-Stokes with Random Initial Conditions and Forcing</a>
+* <a href="https://arxiv.org/abs/2312.14566">Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability</a>
+* <a href="https://arxiv.org/abs/2402.10809">A Lattice Boltzmann Method for Non-Newtonian Blood Flow in Coiled Intracranial Aneurysms</a>
+* <a href="https://arxiv.org/abs/2405.16076">Online randomized interpolative decomposition with a posteriori error estimator for temporal PDE data reduction</a>
+* <a href="https://arxiv.org/abs/2407.06306">A Hybrid Algorithm for Computing a Partial Singular Value Decomposition Satisfying a Given Threshold</a>
+* <a href="https://arxiv.org/abs/2407.19350">A new approximation method for solving stochastic differential equations</a>
+* <a href="https://arxiv.org/abs/2401.17472">Convergence of the deep BSDE method for stochastic control problems formulated through the stochastic maximum principle</a>
+* <a href="https://arxiv.org/abs/2407.12708">An Approximation for the 32-point Discrete Fourier Transform</a>
+* <a href="https://arxiv.org/abs/2407.19223">On a generalization of Watson's trigonometric sum, some of its properties and its relationship to Dowker's sum</a>
+* <a href="https://arxiv.org/abs/2407.20195">Accelerated Primal-Dual Proximal Gradient Splitting Methods for Convex-Concave Saddle-Point Problems</a>
 <!-- arxiv-math-na ends -->
