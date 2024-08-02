@@ -14,30 +14,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2407.21084">Quasi-Regression Monte-Carlo scheme for semi-linear PDEs and BSDEs with large scale parallelization on GPUs</a>
-* <a href="https://arxiv.org/abs/2407.21085">Stratified regression Monte-Carlo scheme for semilinear PDEs and BSDEs with large scale parallelization on GPUs</a>
-* <a href="https://arxiv.org/abs/2407.21283">High-order quasi-interpolation with generalized Gaussian kernels restricted over tori</a>
-* <a href="https://arxiv.org/abs/2407.21297">On the mean-field limit of the Cucker-Smale model with Random Batch Method</a>
-* <a href="https://arxiv.org/abs/2407.21505">Monotonicity, bounds and extrapolation of Block-Gauss and Gauss-Radau quadrature for computing $B^T phi (A) B$</a>
-* <a href="https://arxiv.org/abs/2407.21594">Stable Rank and Intrinsic Dimension of Real and Complex Matrices</a>
-* <a href="https://arxiv.org/abs/2407.21595">Precomputing approach for a two-scale phase transition model</a>
-* <a href="https://arxiv.org/abs/2407.21603">A {tau} Matrix Based Approximate Inverse Preconditioning for Tempered Fractional Diffusion Equations</a>
-* <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a>
-* <a href="https://arxiv.org/abs/2407.21672">Stable Sparse Operator Inference for Nonlinear Structural Dynamics</a>
-* <a href="https://arxiv.org/abs/2407.21722">Commutativity and spectral properties for a general class of Szasz-Mirakjan-Durrmeyer operators</a>
-* <a href="https://arxiv.org/abs/2407.21766">A Waveguide Port Boundary Condition based on approximation space restriction for Finite Element Analysis</a>
-* <a href="https://arxiv.org/abs/2407.21021">Isogeometric-based Asymptotic Analysis on Multi-layered Thin Shells</a>
-* <a href="https://arxiv.org/abs/2407.21642">Lyapunov weights to convey the meaning of time in physics-informed neural networks</a>
-* <a href="https://arxiv.org/abs/2407.21680">The Pascal Matrix, Commuting Tridiagonal Operators and Fourier Algebras</a>
-* <a href="https://arxiv.org/abs/2407.21707">Tree-Cotree-Based Tearing and Interconnecting for 3D Magnetostatics: A Dual-Primal Approach</a>
-* <a href="https://arxiv.org/abs/2309.12870">Penalty Ensembles for Navier-Stokes with Random Initial Conditions and Forcing</a>
-* <a href="https://arxiv.org/abs/2312.14566">Variational approximation for a non-isothermal coupled phase-field system: Structure-preservation & Nonlinear stability</a>
-* <a href="https://arxiv.org/abs/2402.10809">A Lattice Boltzmann Method for Non-Newtonian Blood Flow in Coiled Intracranial Aneurysms</a>
-* <a href="https://arxiv.org/abs/2405.16076">Online randomized interpolative decomposition with a posteriori error estimator for temporal PDE data reduction</a>
-* <a href="https://arxiv.org/abs/2407.06306">A Hybrid Algorithm for Computing a Partial Singular Value Decomposition Satisfying a Given Threshold</a>
-* <a href="https://arxiv.org/abs/2407.19350">A new approximation method for solving stochastic differential equations</a>
-* <a href="https://arxiv.org/abs/2401.17472">Convergence of the deep BSDE method for stochastic control problems formulated through the stochastic maximum principle</a>
-* <a href="https://arxiv.org/abs/2407.12708">An Approximation for the 32-point Discrete Fourier Transform</a>
-* <a href="https://arxiv.org/abs/2407.19223">On a generalization of Watson's trigonometric sum, some of its properties and its relationship to Dowker's sum</a>
-* <a href="https://arxiv.org/abs/2407.20195">Accelerated Primal-Dual Proximal Gradient Splitting Methods for Convex-Concave Saddle-Point Problems</a>
+* <a href="https://arxiv.org/abs/2408.00130">Sampling strategies for expectation values within the Herman--Kluk approximation</a>
+* <a href="https://arxiv.org/abs/2408.00212">Well-conditioned dipole-type method of fundamental solutions: derivation and its mathematical analysis</a>
+* <a href="https://arxiv.org/abs/2408.00304">Constraint Energy Minimizing Generalized Multiscale Finite Element Method for Convection Diffusion Equations with Inhomogeneous Boundary Conditions</a>
+* <a href="https://arxiv.org/abs/2408.00392">Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems</a>
+* <a href="https://arxiv.org/abs/2408.00396">Analysis of continuous data assimilation with large (or even infinite) nudging parameters</a>
+* <a href="https://arxiv.org/abs/2408.00450">Space-Time Isogeometric Method for a Nonlocal Parabolic Problem</a>
+* <a href="https://arxiv.org/abs/2408.00488">Absolute-value based preconditioner for complex-shifted Laplacian systems</a>
+* <a href="https://arxiv.org/abs/2408.00497">A note about high-order semi-implicit differentiation: application to a numerical integration scheme with Taylor-based compensated error</a>
+* <a href="https://arxiv.org/abs/2408.00533">Predicting nonlinear-flow regions in highly heterogeneous porous media using adaptive constitutive laws and neural networks</a>
+* <a href="https://arxiv.org/abs/2408.00559">AMFR-W numerical methods for solving high dimensional SABR/LIBOR PDE models</a>
+* <a href="https://arxiv.org/abs/2408.00581">Dimension reduction for large-scale stochastic systems with non-zero initial states and controlled diffusion</a>
+* <a href="https://arxiv.org/abs/2408.00627">Factorization of a prime matrix in even blocks</a>
+* <a href="https://arxiv.org/abs/2408.00671">Absorbing Boundary Conditions for Variable Potential Schr"odinger Equations via Titchmarsh-Weyl Theory</a>
+* <a href="https://arxiv.org/abs/2408.00693">Convergence analysis of inner-iteration preconditioned GMRES</a>
+* <a href="https://arxiv.org/abs/2408.00235">Solving cluster moment relaxation with hierarchical matrix</a>
+* <a href="https://arxiv.org/abs/2206.03449">The virtual element method on polygonal pixel-based tessellations</a>
+* <a href="https://arxiv.org/abs/2306.06481">Sketched and truncated polynomial Krylov methods: Evaluation of matrix functions</a>
+* <a href="https://arxiv.org/abs/2308.01638">A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling</a>
+* <a href="https://arxiv.org/abs/2404.02770">Proper Implicit Discretization of Arbitrary-Order Robust Exact Differentiators</a>
+* <a href="https://arxiv.org/abs/2404.15338">Annealing approach to root-finding</a>
+* <a href="https://arxiv.org/abs/2406.01437">Computing the Action of the Generating Function of Bernoulli Polynomials on a Matrix with An Application to Non-local Boundary Value Problems</a>
+* <a href="https://arxiv.org/abs/2407.11792">A hierarchical dynamical low-rank algorithm for the stochastic description of large reaction networks</a>
+* <a href="https://arxiv.org/abs/2407.15751">Rapidly convergent series expansions for a class of resolvents</a>
+* <a href="https://arxiv.org/abs/2401.17639">Assessment of Diagnostic Capabilities of Methods of Recreation of Voltage Fluctuations</a>
+* <a href="https://arxiv.org/abs/2405.05638">A Correlation-induced Finite Difference Estimator</a>
+* <a href="https://arxiv.org/abs/2407.19064">Volume-preserving physics-informed geometric shape optimization of the Dirichlet energy</a>
 <!-- arxiv-math-na ends -->
