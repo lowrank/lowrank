@@ -14,30 +14,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.00130">Sampling strategies for expectation values within the Herman--Kluk approximation</a>
-* <a href="https://arxiv.org/abs/2408.00212">Well-conditioned dipole-type method of fundamental solutions: derivation and its mathematical analysis</a>
-* <a href="https://arxiv.org/abs/2408.00304">Constraint Energy Minimizing Generalized Multiscale Finite Element Method for Convection Diffusion Equations with Inhomogeneous Boundary Conditions</a>
-* <a href="https://arxiv.org/abs/2408.00392">Polynomial quasi-Trefftz DG for PDEs with smooth coefficients: elliptic problems</a>
-* <a href="https://arxiv.org/abs/2408.00396">Analysis of continuous data assimilation with large (or even infinite) nudging parameters</a>
-* <a href="https://arxiv.org/abs/2408.00450">Space-Time Isogeometric Method for a Nonlocal Parabolic Problem</a>
-* <a href="https://arxiv.org/abs/2408.00488">Absolute-value based preconditioner for complex-shifted Laplacian systems</a>
-* <a href="https://arxiv.org/abs/2408.00497">A note about high-order semi-implicit differentiation: application to a numerical integration scheme with Taylor-based compensated error</a>
-* <a href="https://arxiv.org/abs/2408.00533">Predicting nonlinear-flow regions in highly heterogeneous porous media using adaptive constitutive laws and neural networks</a>
-* <a href="https://arxiv.org/abs/2408.00559">AMFR-W numerical methods for solving high dimensional SABR/LIBOR PDE models</a>
-* <a href="https://arxiv.org/abs/2408.00581">Dimension reduction for large-scale stochastic systems with non-zero initial states and controlled diffusion</a>
-* <a href="https://arxiv.org/abs/2408.00627">Factorization of a prime matrix in even blocks</a>
-* <a href="https://arxiv.org/abs/2408.00671">Absorbing Boundary Conditions for Variable Potential Schr"odinger Equations via Titchmarsh-Weyl Theory</a>
-* <a href="https://arxiv.org/abs/2408.00693">Convergence analysis of inner-iteration preconditioned GMRES</a>
-* <a href="https://arxiv.org/abs/2408.00235">Solving cluster moment relaxation with hierarchical matrix</a>
-* <a href="https://arxiv.org/abs/2206.03449">The virtual element method on polygonal pixel-based tessellations</a>
-* <a href="https://arxiv.org/abs/2306.06481">Sketched and truncated polynomial Krylov methods: Evaluation of matrix functions</a>
-* <a href="https://arxiv.org/abs/2308.01638">A second-order structure-preserving discretization for the Cahn-Hilliard/Allen-Cahn system with cross-kinetic coupling</a>
-* <a href="https://arxiv.org/abs/2404.02770">Proper Implicit Discretization of Arbitrary-Order Robust Exact Differentiators</a>
-* <a href="https://arxiv.org/abs/2404.15338">Annealing approach to root-finding</a>
-* <a href="https://arxiv.org/abs/2406.01437">Computing the Action of the Generating Function of Bernoulli Polynomials on a Matrix with An Application to Non-local Boundary Value Problems</a>
-* <a href="https://arxiv.org/abs/2407.11792">A hierarchical dynamical low-rank algorithm for the stochastic description of large reaction networks</a>
-* <a href="https://arxiv.org/abs/2407.15751">Rapidly convergent series expansions for a class of resolvents</a>
-* <a href="https://arxiv.org/abs/2401.17639">Assessment of Diagnostic Capabilities of Methods of Recreation of Voltage Fluctuations</a>
-* <a href="https://arxiv.org/abs/2405.05638">A Correlation-induced Finite Difference Estimator</a>
-* <a href="https://arxiv.org/abs/2407.19064">Volume-preserving physics-informed geometric shape optimization of the Dirichlet energy</a>
+
 <!-- arxiv-math-na ends -->
