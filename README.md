@@ -19,7 +19,7 @@
 * <a href="https://arxiv.org/abs/2408.00951">Strong convergence of a fully discrete scheme for stochastic Burgers equation with fractional-type noise</a>
 * <a href="https://arxiv.org/abs/2408.00953">Approximation of the invariant measure for stochastic Allen-Cahn equation via an explicit fully discrete scheme</a>
 * <a href="https://arxiv.org/abs/2408.00990">A Numerical Technique for Coupling the Momentum and the Continuity Equations for Semi-Implicit 3D Ocean Models</a>
-* <a href="https://arxiv.org/abs/2408.01049">Unexpected fault activation in underground gas storage. Part II: 2 Definition of safe operational bandwidths</a>
+* <a href="https://arxiv.org/abs/2408.01049">Unexpected fault activation in underground gas storage. Part II: Definition of safe operational bandwidths</a>
 * <a href="https://arxiv.org/abs/2408.01058">Numerical and Lyapunov-Based Investigation of the Effect of Stenosis on Blood Transport Stability Using a Control-Theoretic PDE Model of Cardiovascular Flow</a>
 * <a href="https://arxiv.org/abs/2408.01081">Lattice Boltzmann for linear elastodynamics: periodic problems and Dirichlet boundary conditions</a>
 * <a href="https://arxiv.org/abs/2408.01098">Uniform approximation of vectors using adaptive randomized information</a>
