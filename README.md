@@ -14,30 +14,32 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.00896">A Novel Highway Traffic Capacity Analyzing Method under Road Region Atmospheric Environment Constrains Based on Computational Fluid Dynamics Model</a>
-* <a href="https://arxiv.org/abs/2408.00947">Strong convergence of an explicit full-discrete scheme for stochastic Burgers-Huxley equation</a>
-* <a href="https://arxiv.org/abs/2408.00951">Strong convergence of a fully discrete scheme for stochastic Burgers equation with fractional-type noise</a>
-* <a href="https://arxiv.org/abs/2408.00953">Approximation of the invariant measure for stochastic Allen-Cahn equation via an explicit fully discrete scheme</a>
-* <a href="https://arxiv.org/abs/2408.00990">A Numerical Technique for Coupling the Momentum and the Continuity Equations for Semi-Implicit 3D Ocean Models</a>
+* <a href="https://arxiv.org/abs/2408.01616">A conservative, implicit solver for 0D-2V multi-species nonlinear Fokker-Planck collision equations</a>
+* <a href="https://arxiv.org/abs/2408.01857">Using Linearized Optimal Transport to Predict the Evolution of Stochastic Particle Systems</a>
+* <a href="https://arxiv.org/abs/2408.01914">Partial-differential-algebraic equations of nonlinear dynamics by Physics-Informed Neural-Network: (I) Operator splitting and framework assessment</a>
+* <a href="https://arxiv.org/abs/2408.02199">A Fast Fourier-Galerkin Method for Solving Boundary Integral Equations on Torus-Shaped Surfaces</a>
+* <a href="https://arxiv.org/abs/2408.02241">Scalable Multilevel Monte Carlo Methods Exploiting Parallel Redistribution on Coarse Levels</a>
+* <a href="https://arxiv.org/abs/2408.02274">Accelerated 3D Maxwell Integral Equation Solver using the Interpolated Factored Green Function Method</a>
+* <a href="https://arxiv.org/abs/2408.02350">High-performance computing for the BGK model of the Boltzmann equation with a meshfree Arbitrary Lagrangian-Eulerian (ALE) method</a>
+* <a href="https://arxiv.org/abs/2408.02497">Hybrid Surrogate Models: Circumventing Gibbs Phenomenon for Partial Differential Equations with Finite Shock-Type Discontinuities</a>
+* <a href="https://arxiv.org/abs/2408.02530">The Immersed Boundary Conformal Method for Kirchhoff-Love and Reissner-Mindlin shells</a>
+* <a href="https://arxiv.org/abs/2408.02665">Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form</a>
+* <a href="https://arxiv.org/abs/2408.01600">Physics-Informed Geometry-Aware Neural Operator</a>
+* <a href="https://arxiv.org/abs/2408.01853">Effect of Uniform and Non-uniform wall heating on Three-Dimensional Magneto-Hydrodynamics Natural Convection and Entropy Generation: A computational study using New Higher Order Super Compact Scheme</a>
+* <a href="https://arxiv.org/abs/2408.01971">Sparse identification of time delay systems via pseudospectral collocation</a>
+* <a href="https://arxiv.org/abs/2408.02320">A Sharp Convergence Theory for The Probability Flow ODEs of Diffusion Models</a>
+* <a href="https://arxiv.org/abs/2408.02345">Nonlocal particle approximation for linear and fast diffusion equations</a>
+* <a href="https://arxiv.org/abs/2408.02630">Learning the Latent dynamics of Fluid flows from High-Fidelity Numerical Simulations using Parsimonious Diffusion Maps</a>
+* <a href="https://arxiv.org/abs/2305.10965">Stopping Criteria for the Conjugate Gradient Algorithm in High-Order Finite Element Methods</a>
+* <a href="https://arxiv.org/abs/2306.12177">Condition numbers for the Moore-Penrose inverse and the least squares problem involving rank-structured matrices</a>
+* <a href="https://arxiv.org/abs/2308.09605">Solving PDEs on Spheres with Physics-Informed Convolutional Neural Networks</a>
+* <a href="https://arxiv.org/abs/2401.00672">Orthogonal Block Kaczmarz Algorithm Based on Preprocessing Technology</a>
+* <a href="https://arxiv.org/abs/2401.12734">On the improved convergence of lifted distributional Gauss curvature from Regge elements</a>
+* <a href="https://arxiv.org/abs/2402.16517">Discovering Artificial Viscosity Models for Discontinuous Galerkin Approximation of Conservation Laws using Physics-Informed Machine Learning</a>
+* <a href="https://arxiv.org/abs/2403.19231">Numerical approximations of a lattice Boltzmann scheme with a family of partial differential equations</a>
+* <a href="https://arxiv.org/abs/2407.19707">Neural networks for bifurcation and linear stability analysis of steady states in partial differential equations</a>
+* <a href="https://arxiv.org/abs/2407.21637">Mixed precision HODLR matrices</a>
 * <a href="https://arxiv.org/abs/2408.01049">Unexpected fault activation in underground gas storage. Part II: Definition of safe operational bandwidths</a>
-* <a href="https://arxiv.org/abs/2408.01058">Numerical and Lyapunov-Based Investigation of the Effect of Stenosis on Blood Transport Stability Using a Control-Theoretic PDE Model of Cardiovascular Flow</a>
-* <a href="https://arxiv.org/abs/2408.01081">Lattice Boltzmann for linear elastodynamics: periodic problems and Dirichlet boundary conditions</a>
-* <a href="https://arxiv.org/abs/2408.01098">Uniform approximation of vectors using adaptive randomized information</a>
-* <a href="https://arxiv.org/abs/2408.01132">Spectral methods on a triangle and W-systems</a>
-* <a href="https://arxiv.org/abs/2408.01148">A unified concept of the degree of ill-posedness for compact and non-compact linear operators in Hilbert spaces under the auspices of the spectral theorem</a>
-* <a href="https://arxiv.org/abs/2408.01194">Frequency-Explicit Shape Holomorphy in Uncertainty Quantification for Acoustic Scattering</a>
-* <a href="https://arxiv.org/abs/2408.01227">Parametric holomorphy of elliptic eigenvalue problems</a>
-* <a href="https://arxiv.org/abs/2408.01321">Low-Frequency Stabilizations of the PMCHWT Equation for Dielectric and Conductive Media: On a Full-Wave Alternative to Eddy-Current Solvers</a>
-* <a href="https://arxiv.org/abs/2408.01398">Error analysis of DGTD for linear Maxwell equations with inhomogeneous interface conditions</a>
-* <a href="https://arxiv.org/abs/2408.01409">The random timestep Euler method and its continuous dynamics</a>
-* <a href="https://arxiv.org/abs/2408.00775">Dilated convolution neural operator for multiscale partial differential equations</a>
-* <a href="https://arxiv.org/abs/2408.00845">A Novel Use of Pseudospectra in Mathematical Biology: Understanding HPA Axis Sensitivity</a>
-* <a href="https://arxiv.org/abs/2408.01066">Stabilization of synchronous tridiagonal network motion</a>
-* <a href="https://arxiv.org/abs/2408.01235">Entropy conservative discretization of compressible Euler equations with an arbitrary equation of state</a>
-* <a href="https://arxiv.org/abs/2401.09714">Robust virtual element methods for coupled stress-assisted diffusion problems</a>
-* <a href="https://arxiv.org/abs/2402.14615">An Entropy-Stable Discontinuous Galerkin Discretization of the Ideal Multi-Ion Magnetohydrodynamics System</a>
-* <a href="https://arxiv.org/abs/2407.06306">A Hybrid Algorithm for Computing a Partial Singular Value Decomposition Satisfying a Given Threshold</a>
-* <a href="https://arxiv.org/abs/2311.07338">A mathematical model of the visual MacKay effect</a>
-* <a href="https://arxiv.org/abs/2403.20135">Parallel performance of shared memory parallel spectral deferred corrections</a>
-* <a href="https://arxiv.org/abs/2407.08092">Extending DD-$alpha$AMG on heterogeneous machines</a>
+* <a href="https://arxiv.org/abs/2307.00575">Mode-wise Principal Subspace Pursuit and Matrix Spiked Covariance Model</a>
+* <a href="https://arxiv.org/abs/2406.11045">Kolmogorov Arnold Informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov Arnold Networks</a>
 <!-- arxiv-math-na ends -->
