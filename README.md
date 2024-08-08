@@ -14,25 +14,25 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.02746">Decoupling methods for fluid-structure interaction with local time-stepping</a>
-* <a href="https://arxiv.org/abs/2408.02805">Numerical Instability of Algebraic Rootfinding Methods</a>
-* <a href="https://arxiv.org/abs/2408.02829">An asymptotic-preserving semi-Lagrangian algorithm for the anisotropic heat transport equation with arbitrary magnetic fields</a>
-* <a href="https://arxiv.org/abs/2408.02881">On the construction of scattering matrices for irregular or elongated enclosures using Green's representation formula</a>
-* <a href="https://arxiv.org/abs/2408.02935">Numerical Ergodicity of Stochastic Allen--Cahn Equation driven by Multiplicative White Noise</a>
-* <a href="https://arxiv.org/abs/2408.03032">Flexible Quaternion Generalized Minimal Residual Method for Ill-Posed Quaternion Inverse Problems</a>
-* <a href="https://arxiv.org/abs/2408.03069">Probabilistic error analysis of limited-precision stochastic rounding</a>
-* <a href="https://arxiv.org/abs/2408.03108">The Green`s function for an acoustic half-space problem with impedance boundary conditions Part I: Representation formula</a>
-* <a href="https://arxiv.org/abs/2408.03148">Generalised gradients for virtual elements and applications to a posteriori error analysis</a>
-* <a href="https://arxiv.org/abs/2408.03255">A spectral method for dispersive solutions of the nonlocal Sine-Gordon equation</a>
-* <a href="https://arxiv.org/abs/2408.02866">Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models</a>
-* <a href="https://arxiv.org/abs/2408.03118">A variational formulation of a Multi-Population Mean Field Games with non-local interactions</a>
-* <a href="https://arxiv.org/abs/2408.03214">On greedy approximation in complex Banach spaces</a>
-* <a href="https://arxiv.org/abs/2304.03212">On the approximation of vector-valued functions by volume sampling</a>
-* <a href="https://arxiv.org/abs/2307.13253">A class of space-time discretizations for the stochastic $p$-Stokes system</a>
-* <a href="https://arxiv.org/abs/2309.17403">Maximal Volume Matrix Cross Approximation for Image Compression and Least Squares Solution</a>
-* <a href="https://arxiv.org/abs/2312.07874">Efficient Entropy-Stable Discontinuous Spectral-Element Methods Using Tensor-Product Summation-by-Parts Operators on Triangles and Tetrahedra</a>
-* <a href="https://arxiv.org/abs/2407.12311">A Finite Difference Scheme for (2+1)D Cubic-Quintic Nonlinear Schr"odinger Equations with Nonlinear Damping</a>
-* <a href="https://arxiv.org/abs/2408.01321">Low-Frequency Stabilizations of the PMCHWT Equation for Dielectric and Conductive Media: On a Full-Wave Alternative to Eddy-Current Solvers</a>
-* <a href="https://arxiv.org/abs/2101.00886">Weak convergence analysis in the particle limit of the McKean--Vlasov equations using stochastic flows of particle systems</a>
-* <a href="https://arxiv.org/abs/2405.09826">Lie symmetry analysis of (2+1)-dimensional time fractional Kadomtsev-Petviashvili equation</a>
+* <a href="https://arxiv.org/abs/2408.03420">Error analysis of an L2-type method on graded meshes for semilinear subdiffusion equations</a>
+* <a href="https://arxiv.org/abs/2408.03455">Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems</a>
+* <a href="https://arxiv.org/abs/2408.03483">High-order Tensor-Train Finite Volume Method for Shallow Water Equations</a>
+* <a href="https://arxiv.org/abs/2408.03496">A three-stage method for reconstructing multiple coefficients in coupled photoacoustic and diffuse optical imaging</a>
+* <a href="https://arxiv.org/abs/2408.03532">Fast Partial Fourier Transforms for Large-Scale Ptychography</a>
+* <a href="https://arxiv.org/abs/2408.03534">NeurAM: nonlinear dimensionality reduction for uncertainty quantification through neural active manifolds</a>
+* <a href="https://arxiv.org/abs/2408.03535">An efficient preconditioner for evolutionary partial differential equations with $theta$-method in time discretization</a>
+* <a href="https://arxiv.org/abs/2408.03565">FIAT: improving performance and accuracy for high-order finite elements</a>
+* <a href="https://arxiv.org/abs/2408.03571">Coarse Spaces Based on Higher-Order Interpolation for Schwarz Preconditioners for Helmholtz Problems</a>
+* <a href="https://arxiv.org/abs/2408.03587">The Green`s function for an acoustic, half-space impedance problem Part II: Analysis of the slowly varying and the plane wave component</a>
+* <a href="https://arxiv.org/abs/2408.03814">An AI-aided algorithm for multivariate polynomial reconstruction on Cartesian grids and the PLG finite difference method</a>
+* <a href="https://arxiv.org/abs/2408.03826">A direct reconstruction method for radiating sources in Maxwell's equations with single-frequency data</a>
+* <a href="https://arxiv.org/abs/2408.03862">A first-order hyperbolic reformulation of the Cahn-Hilliard equation</a>
+* <a href="https://arxiv.org/abs/2408.03599">Activations Through Extensions: A Framework To Boost Performance Of Neural Networks</a>
+* <a href="https://arxiv.org/abs/2408.03709">Transparent PT-symmetric nonlinear networks</a>
+* <a href="https://arxiv.org/abs/2407.12149">Multigrid Monte Carlo Revisited: Theory and Bayesian Inference</a>
+* <a href="https://arxiv.org/abs/2407.14424">Optimal convergence rates in $L^2$ for a first order system least squares finite element method -- Part II: inhomogeneous Robin boundary conditions</a>
+* <a href="https://arxiv.org/abs/2408.02665">Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form</a>
+* <a href="https://arxiv.org/abs/2209.07714">Variational quantum algorithm for measurement extraction from the Navier-Stokes, Einstein, Maxwell, B-type, Lin-Tsien, Camassa-Holm, DSW, H-S, KdV-B, non-homogeneous KdV, generalized KdV, KdV, translational KdV, sKdV, B-L and Airy equations</a>
+* <a href="https://arxiv.org/abs/2309.06045">Improved Monte Carlo tree search formulation with multiple root nodes for discrete sizing optimization of truss structures</a>
+* <a href="https://arxiv.org/abs/2404.02320">On Properties of Adjoint Systems for Evolutionary PDEs</a>
 <!-- arxiv-math-na ends -->
