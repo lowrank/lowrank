@@ -14,25 +14,27 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.03420">Error analysis of an L2-type method on graded meshes for semilinear subdiffusion equations</a>
-* <a href="https://arxiv.org/abs/2408.03455">Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems</a>
-* <a href="https://arxiv.org/abs/2408.03483">High-order Tensor-Train Finite Volume Method for Shallow Water Equations</a>
-* <a href="https://arxiv.org/abs/2408.03496">A three-stage method for reconstructing multiple coefficients in coupled photoacoustic and diffuse optical imaging</a>
-* <a href="https://arxiv.org/abs/2408.03532">Fast Partial Fourier Transforms for Large-Scale Ptychography</a>
-* <a href="https://arxiv.org/abs/2408.03534">NeurAM: nonlinear dimensionality reduction for uncertainty quantification through neural active manifolds</a>
-* <a href="https://arxiv.org/abs/2408.03535">An efficient preconditioner for evolutionary partial differential equations with $theta$-method in time discretization</a>
-* <a href="https://arxiv.org/abs/2408.03565">FIAT: improving performance and accuracy for high-order finite elements</a>
-* <a href="https://arxiv.org/abs/2408.03571">Coarse Spaces Based on Higher-Order Interpolation for Schwarz Preconditioners for Helmholtz Problems</a>
-* <a href="https://arxiv.org/abs/2408.03587">The Green`s function for an acoustic, half-space impedance problem Part II: Analysis of the slowly varying and the plane wave component</a>
-* <a href="https://arxiv.org/abs/2408.03814">An AI-aided algorithm for multivariate polynomial reconstruction on Cartesian grids and the PLG finite difference method</a>
-* <a href="https://arxiv.org/abs/2408.03826">A direct reconstruction method for radiating sources in Maxwell's equations with single-frequency data</a>
-* <a href="https://arxiv.org/abs/2408.03862">A first-order hyperbolic reformulation of the Cahn-Hilliard equation</a>
-* <a href="https://arxiv.org/abs/2408.03599">Activations Through Extensions: A Framework To Boost Performance Of Neural Networks</a>
-* <a href="https://arxiv.org/abs/2408.03709">Transparent PT-symmetric nonlinear networks</a>
-* <a href="https://arxiv.org/abs/2407.12149">Multigrid Monte Carlo Revisited: Theory and Bayesian Inference</a>
-* <a href="https://arxiv.org/abs/2407.14424">Optimal convergence rates in $L^2$ for a first order system least squares finite element method -- Part II: inhomogeneous Robin boundary conditions</a>
-* <a href="https://arxiv.org/abs/2408.02665">Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form</a>
-* <a href="https://arxiv.org/abs/2209.07714">Variational quantum algorithm for measurement extraction from the Navier-Stokes, Einstein, Maxwell, B-type, Lin-Tsien, Camassa-Holm, DSW, H-S, KdV-B, non-homogeneous KdV, generalized KdV, KdV, translational KdV, sKdV, B-L and Airy equations</a>
-* <a href="https://arxiv.org/abs/2309.06045">Improved Monte Carlo tree search formulation with multiple root nodes for discrete sizing optimization of truss structures</a>
-* <a href="https://arxiv.org/abs/2404.02320">On Properties of Adjoint Systems for Evolutionary PDEs</a>
+* <a href="https://arxiv.org/abs/2408.04009">Error Bounds for Open Quantum Systems with Harmonic Bosonic Bath</a>
+* <a href="https://arxiv.org/abs/2408.04080">A hybrid interpolation ACA accelerated method for parabolic boundary integral operators</a>
+* <a href="https://arxiv.org/abs/2408.04128">Splitting Methods for Computing Matrix Functions (Elements) Based on Non-Zero Diagonals Positions</a>
+* <a href="https://arxiv.org/abs/2408.04157">R-adaptive DeepONet: Learning Solution Operators for PDEs with Discontinuous Solutions Using an R-adaptive Strategy</a>
+* <a href="https://arxiv.org/abs/2408.04209">Solving high-dimensional Hamilton-Jacobi-Bellman equation with functional hierarchical tensor</a>
+* <a href="https://arxiv.org/abs/2408.04316">Explicit expression and fast algorithms for the inverse of some matrices arising from implicit time integration</a>
+* <a href="https://arxiv.org/abs/2408.04351">Sensitivity analysis of fractional linear systems based on random walks with negligible memory usage</a>
+* <a href="https://arxiv.org/abs/2408.04371">Efficient finite element schemes for a phase field model of two-phase incompressible flows with different densities</a>
+* <a href="https://arxiv.org/abs/2408.04372">A Space-Time Multigrid Method for Space-Time Finite Element Discretizations of Parabolic and Hyperbolic PDEs</a>
+* <a href="https://arxiv.org/abs/2408.04503">Row-aware Randomized SVD with applications</a>
+* <a href="https://arxiv.org/abs/2408.04507">Sharp error bounds for edge-element discretisations of the high-frequency Maxwell equations</a>
+* <a href="https://arxiv.org/abs/2408.04044">Asymptotically optimal $t$-design curves on $S^3$</a>
+* <a href="https://arxiv.org/abs/2408.04208">Visibility Analysis of the Sun as Viewed from Multiple Spacecraft at the Sun-Earth Lagrange Points</a>
+* <a href="https://arxiv.org/abs/2306.12668">Numerical analysis of the stochastic Stefan problem</a>
+* <a href="https://arxiv.org/abs/2309.09238">Reduced projection method for photonic moir'e lattices</a>
+* <a href="https://arxiv.org/abs/2405.02995">Enhancing ASR Performance through OCR Word Frequency Analysis: Theoretical Foundations</a>
+* <a href="https://arxiv.org/abs/2407.00792">A note on eigenvalues and singular values of variable Toeplitz matrices and matrix-sequences, with application to variable two-step BDF approximations to parabolic equations</a>
+* <a href="https://arxiv.org/abs/2407.01698">Column and row subset selection using nuclear scores: algorithms and theory for Nystr"{o}m approximation, CUR decomposition, and graph Laplacian reduction</a>
+* <a href="https://arxiv.org/abs/2407.15973">Mixed Precision Block-Jacobi Preconditioner: Algorithms, Performance Evaluation and Feature Analysis</a>
+* <a href="https://arxiv.org/abs/2408.01914">Partial-differential-algebraic equations of nonlinear dynamics by Physics-Informed Neural-Network: (I) Operator splitting and framework assessment</a>
+* <a href="https://arxiv.org/abs/2307.11752">OpenLB User Guide: Associated with Release 1.6 of the Code</a>
+* <a href="https://arxiv.org/abs/2402.07759">Robust and accurate simulations of flows over orography using non-conforming meshes</a>
+* <a href="https://arxiv.org/abs/2406.10407">Suboptimality bounds for trace-bounded SDPs enable a faster and scalable low-rank SDP solver SDPLR+</a>
 <!-- arxiv-math-na ends -->
