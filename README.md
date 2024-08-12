@@ -14,5 +14,21 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2408.04846">UGrid: An Efficient-And-Rigorous Neural Multigrid Solver for Linear PDEs</a>
+* <a href="https://arxiv.org/abs/2408.04871">Regularization of linear machine learning problems</a>
+* <a href="https://arxiv.org/abs/2408.04954">Some notes concerning preconditioning of linear parabolic optimal control problems</a>
+* <a href="https://arxiv.org/abs/2408.05005">Meshfree Generalized Multiscale Exponential Integration Method for Parabolic Problems</a>
+* <a href="https://arxiv.org/abs/2408.05081">Learning a robust shape parameter for RBF approximation</a>
+* <a href="https://arxiv.org/abs/2408.05084">An Immersed Boundary Method for Polymeric Continuous Mixing</a>
+* <a href="https://arxiv.org/abs/2408.05095">An augmented Lagrangian preconditioner for the control of the Navier--Stokes equations</a>
+* <a href="https://arxiv.org/abs/2408.05172">Numerical aspects of integration in physics-informed neural networks modelling</a>
+* <a href="https://arxiv.org/abs/2408.05193">A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs</a>
+* <a href="https://arxiv.org/abs/2408.04690">Modelling parametric uncertainty in PDEs models via Physics-Informed Neural Networks</a>
+* <a href="https://arxiv.org/abs/2408.04830">Cost Attribution And Risk-Averse Unit Commitment In Power Grids Using Integrated Gradient</a>
+* <a href="https://arxiv.org/abs/2304.13824">Interpolating Refinable Functions and $n_s$-step Interpolatory Subdivision Schemes</a>
+* <a href="https://arxiv.org/abs/2312.05670">Bounds for the sampling discretization error and their applications to the universal sampling discretization</a>
+* <a href="https://arxiv.org/abs/2402.13381">Tree quasi-separable matrices: a simultaneous generalization of sequentially and hierarchically semi-separable representations</a>
+* <a href="https://arxiv.org/abs/2404.15356">Determinants and Inverses of banded Toeplitz Matrices over $mathbb{F}_p$ Are Periodic</a>
+* <a href="https://arxiv.org/abs/2401.10735">A Low-Frequency-Stable Higher-Order Isogeometric Discretization of the Augmented Electric Field Integral Equation</a>
+* <a href="https://arxiv.org/abs/2408.02866">Back-Projection Diffusion: Solving the Wideband Inverse Scattering Problem with Diffusion Models</a>
 <!-- arxiv-math-na ends -->
