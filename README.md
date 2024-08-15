@@ -14,18 +14,25 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.06470">Surface elevation errors in finite element Stokes models for glacier evolution</a>
-* <a href="https://arxiv.org/abs/2408.06471">Optimized filter functions for filtered back projection reconstructions</a>
-* <a href="https://arxiv.org/abs/2408.06613">High-order Structure-preserving Methods for Damped Hamiltonian System</a>
-* <a href="https://arxiv.org/abs/2408.06615">Gaussian mixture Taylor approximations of risk measures constrained by PDEs with Gaussian random field inputs</a>
-* <a href="https://arxiv.org/abs/2408.06655">Strang splitting structure-preserving high-order compact difference schemes for nonlinear convection diffusion equations</a>
-* <a href="https://arxiv.org/abs/2408.06475">Quasi-Monte Carlo Beyond Hardy-Krause</a>
-* <a href="https://arxiv.org/abs/2408.06526">Operator Learning Using Random Features: A Tool for Scientific Computing</a>
-* <a href="https://arxiv.org/abs/2305.05452">Implicit-explicit Runge-Kutta for radiation hydrodynamics I: gray diffusion</a>
-* <a href="https://arxiv.org/abs/2401.04285">One-sweep moment-based semi-implicit-explicit integration for gray thermal radiation transport</a>
-* <a href="https://arxiv.org/abs/2402.17232">Two-scale Neural Networks for Partial Differential Equations with Small Parameters</a>
-* <a href="https://arxiv.org/abs/2404.04639">Uncertainty quantification analysis of bifurcations of the Allen--Cahn equation with random coefficients</a>
-* <a href="https://arxiv.org/abs/2208.07957">Uniform observable error bounds of Trotter formulae for the semiclassical Schr"odinger equation</a>
-* <a href="https://arxiv.org/abs/2405.09826">Lie symmetry analysis of (2+1)-dimensional time fractional Kadomtsev-Petviashvili equation</a>
-* <a href="https://arxiv.org/abs/2407.15008">Control of Instability in a Vlasov-Poisson System Through an External Electric Field</a>
+* <a href="https://arxiv.org/abs/2408.07153">Virtual Element Methods for HJB Equations with Cordes Coefficients</a>
+* <a href="https://arxiv.org/abs/2408.07186">Analysis of error propagation in the RK3GL2 method</a>
+* <a href="https://arxiv.org/abs/2408.07212">Lifting MGARD: construction of (pre)wavelets on the interval using polynomial predictors of arbitrary order</a>
+* <a href="https://arxiv.org/abs/2408.07261">Numerical analysis of a class of penalty discontinuous Galerkin methods for nonlocal diffusion problems</a>
+* <a href="https://arxiv.org/abs/2408.07392">An abstract approach to the Robin-Robin method</a>
+* <a href="https://arxiv.org/abs/2408.07669">Two-level hybrid Schwarz Preconditioners for The Helmholtz Equation with high wave number</a>
+* <a href="https://arxiv.org/abs/2408.07670">Performance Analysis of Double Reconfigurable Intelligent Surfaces Assisted NOMA Networks</a>
+* <a href="https://arxiv.org/abs/2408.07691">A family of high-order accurate contour integral methods for strongly continuous semigroups</a>
+* <a href="https://arxiv.org/abs/2408.07268">Fast Unconstrained Optimization via Hessian Averaging and Adaptive Gradient Sampling Methods</a>
+* <a href="https://arxiv.org/abs/2408.07379">Posterior Covariance Structures in Gaussian Processes</a>
+* <a href="https://arxiv.org/abs/2307.04580">An implicit DG solver for incompressible two-phase flows with an artificial compressibility formulation</a>
+* <a href="https://arxiv.org/abs/2311.13079">FEM for 1D-problems involving the logarithmic Laplacian: error estimates and numerical implementation</a>
+* <a href="https://arxiv.org/abs/2402.12952">A spectral collocation method for functional and delay differential equations</a>
+* <a href="https://arxiv.org/abs/2402.17357">A robust parameterized enhanced shift-splitting preconditioner for three-by-three block saddle point problems</a>
+* <a href="https://arxiv.org/abs/2405.02995">Enhancing ASR Performance through OCR Word Frequency Analysis: Theoretical Foundations</a>
+* <a href="https://arxiv.org/abs/1902.06984">A Sequential Homotopy Method for Mathematical Programming Problems</a>
+* <a href="https://arxiv.org/abs/2203.06765">On the analysis of optimization with fixed-rank matrices: a quotient geometric view</a>
+* <a href="https://arxiv.org/abs/2310.07224">On $O(n)$ Algorithms for Projection onto the Top-$k$-sum Sublevel Set</a>
+* <a href="https://arxiv.org/abs/2402.07759">Robust and accurate simulations of flows over orography using non-conforming meshes</a>
+* <a href="https://arxiv.org/abs/2403.07779">A boundary integral based particle initialization algorithm for Smooth Particle Hydrodynamics</a>
+* <a href="https://arxiv.org/abs/2408.06024">Layer-Specific Optimization: Sensitivity Based Convolution Layers Basis Search</a>
 <!-- arxiv-math-na ends -->
