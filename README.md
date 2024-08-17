@@ -14,19 +14,5 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.07959">An efficient particle tracking method on unstructured meshes in two and three dimensions based on patch searching</a>
-* <a href="https://arxiv.org/abs/2408.08029">An Asymptotic Preserving Scheme for the Euler-Poisson-Boltzmann System in the Quasineutral Limit</a>
-* <a href="https://arxiv.org/abs/2408.08129">Efficient and scalable atmospheric dynamics simulations using non-conforming meshes</a>
-* <a href="https://arxiv.org/abs/2408.08187">A computational study of algebraic coarse spaces for two-level overlapping additive Schwarz preconditioners</a>
-* <a href="https://arxiv.org/abs/2408.08190">U-WNO: U-Net Enhanced Wavelet Neural Operator for Solving Parametric Partial Differential Equations</a>
-* <a href="https://arxiv.org/abs/2408.08198">On Edge Multiscale Space based Hybrid Schwarz Preconditioner for Helmholtz Problems with Large Wavenumbers</a>
-* <a href="https://arxiv.org/abs/2408.08262">Coarsening and parallelism with reduction multigrids for hyperbolic Boltzmann transport</a>
-* <a href="https://arxiv.org/abs/2408.08264">InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models</a>
-* <a href="https://arxiv.org/abs/2408.08280">Local divergence-free velocity interpolation for the immersed boundary method using composite B-splines</a>
-* <a href="https://arxiv.org/abs/2408.07906">KAN versus MLP on Irregular or Noisy Functions</a>
-* <a href="https://arxiv.org/abs/2408.08064">Eigenvalues approximation of integral covariance operators with applications to weighted $L^2$ statistics</a>
-* <a href="https://arxiv.org/abs/2408.08106">Adaptation of uncertainty-penalized Bayesian information criterion for parametric partial differential equation discovery</a>
-* <a href="https://arxiv.org/abs/2402.16557">A randomized algorithm for simultaneously diagonalizing symmetric matrices by congruence</a>
-* <a href="https://arxiv.org/abs/2405.02995">Enhancing ASR Performance through OCR Word Frequency Analysis: Theoretical Foundations</a>
-* <a href="https://arxiv.org/abs/2407.17625">Mixed Convection and Entropy Generation Analysis of Carbon Nanotube-Water Nanofluid in a Square Cavity with Cylinders and Flow Deflectors</a>
+
 <!-- arxiv-math-na ends -->
