@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
 
     readme_contents = readme.open().read()
-    entries = fetch_rss_feed('https://sinews.siam.org/Research/rss/2288')
+    entries = fetch_rss_feed('https://www.siam.org/rss-feed/siam-news/current-issue')
     
     print('Recent Posts on SIAM News Research\n')
 
