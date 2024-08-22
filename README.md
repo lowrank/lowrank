@@ -14,30 +14,29 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.10208">Nonreflecting Boundary Condition for the free Schr"{o}dinger equation for hyperrectangular computational domains</a>
-* <a href="https://arxiv.org/abs/2408.10212">Uniform Haar Wavelet Solutions for Fractional Regular $beta$-Singular BVPs Modeling Human Head Heat Conduction under Febrifuge Effects</a>
-* <a href="https://arxiv.org/abs/2408.10213">Mono-cluster flocking and uniform-in-time stability of the discrete Motsch-Tadmor model</a>
-* <a href="https://arxiv.org/abs/2408.10214">A Memory Reduction Compact Gas Kinetic Scheme on 3D Unstructured Meshes</a>
-* <a href="https://arxiv.org/abs/2408.10217">Inference of Heterogeneous Material Properties via Infinite-Dimensional Integrated DIC</a>
-* <a href="https://arxiv.org/abs/2408.10223">High order compact fully-discrete scheme for hyperbolic conversation laws</a>
-* <a href="https://arxiv.org/abs/2408.10226">A nonconforming P3 and discontinuous P2 mixed finite element on tetrahedral grids</a>
-* <a href="https://arxiv.org/abs/2408.10227">A nonconforming P2 and discontinuous P1 mixed finite element on tetrahedral grids</a>
-* <a href="https://arxiv.org/abs/2408.10250">General reconstruction of elastic strain fields from their Longitudinal Ray Transform</a>
-* <a href="https://arxiv.org/abs/2408.10370">Convergence analysis of Levenberg-Marquardt method with Singular Scaling for nonzero residue nonlinear least-squares problems</a>
-* <a href="https://arxiv.org/abs/2408.10459">Distinct Numerical Solutions for Elliptic Cross-Interface Problems Using Finite Element and Finite Difference Methods</a>
-* <a href="https://arxiv.org/abs/2408.10494">Tensor-Product Split-Simplex Summation-By-Parts Operators</a>
-* <a href="https://arxiv.org/abs/2408.10690">Spectral Function Space Learning and Numerical Linear Algebra Networks for Solving Linear Inverse Problems</a>
+* <a href="https://arxiv.org/abs/2408.11171">Dirichlet-Neumann and Neumann-Neumann Waveform Relaxation Methods for PDEs with Time Delay</a>
+* <a href="https://arxiv.org/abs/2408.11211">Approximation of the Proximal Operator of the $ell_infty$ Norm Using a Neural Network</a>
+* <a href="https://arxiv.org/abs/2408.11235">Kinetic scrape off layer simulations with semi-Lagrangian discontinuous Galerkin schemes</a>
+* <a href="https://arxiv.org/abs/2408.11376">A GPU accelerated mixed-precision Finite Difference informed Random Walker (FDiRW) solver for strongly inhomogeneous diffusion problems</a>
+* <a href="https://arxiv.org/abs/2408.11389">On Quasi-Localized Dual Pairs in Reproducing Kernel Hilbert Spaces</a>
+* <a href="https://arxiv.org/abs/2408.11485">Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices</a>
+* <a href="https://arxiv.org/abs/2408.11573">Finite element-based space-time total variation-type regularization of the inverse problem in electrocardiographic imaging</a>
+* <a href="https://arxiv.org/abs/2408.11610">Structured Backward Errors for Special Classes of Saddle Point Problems with Applications</a>
+* <a href="https://arxiv.org/abs/2408.11612">Slicing of Radial Functions: a Dimension Walk in the Fourier Space</a>
+* <a href="https://arxiv.org/abs/2408.11750">A class of Parameterized Shift-Splitting Preconditioners for Regularized Three-by-Three Block Saddle Point Problems</a>
+* <a href="https://arxiv.org/abs/2408.11148">On the logarithmic energy of solutions to the polynomial eigenvalue problem</a>
+* <a href="https://arxiv.org/abs/2408.11164">The Ensemble Epanechnikov Mixture Filter</a>
+* <a href="https://arxiv.org/abs/2408.11204">Zeitlin's model for axisymmetric 3-D Euler equations</a>
+* <a href="https://arxiv.org/abs/2408.11257">A case study on different one-factor Cheyette models for short maturity caplet calibration</a>
+* <a href="https://arxiv.org/abs/2408.11266">Practical Aspects on Solving Differential Equations Using Deep Learning: A Primer</a>
+* <a href="https://arxiv.org/abs/2107.01990">Dominant subspace and low-rank approximations from block Krylov subspaces without a prescribed gap</a>
+* <a href="https://arxiv.org/abs/2310.08342">Discontinuous Galerkin approximations of the heterodimer model for protein-protein interaction</a>
+* <a href="https://arxiv.org/abs/2311.07883">A priori analysis of a tensor ROM for parameter dependent parabolic problems</a>
+* <a href="https://arxiv.org/abs/2402.02280">Spline-Based Stochastic Collocation Methods for Uncertainty Quantification in Nonlinear Hyperbolic PDEs</a>
+* <a href="https://arxiv.org/abs/2403.11768">Entrywise tensor-train approximation of large tensors via random embeddings</a>
+* <a href="https://arxiv.org/abs/2403.11910">Numerical method for nonlinear Kolmogorov PDEs via sensitivity analysis</a>
+* <a href="https://arxiv.org/abs/2407.03849">A sequential multilinear Nystr"om algorithm for streaming low-rank approximation of tensors in Tucker format</a>
+* <a href="https://arxiv.org/abs/2408.03069">Probabilistic error analysis of limited-precision stochastic rounding</a>
 * <a href="https://arxiv.org/abs/2408.10784">Framework for uncertainty quantification of wave-structure interaction in a flume</a>
-* <a href="https://arxiv.org/abs/2408.10829">The high resolution sampling methods for acoustic sources from multi-frequency far field patterns at sparse observation directions</a>
-* <a href="https://arxiv.org/abs/2408.10384">Empirical risk minimization for risk-neutral composite optimal control with applications to bang-bang control</a>
-* <a href="https://arxiv.org/abs/2408.10838">Multilevel CNNs for Parametric PDEs based on Adaptive Finite Elements</a>
-* <a href="https://arxiv.org/abs/2408.10996">Approximation Rates for Shallow ReLU$^k$ Neural Networks on Sobolev Spaces via the Radon Transform</a>
-* <a href="https://arxiv.org/abs/2310.03089">An adaptive stabilized trace finite element method for surface PDEs</a>
-* <a href="https://arxiv.org/abs/2402.03641">Stable BDF time discretization of BGN-based parametric finite element methods for geometric flows</a>
-* <a href="https://arxiv.org/abs/2402.11266">Filtered Lie-Trotter splitting for the "good" Boussinesq equation: low regularity error estimates</a>
-* <a href="https://arxiv.org/abs/2403.11664">Calibration-Based ALE Model Order Reduction for Hyperbolic Problems with Self-Similar Travelling Discontinuities</a>
-* <a href="https://arxiv.org/abs/2404.12965">A note on higher-order and nonlinear limiting approaches for continuously bounds-preserving discontinuous Galerkin methods</a>
-* <a href="https://arxiv.org/abs/2407.05724">Learning Stochastic Reduced Models from Data: A Nonintrusive Approach</a>
-* <a href="https://arxiv.org/abs/2408.09484">Fredholm Neural Networks</a>
-* <a href="https://arxiv.org/abs/2405.05638">A Correlation-induced Finite Difference Estimator</a>
+* <a href="https://arxiv.org/abs/2402.03655">Operator SVD with Neural Networks via Nested Low-Rank Approximation</a>
 <!-- arxiv-math-na ends -->
