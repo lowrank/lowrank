@@ -7,11 +7,6 @@
 * <a href="https://www.quantamagazine.org/the-webb-telescope-further-deepens-the-biggest-controversy-in-cosmology-20240813/">The Webb Telescope Further Deepens the Biggest Controversy in Cosmology</a> - Tue, 13 Aug 2024 11:17:15 +0000
 <!-- quanta ends -->
 
-### 📝 SIAM News Research
-<!-- siam-news starts -->
-
-<!-- siam-news ends -->
-
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
 * <a href="https://arxiv.org/abs/2408.11171">Dirichlet-Neumann and Neumann-Neumann Waveform Relaxation Methods for PDEs with Time Delay</a>
