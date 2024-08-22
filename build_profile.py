@@ -46,18 +46,18 @@ if __name__ == '__main__':
     readme.open('w').write(rewritten)
 
 
-    readme_contents = readme.open().read()
-    entries = fetch_rss_feed('https://www.siam.org/rss-feed/siam-news/current-issue')
+    # readme_contents = readme.open().read()
+    # entries = fetch_rss_feed('https://www.siam.org/rss-feed/siam-news/current-issue')
     
-    print('Recent Posts on SIAM News Research\n')
+    # print('Recent Posts on SIAM News Research\n')
 
-    entries_md = '\n'.join(
-        [('* <a href="{link}">{title}</a> - {published}' if len(entry['published'])>0 else '* <a href="{link}">{title}</a>').format(**entry) for entry in entries]
-    )
+    # entries_md = '\n'.join(
+    #     [('* <a href="{link}">{title}</a> - {published}' if len(entry['published'])>0 else '* <a href="{link}">{title}</a>').format(**entry) for entry in entries]
+    # )
 
-    # print(entries_md)
-    rewritten = replace_chunk(readme_contents, 'siam-news', entries_md)
-    readme.open('w').write(rewritten)
+    # # print(entries_md)
+    # rewritten = replace_chunk(readme_contents, 'siam-news', entries_md)
+    # readme.open('w').write(rewritten)
 
     readme_contents = readme.open().read()
     entries = fetch_rss_feed('http://export.arxiv.org/rss/math.NA', 0)
