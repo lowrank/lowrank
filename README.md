@@ -9,29 +9,18 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
+* <a href="https://arxiv.org/abs/2408.11927">Auto-Stabilized Weak Galerkin Finite Element Methods on Polytopal Meshes without Convexity Constraints</a>
+* <a href="https://arxiv.org/abs/2408.11929">Multipreconditioning with directional sweeping methods for high-frequency Helmholtz problems</a>
+* <a href="https://arxiv.org/abs/2408.12228">A nonstandard numerical scheme for a novel SECIR integro-differential equation-based model allowing nonexponentially distributed stay times</a>
+* <a href="https://arxiv.org/abs/2408.12283">On the convergence of higher order finite element methods for nonlinear magnetostatics</a>
+* <a href="https://arxiv.org/abs/2408.12512">Non-overlapping Schwarz methods in time for parabolic optimal control problems</a>
+* <a href="https://arxiv.org/abs/2408.12582">Convergence Properties of Iteratively Coupled Surface-Subsurface Models</a>
+* <a href="https://arxiv.org/abs/2408.11819">Global optimization for data assimilation in landslide tsunamis models</a>
+* <a href="https://arxiv.org/abs/2408.12273">Geometrical structures of digital fluctuations in parameter space of neural networks trained with adaptive momentum optimization</a>
+* <a href="https://arxiv.org/abs/2408.12479">Matrix-Free Higher-Order Finite Element Methods for Hyperelasticity</a>
+* <a href="https://arxiv.org/abs/2308.11581">Dynamical Low-Rank Approximation for Stochastic Differential Equations</a>
+* <a href="https://arxiv.org/abs/2401.13428">Numerical Approximations and Convergence Analysis of Piecewise Diffusion Markov Processes, with Application to Glioma Cell Migration</a>
+* <a href="https://arxiv.org/abs/2402.09295">Analysis of an Adaptive Safeguarded Newton-Anderson Algorithm of Depth One with Applications to Fluid Problems</a>
 * <a href="https://arxiv.org/abs/2408.11171">Dirichlet-Neumann and Neumann-Neumann Waveform Relaxation Methods for PDEs with Time Delay</a>
-* <a href="https://arxiv.org/abs/2408.11211">Approximation of the Proximal Operator of the $ell_infty$ Norm Using a Neural Network</a>
-* <a href="https://arxiv.org/abs/2408.11235">Kinetic scrape off layer simulations with semi-Lagrangian discontinuous Galerkin schemes</a>
-* <a href="https://arxiv.org/abs/2408.11376">A GPU accelerated mixed-precision Finite Difference informed Random Walker (FDiRW) solver for strongly inhomogeneous diffusion problems</a>
-* <a href="https://arxiv.org/abs/2408.11389">On Quasi-Localized Dual Pairs in Reproducing Kernel Hilbert Spaces</a>
-* <a href="https://arxiv.org/abs/2408.11485">Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices</a>
-* <a href="https://arxiv.org/abs/2408.11573">Finite element-based space-time total variation-type regularization of the inverse problem in electrocardiographic imaging</a>
-* <a href="https://arxiv.org/abs/2408.11610">Structured Backward Errors for Special Classes of Saddle Point Problems with Applications</a>
-* <a href="https://arxiv.org/abs/2408.11612">Slicing of Radial Functions: a Dimension Walk in the Fourier Space</a>
-* <a href="https://arxiv.org/abs/2408.11750">A class of Parameterized Shift-Splitting Preconditioners for Regularized Three-by-Three Block Saddle Point Problems</a>
-* <a href="https://arxiv.org/abs/2408.11148">On the logarithmic energy of solutions to the polynomial eigenvalue problem</a>
-* <a href="https://arxiv.org/abs/2408.11164">The Ensemble Epanechnikov Mixture Filter</a>
-* <a href="https://arxiv.org/abs/2408.11204">Zeitlin's model for axisymmetric 3-D Euler equations</a>
-* <a href="https://arxiv.org/abs/2408.11257">A case study on different one-factor Cheyette models for short maturity caplet calibration</a>
-* <a href="https://arxiv.org/abs/2408.11266">Practical Aspects on Solving Differential Equations Using Deep Learning: A Primer</a>
-* <a href="https://arxiv.org/abs/2107.01990">Dominant subspace and low-rank approximations from block Krylov subspaces without a prescribed gap</a>
-* <a href="https://arxiv.org/abs/2310.08342">Discontinuous Galerkin approximations of the heterodimer model for protein-protein interaction</a>
-* <a href="https://arxiv.org/abs/2311.07883">A priori analysis of a tensor ROM for parameter dependent parabolic problems</a>
-* <a href="https://arxiv.org/abs/2402.02280">Spline-Based Stochastic Collocation Methods for Uncertainty Quantification in Nonlinear Hyperbolic PDEs</a>
-* <a href="https://arxiv.org/abs/2403.11768">Entrywise tensor-train approximation of large tensors via random embeddings</a>
-* <a href="https://arxiv.org/abs/2403.11910">Numerical method for nonlinear Kolmogorov PDEs via sensitivity analysis</a>
-* <a href="https://arxiv.org/abs/2407.03849">A sequential multilinear Nystr"om algorithm for streaming low-rank approximation of tensors in Tucker format</a>
-* <a href="https://arxiv.org/abs/2408.03069">Probabilistic error analysis of limited-precision stochastic rounding</a>
-* <a href="https://arxiv.org/abs/2408.10784">Framework for uncertainty quantification of wave-structure interaction in a flume</a>
-* <a href="https://arxiv.org/abs/2402.03655">Operator SVD with Neural Networks via Nested Low-Rank Approximation</a>
+* <a href="https://arxiv.org/abs/2408.09164">A new temperature evolution equation that enforces thermodynamic vapour-liquid equilibrium in multiphase flows -- application to CO2 modeling</a>
 <!-- arxiv-math-na ends -->
