@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/">Perplexing the Web, One Probability Puzzle at a Time</a> - Thu, 29 Aug 2024 14:00:56 +0000
+* <a href="https://www.quantamagazine.org/do-we-need-a-new-theory-of-gravity-20240829/">Do We Need a New Theory of Gravity?</a> - Thu, 29 Aug 2024 13:35:49 +0000
 * <a href="https://www.quantamagazine.org/computer-scientists-prove-that-heat-destroys-entanglement-20240828/">Computer Scientists Prove That Heat Destroys Quantum Entanglement</a> - Wed, 28 Aug 2024 14:09:05 +0000
 * <a href="https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/">How Our Longest Nerve Orchestrates the Mind-Body Connection</a> - Mon, 26 Aug 2024 14:45:37 +0000
 * <a href="https://www.quantamagazine.org/how-colorful-ribbon-diagrams-became-the-face-of-proteins-20240823/">How Colorful Ribbon Diagrams Became the Face of Proteins</a> - Fri, 23 Aug 2024 14:43:59 +0000
-* <a href="https://www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/">Mathematicians Prove Hawking Wrong About the Most Extreme Black Holes</a> - Wed, 21 Aug 2024 14:31:25 +0000
-* <a href="https://www.quantamagazine.org/waning-dark-energy-may-evade-swampland-of-impossible-universes-20240819/">Diminishing Dark Energy May Evade the ‘Swampland’ of Impossible Universes</a> - Mon, 19 Aug 2024 14:20:11 +0000
 <!-- quanta ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
