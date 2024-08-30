@@ -9,26 +9,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2408.15286">Real-time aerodynamic load estimation for hypersonics via strain-based inverse maps</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15298">A Multi-Frequency Iterative Method for Reconstruction of Rough Surfaces Separating Two Penetrable Media</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15393">Stability Analysis of Physics-Informed Neural Networks for Stiff Linear Differential Equations</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15472">On the implementation of linear finite element method for nonlocal diffusion model over 2D domain</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15731">Finite element discretization of the steady, generalized Navier-Stokes equations for small shear stress exponents</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15847">Vertex characterization via second-order topological derivatives</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15863">A posteriori error estimators for fourth order elliptic problems with concentrated loads</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15900">Two-stage model reduction approaches for the efficient and certified solution of parametrized optimal control problems</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15913">A simulation platform for slender, semiflexible, and inextensible fibers with Brownian hydrodynamics and steric repulsion</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15981">Flow Matching Approach to Reaction Coordinate Evaluation and Optimization</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15414">Continuum Damage Model for Hydrogen Embrittlement in Ferritic Steels</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15680">Self-regulated biological transportation structures with general entropy dissipation: 2D case and leaf-shaped domain</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.15858">About the first eigenvector of the simple random walk killed upon exiting a large bounded domain</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2204.04436">Error Guarantees for Least Squares Approximation with Noisy Samples in Domain Adaptation</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2309.07865">Stable iterative refinement algorithms for solving linear systems</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.01851">On optimality conditions for multivariate Chebyshev approximation and convex optimization</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2312.06417">A New Matrix Truncation Method for Improving Approximate Factorisation Preconditioners</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2401.13376">lymph: discontinuous poLYtopal methods for Multi-PHysics differential problems</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.05275">Numerical solution of two dimensional scalar conservation laws using compact implicit numerical schemes</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.04670">A comparison of different approaches to compute surface tension contribution in incompressible two-phase flows</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.07759">Robust and accurate simulations of flows over orography using non-conforming meshes</a> - Thu, 29 Aug 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.10438">Optimization-Aided Construction of Multivariate Chebyshev Polynomials</a> - Thu, 29 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16086">Influence of gauges in the numerical simulation of the time-dependent Ginzburg-Landau model</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16105">SAV-based entropy-dissipative schemes for a class of kinetic equations</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16243">Error analysis of conformal finite element method for nonlocal diffusion model</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16282">Fast-convergent two-level restricted additive Schwarz methods based on optimal local approximation spaces</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16416">Preconditioned Low-Rank Riemannian Optimization for Symmetric Positive Definite Linear Matrix Equations</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16483">A Novel Interpolation-Based Method for Solving the One-Dimensional Wave Equation on a Domain with a Moving Boundary</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16511">On the stability of finite-volume schemes on non-uniform meshes</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16569">On the data-sparsity of the solution of Riccati equations with applications to feedback control</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16572">Evaporation-driven tear film thinning and breakup in two space dimensions</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16580">Schwarz methods with PMLs for Helmholtz problems: fast convergence at high frequency</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16591">CUR for Implicit Time Integration of Random Partial Differential Equations on Low-Rank Matrix Manifolds</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16624">Modelling sand ripples in mine countermeasure simulations by means of stochastic optimal control</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16631">Submatrices with the best-bounded inverses: Studying $mathds{R}^{n times 2}$ and $mathds{C}^{n times 2}$</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16652">Flexible Modified LSMR Method for Least Squares Problems</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16701">An exponential map free implicit midpoint method for stochastic Lie-Poisson systems</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16723">Data-driven reduced order modeling of a two-layer quasi-geostrophic ocean model</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16166">Sparse Recovery for Overcomplete Frames: Sensing Matrices and Recovery Guarantees</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16252">A collision-oriented interacting particle system for Landau-type equations and the molecular chaos</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16414">Fourier Spectral Physics Informed Neural Network: An Efficient and Low-Memory PINN</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16496">An automated and time efficient framework for simulation of coronary blood flow under steady and pulsatile conditions</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.16556">Regularity of vector fields with piecewise regular curl and divergence</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2207.13526">UltimateKalman: Flexible Kalman Filtering and Smoothing Using Orthogonal Transformations</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2308.06991">A convex dual problem for the rational minimax approximation and Lawson's iteration</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2309.05868">Analysis of Randomized Householder-Cholesky QR Factorization with Multisketching</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2403.11993">Adaptive stepsize algorithms for Langevin dynamics</a> - Fri, 30 Aug 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.20417">Optimizing Variational Physics-Informed Neural Networks Using Least Squares</a> - Fri, 30 Aug 2024 00:00:00 -0400
 <!-- arxiv-math-na ends -->
