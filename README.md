@@ -9,28 +9,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2409.02252">A virtual element method for a convective Brinkman-Forchheimer problem coupled with a heat equation</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02469">UAV-Mounted Movable Antenna: Joint Optimization of UAV Placement and Antenna Configuration</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02552">Cointegration test in time series analysis by global optimisation</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02652">Novel Approach for solving the discrete Stokes problems based on Augmented Lagrangian and Global Techniques: Application to Saddle-Point Linear Systems from Incompressible flow</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02673">A Parareal algorithm without Coarse Propagator?</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02703">Online learning of quadratic manifolds from streaming data for nonlinear dimensionality reduction and nonlinear model reduction</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02810">A hybrid FEM-PINN method for time-dependent partial differential equations</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02860">Adaptive and frugal BDDC coarse spaces for virtual element discretizations of a Stokes problem with heterogeneous viscosity</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02300">TreeTOp: Topology Optimization using Constructive Solid Geometry Trees</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02342">Optimal sampling for least-squares approximation</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02524">Enforcing Katz and PageRank Centrality Measures in Complex Networks</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02916">Pseudospectral method for solving PDEs using Matrix Product States</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2301.03574">Sharp preasymptotic error bounds for the Helmholtz $h$-FEM</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.17844">Adaptive operator learning for infinite-dimensional Bayesian inverse problems</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2403.13454">Adaptive time step selection for Spectral Deferred Correction</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2404.14169">Exploring tau protein and amyloid-beta propagation: a sensitivity analysis of mathematical models based on biological data</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.19582">Evaluation of resonances: adaptivity and AAA rational approximation of randomly scalarized boundary integral resolvents</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.04021">Total Lagrangian Smoothed Particle Hydrodynamics with An Improved Bond-Based Deformation Gradient for Large Strain Solid Dynamics</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.19386">Multilevel Tau preconditioners for symmetrized multilevel Toeplitz systems with applications to solving space fractional diffusion equations</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.00693">Convergence analysis of inner-iteration preconditioned GMRES</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.01433">Domain Decomposition-based coupling of Operator Inference reduced order models via the Schwarz alternating method</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2311.02037">An Efficient Framework for Global Non-Convex Polynomial Optimization with Algebraic Constraints</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2401.15031">Tensor product algorithms for inference of contact network from epidemiological data</a> - Thu, 05 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.02438">Fast and interpretable Support Vector Classification based on the truncated ANOVA decomposition</a> - Thu, 05 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03041">Nonlinear Monolithic Two-Level Schwarz Methods for the Navier-Stokes Equations</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03079">On the backward stability of s-step GMRES</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03095">On Advanced Monte Carlo Methods for Linear Algebra on Advanced Accelerator Architectures</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03139">Approximation and application of minimizing movements for surface PDE</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03246">A priori and a posteriori error bounds for the fully mixed FEM formulation of poroelasticity with stress-dependent permeability</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03357">Constrained mock-Chebyshev least squares approximation for Hermite interpolation</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03366">Free convection in fractured porous media: a numerical study</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03383">Generating customized field concentration via virtue surface transmission resonance</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03416">A thermo-flow-mechanics-fracture model coupling a phase-field interface approach and thermo-fluid-structure interaction</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03506">Some mathematical models for flagellar activation mechanisms</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03549">Reduced-order modelling based on Koopman operator theory</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03567">Meshless quadrature formulas arising from numerical differentiation</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03686">Numerical spectral analysis of Cauchy-type inverse problems: A probabilistic approach</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.02964">Consistent multiple-relaxation-time lattice Boltzmann method for the volume averaged Navier-Stokes equations</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03042">Parameter Analysis in Continuous Data Assimilation for Various Turbulence Models</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03064">A posteriori error estimates for a bang-bang optimal control problem</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03231">State-space models are accurate and efficient neural operators for dynamical systems</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03382">Strong Converse Inequalities for Bernstein Polynomials with Explicit Asymptotic Constants</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03507">A Physics-Informed Machine Learning Approach for Solving Distributed Order Fractional Differential Equations</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03642">Derivation of normal forms for dispersive PDEs via arborification</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2311.04615">Discrete stochastic maximal $ L^p $-regularity and convergence of a spatial semidiscretization for a stochastic parabolic equation</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2402.15645">An optimization based limiter for enforcing positivity in a semi-implicit discontinuous Galerkin scheme for compressible Navier-Stokes equations</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2403.13911">A particle-in-Fourier method with energy conservation for non-periodic boundary conditions</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.14051">Robust error estimates of PINN in one-dimensional boundary value problems for linear elliptic equations</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.02552">Cointegration test in time series analysis by global optimisation</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2307.12438">Multifidelity Covariance Estimation via Regression on the Manifold of Symmetric Positive Definite Matrices</a> - Fri, 06 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.11478">A Parallel in Time Algorithm Based on ParaExp for Optimal Control Problems</a> - Fri, 06 Sep 2024 00:00:00 -0400
 <!-- arxiv-math-na ends -->
