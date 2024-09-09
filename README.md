@@ -9,5 +9,23 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2409.03834">Sequential bi-level regularized inversion with application to hidden reaction law discovery</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03872">Continuous data assimilation for hydrodynamics: consistent discretization and application to moment recovery</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03987">Quasi-Distribution Appraisal Based on Piecewise B'ezier Curves: An Objective Evaluation Method about Finite Element Analysis</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04067">FEM-based Neural Networks for Solving Incompressible Fluid Flows and Related Inverse Problems</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04215">A Method of Fundamental Solutions for Large-Scale 3D Elastance and Mobility Problems</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04263">Novel and refined stability estimates for kernel matrices</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04265">Fast Algorithms for Fourier extension based on boundary interval data</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04297">Minimization of the Pseudospectral Abscissa of a Quadratic Matrix Polynomial</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04342">Approximating Symplectic Realizations: A General Framework for the Construction of Poisson Integrators</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03892">Active Sampling of Interpolation Points to Identify Dominant Subspaces for Model Reduction</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.03904">Multiple right hand side multigrid for domain wall fermions with a multigrid preconditioned block conjugate gradient algorithm</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04369">A high-order procedure for computing globally optimal Wannier functions in one-dimensional crystalline insulators</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2308.00829">A geometric approach to approximating the limit set of eigenvalues for banded Toeplitz matrices</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2401.12799">Some convergence analysis for multicontinuum homogenization</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.02941">Numerical analysis for high-order methods for variable-exponent fractional diffusion-wave equation</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.03250">When big data actually are low-rank, or entrywise approximation of certain function-generated matrices</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.03420">Error analysis of an L2-type method on graded meshes for semilinear subdiffusion equations</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2311.05025">Unbiased Kinetic Langevin Monte Carlo with Inexact Gradients</a> - Mon, 09 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.12002">Modeling, Inference, and Prediction in Mobility-Based Compartmental Models for Epidemiology</a> - Mon, 09 Sep 2024 00:00:00 -0400
 <!-- arxiv-math-na ends -->
