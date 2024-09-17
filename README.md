@@ -19,7 +19,7 @@
 * <a href="https://arxiv.org/abs/2409.08533">On the B-series composition theorem</a> - Mon, 16 Sep 2024 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2409.08734">Applications of multiscale hierarchical decomposition to blind deconvolution</a> - Mon, 16 Sep 2024 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2409.08743">Computation of $M$-QDR decomposition of tensors and applications</a> - Mon, 16 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.08746">Conforming finite element approximation for the fully-coupled non-linear thermodynamically consistent electrolyte model</a> - Mon, 16 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.08746">Finite element method for the numerical simulation of modified Poisson-Nernst-Planck/Navier-Stokes model</a> - Mon, 16 Sep 2024 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2409.08793">Modeling Advection-Dominated Flows with Space-Local Reduced-Order Models</a> - Mon, 16 Sep 2024 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2409.08799">Graph grammars and Physics Informed Neural Networks for simulating of pollution propagation on Spitzbergen</a> - Mon, 16 Sep 2024 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2409.08862">The Fundamental Subspaces of Ensemble Kalman Inversion</a> - Mon, 16 Sep 2024 00:00:00 -0400
