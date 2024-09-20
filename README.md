@@ -9,23 +9,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2409.11515">A Comparison of Sparse Solvers for Severely Ill-Conditioned Linear Systems in Geophysical Marker-In-Cell Simulations</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11639">Spline-based solution transfer for space-time methods in 2D+t</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11735">A novel Mortar Method Integration using Radial Basis Functions</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11769">Fully guaranteed and computable error bounds on the energy for periodic Kohn-Sham equations with convex density functionals</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11774">Conditions aux limites fortement non lin{'e}aires pour les {'e}quations d'Euler de la dynamique des gaz</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11990">Adaptive Time-Step Semi-Implicit One-Step Taylor Scheme for Stiff Ordinary Differential Equations</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11998">A Lightweight, Geometrically Flexible Fast Algorithm for the Evaluation of Layer and Volume Potentials</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.12023">A multiscale approach to the stationary Ginzburg-Landau equations of superconductivity</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11519">On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.11958">Application of a Fourier-Type Series Approach based on Triangles of Constant Width to Letterforms</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2302.13965">An Approximation Theory Framework for Measure-Transport Sampling Algorithms</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.00236">Half precision wave simulation</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2403.11268">Localized Orthogonal Decomposition Methods vs. Classical FEM for the Gross-Pitaevskii Equation</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.10402">Formulae and transformations for simplicial tensorial finite elements via polytopal templates</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.20618">CPAFT: A Consistent Parallel Advancing Front Technique for Unstructured Triangular/Tetrahedral Mesh Generation</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.12515">Intrinsic mixed-dimensional beam-shell-solid couplings in linear Cosserat continua via tangential differential calculus</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.05445">Differential Inversion of the Implicit Euler Method: Symbolic Analysis</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.09810">Local MALA-within-Gibbs for Bayesian image deblurring with total variation prior</a> - Thu, 19 Sep 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.11266">Practical Aspects on Solving Differential Equations Using Deep Learning: A Primer</a> - Thu, 19 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12296">JKO for Landau: a variational particle method for homogeneous Landau equation</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12381">A Stochastic Iteratively Regularized Gauss-Newton Method</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12400">Shape-informed surrogate models based on signed distance function domain encoding</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12422">An Adaptive Difference Method for Variable-Order Diffusion Equations</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12606">Well-balanced Point-Average-Moment PolynomiAl-interpreted (PAMPA) Methods for Shallow Water Equations on Triangular Meshes</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12762">The inverse obstacle scattering with a tapered wave incidence</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12879">QMC integration based on arbitrary (t,m,s)-nets yields optimal convergence rates on several scales of function spaces</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12935">Stochastic gradient descent in continuous time for drift identification in multiscale diffusions</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12243">Convergence of Markov Chains for Constant Step-size Stochastic Gradient Descent with Separable Functions</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12293">Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12298">Computing Bouligand stationary points efficiently in low-rank optimization</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12335">Bridging the Gap Between Approximation and Learning via Optimal Approximation by ReLU MLPs of Maximal Regularity</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12483">The effective use of BLAS interface for implementation of finite-element ADER-DG and finite-volume ADER-WENO methods</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12550">Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12844">Iterative algorithms for the reconstruction of early states of prostate cancer growth</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2305.14297">Order conditions for Runge--Kutta-like methods with solution-dependent coefficients</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2307.02930">Global convergence of Newton's method for the regularized $p$-Stokes equations</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2308.07060">A convergent stochastic scalar auxiliary variable method</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2311.18615">Two-scale exponential integrators with uniform accuracy for three-dimensional charged-particle dynamics under strong magnetic field</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2403.16920">Optimal convergence rates of MCMC integration for functions with unbounded second moment</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.14303">Orthogonal Laurent polynomials of two real variables</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.19831">Meshfree Variational Physics Informed Neural Networks (MF-VPINN): an adaptive training strategy</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.20424">A convergent augmented SAV scheme for stochastic Cahn--Hilliard equations with dynamic boundary conditions describing contact line tension</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.04265">Fast Algorithms for Fourier extension based on boundary interval data</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.11639">Spline-based solution transfer for space-time methods in 2D+t</a> - Fri, 20 Sep 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.06746">Decentralized Neural Networks for Robust and Scalable Eigenvalue Computation</a> - Fri, 20 Sep 2024 00:00:00 -0400
 <!-- arxiv-math-na ends -->
