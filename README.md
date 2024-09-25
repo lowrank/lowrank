@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
-* <a href="https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/">Mathematicians Discover New Shapes to Solve Decades-Old Geometry Problem</a> - Fri, 20 Sep 2024 14:33:51 +0000
-* <a href="https://www.quantamagazine.org/how-embeddings-encode-what-words-mean-sort-of-20240918/">How ‘Embeddings’ Encode What Words Mean — Sort Of</a> - Wed, 18 Sep 2024 14:20:37 +0000
-* <a href="https://www.quantamagazine.org/cells-across-the-tree-of-life-exchange-text-messages-using-rna-20240916/">Cells Across the Tree of Life Exchange ‘Text Messages’ Using RNA</a> - Mon, 16 Sep 2024 14:10:47 +0000
-* <a href="https://www.quantamagazine.org/how-did-a-landslide-shake-the-earth-for-nine-days-20240912/">The Search for What Shook the Earth for Nine Days Straight</a> - Thu, 12 Sep 2024 18:00:39 +0000
-* <a href="https://www.quantamagazine.org/can-thermodynamics-go-quantum-20240912/">Can Thermodynamics Go Quantum?</a> - Thu, 12 Sep 2024 13:43:17 +0000
+* <a href="https://www.quantamagazine.org/can-space-time-be-saved-20240925/">Can Space-Time Be Saved?</a> - Wed, 25 Sep 2024 16:08:44 +0000
+* <a href="https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/">Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time</a> - Wed, 25 Sep 2024 16:07:38 +0000
+* <a href="https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/">If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It</a> - Wed, 25 Sep 2024 16:06:53 +0000
+* <a href="https://www.quantamagazine.org/the-1-clue-to-quantum-gravity-sits-on-the-surfaces-of-black-holes-20240925/">The #1 Clue to Quantum Gravity Sits on the Surfaces of Black Holes</a> - Wed, 25 Sep 2024 16:05:57 +0000
+* <a href="https://www.quantamagazine.org/the-two-faces-of-space-time-20240925/">The Two Faces of Space-Time</a> - Wed, 25 Sep 2024 16:04:36 +0000
 <!-- quanta ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
