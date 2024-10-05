@@ -1,37 +1,40 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/">Computer Scientists Combine Two ‘Beautiful’ Proof Methods</a> - Fri, 04 Oct 2024 13:33:16 +0000
 * <a href="https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/">When Data Is Missing, Scientists Guess. Then Guess Again.</a> - Wed, 02 Oct 2024 13:52:51 +0000
 * <a href="https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/">The Hidden World of Electrostatic Ecology</a> - Mon, 30 Sep 2024 14:30:49 +0000
 * <a href="https://www.quantamagazine.org/what-can-cave-life-tell-us-about-alien-ecosystems-20240926/">What Can Cave Life Tell Us About Alien Ecosystems?</a> - Thu, 26 Sep 2024 14:02:41 +0000
 * <a href="https://www.quantamagazine.org/can-space-time-be-saved-20240925/">Can Space-Time Be Saved?</a> - Wed, 25 Sep 2024 16:08:44 +0000
-* <a href="https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/">Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time</a> - Wed, 25 Sep 2024 16:07:38 +0000
 <!-- quanta ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2410.01041">On the simultaneous recovery of two coefficients in the Helmholtz equation for inverse scattering problems via neural networks</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01140">A simple linear convergence analysis of the reshuffling Kaczmarz method</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01177">Adaptive Finite Element Method for Phase Field Fracture Models Based on Recovery Error Estimates</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01316">Fast Summation of Radial Kernels via QMC Slicing</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01465">A generalized spectral concentration problem and the varying masks algorithm</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01467">A fast numerical scheme for fractional viscoelastic models of wave propagation</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01599">Towards Model Discovery Using Domain Decomposition and PINNs</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.00921">PREPARE: PREdicting PAndemic's REcurring Waves Amidst Mutations, Vaccination, and Lockdowns</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01065">Structure-Preserving Operator Learning</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01130">H-DES: a Quantum-Classical Hybrid Differential Equation Solver</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01452">Ensembles provably learn equivariance through data augmentation</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01538">Finite element method. Detailed proofs to be formalized in Coq</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01746">Leray-Schauder Mappings for Operator Learning</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01799">Efficient $1$-bit tensor approximations</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2207.06342">Efficient error and variance estimation for randomized matrix computations</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2305.09140">The Average Rate of Convergence of the Exact Line Search Gradient Descent Method</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2312.08395">The complex-step Newton method and its convergence</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2403.04095">Helmholtz preconditioning for the compressible Euler equations using mixed finite elements with Lorenz staggering</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.07537">Statistical Rounding Error Analysis for the Computation of Random Vectors and Matrices</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.19969">Stable semi-implicit SDC methods for conservation laws</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.00525">Improving sampling by modifying the effective diffusion</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2401.09108">Reproducibility via neural fields of visual illusions induced by localized stimuli</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.03541">HAMLET: Graph Transformer Neural Operator for Partial Differential Equations</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2403.03632">A reduced-order modeling of pattern formations</a> - Thu, 03 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.19674">Alternating Maximization Algorithm for Mismatch Capacity with Oblivious Relaying</a> - Thu, 03 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.01911">A C++ implementation of the discrete adjoint sensitivity analysis method for explicit adaptive Runge-Kutta methods enabled by automatic adjoint differentiation and SIMD vectorization</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02000">Barycentric rational approximation for learning the index of a dynamical system from limited data</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02093">First-order empirical interpolation method for real-time solution of parametric time-dependent nonlinear PDEs</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02100">High-order empirical interpolation methods for real time solution of parametrized nonlinear PDEs</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02204">An Efficient Scaled spectral preconditioner for sequences of symmetric positive definite linear systems</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02317">Polynomial approximation of noisy functions</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02540">$hp$-error analysis of mixed-order hybrid high-order methods for elliptic problems on simplicial meshes</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02673">A Priori Error Bounds for the Approximate Deconvolution Leray Reduced Order Model</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02113">Mamba Neural Operator: Who Wins? Transformers vs. State-Space Models for PDEs</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02132">Nonuniform random feature models using derivative information</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02151">Quantitative Approximation for Neural Operators in Nonlinear Parabolic Equations</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02566">Deep Learning-Based Prediction of Suspension Dynamics Performance in Multi-Axle Vehicles</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02587">An Improved Variational Method for Image Denoising</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02623">Ranking Perspective for Tree-based Methods with Applications to Symbolic Feature Selection</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02659">Ion-Acoustic Wave Dynamics in a Two-Fluid Plasma</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02698">Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2302.13039">Kernel Multi-Grid on Manifolds</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2309.11931">Uniqueness of an inverse electromagnetic coefficient problem with partial boundary data and its numerical resolution through an iterated sensitivity equation</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2310.06187">Quasi-Monte Carlo sparse grid Galerkin finite element methods for linear elasticity equations with uncertainties</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2310.07399">Randomized Runge-Kutta-Nystr"om Methods for Unadjusted Hamiltonian and Kinetic Langevin Monte Carlo</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2312.00676">Minimal rank factorizations of polynomial matrices</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2312.09225">Gaussian Process Regression under Computational and Epistemic Misspecification</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2403.19309">Improving performance of contour integral-based nonlinear eigensolvers with infinite GMRES</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.00809">Graph Neural Preconditioners for Iterative Solutions of Sparse Linear Systems</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.11750">A Class of Generalized Shift-Splitting Preconditioners for Double Saddle Point Problems</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.00203">Multilevel Picard approximations overcome the curse of dimensionality when approximating semilinear heat equations with gradient-dependent nonlinearities in $L^p$-sense</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2311.09123">Convergence analysis of a primal-dual optimization-by-continuation algorithm</a> - Fri, 04 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2401.15007">Design Guidelines for Noise-Tolerant Optimization with Applications in Robust Design</a> - Fri, 04 Oct 2024 00:00:00 -0400
 <!-- arxiv-math-na ends -->
