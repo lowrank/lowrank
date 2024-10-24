@@ -9,33 +9,22 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2410.16453">Graph Regularized Sparse $L_{2,1}$ Semi-Nonnegative Matrix Factorization for Data Reduction</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16466">An Immersed Interface Method for Incompressible Flows and Geometries with Sharp Features</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16530">Exact local conservation of energy in fully implicit PIC algorithms</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16596">Galerkin Scheme Using Biorthogonal Wavelets on Intervals for 2D Elliptic Interface Problems</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16729">Non-oscillatory entropy stable DG schemes for hyperbolic conservation law</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16990">A Wrinkling Model for General Hyperelastic Materials based on Tension Field Theory</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.17091">Randomised methods for dynamical low-rank approximation</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16455">On The Variance of Schatten $p$-Norm Estimation with Gaussian Sketching Matrices</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16506">ReLU neural network approximation to piecewise constant functions</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16709">Universal approximation property of ODENet and ResNet with a single activation function</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16753">Large-Eddy Simulations of Stochastic Burgers Turbulence Using Fully Conservative Higher-Order Schemes</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16754">Efficient Implementation of an Accurate Algebraic Scheme for Sharp Interface Advection in Multiphase Flows</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.16833">Toroidal density-equalizing map for genus-one surfaces</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.17063">High-Order Dynamic Integration Method (HODIM) for Modeling Turbulent Fluid Dynamics</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.08344">LeXInt: GPU-accelerated Exponential Integrators package</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.13947">Augmented physics informed extreme learning machine to solve the biharmonic equations via Fourier expansions</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2401.13376">lymph: discontinuous poLYtopal methods for Multi-PHysics differential problems</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.00946">High order recovery of geometric interfaces from cell-average data</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.10923">Simulating Irregular Symmetry Breaking in Gut Cross Sections Using a Novel Energy-Optimization Approach in Growth-Elasticity</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.03255">A spectral method for dispersive solutions of the nonlocal Sine-Gordon equation</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.05050">Sampling recovery in Bochner spaces and applications to parametric PDEs with log-normal random inputs</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.00212">Transient subtraction: A control variate method for computing transport coefficients</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.04432">Total positivity and accurate computations related to $q$-Abel polynomials</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.12553">A finite difference method with symmetry properties for the high-dimensional Bratu equation</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2306.13405">New asymptotic expansion formula via Malliavin calculus and its application to rough differential equation driven by fractional Brownian motion</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2404.08171">The Rank-1 Completion Problem for Cubic Tensors</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2406.17933">Modeling and simulations of high-density two-phase flows using projection-based Cahn-Hilliard Navier-Stokes equations</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.02964">Consistent multiple-relaxation-time lattice Boltzmann method for the volume averaged Navier-Stokes equations</a> - Wed, 23 Oct 2024 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.16519">Feynman-Kac Formula for Nonlinear Schr"odinger Equations with Applications in Numerical Approximations</a> - Wed, 23 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17352">Efficient computation of lowercase{$f$}-centralities and nonbacktracking centrality for temporal networks</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17359">Deep Uzawa for PDE constrained optimisation</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17663">Error analysis of the Monte Carlo method for compressible magnetohydrodynamics</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17719">On the numerical approximation of hyperbolic mean curvature flows for surfaces</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17729">Comparing the ill-posedness for linear operators in Hilbert spaces</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17857">A theoretical study on the effect of mass lumping on the discrete frequencies in immersogeometric analysis</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17938">Polytope Division Method: A Scalable Sampling Method for Problems with High-dimensional Parameters</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.18005">Random space-time sampling and reconstruction of sparse bandlimited graph diffusion field</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17311">Multi-Point Hermite Methods for the N-Body Problem</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.17595">A generalized Frenet frame for computing MHD equilibria in stellarators</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2103.17040">Parallel two-scale finite element implementation of a system with varying microstructures</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2401.15294">Integral Operator Approaches for Scattered Data Fitting on Spheres</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2402.00685">Near and full quasi-optimality of finite element approximations of stationary second-order mean field games</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/1910.05681">Continuum limit for discrete NLS with memory effect</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2401.04372">Stable generative modeling using Schr"odinger bridges</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.17057">Portable, Massively Parallel Implementation of a Material Point Method for Compressible Flows</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.16447">Transient Evaluation of Non-Markovian Models by Stochastic State Classes and Simulation</a> - Thu, 24 Oct 2024 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.17938">Error bounds for Physics Informed Neural Networks in Nonlinear Schr"odinger equations placed on unbounded domains</a> - Thu, 24 Oct 2024 00:00:00 -0400
 <!-- arxiv-math-na ends -->
