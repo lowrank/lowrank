@@ -9,22 +9,34 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2411.02590">Rate of convergence of a semi-implicit time Euler scheme for a 2D B'enard-Boussinesq model</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.02646">A Discontinuous Galerkin Method for the Extracellular Membrane Intracellular Model</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.02895">The shift-and-invert Arnoldi method for singular matrix pencils</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.02952">A stabilized nonconforming finite element method for the surface biharmonic problem</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.03029">A Linear-complexity Tensor Butterfly Algorithm for Compressing High-dimensional Oscillatory Integral Operators</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.03090">Adjoint lattice kinetic scheme for topology optimization in fluid problems</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.03264">A priori and a posteriori error estimates of a DG-CG method for the wave equation in second order formulation</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2310.10552">Optimal bounds for POD approximations of infinite horizon control problems based on time derivatives</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2310.13947">Augmented physics informed extreme learning machine to solve the biharmonic equations via Fourier expansions</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2406.12148">Bidirectional conformal mapping for over-break and under-break tunnelling and its application in complex variable method</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.15519">Convolution tensor decomposition for efficient high-resolution solutions to the Allen-Cahn equation</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.19850">Hierarchical Network Partitioning for Solution of Potential-Driven, Steady-State Nonlinear Network Flow Equations</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2209.03705">Losing momentum in continuous-time stochastic optimisation</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2307.03927">Fast Empirical Scenarios</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2311.03504">Convolution finite element based digital image correlation for displacement and strain measurements</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2405.15593">MicroAdam: Accurate Adaptive Optimization with Low Space Overhead and Provable Convergence</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.16172">Families of lattices with an unbounded number of unit vectors</a> - Wed, 06 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.00272">Simulating incompressible flows over complex geometries using the shifted boundary method with incomplete adaptive octree meshes</a> - Wed, 06 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03411">A robust first order meshfree method for time-dependent nonlinear conservation laws</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03523">Hamiltonian Monte Carlo methods for spectroscopy data analysis</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03534">Spectral Transformation for the Dense Symmetric Semidefinite Generalized Eigenvalue Problem</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03607">Upper bound of high-order derivatives for Wachspress coordinates on polytopes</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03689">An efficient scheme for approximating long-time dynamics of a class of non-linear models</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03793">Quasi-Monte Carlo for partial differential equations with generalized Gaussian input uncertainty</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.04026">Space-Time Spectral Element Tensor Network Approach for Time Dependent Convection Diffusion Reaction Equation with Variable Coefficients</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03384">Solving stochastic partial differential equations using neural networks in the Wiener chaos expansion</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03501">The Python LevelSet Toolbox (LevelSetPy)</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03514">Deriving Analytical Solutions Using Symbolic Matrix Structural Analysis: Part 1 -- Continuous Beams</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03599">Structure-preserving quantum algorithms for linear and nonlinear Hamiltonian systems</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03841">Steady State Blended Gas Flow on Networks: Existence and Uniqueness of Solutions</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03929">Inexact block LU preconditioners for incompressible fluids with flow rate conditions</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03972">Toward end-to-end quantum simulation for protein dynamics</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.03989">Tensor train solution to uncertain optimization problems with shared sparsity penalty</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.04010">Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.04081">A Multi-level Monte Carlo simulation for invariant distribution of Markovian switching L'evy-driven SDEs with super-linearly growth coefficients</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.04119">Marcinkiewicz-Zygmund inequalities in quasi-Banach function spaces</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/1605.01212">$hp$-Version space-time discontinuous Galerkin methods for parabolic problems on prismatic meshes</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2209.13665">Benchmarking Numerical Algorithms for Harmonic Maps into the Sphere</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2303.03358">Nearly Optimal Approximation of Matrix Functions by the Lanczos Method</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2306.07202">On the rotational invariance and hyperbolicity of shallow water moment equations in two dimensions</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2308.12891">A class of Discontinuous Galerkin methods for nonlinear variational problems</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2312.15594">Scalable Approximate Optimal Diagonal Preconditioning</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2312.17077">Projected Langevin Monte Carlo algorithms in non-convex and super-linear setting</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.03964">A mean correction for improved phase-averaging accuracy in oscillatory, multiscale, differential equations</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.11935">A variational discretization method for mean curvature flows by the Onsager principle</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2409.05854">Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume Schemes for Low Mach Number Isentropic Euler Equations</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2401.15645">Ensemble-Based Annealed Importance Sampling</a> - Thu, 07 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2407.21707">Tree-Cotree-Based Tearing and Interconnecting for 3D Magnetostatics: A Dual-Primal Approach</a> - Thu, 07 Nov 2024 00:00:00 -0500
 <!-- arxiv-math-na ends -->
