@@ -9,5 +9,20 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2411.09769">Reduced-order modelling of parameter-dependent systems with invariant manifolds: application to Hopf bifurcations in follower force problems</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09828">Analysis of the SUPG Method for the Solution of Optimal Control Problems</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09898">A Natural Deep Ritz Method for Essential Boundary Value Problems</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09922">Determination and reconstruction of a semilinear term from point measurements</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09964">Geometric optics approximation sampling</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.10151">Self-Alignment Radio Frequency Resonant Beam System for Information and Power Transfer</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.10283">Error analysis of a first-order DoD cut cell method for 2D unsteady advection</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09704">From Mesh to Neural Nets: A Multi-Method Evaluation of Physics-Informed Neural Networks and Galerkin Finite Element Method for Solving Nonlinear Convection-Reaction-Diffusion Equations</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09728">Physics-informed neural networks (PINNs) for numerical model error approximation and superresolution</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09734">Modeling AdaGrad, RMSProp, and Adam with Integro-Differential Equations</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.10214">Machine Learning Algorithms to Assess Site Closure Time Frames for Soil and Groundwater Contamination</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.10363">Scrambled Halton Subsequences and Inverse Star-Discrepancy</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2403.08346">Discretization of Total Variation in Optimization with Integrality Constraints</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2405.00422">Bona-Smith-type systems in bounded domains with slip-wall boundary conditions: Theoretical justification and a conservative numerical scheme</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2410.18592">The Role of Tensor-Generated Matrices in Analyzing Spin State Classicality and Tensor H-Eigenvalue Distributions</a> - Mon, 18 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.07562">Thermodynamic consistency and structure-preservation in summation by parts methods for the moist compressible Euler equations</a> - Mon, 18 Nov 2024 00:00:00 -0500
 <!-- arxiv-math-na ends -->
