@@ -9,37 +9,28 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2411.12033">GO Competition Challenge 3: Problem, Solvers, and Solution Analysis</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12051">Ergodicity of Langevin Dynamics and its Discretizations for Non-smooth Potentials</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12090">Hardware Trends Impacting Floating-Point Computations In Scientific Applications</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12153">Wavelet s-Wasserstein distances for 0 < s <= 1</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12305">Convergence of the directional diffusion splitting method</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12430">An Eulerian approach to regularized JKO scheme with low-rank tensor decompositions for Bayesian inversion</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12443">Local interaction simulation approach for the acoustic wave equation with perfectly matched layer</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12457">A $ell_2-ell_p$ regulariser based model for Poisson noise removal using augmented Lagrangian method</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12467">On Multilevel Energy-Based Fragmentation Methods</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12601">Hypergraph $p$-Laplacian equations for data interpolation and semi-supervised learning</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12634">Quadratic projectable Runge-Kutta methods</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12679">CWENO Interpolation for Non-Oscillatory Stochastic Collocation in Uncertainty Quantification Problems</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12687">Quantum-assisted h{lambda}-adaptive finite element method</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12726">LazyDINO: Fast, scalable, and efficiently amortized Bayesian inversion via structure-exploiting and surrogate-driven measure transport</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.11858">Assessing AI-Enhanced Single-Sweep Approximations for Problems with Forward-Peaked Scattering in Slab Geometry</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12043">A comparative analysis for different finite element types in strain-gradient elasticity simulations performed on Firedrake and FEniCS</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12108">Large Eddy Simulation using Nonlinearly Stable Flux Reconstruction</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12627">A Generalized Flux-Corrected Transport Algorithm I: A Finite-Difference Formulation</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.12654">Combining Hyperbolic Quadrature Method of Moments and Discrete-Velocity-Direction Models for Solving BGK-type Equations</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2305.07410">Time splitting method for nonlinear Schr"odinger equation with rough initial data in $L^2$</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2401.08260">Fast Kernel Summation in High Dimensions via Slicing and Fourier Transforms</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2401.10879">A PDE Perspective on Approximating Nonlocal Periodic Operators with Applications on Neural Networks for Critical SQG Equations</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2404.13223">Superfast direct inversion of the nonuniform discrete Fourier transform via hierarchically semi-separable least squares</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2406.02796">Numerical approximation of linear parabolic evolution equations revisited</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2406.12215">Discrete Variable Topology Optimization Using Multi-Cut Formulation and Adaptive Trust Regions</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2408.15234">Chebotarov continua, Jenkins-Strebel differentials and related problems: a numerical approach</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.08342">Recursive reduction quadrature for the evaluation of Laplace layer potentials in three dimensions</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2302.14690">On the existence of minimizers in shallow residual ReLU neural network optimization landscapes</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2308.10083">Poisson quadrature method of moments for 2D kinetic equations with velocity of constant magnitude</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2402.04118">An explicit Euler method for Sobolev vector fields with applications to the continuity equation on non cartesian grids</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2405.10263">Partially Unitary Learning</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.15417">A hybrid quantum solver for the Lorenz system</a> - Wed, 20 Nov 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.10214">Machine Learning Algorithms to Assess Site Closure Time Frames for Soil and Groundwater Contamination</a> - Wed, 20 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.12884">The Frenet immersed finite element method for elliptic interface problems: An error analysis</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.12974">Data driven learning to enhance a kinetic model of distressed crowd dynamics</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13067">A new class of energy dissipative, mass conserving and positivity/bound-preserving schemes for Keller-Segel equations</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13175">High Order Finite Difference Schemes for the Transparent Boundary Conditions and Their Applications in the 1D Schr"odinger-Poisson Problem</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13240">Asymptotic-Preserving schemes for the Boltzmann mixture model with disparate mass</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13277">Functional normalizing flow for statistical inverse problems of partial differential equations</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13315">Leveraging NMF to Investigate Air Quality in Central Taiwan</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13338">Isogeometric collocation with smooth mixed degree splines over planar multi-patch domains</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13341">Attention-based hybrid solvers for linear equations that are geometry aware</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13443">Nonlinear Assimilation with Score-based Sequential Langevin Sampling</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13487">Long-term behaviour of symmetric partitioned linear multistep methods I. Global error and conservation of invariants</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13524">Incomplete (even and odd) trigonometric splines in the problems of constructing approximate solutions of second order linear differential equations</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13531">Space-time model reduction in the frequency domain</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.13094">Nonlinear orbital stability of stationary shock profiles for the Lax-Wendroff scheme</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2209.01878">A new T-compatibility condition and its application to the discretization of the damped time-harmonic Galbrun's equation</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2211.04249">Numerical analysis of the SIMP model for the topology optimization problem of minimizing compliance in linear elasticity</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2312.15613">Maximum bound principle preserving and energy decreasing exponential time differencing schemes for the matrix-valued Allen-Cahn equation</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2312.16541">Analysis of the Crouzeix-Raviart Surface Finite Element Method for vector-valued Laplacians</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2401.17739">Operator learning without the adjoint</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2403.01690">Singular value decompositions of third-order reduced biquaternion tensors</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2403.09872">Finite element approximation for a convective Brinkman--Forchheimer problem coupled with a heat equation</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2405.12383">Half-closed discontinuous Galerkin discretisations</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2407.14637">An objective isogeometric mixed finite element formulation for nonlinear elastodynamic beams with incompatible warping strains</a> - Thu, 21 Nov 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2408.15913">A simulation platform for slender, semiflexible, and inextensible fibers with Brownian hydrodynamics and steric repulsion</a> - Thu, 21 Nov 2024 00:00:00 -0500
 <!-- arxiv-math-na ends -->
