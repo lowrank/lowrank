@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/what-can-birdsong-teach-us-about-human-language-20241121/">What Can Birdsong Teach Us About Human Language?</a> - Thu, 21 Nov 2024 16:15:56 +0000
 * <a href="https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/">All Life on Earth Today Descended From a Single Cell. Meet LUCA.</a> - Wed, 20 Nov 2024 15:10:40 +0000
 * <a href="https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/">Mathematical Thinking Isn’t What You Think It Is</a> - Mon, 18 Nov 2024 14:41:24 +0000
 * <a href="https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/">How Public Key Cryptography Really Works, Using Only Simple Math</a> - Fri, 15 Nov 2024 14:51:08 +0000
 * <a href="https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/">The Cosmos Teems with Complex Organic Molecules</a> - Wed, 13 Nov 2024 16:00:15 +0000
-* <a href="https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/">New Elliptic Curve Breaks 18-Year-Old Record</a> - Mon, 11 Nov 2024 14:43:34 +0000
 <!-- quanta ends -->
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
