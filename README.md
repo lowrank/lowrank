@@ -9,30 +9,22 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2412.02773">Efficient hyperparameter estimation in Bayesian inverse problems using sample average approximation</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.02797">Some lower bounds for optimal sampling recovery of functions with mixed smoothness</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03161">Physics-Informed Deep Inverse Operator Networks for Solving PDE Inverse Problems</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03269">Theory and Fast Learned Solver for $ell^1$-TV Regularization</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03405">Deep Operator BSDE: a Numerical Scheme to Approximate the Solution Operators</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03423">A Novel and Simple Invariant-Domain-Preserving Framework for PAMPA Scheme: 1D Case</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03477">Analysis of the multi-dimensional semi-discrete Active Flux method using the Fourier transform</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03502">A Space-Time Discontinuous Petrov-Galerkin Finite Element Formulation for a Modified Schr"odinger Equation for Laser Pulse Propagation in Waveguides</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03522">Rusanov-type Schemes for Hyperbolic Equations: Wave-Speed Estimates, Monotonicity and Stability</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03523">Microwave Remote Sensing of Soil Moisture, Above Ground Biomass and Freeze-Thaw Dynamic: Modeling and Empirical Approaches</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.02908">Compactly supported, orthogonal, continuous piecewise polynomial multiresolution analysis</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03120">Sinkhorn Algorithm for Sequentially Composed Optimal Transports</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03164">Lebesgue constants for the Walsh system and the discrepancy of the van der Corput sequence</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03271">Nonparametric Filtering, Estimation and Classification using Neural Jump ODEs</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03447">Spectral theory of effective transport for discrete uniaxial polycrystalline materials</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03478">Solving Monge problem by Hilbert space embeddings of probability measures</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2001.02061">Scaled Relative Graph of Normal Matrices</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2211.04757">Lower bounds for piecewise polynomial approximations of oscillatory functions</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2408.01616">A conservative, implicit solver for 0D-2V multi-species nonlinear Fokker-Planck collision equations</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.13635">SUPG-stabilized time-DG finite and virtual elements for the time-dependent advection-diffusion equation</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.07194">Re-anchoring Quantum Monte Carlo with Tensor-Train Sketching</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2205.11359">Towards Size-Independent Generalization Bounds for Deep Operator Nets</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2310.05501">Inexact Newton methods with matrix approximation by sampling for nonlinear least-squares and systems</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2408.12479">Matrix-Free Higher-Order Finite Element Methods for Hyperelasticity</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.21690">Improved Spectral Density Estimation via Explicit and Implicit Deflation</a> - Thu, 05 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.00695">Numerical Analysis of Cavitation Dynamics on Free Ogee Spillways Using the Volume of Fluid (VOF) Method</a> - Thu, 05 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.03787">Recovery Techniques for Finite Element Methods</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.04231">Pathwise uniform convergence of numerical approximations for a two-dimensional stochastic Navier-Stokes equation with no-slip boundary conditions</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.04251">A numerical method for solving the generalized tangent vector of hyperbolic systems</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.04409">Stabilizing and Solving Inverse Problems using Data and Machine Learning</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.03763">Quantum circuit and mapping algorithms for wavepacket dynamics: case study of anharmonic hydrogen bonds in protonated and hydroxide water clusters</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.03810">Computing sessile droplet shapes on arbitrary surfaces with a new pairwise force smoothed particle hydrodynamics model</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.04166">An In-Depth Examination of Risk Assessment in Multi-Class Classification Algorithms</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.04179">Core-periphery detection in multilayer networks</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.04444">Block Lanczos for lattice QCD spectroscopy and matrix elements</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2302.13616">ResQPASS: an algorithm for bounded variable linear least squares with asymptotic Krylov convergence</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2310.15048">A Fast Adaptive Method for the Heat Equation with Moving or Free Boundaries in One Dimension</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2312.17396">Mixed-Precision Paterson--Stockmeyer Method for Evaluating Polynomials of Matrices</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2408.03565">FIAT: improving performance and accuracy for high-order finite elements</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2310.02068">Well-posedness and numerical analysis of an elapsed time model with strongly coupled neural networks</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2403.10032">Quantum Circuits for partial differential equations via Schr"odingerisation</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.00260">Greedy Learning to Optimize with Convergence Guarantees</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.17933">Modeling and simulations of high-density two-phase flows using projection-based Cahn-Hilliard Navier-Stokes equations</a> - Fri, 06 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.03120">Sinkhorn Algorithm for Sequentially Composed Optimal Transports</a> - Fri, 06 Dec 2024 00:00:00 -0500
 <!-- arxiv-math-na ends -->
