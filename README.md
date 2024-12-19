@@ -39,6 +39,8 @@
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lowrank)](https://github.com/lowrank)
+![GitHub Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flowrank&label=profile%20views&labelColor=%231e1e2e&countColor=%23cba6f7)
+
+
 
 </div>
