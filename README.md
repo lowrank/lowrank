@@ -9,31 +9,29 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2412.12297">On the stability of IMEX BDF methods for DDEs and PDDEs</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12308">Numerical Solution Partial Differential Equations using the Discrete Fourier Transform</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12384">Median Filters for Anisotropic Wetting / Dewetting Problems</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12396">An accurate SUPG-stabilized continuous Galerkin discretization for anisotropic heat flux in magnetic confinement fusion</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12506">A comparative study of efficient multigrid solvers for high-order local discontinuous Galerkin methods: Poisson, elliptic interface, and multiphase Stokes problems</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12604">Improving Numerical Error Bounds Near Sharp Interface Limit for Stochastic Reaction-Diffusion Equations</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12608">SOR-like iteration and FPI are consistent when they are equipped with certain optimal iterative parameters</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12884">A 3D-1D Virtual Element Method for Modeling Root Water Uptake</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12993">Fourier Beyond Dispersion: Wavenumber Explicit and Precise Accuracy of FDMs for the Helmholtz Equation</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.13002">An Entropy Stable High-Order Discontinuous Galerkin Method on Cut Meshes</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.13085">A numerical algorithm for computing the zeros of parabolic cylinder functions in the complex plane</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.13143">A finite volume scheme for the local sensing chemotaxis model</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12180">Fully stochastic trust-region methods with Barzilai-Borwein steplengths</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12580">A hierarchical splines-based $h$-adaptive isogeometric solver for all-electron Kohn--Sham equation</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.12930">Certified Model Predictive Control for Switched Evolution Equations using Model Order Reduction</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.13060">Exact simulation of the first-passage time of SDEs to time-dependent thresholds</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2310.07375">New analytical solution for time fractional Burgers-Huxley equation describing the interaction between reaction mechanisms and diffusion transport</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2311.08761">A unified framework for multiscale spectral generalized FEMs and low-rank approximations to multiscale PDEs</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2404.09907">An adaptive hierarchical ensemble Kalman filter with reduced basis models</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2405.05095">Approximation properties relative to continuous scale space for hybrid discretizations of Gaussian derivative operators</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2405.05192">Full error analysis of the random deep splitting method for nonlinear parabolic PDEs and PIDEs</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.04915">Shear-flexible geometrically exact beam element based on finite differences</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.17039">Physics-Informed Neural Networks with good lattice points set for solving low regularity PDEs and high dimensional PDE</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.17740">A robust time-split linearized explicit/implicit technique for two-dimensional hydrodynamic model: an application to floods in Cameroon far north region</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.08579">Sparse Signature Coefficient Recovery via Kernels</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.11825">On orthogonality sampling method for Maxwell's equations and its applications to experimental data</a> - Wed, 18 Dec 2024 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2207.09511">Approximation Power of Deep Neural Networks: an explanatory mathematical survey</a> - Wed, 18 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13480">Spectrally accurate fully discrete schemes for some nonlocal and nonlinear integrable PDEs via explicit formulas</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13603">Approximation by orthonormal polynomials associated with even exponential weights</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13733">Hierarchical proximal Galerkin: a fast $hp$-FEM solver for variational problems with pointwise inequality constraints</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13837">Coupled Eikonal problems to model cardiac reentries in Purkinje network and myocardium</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13990">A convexity-like structure for polar decomposition with an application to distributed computing</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13992">Adaptive randomized pivoting for column subset selection, DEIM, and low-rank approximation</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13222">Towards Real-time Adaptive Anisotropic Image-to-mesh Conversion for Vascular Flow Simulations</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13346">A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13371">A polynomial approximation scheme for nonlinear model reduction by moment matching</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13527">Lyapunov Analysis For Monotonically Forward-Backward Accelerated Algorithms</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13571">PowerMLP: An Efficient Version of KAN</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13703">MBInception: A new Multi-Block Inception Model for Enhancing Image Processing Efficiency</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13826">Resonance modes in microstructured photonic waveguides: Efficient and accurate computation based on AAA rational approximation</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.13955">A few sharp estimates of harmonic functions with applications to Steklov eigenfunctions</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2310.11019">Numerical simulation of time fractional Kudryashov Sinelshchikov equation describing the pressure waves in a mixture of liquid and gas bubbles</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2312.17478">Structure-preserving Kernel-based methods for solving dissipative PDEs on surfaces</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.06342">A Guide to Stochastic Optimisation for Large-Scale Inverse Problems</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.18963">Generation of Random (Generalized) Orthogonal Matrices</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2407.19640">Data-driven Discovery of Delay Differential Equations with Discrete Delays</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2409.10808">A node-based uniform strain virtual element method for elastoplastic solids</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.07660">Approximation of Random Evolution Equations of Parabolic type</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.10476">Enhanced Facial Feature Extraction and Recignation Using Optimal Fully Dispersed Haar-like Filters</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.05367">Boundary-field formulation for transient electromagnetic scattering by dielectric scatterers and coated conductors</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.19525">An Energy Stable Nonlinear Incompressible Multi-Phase Flow Formulation</a> - Thu, 19 Dec 2024 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.03120">Sinkhorn Algorithm for Sequentially Composed Optimal Transports</a> - Thu, 19 Dec 2024 00:00:00 -0500
 <!-- arxiv-math-na ends -->
