@@ -37,4 +37,6 @@
 * <a href="https://arxiv.org/abs/2412.03120">Sinkhorn Algorithm for Sequentially Composed Optimal Transports</a> - Thu, 19 Dec 2024 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
+<div align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lowrank)](https://github.com/lowrank)
+</div>
