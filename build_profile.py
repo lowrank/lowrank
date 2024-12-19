@@ -73,3 +73,5 @@ if __name__ == '__main__':
     readme.open('w').write(rewritten)
 
     print('Done!')
+
+    readme.open('w').write('<img src="https://streak-stats.demolab.com/?user=lowrank&theme=catppuccin-mocha&exclude_days=Sat%2CSun" >')
