@@ -10,28 +10,26 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2501.07686">When is the Resolvent Like a Rank One Matrix?</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07702">Convergence of Multi-Level Hybrid Monte Carlo Methods for 1-D Particle Transport Problems</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07778">A Low-Rank QTT-based Finite Element Method for Elasticity Problems</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07904">Effective algorithms for tensor train decomposition via the UTV framework</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07914">Using curved meshes to derive a priori error estimates for a linear elasticity problem with Robin boundary conditions</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07929">Computing the $p$-Laplacian eigenpairs of signed graphs</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07934">Monotonicity and convergence of two-relaxation-times lattice Boltzmann schemes for a non-linear conservation law</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07946">A semi-implicit exactly fully well-balanced relaxation scheme for the Shallow Water Linearized Moment Equations</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07962">Rectangular polar quadrature in 1D and its error analysis</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.08006">BIAN: A boundary-informed Alone Neural Network for solving PDE-constrained Inverse Problems</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.08166">Asymptotic-Preserving Neural Networks based on Even-odd Decomposition for Multiscale Gray Radiative Transfer Equations</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.08247">A New Fick-Jacobs Derivation with Applications to Computational Branched Diffusion Networks</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07645">Coverage errors for Student's t confidence intervals comparable to those in Hall (1988)</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07700">An Adaptive Collocation Point Strategy For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.07863">An accelerated gradient method with adaptive restart for convex multiobjective optimization problems</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2309.00605">A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2404.19059">Convergence and stability of randomized implicit two-stage Runge-Kutta schemes</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2407.09933">Some New Convergence Analysis and Applications of POD-Greedy Algorithms</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2407.20698">Error estimates for full discretization of Cahn--Hilliard equation with dynamic boundary conditions</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.04023">Approximation Rates in Fr'echet Metrics: Barron Spaces, Paley-Wiener Spaces, and Fourier Multipliers</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2404.00427">Extracting Manifold Information from Point Clouds</a> - Wed, 15 Jan 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2404.16742">Bayesian Nonparametric Inference in McKean-Vlasov models</a> - Wed, 15 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08501">Scalable Bayesian Physics-Informed Kolmogorov-Arnold Networks</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08522">Differentiable Singular Value Decomposition</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08543">Stability and convergence of relaxed scalar auxiliary variable schemes for Cahn-Hilliard systems with bounded mass source</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08749">Robust Multipatch IGA with Singular Maps</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08757">Transient Instability and Patterns of Reactivity in Diffusive-Chemotaxis Soil Carbon Dynamics</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08817">Multivariate Vector Subdivision Schemes with a General Matrix-valued Filter</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08855">A simple-to-implement nonlinear preconditioning of Newton's method for solving the steady Navier-Stokes equations</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08954">Implicit Time-Marching for Lagrange Multiplier Formulation for Couple Stress Elastodynamics</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08482">Surrogate-based multilevel Monte Carlo methods for uncertainty quantification in the Grad-Shafranov free boundary problem</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08489">Analytical and Numerical Study of a Convection-Diffusion-Reaction-Source Problem in Multilayered Materials</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.08927">Continuous Approach to Phase (Norm) Retrieval Frames</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/1109.2669">Sharp estimates for the convergence rate of Orthomin(k) for a class of linear systems</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2305.06261">Multiscale analysis via pseudo-reversing and applications to manifold-valued sequences</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.19545">Discrete de-Rham complex involving a discontinuous finite element space for velocities: the case of periodic straight triangular and Cartesian meshes</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2405.05095">Approximation properties relative to continuous scale space for hybrid discretizations of Gaussian derivative operators</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2410.17719">On the numerical approximation of hyperbolic mean curvature flows for surfaces</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.07723">Multilevel randomized quasi-Monte Carlo estimator for nested integration</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.12604">Improving Numerical Error Bounds Near Sharp Interface Limit for Stochastic Reaction-Diffusion Equations</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2409.18426">Dual Cone Gradient Descent for Training Physics-Informed Neural Networks</a> - Thu, 16 Jan 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.07863">An accelerated gradient method with adaptive restart for convex multiobjective optimization problems</a> - Thu, 16 Jan 2025 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
