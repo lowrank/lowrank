@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/the-poetry-fan-who-taught-an-llm-to-read-and-write-dna-20250205/">The Poetry Fan Who Taught an LLM to Read and Write DNA</a> - Wed, 05 Feb 2025 15:58:11 +0000
 * <a href="https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/">New Proofs Probe the Limits of Mathematical Truth</a> - Mon, 03 Feb 2025 15:31:40 +0000
 * <a href="https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/">Chatbot Software Begins to Face Fundamental Limitations</a> - Fri, 31 Jan 2025 15:37:15 +0000
 * <a href="https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/">How Does Life Happen When There’s Barely Any Light?</a> - Wed, 29 Jan 2025 15:03:45 +0000
 * <a href="https://www.quantamagazine.org/cosmologists-try-a-new-way-to-measure-the-shape-of-the-universe-20250127/">Cosmologists Try a New Way to Measure the Shape of the Universe</a> - Mon, 27 Jan 2025 15:47:46 +0000
-* <a href="https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/">New Book-Sorting Algorithm Almost Reaches Perfection</a> - Fri, 24 Jan 2025 14:42:25 +0000
 <!-- quanta ends -->
 
 
