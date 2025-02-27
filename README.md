@@ -10,24 +10,29 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2502.17626">Preconditioned normal equations for solving discretised partial differential equations</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.17767">Stable algorithms for general linear systems by preconditioning the normal equations</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.18275">Strategies for Feature-Assisted Development of Topology Agnostic Planar Antennas Using Variable-Fidelity Models</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.18317">Polynomial Approximation to the Inverse of a Large Matrix</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.17499">Accuracy of Wearable ECG Parameter Calculation Method for Long QT and First-Degree A-V Block Detection: A Multi-Center Real-World Study with External Validations Compared to Standard ECG Machines and Cardiologist Assessments</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.17585">Synergizing Deep Learning and Full-Waveform Inversion: Bridging Data-Driven and Theory-Guided Approaches for Enhanced Seismic Imaging</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.17641">Mesoscale Modeling of an Active Colloid's Motion</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.17671">Optimal Recovery Meets Minimax Estimation</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.17732">Sufficient Conditions for the Energy Balance for the Stochastic Incompressible Euler Equations with Additive Noise in two Space Dimensions</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.18155">Local iterative algorithms for approximate symmetry guided by network centralities</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2309.13255">Adaptive Quasicontinuum Methods and Simulations for Crystal Defects with a Theory based Unified a Posteriori Error Estimate</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2403.04557">Parameter identification in PDEs by the solution of monotone inclusion problems</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2407.20966">High-order limiting methods using maximum principle bounds derived from the Boltzmann equation I: Euler equations</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2408.03069">Probabilistic error analysis of limited-precision stochastic rounding</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2408.07669">Two-level hybrid Schwarz Preconditioners for The Helmholtz Equation with high wave number</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.16283">Finite Element Theory for PHIMATS</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2312.04038">Reconstruction of dynamical systems from data without time labels</a> - Wed, 26 Feb 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.16577">SUperman: Efficient Permanent Computation on GPUs</a> - Wed, 26 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.18626">Stochastic trace estimation for parameter-dependent matrices applied to spectral density approximation</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.18633">An NEPv Approach for Feature Selection via Orthogonal OCCA with the (2,1)-norm Regularization</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.18849">Convergence of random splitting method for the Allen-Cahn equation in a background flow</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.18854">Formulation and Analysis of Blended Atomistic to Higher-Order Continuum Coupling Methods for Crystalline Defects</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.18997">Application of quasi-Monte Carlo in Mine Countermeasure Simulations with a Stochastic Optimal Control Framework</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19003">On conservative, stable boundary and coupling conditions for diffusion equations I -- The conservation property for explicit schemes</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19035">A pressure- and Reynolds-semi-robust space-time DG method for the incompressible Navier-Stokes equations</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19117">Geometric Ergodicity and Optimal Error Estimates for a Class of Novel Tamed Schemes to Super-linear Stochastic PDEs</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19120">Reduced order models for time-dependent problems using the Laplace transform</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19221">JS-type and Z-type weights for fourth-order central-upwind weighted essentially non-oscillatory schemes</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19277">Second order in time finite element schemes for curve shortening flow and curve diffusion</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19290">PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19392">Error estimates for viscous Burgers' equation using deep learning method</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.18659">Multigrid methods for total variation</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19052">Algorithmic approaches to avoiding bad local minima in nonconvex inconsistent feasibility</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.19088">A Nonlinear Extension of the Variable Projection (VarPro) Method for NURBS-based Conformal Surface Flattening</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2309.14178">Chebyshev HOPGD with sparse grid sampling for parameterized linear systems</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2402.12833">Integrating Additive Multigrid with Multipreconditioned Conjugate Gradient Method</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2405.06327">Backward errors for multiple eigenpairs in structured and unstructured nonlinear eigenvalue problems</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2408.05595">Low-rank approximation of parameter-dependent matrices via CUR decomposition</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2310.20360">Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.19075">Distributed Stochastic Optimization of a Neural Representation Network for Time-Space Tomography Reconstruction</a> - Thu, 27 Feb 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2408.09208">Parametric Sensitivity Analysis for Models of Reaction Networks within Interacting Compartments</a> - Thu, 27 Feb 2025 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
