@@ -10,27 +10,27 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2503.02006">Upper and Lower Error Bounds for a Compact Fourth-Order Finite-Difference Scheme for the Wave Equation with Nonsmooth Data</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02159">Policy iteration for nonconvex viscous Hamilton--Jacobi equations</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02254">Algebraic Reconstruction of Piecewise-Smooth Functions of Two Variables from Fourier Data</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02273">Nonlinear energy-preserving model reduction with lifting transformations that quadratize the energy</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02306">Airy Phase Functions</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02361">Positive semidefinite/positive semidefinite splitting iteration methods for solving nonsingular non-Hermitian positive semidefinite systems</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02721">A three-level CIP-VEM approach for the Oseen equation</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02813">An optimal-transport finite-particle method for driven mass diffusion</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.01873">Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02331">Goat Optimization Algorithm: A Novel Bio-Inspired Metaheuristic for Global Optimization</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02475">On the choice of proper outlet boundary conditions for numerical simulation of cardiovascular flows</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02485">Calibration of the mechanical boundary conditions for a patient-specific thoracic aorta model including the heart motion effect</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02663">Equivalence Classes Induced by Binary Tree Isomorphism -- Generating Functions</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.02673">Implementing PID Controller on a hand follower robot using Numerical Methods</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2302.01646">Error analysis for a Crouzeix-Raviart approximation of the obstacle problem</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2401.03338">Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2401.13209">Symmetric, Optimization-based, Cross-element Compatible Nodal Distributions for High-order Finite Elements</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2402.15966">Data-driven micromorphic mechanics for materials with strain localization</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.19603">Cut-edge centralities in an undirected graph</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.11017">Scalable Binary CUR Low-Rank Approximation Algorithm</a> - Wed, 05 Mar 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.00768">Nonlinear Model Reduction by Probabilistic Manifold Decomposition</a> - Wed, 05 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03019">Stability and Time-Step Constraints of Exponential Time Differencing Runge--Kutta Discontinuous Galerkin Methods for Advection-Diffusion Equations</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03069">Convergence of Ray- and Pixel-Driven Discretization Frameworks in the Strong Operator Topology</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03243">Finite element form-valued forms (I): Construction</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03369">Symmetry-Preserving Finite-Difference Schemes and Auto-B"acklund Transformations for the Schwarz Equation</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03456">Mixed-precision algorithms for solving the Sylvester matrix equation</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03525">Discretization error analysis for a radially symmetric harmonic map heat flow problem</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03653">Equilibrated Averaging Residual Method: A General Approach to Conservative Flux Recovery</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.20373">Hamiltonian Learning at Heisenberg Limit for Hybrid Quantum Systems</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.02915">Computer-aided shape features extraction and regression models for predicting the ascending aortic aneurysm growth rate</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03109">A parallel-in-time method based on the Parareal algorithm and High-Order Dynamic Mode Decomposition with applications to fluid simulations</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03183">Weighted balanced truncation method for approximating kernel functions by exponentials</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03283">Exploring specialization and sensitivity of convolutional neural networks in the context of simultaneous image augmentations</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.03425">Persistence probabilities of spherical fractional Brownian motion</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2409.15621">Three-dimensional varying-order NURBS discretization method for enhanced IGA of large deformation frictional contact problems</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.16232">Flow-based Bayesian filtering for high-dimensional nonlinear stochastic dynamical systems</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.17767">Stable algorithms for general linear systems by preconditioning the normal equations</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.00418">A nodally bound-preserving finite element method for time-dependent convection-diffusion equations</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.00934">A sharp-interface approach for simulating solid-state dewetting of thin films with double-bubble structure</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2407.11894">Deep Learning without Global Optimization by Random Fourier Neural Networks</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2410.02698">Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups</a> - Thu, 06 Mar 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.13445">Comments and extensions on "State-equivalent form and minimum-order compensator design for rectangular descriptor systems"</a> - Thu, 06 Mar 2025 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
