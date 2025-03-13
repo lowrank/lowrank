@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/the-road-map-to-alien-life-passes-through-the-cosmic-shoreline-20250312/">The Road Map to Alien Life Passes Through the ‘Cosmic Shoreline’</a> - Wed, 12 Mar 2025 14:25:43 +0000
 * <a href="https://www.quantamagazine.org/why-do-researchers-care-about-small-language-models-20250310/">Why Do Researchers Care About Small Language Models?</a> - Mon, 10 Mar 2025 13:35:37 +0000
 * <a href="https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/">‘Next-Level’ Chaos Traces the True Limit of Predictability</a> - Fri, 07 Mar 2025 14:41:30 +0000
 * <a href="https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/">A New, Chemical View of Ecosystems</a> - Wed, 05 Mar 2025 15:15:48 +0000
 * <a href="https://www.quantamagazine.org/years-after-the-early-death-of-a-math-genius-her-ideas-gain-new-life-20250303/">Years After the Early Death of a Math Genius, Her Ideas Gain New Life</a> - Mon, 03 Mar 2025 15:33:32 +0000
-* <a href="https://www.quantamagazine.org/the-physicist-working-to-build-science-literate-ai-20250228/">The Physicist Working to Build Science-Literate AI</a> - Fri, 28 Feb 2025 15:00:07 +0000
 <!-- quanta ends -->
 
 
