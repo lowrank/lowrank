@@ -10,25 +10,34 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2503.13526">Time parallelization for hyperbolic and parabolic problems</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13711">Constructing Sobolev orthonormal rational functions via an updating procedure</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13802">Multi-Harmonic Gridded 3D Deconvolution (MH3D) for Robust and Accurate Image Reconstruction in MPI for Single Axis Drive Field Scanners</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13830">Hierarchical Gaussian Random Fields for Multilevel Markov Chain Monte Carlo: Coupling Stochastic Partial Differential Equation and The Karhunen-Lo`eve Decomposition</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13930">SIAC Accuracy Enhancement of Stochastic Galerkin Solutions for Wave Equations with Uncertain Coefficients</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13941">Randomized block Kaczmarz with volume sampling: Momentum acceleration and efficient implementation</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13756">Fast alignment of heterogeneous images in sliced Wasserstein distance</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13877">Shock with Confidence: Formal Proofs of Correctness for Hyperbolic Partial Differential Equation Solvers</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.14011">Multitaper-Based Post-Processing of Compact Antenna Responses Obtained in Non-Anechoic Conditions</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2404.16699">Generalized cyclic symmetric decompositions for the matrix multiplication tensor</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2406.03885">Convergence of a Riemannian gradient method for the Gross-Pitaevskii energy functional in a rotating frame</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.03455">Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.01467">A fast numerical scheme for fractional viscoelastic models of wave propagation</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.10199">Optimal Estimation and Uncertainty Quantification for Stochastic Inverse Problems via Variational Bayesian Methods</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.12805">A fast Fourier spectral method for wave kinetic equation</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.16202">Existence of solution to a system of PDEs modeling the crystal growth inside lithium batteries</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.14099">Automatic Differentiation is Essential in Training Neural Networks for Solving Differential Equations</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2406.10511">Efficient Hardware Accelerator Based on Medium Granularity Dataflow for SpTRSV</a> - Wed, 19 Mar 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13388">A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm</a> - Wed, 19 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.14750">Matrix nearness problems and eigenvalue optimization</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.14764">A shape-optimization approach for inverse diffusion problems by single boundary measurement</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.14913">A PINN-enriched finite element method for linear elliptic problems</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.14947">Image Restoration Models with Optimal Transport and Total Variation Regularization</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15105">Control, Optimal Transport and Neural Differential Equations in Supervised Learning</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15188">Convergence analysis of SPH method on irregular particle distributions for the Poisson equation</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15258">A Lie algebra view of matrix splittings</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15397">A High Order IMEX Method for Generalized Korteweg de-Vries Equations</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15441">A discontinuity-capturing neural network with categorical embedding and its application to anisotropic elliptic interface problems</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.14514">Acceptance or Rejection of Lots while Minimizing and Controlling Type I and Type II Errors</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.14978">Inferring diffusivity from killed diffusion</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15121">Analytic adjoint solution for incompressible potential flows</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15125">A Spectral Approach to Optimal Control of the Fokker-Planck Equation</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2209.05567">Computation of Miura surfaces with gradient Dirichlet boundary conditions</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2303.01075">An Adaptive Parallel Arc-Length Method</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2307.08356">Goal-Adaptive Meshing of Isogeometric Kirchhoff-Love Shells</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2308.07281">Ergodic Estimations for Toeplitz Sequences Generated by a Symbol</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2309.04405">A comparison of smooth basis constructions for isogeometric analysis</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.03680">The sharpness condition for constructing a finite element from a superspline</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.20417">Optimizing Variational Physics-Informed Neural Networks Using Least Squares</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.07959">An efficient particle locating method on unstructured meshes in two and three dimensions based on patch searching</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.16990">A Wrinkling Model for General Hyperelastic Materials based on Tension Field Theory</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.05533">Exploiting Inexact Computations in Multilevel Sampling Methods</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.07449">Investigation of the piston effect in supercritical fluids via a reversible--irreversible vector field splitting-based explicit time integration scheme</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.09434">Conditional Stability of the Euler Method on Riemannian Manifolds</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.10199">Optimal Estimation and Uncertainty Quantification for Stochastic Inverse Problems via Variational Bayesian Methods</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2403.18155">An inexact infeasible arc-search interior-point method for linear optimization</a> - Thu, 20 Mar 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.10782">ANaGRAM: A Natural Gradient Relative to Adapted Model for efficient PINNs learning</a> - Thu, 20 Mar 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
