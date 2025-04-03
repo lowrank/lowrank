@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/">Why Everything in the Universe Turns More Complex</a> - Wed, 02 Apr 2025 14:55:40 +0000
 * <a href="https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/">A New Proof Smooths Out the Math of Melting</a> - Mon, 31 Mar 2025 14:22:02 +0000
 * <a href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/">The High Cost of Quantum Randomness Is Dropping</a> - Fri, 28 Mar 2025 14:33:16 +0000
 * <a href="https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/">The Mysterious Flow of Fluid in the Brain</a> - Wed, 26 Mar 2025 14:22:06 +0000
 * <a href="https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/">Three Hundred Years Later, a Tool from Isaac Newton Gets an Update</a> - Mon, 24 Mar 2025 05:32:56 +0000
-* <a href="https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/">How Metabolism Can Shape Cells’ Destinies</a> - Fri, 21 Mar 2025 13:40:30 +0000
 <!-- quanta ends -->
 
 
