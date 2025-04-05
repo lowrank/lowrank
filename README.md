@@ -10,28 +10,7 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2504.02072">A balancing domain decomposition by constraints preconditioner for a hybridizable discontinuous Galerkin discretization of an elliptic optimal control problem</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02117">Vectorised Parallel in Time methods for low-order discretizations with application to Porous Media problems</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02226">Error analysis of the diffuse domain finite element method for second order parabolic equations</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02228">Stochastic positivity-preserving symplectic splitting methods for stochastic Lotka--Volterra predator-prey model</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02475">Heat Conduction with Phase Change in Permafrost Modules of Vegetation Models</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02513">Adaptive Bivariate Quarklet Tree Approximation via Anisotropic Tensor Quarklets</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02629">An efficient and energy-stable IMEX splitting scheme for dispersed multiphase flows</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02672">Certified Model Order Reduction for parametric Hermitian eigenproblems</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02700">Centroidal Voronoi Tessellations as Electrostatic Equilibria: A Generalized Thomson Problem in Convex Domains</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02814">Convergence of the Markovian iteration for coupled FBSDEs via a differentiation approach</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.01984">Stable EEG Source Estimation for Standardized Kalman Filter using Change Rate Tracking</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02198">Error Analysis of Sampling Algorithms for Approximating Stochastic Optimal Control</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02245">Traffic Flow Data Completion and Anomaly Diagnosis via Sparse and Low-Rank Tensor Optimization</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02432">Robust Randomized Low-Rank Approximation with Row-Wise Outlier Detection</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.02721">Phase transitions for interacting particle systems on random graphs</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.12053">Rational function approximation with normalized positive denominators</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2401.16250">Efficient solution of ill-posed integral equations through averaging</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.18708">Combining physics-based and data-driven models: advancing the frontiers of research with Scientific Machine Learning</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.20096">The Geometric Refinement Transform: A Novel Uncountably Infinite Transform Space</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.00958">Subordination based approximation of Caputo fractional propagator and related numerical methods</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2305.09046">Convex optimization over a probability simplex</a> - Fri, 04 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.01358">Diffusion at Absolute Zero: Langevin Sampling Using Successive Moreau Envelopes [conference paper]</a> - Fri, 04 Apr 2025 00:00:00 -0400
+
 <!-- arxiv-math-na ends -->
 
 <div align="center">
