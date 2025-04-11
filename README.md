@@ -10,32 +10,27 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2504.06371">Efficient Simulation of Singularly Perturbed Systems Using a Stabilized Multirate Explicit Scheme</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06378">On Mixed-Precision Iterative Methods and Analysis for Nearly Completely Decomposable Markov Processes</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06425">Neural Network Enhanced Polyconvexification of Isotropic Energy Densities in Computational Mechanics</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06583">Aplicando diferencias finitas para resolver ecuaciones y sistemas de ecuaciones diferenciales parciales sobre dominios planos irregulares simplemente conexos y no conexos</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06603">Asymptotic Variance in the Central Limit Theorem for Multilevel Markovian Stochastic Approximation</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06621">Computation of shape Taylor expansions</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06763">Convergence of a continuous Galerkin method for the Biot-Allard poroelasticity system</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06889">Mixed-Precision in High-Order Methods: the Impact of Floating-Point Precision on the ADER-DG Algorithm</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06938">On the Compressibility of Integral Operators in Anisotropic Wavelet Coordinates</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06998">A Krylov projection algorithm for large symmetric matrices with dense spectra</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.07058">Physics informed neural network for forward and inverse modeling of low grade brain tumors</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06458">Solving Power System Problems using Adiabatic Quantum Computing</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06475">Successive randomized compression: A randomized algorithm for the compressed MPO-MPS product</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06782">Probabilistic Grading and Classification System for End-of-Life Building Components Toward Circular Economy Loop</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06837">Discrete-to-continuum limit for nonlinear reaction-diffusion systems via EDP convergence for gradient systems</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06951">GLT hidden structures in mean-field quantum spin systems</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2209.03098">Physical configurations of a cell doublet with line tension, a theoretical study</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2308.16081">Abstract Fractional Cauchy Problem: Existence of Propagators and Inhomogeneous Solution Representation</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.00495">On the Loewner framework, the Kolmogorov superposition theorem, and the curse of dimensionality</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.13389">Sampling from mixture distributions based on regime-switching diffusions</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.04943">A posteriori error estimates for Schr{"o}dinger operators discretized with linear combinations of atomic orbitals</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2411.05650">An evolving surface finite element method for the Cahn-Hilliard equation with a logarithmic potential</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.19052">A Novel Algorithm for Periodic Conformal Flattening of Genus-one and Multiply Connected Genus-zero Surfaces</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2306.15787">Network inference via approximate Bayesian computation. Illustration on a stochastic multi-population neural mass model</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2309.11666">Error estimate for regularized optimal transport problems via Bregman divergence</a> - Thu, 10 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.04612">Numerical Fuzz: A Type System for Rounding Error Analysis</a> - Thu, 10 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07269">A Space-Time Continuous Galerkin Finite Element Method for Linear Schr"odinger Equations</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07391">High-order discretization errors for the Caputo derivative in H"{o}lder spaces</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07520">Stability and Convergence of Strang Splitting Method for the Allen-Cahn Equation with Homogeneous Neumann Boundary Condition</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07580">A computational study of low precision incomplete Cholesky factorization preconditioners for sparse linear least-squares problems</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07637">Global approximation to the Boys functions for vectorized computation</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07712">On the instabilities of naive FEM discretizations for PDEs with sign-changing coefficients</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07809">A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07850">Probabilistic Multi-Criteria Decision-Making for Circularity Performance of Modern Methods of Construction Products</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.04048">Physical significance of artificial numerical noise in direct numerical simulation of turbulence</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.05068">Global approximations to the error function of real argument for vectorized computation</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07388">Min-Max Optimisation for Nonconvex-Nonconcave Functions Using a Random Zeroth-Order Extragradient Algorithm</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07796">Numerical solution by shape optimization method to an inverse shape problem in multi-dimensional advection-diffusion problem with space dependent coefficients</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.07835">Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2309.01220">On the numerical approximation of the distance to singularity for matrix-valued functions</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2411.07151">Model order reduction of parametric dynamical systems by slice sampling tensor completion</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2411.19877">Randomized Kaczmarz with tail averaging</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15994">GridapROMs.jl: Efficient reduced order modelling in the Julia programming language</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.22631">Accelerating a restarted Krylov method for matrix functions with randomization</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2301.00419">Policy iteration for the deterministic control problems -- a viscosity approach</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.02113">Mamba Neural Operator: Who Wins? Transformers vs. State-Space Models for PDEs</a> - Fri, 11 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.08709">Distillation of Discrete Diffusion through Dimensional Correlations</a> - Fri, 11 Apr 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
