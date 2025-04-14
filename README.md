@@ -10,7 +10,24 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2504.08341">Deep learning-based moment closure for multi-phase computation of semiclassical limit of the Schr"odinger equation</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08382">An posteriori error estimator for discontinuous Galerkin discretisations of convection-diffusion problems with application to Earth's mantle convection simulations</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08450">Well-Posedness of Discretizations for Fractional Elasto-Plasticity</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08608">Discretization Error Analysis of a High Order Unfitted Space-Time Method for moving domain problems</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08730">Dimension reduction for derivative-informed operator learning: An analysis of approximation errors</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08136">A physics informed neural network approach to simulating ice dynamics governed by the shallow ice approximation</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08157">A GPU-accelerated simulation of rapid intensification of a tropical cyclone with observed heating</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08223">Stochastic Momentum ADMM for nonconvex and nonsmooth optimization with application to PnP algorithm</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08544">Slicing the Gaussian Mixture Wasserstein Distance</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2209.11450">A Second-Order TGV Discretization with $90^{circ}$ Rotational Invariance Property</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.01194">Frequency-Explicit Shape Holomorphy in Uncertainty Quantification for Acoustic Scattering</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2411.12457">A $ell_2-ell_p$ regulariser based model for Poisson noise removal using augmented Lagrangian method</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2411.17729">Fast convolution algorithm for state space models</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.01167">Weighted approximate sampling recovery and integration based on B-spline interpolation and quasi-interpolation</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.05443">Diffusion-based Models for Unpaired Super-resolution in Fluid Dynamics</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2405.05865">Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.10790">Quantum Error Detection For Early Term Fault-Tolerant Quantum Algorithms</a> - Mon, 14 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15711">VPAL: A novel method to reduce reconstruction time for 5D free-running imaging</a> - Mon, 14 Apr 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
