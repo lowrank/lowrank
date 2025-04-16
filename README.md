@@ -39,7 +39,7 @@
 * <a href="https://arxiv.org/abs/2504.10259">Dual-grid parameter choice method with application to image deblurring</a> - Tue, 15 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.10435">What metric to optimize for suppressing instability in a Vlasov-Poisson system?</a> - Tue, 15 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.09167">Stable Determination and Reconstruction of a Quasilinear Term in an Elliptic Equation</a> - Tue, 15 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.09273">Arnold diffusion in the full three-body problem</a> - Tue, 15 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.09273">Arnold Diffusion in the Full Three-Body Problem</a> - Tue, 15 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.09733">Epsilon-Neighborhood Decision-Boundary Governed Estimation (EDGE) of 2D Black Box Classifier Functions</a> - Tue, 15 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.09748">Level-set topology optimisation with unfitted finite elements and automatic shape differentiation</a> - Tue, 15 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.09804">BO-SA-PINNs: Self-adaptive physics-informed neural networks based on Bayesian optimization for automatically designing PDE solvers</a> - Tue, 15 Apr 2025 00:00:00 -0400
