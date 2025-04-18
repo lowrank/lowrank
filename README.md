@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/can-quantum-gravity-be-created-in-the-lab-20250417/">Can Quantum Gravity Be Created in the Lab?</a> - Thu, 17 Apr 2025 13:47:04 +0000
 * <a href="https://www.quantamagazine.org/touch-our-most-complex-sense-is-a-landscape-of-cellular-sensors-20250416/">Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors</a> - Wed, 16 Apr 2025 14:30:31 +0000
 * <a href="https://www.quantamagazine.org/to-make-language-models-work-better-researchers-sidestep-language-20250414/">To Make Language Models Work Better, Researchers Sidestep Language</a> - Mon, 14 Apr 2025 14:21:56 +0000
 * <a href="https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/">‘Paraparticles’ Would Be a Third Kingdom of Quantum Particle</a> - Fri, 11 Apr 2025 13:55:26 +0000
 * <a href="https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/">Where Does Meaning Live in a Sentence? Math Might Tell Us.</a> - Wed, 09 Apr 2025 14:07:20 +0000
-* <a href="https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/">Intelligence Evolved at Least Twice in Vertebrate Animals</a> - Mon, 07 Apr 2025 14:23:29 +0000
 <!-- quanta ends -->
 
 
@@ -23,7 +23,7 @@
 * <a href="https://arxiv.org/abs/2504.11989">Epstein zeta method for many-body lattice sums</a> - Thu, 17 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.12003">Inclusion of an Inverse Magnetic Hysteresis Model into the Space-Time Finite Element Method for Magnetoquasistatics</a> - Thu, 17 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.12153">Central-Upwind Scheme for the Phase-Transition Traffic Flow Model</a> - Thu, 17 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.11619">Computing the tropical Abel--Jacobi Transform and tropical distances for metric graphs</a> - Thu, 17 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.11619">Computing the Tropical Abel--Jacobi Transform and Tropical Distances for Metric Graphs</a> - Thu, 17 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.11625">Uncertainty Quantification in Multiscale Modeling of Polymer Composite Materials Using Physically Recurrent Neural Networks</a> - Thu, 17 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.11650">Data driven approach towards more efficient Newton-Raphson power flow calculation for distribution grids</a> - Thu, 17 Apr 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2504.11815">On projection mappings and the gradient projection method on hyperbolic space forms</a> - Thu, 17 Apr 2025 00:00:00 -0400
