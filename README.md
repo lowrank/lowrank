@@ -10,25 +10,7 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2504.12567">The existence of explicit symplectic integrators for general nonseparable Hamiltonian systems</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12631">Geometry-preserving Numerical Scheme for Riemannian Stochastic Differential Equations</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12650">Tangent Space Parametrization for Stochastic Differential Equations on SO(n)</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12713">Efficient Primal-dual Forward-backward Splitting Method for Wasserstein-like Gradient Flows with General Nonlinear Mobilities</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12892">Manifold-valued function approximation from multiple tangent spaces</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12938">Optimal analysis of penalized lowest-order mixed FEMs for the Stokes-Darcy model</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.13036">A generalized energy-based modeling framework with application to field/circuit coupled problems</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12836">Inverse iteration method for higher eigenvalues of the $p$-Laplacian</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12949">RL-PINNs: Reinforcement Learning-Driven Adaptive Sampling for Efficient Training of PINNs</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.12981">Efficient Chebyshev Reconstruction for the Anisotropic Equilibrium Model in Magnetic Particle Imaging</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2311.01451">Randomized Strong Recursive Skeletonization: Simultaneous Compression and LU Factorization of Hierarchical Matrices using Matrix-Vector Products</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2404.16324">Improved impedance inversion by the iterated graph Laplacian</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.21817">Backward error analysis of stochastic Poisson integrators</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.19185">Least Squares with Equality constraints Extreme Learning Machines for the resolution of PDEs</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.06998">A Krylov projection algorithm for large symmetric matrices with dense spectra</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.11968">Dynamical reweighting for estimation of fluctuation formulas</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.03802">Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.04649">Transferable Foundation Models for Geometric Tasks on Point Cloud Representations: Geometric Neural Operators</a> - Fri, 18 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.11619">Computing the Tropical Abel--Jacobi Transform and Tropical Distances for Metric Graphs</a> - Fri, 18 Apr 2025 00:00:00 -0400
+
 <!-- arxiv-math-na ends -->
 
 <div align="center">
