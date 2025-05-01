@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
-* <a href="https://www.quantamagazine.org/whats-going-on-inside-io-jupiters-volcanic-moon-20250425/">What’s Going On Inside Io, Jupiter’s Volcanic Moon?</a> - Fri, 25 Apr 2025 14:03:02 +0000
-* <a href="https://www.quantamagazine.org/improving-deep-learning-with-a-little-help-from-physics-20250423/">Improving Deep Learning With a Little Help From Physics</a> - Wed, 23 Apr 2025 14:31:44 +0000
-* <a href="https://www.quantamagazine.org/how-a-biofilms-strange-shape-emerges-from-cellular-geometry-20250421/">How a Biofilm’s Strange Shape Emerges From Cellular Geometry</a> - Mon, 21 Apr 2025 14:05:26 +0000
-* <a href="https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/">New Proof Settles Decades-Old Bet About Connected Networks</a> - Fri, 18 Apr 2025 13:30:55 +0000
-* <a href="https://www.quantamagazine.org/can-quantum-gravity-be-created-in-the-lab-20250417/">Can Quantum Gravity Be Created in the Lab?</a> - Thu, 17 Apr 2025 13:47:04 +0000
+* <a href="https://www.quantamagazine.org/ai-changes-science-and-math-forever-20250430/">Science, Promise and Peril in the Age of AI</a> - Wed, 30 Apr 2025 14:00:50 +0000
+* <a href="https://www.quantamagazine.org/where-do-scientists-think-this-is-all-going-20250430/">Where Do Scientists Think This Is All Going?</a> - Wed, 30 Apr 2025 13:59:28 +0000
+* <a href="https://www.quantamagazine.org/what-happens-when-ai-starts-to-ask-the-questions-20250430/">What Happens When AI Starts To Ask the Questions?</a> - Wed, 30 Apr 2025 13:58:57 +0000
+* <a href="https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/">Mathematical Beauty, Truth and Proof in the Age of AI</a> - Wed, 30 Apr 2025 13:57:32 +0000
+* <a href="https://www.quantamagazine.org/why-language-models-are-so-hard-to-understand-20250430/">Why Language Models Are So Hard To Understand</a> - Wed, 30 Apr 2025 13:56:10 +0000
 <!-- quanta ends -->
 
 
