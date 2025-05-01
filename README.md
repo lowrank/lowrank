@@ -10,25 +10,36 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2504.20305">Fast LDL factorization for dense and sparse symmetric matrices over an arbitrary field</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20494">An energy-stable minimal deformation rate scheme for mean curvature flow and surface diffusion</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20524">Finite element method with Gr"unwald-Letnikov type approximation in time for a constant time delay subdiffusion equation</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20634">On Stochastic Rounding with Few Random Bits</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20715">Neural semi-Lagrangian method for high-dimensional advection-diffusion problems</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20813">A high-order energy-conserving semi-Lagrangian discontinuous Galerkin method for the Vlasov-Ampere system</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20256">Optimizing Hard Thresholding for Sparse Model Discovery</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20259">Global Optimality Characterizations and Algorithms for Minimizing Quartically-Regularized Third-Order Taylor Polynomials</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20269">Entropy based lower dimension bounds for finite-time prediction of Dynamic Mode Decomposition algorithms</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20408">FourierSpecNet: Neural Collision Operator Approximation Inspired by the Fourier Spectral Method for Solving the Boltzmann Equation</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20728">On optimal error rates for strong approximation of SDEs with a H"older continuous drift coefficient</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20730">Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2303.02339">A Nystr"{o}m Method for Scattering by a Two-layered Medium with a Rough Boundary</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2308.05500">An Adaptive Algorithm Based on Stochastic Discontinuous Galerkin for Convection Dominated Equations with Random Data</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.16557">A randomized algorithm for simultaneously diagonalizing symmetric matrices by congruence</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.11904">Enforcing conservation laws and dissipation inequalities numerically via auxiliary variables</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.12733">A quantitative comparison of high-order asymptotic-preserving and asymptotically-accurate IMEX methods for the Euler equations with non-ideal gases</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2411.08773">Optimal Oblivious Subspace Embeddings with Near-optimal Sparsity</a> - Wed, 30 Apr 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.19928">Unravelling mean-field Lindblad equation</a> - Wed, 30 Apr 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21130">Numerical Performance of the Implicitly Restarted Arnoldi Method in OFP8, Bfloat16, Posit, and Takum Arithmetics</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21160">An $r$-adaptive finite element method using neural networks for parametric self-adjoint elliptic problem</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21168">A Summation-Based Algorithm For Integer Factorization</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21197">Spectral Methods via FFTs in Emerging Machine Number Formats: OFP8, Bfloat16, Posit, and Takum Arithmetics</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21305">Virtual Element Method Applied to Two Dimensional Axisymmetric Elastic Problems</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21364">Uniform-in-time weak error estimates of explicit full-discretization schemes for SPDEs with non-globally Lipschitz coefficients</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21511">Arbitrary precision computation of hydrodynamic stability eigenvalues</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21523">Sibuya probability distributions and numerical evaluation of fractional-order operators</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21527">Low-rank computation of the posterior mean in Multi-Output Gaussian Processes</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21603">Flow Through Porous Media: A Hopf-Cole Transformation Approach for Modeling Pressure-Dependent Viscosity</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21639">Sparsity for Infinite-Parametric Holomorphic Functions on Gaussian Spaces</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21657">A p-adaptive polytopal discontinuous Galerkin method for high-order approximation of brain electrophysiology</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21658">Approximation and regularity results for the Heston model and related processes</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21780">MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21784">A Comparison of the Consistent and Independent Second Moment Methods Applied to Thermal Radiative Transfer</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21785">Frozen Gaussian Grid-point Correction For Semi-classical Schr"odinger Equation</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21835">Patch bubbles for advection-dominated problems</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21150">On feedback stabilisation for the Cahn-Hilliard equation and its numerical approximation</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.08898">Kraus is King: High-order Completely Positive and Trace Preserving (CPTP) Low Rank Method for the Lindblad Master Equation</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.08910">Convergence Analysis of a Schrodinger Problem with Moving Boundary</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.19710">Towards a fully well-balanced and entropy-stable scheme for the Euler equations with gravity: General equations of state</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.18964">Tensor Density Estimator by Convolution-Deconvolution</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.07934">Monotonicity and convergence of two-relaxation-times lattice Boltzmann schemes for a non-linear conservation law</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.20305">Fast LDL factorization for dense and sparse symmetric matrices over an arbitrary field</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.12157">An Introduction to Computational Fluctuating Hydrodynamics</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.06330">Rigorous Hausdorff dimension estimates for conformal fractals</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.18972">BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.20373">Hamiltonian Learning at Heisenberg Limit for Hybrid Quantum Systems</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15121">Analytic adjoint solution for incompressible potential flows</a> - Thu, 01 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.20730">Avoided-crossings, degeneracies and Berry phases in the spectrum of quantum noise through analytic Bloch-Messiah decomposition</a> - Thu, 01 May 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
