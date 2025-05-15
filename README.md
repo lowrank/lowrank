@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/how-the-universe-differs-from-its-mirror-image-20250514/">How the Universe Differs From Its Mirror Image</a> - Wed, 14 May 2025 13:57:23 +0000
 * <a href="https://www.quantamagazine.org/introducing-the-quanta-podcast-20250513/">Introducing The Quanta Podcast</a> - Tue, 13 May 2025 15:57:14 +0000
 * <a href="https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/">The Fastest Way Yet to Color Graphs</a> - Mon, 12 May 2025 14:20:49 +0000
 * <a href="https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/">Finding Beauty and Truth in Mundane Occurrences</a> - Fri, 09 May 2025 13:54:38 +0000
 * <a href="https://www.quantamagazine.org/the-molecular-bond-that-helps-secure-your-memories-20250507/">The Molecular Bond That Helps Secure Your Memories</a> - Wed, 07 May 2025 13:50:11 +0000
-* <a href="https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/">Dimension 126 Contains Strangely Twisted Shapes, Mathematicians Prove</a> - Mon, 05 May 2025 14:08:42 +0000
 <!-- quanta ends -->
 
 
@@ -19,7 +19,7 @@
 * <a href="https://arxiv.org/abs/2505.08461">An Optimal and Robust Nonconforming Finite Element Method for the Strain Gradient Elasticity</a> - Wed, 14 May 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2505.08491">Numerical Solution of Mixed-Dimensional PDEs Using a Neural Preconditioner</a> - Wed, 14 May 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2505.08511">Numerical Analysis of Stabilization for Random Hyperbolic Systems of Balance Laws</a> - Wed, 14 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.08526">Improving Data Fidelity via Diffusion Model-based Correction and Super resolution</a> - Wed, 14 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.08526">Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution</a> - Wed, 14 May 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2505.08572">Entropy numbers of classes defined by integral operators</a> - Wed, 14 May 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2505.08587">Two-Level Sketching Alternating Anderson acceleration for Complex Physics Applications</a> - Wed, 14 May 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2505.08631">Learning cardiac activation and repolarization times with operator learning</a> - Wed, 14 May 2025 00:00:00 -0400
