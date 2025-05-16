@@ -10,31 +10,25 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2505.08884">Jacobian-Free Newton-Krylov with a globalization method for solving groundwater flow models of multi-layer aquifer systems</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.08934">A Framework for Analysis of DEC Approximations to Hodge-Laplacian Problems using Generalized Whitney Forms</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.08937">Reduced Order Modeling for First Order Hyperbolic Systems with Application to Multiparameter Acoustic Waveform Inversion</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.08966">Convergence and Stability of Discrete Exterior Calculus for the Hodge Laplace Problem in Two Dimensions</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.08969">On a Modified Random Genetic Drift Model: Derivation and a Structure-Preserving Operator-Splitting Discretization</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.08970">Approximation of viscous transport and conservative equations with one sided Lipschitz velocity fields</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09061">A federated Kaczmarz algorithm</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09064">Vertex-based auxiliary space multigrid method and its application to linear elasticity equations</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09127">Quasi-3D beam theory based on equilibrium stress definition and mixed element model for accurate analysis of functionally graded beams</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09469">Primal-dual splitting methods for phase-field surfactant model with moving contact lines</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09581">Second-order invariant-domain preserving approximation to the multi-species Euler equations</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09063">Single-shot prediction of parametric partial differential equations</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09088">Derivative-free optimization is competitive for aerodynamic design optimization in moderate dimensions</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09217">Injectivity of boundary integral operator in direct-indirect mixed Burton-Miller equation for wave scattering problems with transmissive circular inclusion</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09394">Index Modulated Affine Frequency Division Multiplexing With Spread Spectrum</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.14229">Piecewise rational rotation-minimizing motions via data stream interpolation</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.01826">Enhancing ZFP: A Statistical Approach to Understanding and Reducing Error Bias in a Lossy Floating-Point Compression Algorithm</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.14833">Trefftz Discontinuous Galerkin approximation of an acoustic waveguide</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.07182">Exploring forms of the moist shallow water equations using a new compatible finite element discretisation</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.14362">A Fully Adaptive Radau Method for the Efficient Solution of Stiff Ordinary Differential Equations at Low Tolerances</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.12877">Pushing the Limits of the Reactive Affine Shaker Algorithm to Higher Dimensions</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.05752">A Modified Hermite Radial Basis Function for Accurate Interpolation</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.07284">An asymptotic preserving scheme satisfying entropy stability for the barotropic Euler system</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.08526">Improving Data Fidelity via Diffusion Model-based Correction and Super-Resolution</a> - Thu, 15 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.00288">Nystr"om Type Exponential Integrators for Strongly Magnetized Charged Particle Dynamics</a> - Thu, 15 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09727">Accelerating Fast Ewald Summation with Prolates for Molecular Dynamics Simulations</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09766">On the Well-Posedness of Green's Function Reconstruction via the Kirchhoff-Helmholtz Equation for One-Speed Neutron Diffusion</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09770">Efficient Calculation of Modified Bessel Functions of the First Kind, $I_{nu} (z)$, for Real Orders and Complex Arguments: Fortran Implementation with Double and Quadruple Precision</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09857">High-Order Hermite Optimization: Fast and Exact Gradient Computation in Open-Loop Quantum Optimal Control using a Discrete Adjoint Approach</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09911">Discontinuous hybrid neural networks for the one-dimensional partial differential equations</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.10095">Error Estimates and Graded Mesh Refinement for Isogeometric Analysis on Polar Domains with Corners</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.10108">A generalized discontinuous Hamilton Monte Carlo for transdimensional sampling</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.10178">The finiteness conjecture for $3 times 3$ binary matrices</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.10298">Discrete Geodesic Calculus in the Space of Sobolev Curves</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.10404">A general regularization strategy for singular Stokes problems and convergence analysis for corresponding discretization and iterative solution</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09765">Connections between convex optimization algorithms and subspace correction methods</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09964">On the critical length conjecture for spherical Bessel functions in CAGD</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.04918">Superclosenes error estimates for the div least-squares finite element method on elliptic problems</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.01140">A simple linear convergence analysis of the reshuffling Kaczmarz method</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.19143">An optimization-based positivity-preserving limiter in semi-implicit discontinuous Galerkin schemes solving Fokker-Planck equations</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.02663">Determination of Preferred Fiber Orientation State based on Newton-Raphson Method using Exact Jacobian</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09127">Quasi-3D beam theory based on equilibrium stress definition and mixed element model for accurate analysis of functionally graded beams</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.09840">Machine Learning with Physics Knowledge for Prediction: A Survey</a> - Fri, 16 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.15285">AneuPy: An open source Python tool for creating simulation-ready geometries of abdominal aortic aneurysms</a> - Fri, 16 May 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
