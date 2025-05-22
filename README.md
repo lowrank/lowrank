@@ -10,34 +10,35 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2505.13776">Convergence Analysis of an Adaptive Nonconforming FEM for Phase-Field Dependent Topology Optimization in Stokes Flow</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.13815">Dimension-independent convergence rates of randomized nets using median-of-means</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.13924">Stabilized velocity post-processings for Darcy flow in heterogeneous porous media</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.13929">Numerical analysis for the regularised total variation flow</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.13968">Two families of C1-Pk Fraeijs de Veubeke-Sander finite elements on quadrilateral meshes</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14002">Convergence Guarantees for Gradient-Based Training of Neural PDE Solvers: From Linear to Nonlinear PDEs</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14037">Convergence of the alternating least squares algorithm for CP tensor decompositions</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14060">Variably Scaled Kernels for the regularized solution of the parametric Fourier imaging problem</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14063">POLYDIM: A C++ library for POLYtopal DIscretization Methods</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14086">Hyperbolic trigonometric functions as approximation kernels and their properties I: generalised Fourier transforms</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14232">A Numerical Study of Combining RBF Interpolation and Finite Differences to Approximate Differential Operators</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14262">Strong convergence in the infinite horizon of numerical methods for stochastic delay differential equations</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.12615">Inverse nonlinear fast Fourier transform on SU(2) with applications to quantum signal processing</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.13743">Error estimates for a multiobjective optimal control of a pointwise tracking problem</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14033">Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14039">Learning High-dimensional Ionic Model Dynamics Using Fourier Neural Operators</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.14399">Accelerating multigrid with streaming chiral SVD for Wilson fermions in lattice QCD</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2311.13079">FEM for 1D-problems involving the logarithmic Laplacian: error estimates and numerical implementation</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.04514">Graph-based methods for hyperbolic systems of conservation laws using discontinuous space discretizations</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2406.10850">Column reduced digital nets</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.10651">A Recipe for Learning Variably Scaled Kernels via Discontinuous Neural Networks</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.08059">Parameter optimization for restarted mixed precision iterative sparse solver</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.12137">Robust and Optimal Mixed Methods for a Fourth-Order Elliptic Singular Perturbation Problem</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.11638">Accelerating Natural Gradient Descent for PINNs with Randomized Numerical Linear Algebra</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.18184">Unified Stochastic Framework for Neural Network Quantization and Pruning</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.19106">ERGNN: Spectral Graph Neural Network With Explicitly-Optimized Rational Graph Filters</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.11117">Dual-Balancing for Physics-Informed Neural Networks</a> - Wed, 21 May 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.11527">CASL-HJX: A Comprehensive Guide to Solving Deterministic and Stochastic Hamilton-Jacobi Equations</a> - Wed, 21 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.14909">Fast Newton Transform: Interpolation in Downward Closed Polynomial Spaces</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15099">Runge-Kutta Methods and Stiff Order Conditions for Semilinear ODEs</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15106">A coupled HDG discretization for the interaction between acoustic and elastic waves</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15535">Matrix-Free Methods for Finite-Strain Elasticity: Automatic Code Generation with No Performance Overhead</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15538">Machine learning-based parameter optimization for M"untz spectral methods</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15584">Improved power methods for computing eigenvalues of dual quaternion Hermitian matrices</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15771">Elasto-acoustic wave propagation in geophysical media using hybrid high-order methods on general meshes</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.14732">Geodesic distance approximation using a surface finite element method for the $p$-Laplacian</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15283">Quantization of Probability Distributions via Divide-and-Conquer: Convergence and Error Propagation under Distributional Arithmetic Operations</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15407">Efficient Differentiable Approximation of Generalized Low-rank Regularization</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15640">Damping optimization of discrete mechanical systems -- rod/string model</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.15661">Deep greedy unfolding: Sorting out argsorting in greedy sparse recovery algorithms</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2301.01920">Double-Exponential transformation: A quick review of a Japanese tradition</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2307.07984">The Lie derivative and Noether's theorem on the aromatic bicomplex for the study of volume-preserving numerical integrators</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2309.17096">Obtaining Pseudo-inverse Solutions With MINRES</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2312.05059">The Kernel Method for Electrical Resistance Tomography</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2402.03028">Functional SDE approximation inspired by a deep operator network architecture</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2405.15573">Uniform H-matrix Compression with Applications to Boundary Integral Equations</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.08615">MgFNO: Multi-grid Architecture Fourier Neural Operator for Parametric Partial Differential Equations</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.02597">Randomized algorithms for Kroncecker tensor decomposition and applications</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.02598">Efficient Algorithms for Low Tubal Rank Tensor Approximation with Applications</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.06455">Analysis of a finite element method for the Stokes--Poisson--Boltzmann equations</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.07093">Machine learning on manifolds for inverse scattering: Lipschitz stability analysis</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.04357">Unconditionally optimal error Estimate of a linearized Second-order Fully Discrete Finite Element Method for the bioconvection flows with concentration dependent viscosity</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2405.00891">An interacting particle consensus method for constrained global optimization</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2408.15858">Some properties of the principal Dirichlet eigenfunction in Lipschitz domains, via probabilistic couplings</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.12767">Phase retrieval via media diversity</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.05000">Butcher series for Hamiltonian Poisson integrators through symplectic groupoids</a> - Thu, 22 May 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.15125">A Spectral Approach to Optimal Control of the Fokker-Planck Equation</a> - Thu, 22 May 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
