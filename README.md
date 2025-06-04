@@ -13,7 +13,7 @@
 * <a href="https://arxiv.org/abs/2506.00190">On the regularization property of Levenberg-Marquardt method with Singular Scaling for nonlinear inverse problems</a> - Tue, 03 Jun 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2506.00207">On general and complete multidimensional Riemann solvers for nonlinear systems of hyperbolic conservation laws</a> - Tue, 03 Jun 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2506.00336">Structured Column Subset Selection for Bayesian Optimal Experimental Design</a> - Tue, 03 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.00702">Stabilization of the Gradient Method for Solving Linear Algebraic Systems - A Method Related to the Normal Equation</a> - Tue, 03 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.00702">Stabilization of the Gradient Method for Solving Linear Algebraic Systems -- A Method Related to the Normal Equation</a> - Tue, 03 Jun 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2506.00704">Nonlinear Optimal Recovery in Hilbert Spaces</a> - Tue, 03 Jun 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2506.00746">Scalable Analysis and Design Using Automatic Differentiation</a> - Tue, 03 Jun 2025 00:00:00 -0400
 * <a href="https://arxiv.org/abs/2506.00951">Physics-Informed Neural Networks for the Relativistic Burgers Equation in the Exterior of a Schwarzschild Black Hole</a> - Tue, 03 Jun 2025 00:00:00 -0400
