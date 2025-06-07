@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/">First Map Made of a Solid’s Secret Quantum Geometry</a> - Fri, 06 Jun 2025 14:11:51 +0000
 * <a href="https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/">How Much Energy Does It Take To Think?</a> - Wed, 04 Jun 2025 14:14:13 +0000
 * <a href="https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/">The Core of Fermat’s Last Theorem Just Got Superpowered</a> - Mon, 02 Jun 2025 14:15:06 +0000
 * <a href="https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/">How Can AI Researchers Save Energy? By Going Backward.</a> - Fri, 30 May 2025 14:18:02 +0000
 * <a href="https://www.quantamagazine.org/will-we-ever-prove-string-theory-20250529/">Will We Ever Prove String Theory?</a> - Thu, 29 May 2025 14:38:34 +0000
-* <a href="https://www.quantamagazine.org/how-paradoxical-questions-and-simple-wonder-lead-to-great-science-20250528/">How Paradoxical Questions and Simple Wonder Lead to Great Science</a> - Wed, 28 May 2025 15:00:54 +0000
 <!-- quanta ends -->
 
 
