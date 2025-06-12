@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/epic-effort-to-ground-physics-in-math-opens-up-the-secrets-of-time-20250611/">Epic Effort to Ground Physics in Math Opens Up the Secrets of Time</a> - Wed, 11 Jun 2025 14:38:33 +0000
 * <a href="https://www.quantamagazine.org/new-quantum-algorithm-factors-numbers-with-one-qubit-20250609/">New Quantum Algorithm Factors Numbers With One Qubit</a> - Mon, 09 Jun 2025 14:31:06 +0000
 * <a href="https://www.quantamagazine.org/first-map-made-of-a-solids-secret-quantum-geometry-20250606/">First Map Made of a Solid’s Secret Quantum Geometry</a> - Fri, 06 Jun 2025 14:11:51 +0000
 * <a href="https://www.quantamagazine.org/how-much-energy-does-it-take-to-think-20250604/">How Much Energy Does It Take To Think?</a> - Wed, 04 Jun 2025 14:14:13 +0000
 * <a href="https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/">The Core of Fermat’s Last Theorem Just Got Superpowered</a> - Mon, 02 Jun 2025 14:15:06 +0000
-* <a href="https://www.quantamagazine.org/how-can-ai-researchers-save-energy-by-going-backward-20250530/">How Can AI Researchers Save Energy? By Going Backward.</a> - Fri, 30 May 2025 14:18:02 +0000
 <!-- quanta ends -->
 
 
