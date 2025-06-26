@@ -10,38 +10,35 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2506.18948">Numerical analysis of scattered point measurement-based regularization for backward problems for fractional wave equations</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19002">Modular data assimilation for flow prediction</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19274">Stabilizing PDE--ML Coupled System</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19332">Spectral approximation to fractional integral operator</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19367">A High-Order Compact Hermite Difference Method for Double-Diffusive Convection</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19370">General-domain FC-based shock-dynamics solver II: Non-smooth domains, accuracy and parallel performance</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19405">Towards automated generation of fast and accurate algorithms for recursive matrix multiplication</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19422">Sharp numerical approximation of the Hardy constant</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19462">A Generalized Framework for Higher-Order Localized Orthogonal Decomposition Methods</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19517">Anisotropic approximation on space-time domains</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19584">Sparse and low-rank approximations of parametric elliptic PDEs: the best of both worlds</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19616">Hybrid high-order approximations of div-curl systems on domains with general topology</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19666">Fast Flexible LSQR with a Hybrid Variant for Efficient Large-Scale Regularization</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19796">Krylov and core transformation algorithms for an inverse eigenvalue problem to compute recurrences of multiple orthogonal polynomials</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.18910">Asymptotic analysis and design of linear elastic shell lattice metamaterials</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19104">On the algorithmic construction of deep ReLU networks</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19243">High precision PINNs in unbounded domains: application to singularity formulation in PDEs</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19321">From kinetic mixtures to compressible two-phase flow: A BGK-type model and rigorous derivation</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19568">Time-Sensitive Importance Splitting</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.19594">Numerical solution of quantum Landau-Lifshitz-Gilbert equation</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2309.13722">Deep neural networks with ReLU, leaky ReLU, and softplus activation provably overcome the curse of dimensionality for Kolmogorov partial differential equations with Lipschitz nonlinearities in the $L^p$-sense</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.06573">High-order adaptive multi-domain time integration scheme for microscale lithium-ion batteries simulations</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.15331">$L_2$-approximation using median lattice algorithms</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.14559">Convergence analysis of decoupled mixed FEM for the Cahn-Hilliard-Navier-Stokes equations</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.14661">Quasi-Monte Carlo for Bayesian shape inversion governed by the Poisson problem subject to Gevrey regular domain deformations</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.19542">Construction of exact refinements for the two-dimensional hierarchical B-spline de Rham complex</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.09458">The Whitney method of fundamental solutions with Lusin wavelets</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.16608">A hybrid high-order method for the biharmonic problem</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.09679">Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.17938">Simultaneous recovery of a corroded boundary and admittance using the Kohn-Vogelius method</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2404.03050">ANOVA-boosting for Random Fourier Features</a> - Wed, 25 Jun 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2404.18834">Interpolating between Optimal Transport and KL regularized Optimal Transport using R'enyi Divergences</a> - Wed, 25 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.19944">A Hybrid High-Order Method for the Gross--Pitaevskii Eigenvalue Problem</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20007">A parametric tensor ROM for the shallow water dam break problem</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20188">DefElement: an encyclopedia of finite element definitions</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20195">A quasi-Grassmannian gradient flow model for eigenvalue problems</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20201">Stochastic particle method with birth-death dynamics</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20240">Low-order finite element complex with application to a fourth-order elliptic singular perturbation problem</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20308">Deep random difference method for high dimensional quasilinear parabolic partial differential equations</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20350">Solver Performance of Accelerated MoM for Connected Arrays</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20372">An adaptive scheme for the optimization of damping positions by decoupling controllability spaces in vibrational systems</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20419">A Taylor-Hood finite element method for the surface Stokes problem without penalization</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20457">A Novel Homotopy Perturbation Sumudu Transform Method for Nonlinear Fractional PDEs: Applications and Comparative Analysis</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20181">Causal Operator Discovery in Partial Differential Equations via Counterfactual Physics-Informed Neural Networks</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20191">Fast entropy-regularized SDP relaxations for permutation synchronization</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20470">Pivot probabilities and norm effects in Gaussian elimination for $beta$-ensembles</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20608">AI Assistants to Enhance and Exploit the PETSc Knowledge Base</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.20630">First-order methods for stochastic and finite-sum convex optimization with deterministic constraints</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2309.05211">A Parallelizable Quaternion Higher-Order Singular Value Decomposition with Applications</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2311.16100">Efficient high-resolution refinement in cryo-EM with stochastic gradient descent</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2401.00236">Inverse problems for elastic wave from Partial Cauchy Data: Uniqueness and Co-inversion for Shape and Impedance Function</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2402.13788">A Unifying Theory for Runge-Kutta-like Time Integrators: Convergence and Stability</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.07130">A conservative Eulerian finite element method for transport and diffusion in moving domains</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.19799">Spectral approximation of a new class of stochastic fractional evolution equations</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.18395">Exponential quadrature rules for problems with time-dependent fractional source</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.13248">Neural network-based Godunov corrections for approximate Riemann solvers using bi-fidelity learning</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.20305">Fast LDL factorization for dense and sparse symmetric matrices over an arbitrary field</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.07729">Minimal Subsampled Rank-1 Lattices for Multivariate Approximation with Optimal Convergence Rate</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12335">Bridging the Gap Between Approximation and Learning via Optimal Approximation by ReLU MLPs of Maximal Regularity</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.00389">Momentum-based minimization of the Ginzburg-Landau functional on Euclidean spaces and graphs</a> - Thu, 26 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.13320">Gradient-Free Sequential Bayesian Experimental Design via Interacting Particle Systems</a> - Thu, 26 Jun 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
