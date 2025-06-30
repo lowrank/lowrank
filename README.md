@@ -10,7 +10,23 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2506.21699">Inverse scattering without phase: Carleman convexification and phase retrieval via the Wentzel--Kramers--Brillouin approximation</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.21700">Genuinely multi-dimensional stationarity preserving global flux Finite Volume formulation for nonlinear hyperbolic PDEs</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.21830">Optimizing Mixed Quantum Channels via Projected Gradient Dynamics</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.21888">Semi Analytical Solution of a Nonlinear Oblique Boundary Value Problem</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.21932">StructMG: A Fast and Scalable Structured Algebraic Multigrid</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.21969">Computing rough solutions of the KdV equation below ${bf L^2}$</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.21999">Do locking-free finite element schemes lock for holey Reissner-Mindlin plates with mixed boundary conditions?</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.22292">Scalable inference of large-scale random kronecker graphs via tensor decomposition and Einstein summation</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.22312">An Alternative Finite Difference WENO-like Scheme with Physical Constraint Preservation for Divergence-Preserving Hyperbolic Systems</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.22273">Phase field approximation for Plateau's problem: a curve geodesic distance penalty approach</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.22413">Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.22428">Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.05872">Numerical entropy production in finite volume $P_0P_M$ ADER schemes</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.19290">PhysicsSolver: Transformer-Enhanced Physics-Informed Neural Networks for Forward and Forecasting Problems in Partial Differential Equations</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.20098">Numerical analysis of the Landau--Lifshitz--Bloch equation with spin-torques</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.19185">Least Squares with Equality constraints Extreme Learning Machines for the resolution of PDEs</a> - Mon, 30 Jun 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2401.08861">Generative AI for O-RAN Slicing: A Semi-Supervised Approach with VAE and Contrastive Learning</a> - Mon, 30 Jun 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
