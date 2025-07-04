@@ -10,37 +10,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2507.01150">Computational Insights into Orthotropic Fracture: Crack-Tip Fields in Strain-Limiting Materials under Non-Uniform Loads</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01207">On the Intensity-based Inversion Method for Quantitative Quasi-Static Elastography</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01245">A fourth-order exponential time differencing scheme with real and distinct poles rational approximation for solving non-linear reaction-diffusion systems</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01296">Stability and error analysis of a new class of higher-order consistent splitting schemes for the Navier-Stokes equations</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01402">Asymptotic Preserving and Accurate scheme for Multiscale Poisson-Nernst-Planck (MPNP) system</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01434">An Optimal Least-Square Solver For Scaled Partial-Isometric Linear Systems</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01527">A surface finite element scheme for a stochastic PDE on an evolving curve</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01533">Consistency of Learned Sparse Grid Quadrature Rules using NeuralODEs</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01552">A mixed Petrov--Galerkin Cosserat rod finite element formulation</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01729">A trust-region framework for optimization using Hermite kernel surrogate models</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01736">An energy-based discontinuous Galerkin method for the wave equation with nonsmooth solutions</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01762">Global Energy Minimization for Simplex Mesh Optimization: A Radius Ratio Approach to Sliver Elimination</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01770">GPU-based complete search for nonlinear minimization subject to bounds</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01789">The inverse source problem of stochastic wave equation</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01795">Neural Entropy-stable conservative flux form neural networks for learning hyperbolic conservation laws</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01885">Faber polynomials in a deltoid region and power iteration momentum methods</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01917">PDE-Constrained High-Order Mesh Optimization</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01958">Parallel-in-Time Preconditioning for Time-Dependent Variational Mean Field Games</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2211.12120">Thermodynamically extended symplectic numerical simulation of viscoelastic, thermal expansion and heat conduction phenomena in solids</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01399">Reconstruction of the observable universe from the integrated Sachs-Wolfe effect</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01415">Randomized subspace correction methods for convex optimization</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01687">A generative modeling / Physics-Informed Neural Network approach to random differential equations</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.01932">A first-order method for nonconvex-nonconcave minimax problems under a local Kurdyka-L{}ojasiewicz condition</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.19470">SFEM for the Lagrangian formulation of the surface Stokes problem</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.07568">Minimal residual discretization of a class of fully nonlinear elliptic PDE</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.16529">An artificial viscosity approach to high order entropy stable discontinuous Galerkin methods</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.09127">An equilibrium-based quasi-3D beam model with rational transverse normal stress expression for accurate analysis of functionally graded beams</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.18297">A deep solver for backward stochastic Volterra integral equations</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.00219">Error Estimates for Non Conforming Discretisation of Time-dependent Convection-Diffusion-Reaction Model</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2406.11337">A modified Cayley transform for SU(3) molecular dynamics simulations</a> - Thu, 03 Jul 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.01041">Relevance of the Basset history term for Lagrangian particle dynamics</a> - Thu, 03 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02099">A Hybrid DEC-SIE Framework for Potential-Based Electromagnetic Analysis of Heterogeneous Media</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02340">Symplectic Hamiltonian Hybridizable Discontinuous Galerkin Methods for Linearized Shallow Water Equations</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02392">An efficient asymptotic preserving Monte Carlo method for frequency-dependent radiative transfer equations</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02401">Fast reconstruction approaches for photoacoustic tomography with smoothing Sobolev/Mat'ern priors</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02402">A second-order and unconditionally stable time filtered scheme for the Cahn-Hilliard-Navier-Stokes system</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02459">A modified Crank-Nicolson scheme for the Vlasov-Poisson system with a strong external magnetic field</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02500">Goal-oriented optimal sensor placement for PDE-constrained inverse problems in crisis management</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02655">On low-dimensional approximation of function spaces of interior regularity</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02662">High order uniform in time schemes for weakly nonlinear Schr"odinger equation and wave turbulence</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02677">Moments, Time-Inversion and Source Identification for the Heat Equation</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02741">A $mathcal{CR}$-rotated $Q_1$ nonconforming finite element method for Stokes interface problems on local anisotropic fitted mixed meshes</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02783">Uniform semiclassical observable error bound of Trotterization without the Egorov theorem: a simple algebraic proof</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02809">Block triangular preconditioning for inverse source problems in time-space fractional diffusion equations</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02215">Hybrid least squares for learning functions from highly noisy data</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.02524">Time Resolution Independent Operator Learning</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2210.09228">A Model-Consistent Data-Driven Computational Strategy for PDE Joint Inversion Problems</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2310.12053">Rational function approximation with normalized positive denominators</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.10530">Adaptive Probabilistic ODE Solvers Without Adaptive Memory Requirements</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.04011">Adaptive Algebraic Reuse of Reordering in Cholesky Factorization with Dynamic Sparsity Pattern</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.00560">A variational symplectic scheme based on Lobatto's quadrature</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.22918">An approximation theory for Markov chain compression</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2201.03962">Low-rank optimization methods based on projected-projected gradient descent that accumulate at Bouligand stationary points</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2411.18339">Ridge Regression for Manifold-valued Time-Series with Application to Meteorological Forecast</a> - Fri, 04 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.08136">A physics informed neural network approach to simulating ice dynamics governed by the shallow ice approximation</a> - Fri, 04 Jul 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
