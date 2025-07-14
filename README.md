@@ -10,7 +10,21 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2507.08226">A Stokes-Brinkman-type formulation for the eigenvalue problem in porous media</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.08506">Computational algorithm for downward continuation of gravity anomalies</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.08632">Minimum-norm interpolation for unknown surface reconstruction</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.08752">Long-time relative error analysis for linear ODEs with perturbed initial value</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.08762">Asymptotic condition numbers for linear ODEs</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.08115">Entropy-conservative numerical fluxes for compressible Euler equations with thermally perfect gas models</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.08121">Quasi-Random Physics-informed Neural Networks</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2311.06069">A filtered multilevel Monte Carlo method for estimating the expectation of cell-centered discretized random fields</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.18594">Decoupling multistep schemes for elliptic-parabolic problems</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.18964">Tensor Density Estimator by Convolution-Deconvolution</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.10660">Blind free deconvolution over one-parameter sparse families via eigenmatrix</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.00258">Quantile-RK and Double Quantile-RK Error Horizon Analysis</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.01762">Global Energy Minimization for Simplex Mesh Optimization: A Radius Ratio Approach to Sliver Elimination</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2402.02523">FEniCSx-pctools: Tools for PETSc block linear algebra preconditioning in FEniCSx</a> - Mon, 14 Jul 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.15982">State Estimation Using Sparse DEIM and Recurrent Neural Networks</a> - Mon, 14 Jul 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
