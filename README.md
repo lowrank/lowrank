@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/why-did-the-universe-begin-20250724/">Why Did The Universe Begin?</a> - Thu, 24 Jul 2025 13:32:52 +0000
 * <a href="https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/">The Cells That Breathe Two Ways</a> - Wed, 23 Jul 2025 14:11:27 +0000
 * <a href="https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/">AI Comes Up with Bizarre Physics Experiments. But They Work.</a> - Mon, 21 Jul 2025 14:05:58 +0000
 * <a href="https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/">How Distillation Makes AI Models Smaller and Cheaper</a> - Fri, 18 Jul 2025 14:50:08 +0000
 * <a href="https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/">A New Geometry for Einstein’s Theory of Relativity</a> - Wed, 16 Jul 2025 14:38:21 +0000
-* <a href="https://www.quantamagazine.org/rna-is-the-cells-emergency-alert-system-20250714/">RNA Is the Cell’s Emergency Alert System</a> - Mon, 14 Jul 2025 14:27:26 +0000
 <!-- quanta ends -->
 
 
