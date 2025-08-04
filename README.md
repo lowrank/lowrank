@@ -10,7 +10,27 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2508.00096">Zeroing Diagonals, Conjugate Hollowization, and Characterizing Nondefinite Operators</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00101">Leveraging Operator Learning to Accelerate Convergence of the Preconditioned Conjugate Gradient Method</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00221">Partial Floquet Transformation and Model Order Reduction of Linear Time-Periodic Systems</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00242">A reduced-IRKA method for large-scale $mathcal{H}_2$-optimal model order reduction</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00375">A COGENT case study: Supporting Applications with Chombo</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00515">A new addition theorem for the 3-D Navier-Lam'e system and its application to the method of fundamental solutions</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00559">Solitary-wave solutions of the fractional nonlinear Schr"{o}dinger equation. II. A numerical study of the dynamics</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00722">Towards a mixed-precision ADI method for Lyapunov equations</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00028">Scalable Spectrum Availability Prediction using a Markov Chain Framework and ITU-R Propagation Models</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00197">Graph Lineages and Skeletal Graph Products</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00247">Sinusoidal Approximation Theorem for Kolmogorov-Arnold Networks</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2201.00145">Matrix Decomposition and Applications</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2312.12699">Propagation of chaos in infinite horizon and numerical stability for stochastic McKean-Vlasov equations</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.02629">A fully segregated and unconditionally stable IMEX scheme for dispersed multiphase flows</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.01762">Global Energy Minimization for Simplex Mesh Optimization: A Radius Ratio Approach to Sliver Elimination</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.22850">Dynamic analysis of free-free Timoshenko beams on elastic foundation under transverse transient ground deformation</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.00523">The algebraic structure of hyperinterpolation class on the sphere</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2405.07961">A potential theory on weighted graphs</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.19974">Adaptive Mesh Refinement for Two-Phase Viscoelastic Fluid Mixture Models</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.00288">Nystr"om Type Exponential Integrators for Strongly Magnetized Charged Particle Dynamics</a> - Mon, 04 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.22480">Hybrid High-Order formulations with turbulence modelling capabilities for incompressible flow problems</a> - Mon, 04 Aug 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
