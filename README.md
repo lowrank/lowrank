@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/">New Method Is the Fastest Way To Find the Best Routes</a> - Wed, 06 Aug 2025 14:22:13 +0000
 * <a href="https://www.quantamagazine.org/earths-core-appears-to-be-leaking-up-and-out-of-earths-surface-20250804/">Earth’s Core Appears To Be Leaking Up and Out of Earth’s Surface</a> - Mon, 04 Aug 2025 14:05:02 +0000
 * <a href="https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/">At 17, Hannah Cairo Solved a Major Math Mystery</a> - Fri, 01 Aug 2025 13:56:56 +0000
 * <a href="https://www.quantamagazine.org/what-can-a-cell-remember-20250730/">What Can a Cell Remember?</a> - Wed, 30 Jul 2025 14:30:11 +0000
 * <a href="https://www.quantamagazine.org/why-the-key-to-a-mathematical-life-is-collaboration-20250728/">Why the Key to a Mathematical Life is Collaboration</a> - Mon, 28 Jul 2025 13:55:52 +0000
-* <a href="https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/">Quantum Scientists Have Built a New Math of Cryptography</a> - Fri, 25 Jul 2025 14:05:02 +0000
 <!-- quanta ends -->
 
 
