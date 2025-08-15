@@ -10,32 +10,32 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2508.09266">Unsteady Navier-Stokes Equations On A Stationary Surface</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09388">A Nitsche method for Navier--Stokes/generalized poroelasticity interface problems</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09413">Trigonometric Interpolation Based Approach for Second Order Fredholm Integro-Differential Equations</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09435">Generalized Plane Wave quasi-Trefftz spaces for wave propagation in inhomogeneous media</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09509">A hyperbolic finite difference scheme for anisotropic diffusion equations: preserving the discrete maximum principle</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09596">Random Greedy Fast Block Kaczmarz Method for Solving Large-Scale Nonlinear Systems</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09613">Gap-SBM: A New Conceptualization of the Shifted Boundary Method with Optimal Convergence for the Neumann and Dirichlet Problems</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09646">Per-antenna power constraints: constructing Pareto-optimal precoders with cubic complexity under non-negligible noise conditions</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09738">Fast and Simple Multiclass Data Segmentation: An Eigendecomposition and Projection-Free Approach</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09781">Condition number for finite element discretisation of nonlocal PDE systems with applications to biology</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09347">Distributional Sensitivity Analysis: Enabling Differentiability in Sample-Based Inference</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.09490">Semi-discrete multi-to -one dimensional variational problems</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2303.02339">A Nystr"{o}m Method for Scattering by a Two-layered Medium with a Rough Boundary</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2401.01220">Solving multiscale dynamical systems by deep learning</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.03957">Riemann-Oracle: A general-purpose Riemannian optimizer to solve nearness problems in matrix theory</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.10745">Changing the ranking in eigenvector centrality of a weighted graph by small perturbations</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.07976">On positivity preservation of hybrid discontinuous Galerkin methods on hypergraphs</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.09159">An hp Multigrid Approach for Tensor-Product Space-Time Finite Element Discretizations of the Stokes Equations</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.20039">Higher-order spectral element method for the stationary Stokes interface problem in two dimensions</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.01500">The Polynomial Set Associated with a Fixed Number of Matrix-Matrix Multiplications</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.15409">PDEformer-2: A Versatile Foundation Model for Two-Dimensional Partial Differential Equations</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2411.06848">Generative Feature Training of Thin 2-Layer Networks</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.16600">3D-1D modelling of cranial mesh heating induced by low or medium frequency magnetic fields</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.24042">Faster Diffusion Models via Higher-Order Approximation</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.07152">Inversion of Arctic dual-channel sound speed profile based on random airgun signal</a> - Thu, 14 Aug 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.07157">Acoustic source depth estimation method based on a single hydrophone in Arctic underwater</a> - Thu, 14 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10126">A tensor-based dynamic mode decomposition based on the $star_{boldsymbol{M}}$-product</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10158">A Generalized Alternating Anderson Acceleration Method</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10322">SSBE-PINN: A Sobolev Boundary Scheme Boosting Stability and Accuracy in Elliptic/Parabolic PDE Learning</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10344">A Semi-Lagrangian scheme on embedded manifolds using generalized local polynomial reproductions</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10513">Product Of Exponentials (POE) Splines on Lie-Groups: Limitations, Extensions, and Application to SO(3) and SE(3)</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10547">On The Eventual Periodicity of Fractional Order Dispersive Wave Equations Using RBFs and Transform</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10558">RBF-FD Method for Some Dispersive Wave Equations and Their Eventual Periodicity</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10570">CutVEM: Conforming virtual element method on embedded domains with shape-agnostic element agglomeration</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10578">Efficient and Optimally Accurate Numerical Algorithms for Stochastic Turbulent Flow Problems</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10630">Nonlinear filtering based on density approximation and deep BSDE prediction</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10648">Isogeometric multi-patch shell analysis using the Geometry + Simulation Modules</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10674">The Hu-Zhang element for linear elasticity on curved domains</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10125">Concepts for Composing Finite Element Function Space Bases</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10202">Mixed-Precision Performance Portability of FFT-Based GPU-Accelerated Algorithms for Block-Triangular Toeplitz Matrices</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10320">TOBACO: Topology Optimization via Band-limited Coordinate Networks for Compositionally Graded Alloys</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10452">New Lower Bounds for the Minimum Singular Value in Matrix Selection</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10454">Sum-of-Gaussians tensor neural networks for high-dimensional Schr"odinger equation</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10587">Self-Supervised Temporal Super-Resolution of Energy Data using Generative Adversarial Transformer</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10596">A Unified Framework from Boltzmann Transport to Proton Treatment Planning</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2403.19223">Computing large deviation rate functions of entropy production for diffusion processes by an interacting particle method</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.16499">Mixed precision iterative refinement for least squares with linear equality constraints and generalized least squares problems</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.10327">Finite element discretization of weighted $Phi$-Laplace problems</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.10562">Discontinuous Galerkin discretization of conservative dynamical low-rank approximation schemes for the Vlasov-Poisson equation</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.10435">What metric to optimize for suppressing instability in a Vlasov-Poisson system?</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.08092">Extending DD-$alpha$AMG on heterogeneous machines</a> - Fri, 15 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.13061">Fast Convergence for High-Order ODE Solvers in Diffusion Probabilistic Models</a> - Fri, 15 Aug 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
