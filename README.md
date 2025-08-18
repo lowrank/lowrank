@@ -10,7 +10,29 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2508.11055">A finite element framework for simulating residential burglary in realistic urban geometries</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11107">Sharp Collocated Projection Method for Immiscible Two-Phase Flows</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11139">Goal-Oriented Low-Rank Tensor Decompositions for Numerical Simulation Data</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11169">Two intriguing variants of the AAA algorithm for rational approximation</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11216">Fluid Dynamics and Domain Reconstruction from Noisy Flow Images Using Physics-Informed Neural Networks and Quasi-Conformal Mapping</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11233">Polynomial preserving recovery for PHT-splines</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11267">AirBreath Sensing: Protecting Over-the-Air Distributed Sensing Against Interference</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11309">Combining Nonlinear FETI-DP Methods and Quasi-Newton Methods using an SQP Approach</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11410">Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11439">A Monotonicity-Based Regularization Approach to Shape Reconstruction for the Helmholtz Equation</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11508">Augmented Lagrangian Solvers for Poroelasticity with Fracture Contact Mechanics</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11608">A multigrid method for CutFEM and its implementation on GPU</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.10921">SO-PIFRNN: Self-optimization physics-informed Fourier-features randomized neural network for solving partial differential equations</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11100">Full-Wave Modeling of Transcranial Ultrasound using Volume-Surface Integral Equations and CT-Derived Heterogeneous Skull Data</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.11542">Nested Operator Inference for Adaptive Data-Driven Learning of Reduced-order Models</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.06834">An Efficient Deep Learning Approach for Approximating Parameter-to-Solution Maps of PDEs</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.13583">Fundamental Bias in Inverting Random Sampling Matrices with Application to Sub-sampled Newton</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.04674">Exponential Runge-Kutta methods of collocation type for parabolic equations with time-dependent delay</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.23369">Asymptotically accurate and geometric locking-free finite element implementation of a refined shell theory</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.11292">Optimal finite element approximations of monotone semilinear elliptic PDE with subcritical nonlinearities</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.03712">Adjoint-based A Posteriori Error Analysis for Semi-explicit Index-1 and Hessenberg Index-2 Differential-Algebraic Equations</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.22797">Helmholtz boundary integral methods and the pollution effect</a> - Mon, 18 Aug 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2306.09822">Lightweight Attribute Localizing Models for Pedestrian Attribute Recognition</a> - Mon, 18 Aug 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
