@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/the-pursuit-of-life-where-it-seems-unimaginable-20250820/">The Pursuit of Life Where It Seems Unimaginable</a> - Wed, 20 Aug 2025 13:53:07 +0000
 * <a href="https://www.quantamagazine.org/quasicrystals-spill-secrets-of-their-formation-20250818/">Quasicrystals Spill Secrets of Their Formation</a> - Mon, 18 Aug 2025 14:13:16 +0000
 * <a href="https://www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815/">New Physics-Inspired Proof Probes the Borders of Disorder</a> - Fri, 15 Aug 2025 13:22:27 +0000
 * <a href="https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/">The AI Was Fed Sloppy Code. It Turned Into Something Evil.</a> - Wed, 13 Aug 2025 14:19:50 +0000
 * <a href="https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/">What Does It Mean To Be Thirsty?</a> - Mon, 11 Aug 2025 14:41:43 +0000
-* <a href="https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/">‘It’s a Mess’: A Brain-Bending Trip to Quantum Theory’s 100th Birthday Party</a> - Fri, 08 Aug 2025 14:20:28 +0000
 <!-- quanta ends -->
 
 
