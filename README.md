@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
-* <a href="https://www.quantamagazine.org/a-single-naked-black-hole-rewrites-the-history-of-the-universe-20250912/">A Single, ‘Naked’ Black Hole Rewrites the History of the Universe</a> - Fri, 12 Sep 2025 13:38:25 +0000
-* <a href="https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/">Self-Assembly Gets Automated in Reverse of ‘Game of Life’</a> - Wed, 10 Sep 2025 14:00:38 +0000
-* <a href="https://www.quantamagazine.org/tiny-tubes-reveal-clues-to-the-evolution-of-complex-life-20250908/">Tiny Tubes Reveal Clues to the Evolution of Complex Life</a> - Mon, 08 Sep 2025 15:11:33 +0000
-* <a href="https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905/">Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe</a> - Fri, 05 Sep 2025 14:09:17 +0000
-* <a href="https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/">What Is the Fourier Transform?</a> - Wed, 03 Sep 2025 13:53:31 +0000
+* <a href="https://www.quantamagazine.org/how-we-came-to-know-earth-20250915/">How We Came To Know Earth</a> - Mon, 15 Sep 2025 15:00:58 +0000
+* <a href="https://www.quantamagazine.org/photos-capture-the-extreme-beautiful-work-of-climate-science-20250915/">The Ends of the Earth</a> - Mon, 15 Sep 2025 14:59:47 +0000
+* <a href="https://www.quantamagazine.org/the-climate-change-paradox-20250915/">The Climate Change Paradox</a> - Mon, 15 Sep 2025 14:58:26 +0000
+* <a href="https://www.quantamagazine.org/the-quantum-mechanics-of-greenhouse-gases-20250915/">The Quantum Mechanics of Greenhouse Gases</a> - Mon, 15 Sep 2025 14:57:22 +0000
+* <a href="https://www.quantamagazine.org/how-climate-scientists-saw-the-future-before-it-arrived-20250915/">How Climate Scientists Saw the Future Before It Arrived</a> - Mon, 15 Sep 2025 14:56:38 +0000
 <!-- quanta ends -->
 
 
