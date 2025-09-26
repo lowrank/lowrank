@@ -10,37 +10,29 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2509.19488">Stability of high-order Scott-Vogelius elements for 2D non-Newtonian incompressible flow</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19544">Spectral theory of matrix-sequences: perspectives of the GLT analysis and beyond</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19618">HPL-MxP Benchmark: Mixed-Precision Algorithms, Iterative Refinement, and Scalable Data Generation</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19747">Preconditioning via Randomized Range Deflation (RandRAND)</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19777">High-order Multiscale Preconditioner for Elasticity of Arbitrary Structures</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19986">A fast direct solver for two-dimensional transmission problems of elastic waves</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19993">Modelling and Analysis of Non-Contacting Mechanical Face Seals with Axial Disturbances and Misalignment</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.20039">A note on the compactness properties of discontinuous Galerkin time discretizations</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.20056">An Overview of Meshfree Collocation Methods</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.20069">Development of a Model Order Reduced Arbitrary Lagrangian Eulerian (MORALE) formulation for structures subjected to dynamic moving loads</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.20108">Efficient Long-Time Simulations of Multiscale Systems via High-Order Numerical Homogenization</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.20111">A convergent finite element method for two-phase Stokes flow driven by surface tension</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19467">THINNs: Thermodynamically Informed Neural Networks</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19474">Quantum Harmonic Analysis and the Structure in Data: Augmentation</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19479">PySymmetry: A Sage/Python Framework for the Symmetry Reduction of Linear G-Equivariant Systems</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19528">A Note on Fine-Grained Quantum Reductions for Linear Algebraic Problems</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19792">Numerical Ranges and Spectral Sets: the unbounded case</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19887">Dynamically Optimal Unraveling Schemes for Simulating Lindblad Equations</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.19888">An Alternating Direction Method of Multipliers for Topology Optimization</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.20012">GPU-accelerated FREDopt package for simultaneous dose and LETd proton radiotherapy plan optimization via superiorization methods</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.20191">Examining the robustness of Physics-Informed Neural Networks to noise for Inverse Problems</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.00678">On high-order/low-order and micro-macro methods for implicit time-stepping of the BGK model</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.21824">Secure numerical simulations using fully homomorphic encryption</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2411.12467">On Multilevel Energy-Based Fragmentation Methods</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.09021">A deep learning approach to inverse medium scattering: Learning regularizers from a direct imaging method</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.06744">Chebyshev smoothing with adaptive block-FSAI preconditioners for the multilevel solution of higher-order problems</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.08563">Error Analysis of Krylov Subspace approximation Based on IDR($s$) Method for Matrix Function Bilinear Forms</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.17713">Schrodingerization based quantum algorithms for the time-fractional heat equation</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2409.09245">Robust Training of Neural Networks at Arbitrary Precision and Sparsity</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.08998">Generic Structural Stability for $2 times 2$ Systems of Hyperbolic Conservation Laws</a> - Thu, 25 Sep 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2502.13105">Enhanced uncertainty quantification variational autoencoders for the solution of Bayesian inverse problems</a> - Thu, 25 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20528">A robust framework for frictional fault contact in geological formations using a stabilized augmented Lagrangian approach</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20620">Symplectic Isospectral Runge--Kutta Methods as Lie group methods</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20695">A domain decomposition method for computing the scattering matrix of waveguide circuits</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20764">A Convergent Structure-Preserving Scheme for Dissipative Solutions of the Rotating Shallow Water System</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20897">Higher-Order Root-Finding Algorithm and its Applications</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20937">Multiprecision computations with Schwarz methods</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.21280">Model reduction of parametric ordinary differential equations via autoencoders: structure-preserving latent dynamics and convergence analysis</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.21316">Two ADI compact difference methods for variable-exponent diffusion wave equations</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20599">Explicit and Effectively Symmetric Schemes for Neural SDEs</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20615">Latent Twins</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20770">Extrapolating Phase-Field Simulations in Space and Time with Purely Convolutional Architectures</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20809">Fast 3D Nanophotonic Inverse Design using Volume Integral Equations</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20833">A Fourier/Modal-Spectral-Element Method for the Simulation of High-Reynolds Number Incompressible Stratified Flows in Domains with a Single Non-Periodic Direction</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.20965">A Reformulation of UVN-Flash for Multicomponent Two-Phase Systems with Application to CO2-rich Mixture Transport in Pipelines</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.21015">Unbiased Parameter Estimation of Partially Observed Diffusions using Diffusion Bridges</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.21206">Data-driven Neural Networks for Windkessel Parameter Calibration</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2308.06116">The Stochastic Steepest Descent Method for Robust Optimization in Banach Spaces</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.10997">Two-level overlapping additive Schwarz preconditioner for training scientific machine learning applications</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.21785">Frozen Gaussian Grid-point Correction For Semi-classical Schr"odinger Equation</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.09236">Isogeometric Topology Optimization Based on Topological Derivatives</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.09362">Expressive Power of Deep Networks on Manifolds: Simultaneous Approximation</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.14575">Weak Adversarial Neural Pushforward Mappings for Fokker-Planck Equations</a> - Fri, 26 Sep 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.02150">Analysis and Simulation of a Fluid-Heat System in a Thin, Rough Layer in Contact With a Solid Bulk Domain</a> - Fri, 26 Sep 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
