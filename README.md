@@ -10,36 +10,35 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2510.05331">Finite element approximation to linear, second order, parabolic problems with $L^1$ data</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05350">Domain Decomposition-Based Coupling of High-Fidelity Finite Element and Reduced Order Operator Inference Models Using the Schwarz Alternating Method</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05360">A highly efficient second-order accurate long-time dynamics preserving scheme for some geophysical fluid models</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05368">Finite element analysis of an eigenvalue problem arising from neutron transport</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05407">A convergent adaptive finite element method for a phase-field model of dynamic fracture</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05452">Data-Driven Filtering of the Spherical Harmonics Method</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05597">Optimal $L^2$ Error Estimates for Non-symmetric Nitsche's Methods</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05704">A finite element model for thermomechanical stress-strain fields in transversely isotropic strain-limiting materials</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05755">Reconstruction of Boundary Data in the Helmholtz Equation Using Particle Swarm Optimization</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05801">Generalized capillary-rise models: existence and fast solvers in integral H"older spaces</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05926">A Warm-basis Method for Bridging Learning and Iteration: a Case Study in Fluorescence Molecular Tomography</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05951">A Geometrical Acoustics based Focusing Algorithm for Layered Media in Medical Ultrasound</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05980">Approximation by neural network operators of convolution type activated by deformed and parametrized half hyperbolic tangent function</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05993">Stochastic BDDC algorithms</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05994">A novel viewpoint for Bayesian inversion based on the Poisson point process</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05119">A curvilinear surface ALE formulation for self-evolving Navier-Stokes manifolds - Stabilized finite element formulation</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05620">Monte Carlo-Type Neural Operator for Differential Equations</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.06173">Time-reassigned synchrosqueezing frequency-domain chirplet transform for multicomponent signals with intersecting group delay curves</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2303.07255">Isogeometric $C^1$ mortar method</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2311.13909">High-Order Integration on regular triangulated manifolds reaches Super-Algebraic Approximation Rates through Cubical Re-parameterizations</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.01287">Linear minimum-variance approximants for noisy data</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.09876">Geometry-Preserving Encoder/Decoder in Latent Generative Models</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.11212">SDFs from Unoriented Point Clouds using Neural Variational Heat Distances</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.20715">Neural semi-Lagrangian method for high-dimensional advection-diffusion problems</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.15077">A Nonconforming Finite Element Method for Elliptic Interface Problems on Locally Anisotropic Meshes</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.14575">Learning Neural Pushforward Samplers for Distributions from Fokker-Planck Equations by Weak Adversarial Training</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.03670">Fully discrete finite element methods for the stochastic Kuramoto-Sivashinsky equation with multiplicative noise</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2407.04045">Convergence Rates for the Trotter Splitting for Unbounded Operators</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.05465">BC-ADMM: An Efficient Non-convex Constrained Optimizer with Robotic Applications</a> - Wed, 08 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.03949">Analysis of kinetic Langevin Monte Carlo under the stochastic exponential Euler discretization from underdamped all the way to overdamped</a> - Wed, 08 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06341">Finite element approximation and very weak solution existence in a two-dimensional, degenerate Keller-Segel model</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06369">Structurally informed data assimilation in two dimensions</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06453">Media Coverage of War Victims: Journalistic Biases in Reporting on Israel and Gaza</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06490">A Precise Performance Analysis of the Randomized Singular Value Decomposition</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06586">Convergence of the Immersed Boundary Method for an Elastically Bound Particle Immersed in a 2D Navier-Stokes Fluid Fluid</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06643">Algorithm for constructing optimal explicit finite-difference formulas in the Hilbert space</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06653">Mass-Lumped Virtual Element Method with Strong Stability-Preserving Runge-Kutta Time Stepping for Two-Dimensional Parabolic Problems</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06678">An Integral Equation Method for Linear Two-Point Boundary Value Systems</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06705">Randomized Quasi-Monte Carlo with Importance Sampling for Functions under Generalized Growth Conditions and Its Applications in Finance</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06723">An Inertial Langevin Algorithm</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.07157">Optimal network pricing with oblivious users: a new model and algorithm</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.07295">Greedy Thiele continued-fraction approximation on continuum domains in the complex plane</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06316">Quantum matrix arithmetics with Hamiltonian evolution</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06684">AutoBalance: An Automatic Balancing Framework for Training Physics-Informed Neural Networks</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.06992">Machine Learning enhanced parametric Reynolds-averaged Navier-Stokes equations at the full and reduced order levels</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.07057">TOMATOES: Topology and Material Optimization for Latent Heat Thermal Energy Storage Devices</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.07149">Derivation of the fourth-order DLSS equation with nonlinear mobility via chemical reactions</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2208.09388">Goal-oriented adaptivity for multilevel stochastic Galerkin FEM with nonlinear goal functionals</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.16189">Stability in Training PINNs for Stiff PDEs: Why Initial Conditions Matter</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.19812">Hyper-differential sensitivity analysis with respect to model discrepancy: Prior distributions</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.14002">Convergence Guarantees for Gradient-Based Training of Neural PDE Solvers: From Linear to Nonlinear PDEs</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.19178">A noise-robust Monte Carlo method for electric field calculations in EMC3</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.22371">Error Bounds for Physics-Informed Neural Networks in Fokker-Planck PDEs</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.22720">Amplitude Expansion Phase Field Crystal (APFC) Modeling based Efficient Dislocation Simulations using Fourier Pseudospectral Method</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2411.16063">VICON: Vision In-Context Operator Networks for Multi-Physics Fluid Dynamics Prediction</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.08264">Efficient gradient-based methods for bilevel learning via recycling Krylov subspaces</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.03628">Improving Interoperability in Scientific Computing via MaRDI Open Interfaces</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.04205">PolyKAN: A Polyhedral Analysis Framework for Provable and Approximately Optimal KAN Compression</a> - Thu, 09 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.04385">Structure-Preserving MHD-Driftkinetic Discretization for Wave-Particle Interactions</a> - Thu, 09 Oct 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
