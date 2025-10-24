@@ -10,34 +10,38 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2510.19302">Cardiocirculatory Computational Models for the Study of Hypertension</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19392">Energy dissipation and global convergence of a discrete normalized gradient flow for computing ground states of two-component Bose-Einstein condensates</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19518">Interpolatory Dynamical Low-Rank Approximation: Theoretical Foundations and Algorithms</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19701">Non-intrusive structural-preserving sequential data assimilation</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19702">Dictionary learning methods for brain activity mapping with MEG data</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19721">An active-flux-type scheme for ideal MHD with provable positivity and discrete divergence-free property</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19161">Extreme Event Aware ($eta$-) Learning</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19353">DARE: A Deformable Adaptive Regularization Estimator for Learning-Based Medical Image Registration</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19542">Singular Value-based Atmospheric Tomography with Fourier Domain Regularization (SAFR)</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19576">On an adjoint-based numerical approach for time-dependent optimal control problems of biomedical interest</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19634">Matrix-Free Least Squares Solvers: Values, Gradients, and What to Do With Them</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.19680">T2 mapping at 0.55 T using Ultra-Fast Spin Echo MRI</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2310.00605">The Generalized Matrix Norm Problem</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2402.09252">Asymptotic-preserving IMEX schemes for the Euler equations of non-ideal gases</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.04009">Error Bounds for Open Quantum Systems with Harmonic Bosonic Bath</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2408.08129">Efficient and scalable atmospheric dynamics simulations using non-conforming meshes</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.03792">Computer-assisted proofs for finding the monodromy of Picard-Fuchs differential equations for a family of K3 toric hypersurfaces</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.12733">A quantitative comparison of high-order asymptotic-preserving and asymptotically-accurate IMEX methods for the Euler equations with non-ideal gases</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.13093">Localized Dynamic Mode Decomposition with Temporally Adaptive Segmentation</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.21318">Explicit error bounds and guaranteed convergence of the Koopman-Hill projection stability method for linear time-periodic dynamics</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.21664">Trajectory learning for ensemble forecasts via the continuous ranked probability score: a Lorenz '96 case study</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.14486">Error analysis of a fully discrete structure-preserving finite element scheme for a diffuse-interface model of tumour growth</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.08065">LDMD with Temporally Adaptive Segmentation</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.16191">Is simplicity still possible for a more accurate approximation to the perimeter of the ellipse? or, Using the exponential function to further improve the second Ramanujan's approximation</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.17734">Efficient Tensor Completion Algorithms for Highly Oscillatory Operators</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.19054">Entrywise Approximation for Matrix Inversion and Linear Systems</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2508.18205">A meshless method for computational electromagnetics with improved dispersion properties</a> - Thu, 23 Oct 2025 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05834">Time-causal and time-recursive wavelets</a> - Thu, 23 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20063">Computing excited states with isometric tensor networks in two-dimensions</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20117">Minimizing Residuals in ODE Integration Using Optimal Control</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20136">Joint Signal Recovery and Uncertainty Quantification via the Residual Prior Transform</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20142">General transformation neural networks: A class of parametrized functions for high-dimensional function approximation</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20159">IEnSF: Iterative Ensemble Score Filter for Reducing Error in Posterior Score Estimation in Nonlinear Data Assimilation</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20254">Anderson-type acceleration method for Deep Neural Network optimization</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20359">Unique continuation for the wave equation: the stability landscape</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20365">Improving the accuracy of meshless methods via resolving power optimisation using multiple kernels</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20425">Projecting onto the Unit Dual Quaternion Set</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20564">Preconditioning of a pollution-free discretization of the Helmholtz equation</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20601">Advancing Offshore Renewable Energy: Techno-Economic and Dynamic Performance of Hybrid Wind-Wave Systems</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20752">Well-Posedness and Approximation of Weak Solutions to Time Dependent Maxwell's Equations with $L^2$-Data</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.19917">FINDER: Feature Inference on Noisy Datasets using Eigenspace Residuals</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.19999">Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20017">Simultaneously Solving Infinitely Many LQ Mean Field Games In Hilbert Spaces: The Power of Neural Operators</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20030">On Encoding Matrices using Quantum Circuits</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20116">Interpolatory Approximations of PMU Data: Dimension Reduction and Pilot Selection</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20220">Alternatives to the Laplacian for Scalable Spectral Clustering with Group Fairness Constraints</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20471">Stochastic evolution equations with nonlinear diffusivity, recent progress and critical cases</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.20642">Rothe's method in direct and time-dependent inverse source problems for a semilinear pseudo-parabolic equation</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.17750">Efficient Shallow Ritz Method For 1D Diffusion Problems</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2406.12210">Generalized Moving Least-Squares Methods for Solving Vector-valued PDEs on Unknown Manifolds</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2409.12023">A multiscale approach to the stationary Ginzburg-Landau equations of superconductivity</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2501.12867">A function approximation algorithm using multilevel active subspaces</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.15548">Modal analysis of a domain decomposition method for Maxwell's equations in a waveguide</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.21994">A decomposition-based robust training of physics-informed neural networks for nearly incompressible linear elasticity</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.21070">Inverse source problem with a posteriori interior measurements for space-time fractional diffusion equations</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.16810">The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.16405">Parameter-related strong convergence rate of an Euler's type method for time-changed stochastic differential equations</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2404.04073">Newton's method for nonlinear mappings into vector bundles</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.12441">A primal-dual algorithm for image reconstruction with input-convex neural network regularizers</a> - Fri, 24 Oct 2025 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.05094">Quantum speedup of non-linear Monte Carlo problems</a> - Fri, 24 Oct 2025 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
