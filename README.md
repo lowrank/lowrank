@@ -10,36 +10,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2511.02921">Long-term behaviour of symmetric partitioned linear multistep methods II. Invariants error analysis for some nonlinear dispersive wave models</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03055">Read Between the Hyperplanes: On Spectral Projection and Sampling Approaches to Randomized Kaczmarz</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03109">Parametric Hierarchical Matrix Approximations to Kernel Matrices</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03111">Efficient linear schemes for a penalized ternary Cahn-Hilliard system</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03141">The isogeometric boundary element algorithm for solving the plane strain problem of an elastic matrix containing an open material surface of arbitrary shape</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03265">Computing the nearest $Omega$-admissible descriptor dissipative Hamiltonian system</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03343">A Spectral Split-Step Pad'e Method for Guided Wave Propagation</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03390">A New Algorithm for Computing the Stabilizing Solution of General Periodic Time-Varying Stochastic Game-Theoretic Riccati Differential Equations</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03520">Model order reduction via Lie groups</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03598">Adaptive Randomized Tensor Train Rounding using Khatri-Rao Products</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03655">SIMD-vectorized implicit symplectic integrators can outperform explicit ones</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03658">Left Inverses for B-spline Subdivision Matrices in Tensor-Product Spaces</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03059">Microgrids optimal radial reconfiguration via FORWARD algorithm</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.03093">A Plug-and-Play Framework for Volumetric Light-Sheet Image Reconstruction</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2403.11632">Data-driven Stabilization of Nitsche's Method</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2407.06674">Sample-based almost-sure quasi-optimal approximation in reproducing kernel Hilbert spaces</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.05663">A bi-fidelity method for the uncertain Vlasov-Poisson system near quasineutrality in an asymptotic-preserving particle-in-cell framework</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.11796">Discrete Poincar'e inequalities: a review on proofs, equivalent formulations, and behavior of constants</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.00516">The Fourier spectral approach to the spatial discretization of quasilinear hyperbolic systems</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.02392">An efficient asymptotic preserving Monte Carlo method for frequency-dependent radiative transfer equations</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.04024">Exploring Exponential Runge-Kutta Methods: A Survey</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.14923">Finite element methods for electroneutral multicomponent electrolyte flows</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.20752">Well-Posedness and Approximation of Weak Solutions to Time Dependent Maxwell's Equations with $L^2$-Data</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.23078">Numerical Spectrum Linking: Identification of Governing PDE via Koopman-Chebyshev Approximation</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.24679">Kemeny's constant minimization for reversible Markov chains via structure-preserving perturbations</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.02662">Discretization and convergence of the ballistic Benamou-Brenier formulation of the porous medium and Burgers equations</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2312.05063">Individualizing Glioma Radiotherapy Planning by Optimization of Data and Physics-Informed Discrete Loss</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.00773">Stochastic representation of solutions for the parabolic Cauchy problem with variable exponent coefficients</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.02659">In Situ Training of Implicit Neural Compressors for Scientific Simulations via Sketch-Based Regularization</a> - Thu, 06 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.02751">An accelerated primal-dual flow for linearly constrained multiobjective optimization</a> - Thu, 06 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04041">Relative entropy estimate and geometric ergodicity for implicit Langevin Monte Carlo</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04197">Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04265">A space-time adaptive boundary element method for the wave equation</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04309">DeepPAAC: A New Deep Galerkin Method for Principal-Agent Problems</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04369">Normalized tensor train decomposition</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04404">The Loewner framework applied to Zolotarev sign and ratio problems</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04413">Mean square error analysis of stochastic gradient and variance-reduced sampling algorithms</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04424">An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04490">A Two-stage Adaptive Lifting PINN Framework for Solving Viscous Approximations to Hyperbolic Conservation Laws</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04501">Spurious resonances for substructured FEM-BEM coupling</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04512">Preconditioning of GMRES for Helmholtz problems with quasimodes</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04566">Mixed precision multigrid with smoothing based on incomplete Cholesky factorization</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04056">A variational Lippmann-Schwinger-type approach for the Helmholtz impedance problem on bounded domains</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04291">Robustness of Minimum-Volume Nonnegative Matrix Factorization under an Expanded Sufficiently Scattered Condition</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04303">Signature-Based Universal Bilinear Approximations for Nonlinear Systems and Model Order Reduction</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04518">Comparing EPGP Surrogates and Finite Elements Under Degree-of-Freedom Parity</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.12264">Projection Methods for Operator Learning and Universal Approximation</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2409.08793">Modeling Advection-Dominated Flows with Space-Local Reduced-Order Models</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.09266">Improved error bounds for Koopman operator and reconstructed trajectories approximations with kernel-based methods</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.02625">Condition Numbers and Eigenvalue Spectra of Shallow Networks on Spheres</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.03109">Parametric Hierarchical Matrix Approximations to Kernel Matrices</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2509.03520">Thermodynamically consistent modeling and simulation of two-fluid magnetohydrodynamic equations</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2509.08977">Symmetries in stochastic homogenization and adjustments for the RVE method</a> - Fri, 07 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.07564">A Geomechanically-Informed Framework for Wellbore Trajectory Prediction: Integrating First-Principles Kinematics with a Rigorous Derivation of Gated Recurrent Networks</a> - Fri, 07 Nov 2025 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
