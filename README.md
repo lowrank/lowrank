@@ -10,7 +10,29 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2511.04830">Structure-preserving local discontinuous Galerkin discretization of conformational conversion systems</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04991">Uniformly accurate structure-preserving neural surrogates for radiative transfer</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05032">A dual grid geometric electromagnetic particle in cell method</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05088">Anti-commuting Solutions of the Yang-Baxter-like Matrix Equation</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05121">Numerical simulation of the dual-phase-lag heat conduction equation on a one-dimensional unbounded domain using artificial boundary condition</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05145">Implicit reconstruction from point cloud: an adaptive level-set-based semi-Lagrangian method</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05217">The law of iterated logarithm for numerical approximation of time-homogeneous Markov process</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05247">An Isogeometric Tearing and Interconnecting method for conforming discretizations of the biharmonic problem</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05251">Asymptotic error distribution of numerical methods for parabolic SPDEs with multiplicative noise</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05364">Momentum accelerated power iterations and the restarted Lanczos method</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.04947">Asymptotic Stability of Solutions to the Forced Higher-order Degenerate Parabolic Equations</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05277">Regularized Reconstruction of Scalar Parameters in Subdiffusion with Memory via a Nonlocal Observation</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05312">A time-fractional Fisher-KPP equation for tumor growth: Analysis and numerical simulation</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05352">A Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model: Maximum Likelihood Estimation and Fisher Information</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05368">Near-Efficient and Non-Asymptotic Multiway Inference</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.05389">Block-structured Operator Inference for coupled multiphysics model reduction</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2406.05694">A Low Rank Neural Representation of Entropy Solutions</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2408.06470">Surface elevation errors in finite element Stokes models for glacier evolution</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.10771">Analysis and numerical analysis of the Helmholtz-Korteweg equation</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.18739">Least-Squares Finite Element Methods for nonlinear problems: A unified framework</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.04208">Analysis of randomized CholeskyQR for sparse matrices</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.24608">Random Walks, Faber Polynomials and Accelerated Power Methods</a> - Mon, 10 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.02151">A quantum analogue of convex optimization</a> - Mon, 10 Nov 2025 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
