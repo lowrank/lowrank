@@ -10,37 +10,34 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2511.14929">Adaptive Ch Method with Local Coupled Multiquadrics for Solving Partial Differential Equations</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15058">Lippmann-Schwinger-Lanczos algorithm for inverse scattering problems with unknown reflectivity and loss distributions: One-dimensional Case</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15104">Error Analysis on a Novel Class of Exponential Integrators with Local Linear Extension Techniques for Highly Oscillatory ODEs</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15230">An efficient fully explicit scheme for stochastic Navier-Stokes equations driven by multiplicative noise</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15287">Numerical analysis of the high-frequency Helmholtz equation using semiclassical analysis</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15345">A Hybrid-High Order method for fracture modelling</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15395">On the conditioning of histopolation</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15445">Neural network-driven domain decomposition for efficient solutions to the Helmholtz equation</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15478">Fractional Quadrature rule and using its Exactness for the M"untz-Legendre Scaling Functions for Solving Fractional Differential Equations</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15530">Convergence and Sketching-Based Efficient Computation of Neural Tangent Kernel Weights in Physics-Based Loss</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15583">Numerical Stability of the Nystr"om Method</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.14925">PAS-Net: Physics-informed Adaptive Scale Deep Operator Network</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.14979">Transformation from integral operator with separable kernel to matrix in eigenvalue problem</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15261">A Wave Front Tracking Scheme for Flux Reconstruction in $2times 2$ Hyperbolic Conservation Laws</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15273">RLS Framework with Segmentation of the Forgetting Profile and Low Rank Updates</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.15425">Beyond Tchakaloff Quadrature: Positive Functionals, Frames and Widths</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2011.13173">Constrained high-index saddle dynamics for the solution landscape with equality constraints</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2301.05284">Concrete examples of the rate of convergence of Chernoff approximations: numerical results for the heat semigroup and open questions on them (with appendix: full list of pictures and Python code)</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2405.20481">On the randomized Euler scheme for SDEs with integral-form drift</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2407.08383">Error estimates of physics-informed neural networks for approximating Boltzmann equation</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.19121">Convergence rate of Euler-Maruyama scheme for McKean-Vlasov SDEs with density-dependent drift</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.14425">Convergence of the non-staggered Nessyahu-Tadmor scheme for coupled systems of one-dimensional nonlocal balance laws</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.05088">Nonlinear manifold approximation using compositional polynomial networks</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2505.05407">Neural network methods for Neumann series problems of Perron-Frobenius operators</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.00531">An inverse-free fixed-time stable dynamical system and its forward-Euler discretization for solving generalized absolute value equations</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.13567">Uniform Distributions on p-Balls and the Singular Role of $p=1,2,infty$ in p-Norm Geometry</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.18339">Ridge Regression on Riemannian Manifolds for Time-Series Prediction</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.04821">A time-dependent inverse source problem for a semilinear pseudo-parabolic equation with Neumann boundary condition</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2505.19873">Deep Spectral Prior</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2506.13633">Global Convergence of Adjoint-Optimized Neural PDEs</a> - Thu, 20 Nov 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2508.10587">Self-Supervised Temporal Super-Resolution of Energy Data using Generative Adversarial Transformer</a> - Thu, 20 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16033">Data-driven Model Reduction for Parameter-Dependent Matrix Equations via Operator Inference</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16070">Optimal error analysis of an interior penalty virtual element method for fourth-order singular perturbation problems</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16171">Shallow neural network yields regularization for ill-posed inverse problems</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16180">Robust PAMPA Scheme in the DG Formulation on Unstructured Triangular Meshes: bound preservation, oscillation elimination, and boundary conditions</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16238">Numerical identification of the time-dependent coefficient in the heat equation with fractional Laplacian</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.15723">Human-aligned Quantification of Numerical Data</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.15737">Micro-Macro Simulation of Shallow Water Moment Equations</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16149">Approximation rates of quantum neural networks for periodic functions via Jackson's inequality</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16412">Algorithms and optimizations for global non-linear hybrid fluid-kinetic finite element stellarator simulations</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16420">A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16570">Entrywise Approximate Solutions for SDDM Systems in Almost-Linear Time</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.16657">Enhancing Forex Forecasting Accuracy: The Impact of Hybrid Variable Sets in Cognitive Algorithmic Trading Systems</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2206.10292">Artificial neural network evaluation of geometric constants for polygonal domains</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2408.09484">Fredholm Neural Networks</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2409.10724">Quaternion tensor low rank Quaternion tensor low-rank approximation using a family of non-convex norms</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2410.18439">Multiscale Neural Networks for Approximating Green's Functions</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.14425">Convergence of the non-staggered Nessyahu-Tadmor scheme for coupled systems of one-dimensional nonlocal balance laws</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2502.21174">Robust iterative methods for linear systems with saddle point structure</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2505.00715">Comparison of $mathcal{H}$-matrix- and FMM-based 3D-ACA for a time-domain boundary element method</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2505.04866">A mixed finite element method for a class of fourth-order stochastic evolution equations with multiplicative noise</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2505.23582">$S^{top!}S$-SVD via Sketching and the Nearest $S^{top!}S$-orthogonal Matrix</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.00193">An energy-stable parametric finite element method for Willmore flow with normal-tangential velocity splitting</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.21517">Error Estimates for Sparse Tensor Products of B-spline Approximation Spaces</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.12055">FG-PINNs: frequency-guided physics-informed neural networks for solving PDEs with high frequency components</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2312.11157">A low-rank non-convex norm method for multiview graph clustering</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.19392">Convergence analysis of the transformed gradient projection algorithms on compact matrix manifolds</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.20981">Stochastic gradient with least-squares control variates</a> - Fri, 21 Nov 2025 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2508.07336">Best $m$-term trigonometric approximation in weighted Wiener spaces and applications</a> - Fri, 21 Nov 2025 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
