@@ -10,28 +10,7 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2512.09967">Hybrid Finite Element and Least Squares Support Vector Regression Method for solving Partial Differential Equations with Legendre Polynomial Kernels</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10027">A Mass Preserving Numerical Scheme for Kinetic Equations that Model Social Phenomena</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10059">Efficient Boys function evaluation using minimax approximation</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10083">Metric-driven numerical methods</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10122">Numerical approximation of the first $p$-Laplace eigenpair</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10192">A robust fully-mixed finite element method with skew-symmetry penalization for low-frequency poroelasticity</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10204">Variational-hemivariational inequalities: A brief survey on mathematical theory and numerical analysis</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10260">Convergence analysis of contrast source inversion type methods for acoustic inverse medium scattering problems</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10330">Matrix approach to the fractional calculus</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10473">Second order reduced model via incremental projection for Navier Stokes</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10560">Analysis of discrete energy-decay preserving schemes for Maxwell's equations in Cole-Cole dispersive medium</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10716">Dynamically consistent finite volume scheme for a bimonomeric simplified model with inflammation processes for Alzheimer's disease</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10718">A Stabilized Finite Element Method for Morpho-Visco-Poroelastic Model</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10792">Physics-Informed Learning of Microvascular Flow Models using Graph Neural Networks</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10256">Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10332">The Radon Transform-Based Sampling Methods for Biharmonic Sources from the Scattered Fields</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.10831">Indirect methods in optimal control on Banach spaces</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2406.04695">Conjugate gradient for ill-posed problems: regularization by preconditioning, preconditioning by regularization</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.03405">Deep Operator BSDE: a Numerical Scheme to Approximate Solution Operators</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.19520">L'{e}vy Score Function and Score-Based Particle Algorithm for Nonlinear L'{e}vy--Fokker--Planck Equations</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2505.08218">Local Convergence Behavior of Extended LOBPCG for Computing Eigenvalues of Hermitian Matrices</a> - Fri, 12 Dec 2025 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.07524">A linear MARS method for three-dimensional interface tracking</a> - Fri, 12 Dec 2025 00:00:00 -0500
+
 <!-- arxiv-math-na ends -->
 
 <div align="center">
