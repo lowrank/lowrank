@@ -10,26 +10,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2601.02492">Variational (Energy-Based) Spectral Learning: A Machine Learning Framework for Solving Partial Differential Equations</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.02513">On well-posed energy/entropy stable boundary conditions for the rotating shallow water equations</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.02540">GPU-Accelerated Energy-Conserving Methods for the Hyperbolized Serre-Green-Naghdi Equations in 2D</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.02561">A Schr"odinger-Based Dispersive Regularization Approach for Numerical Simulation of One-Dimensional Shallow Water Equations</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.02595">Volumetric locking-free Mixed Virtual Element Methods for Contact Problems</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.02650">A Derivative-Free Saddle-search Algorithm With Linear Convergence Rate</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.02847">Stability and error estimates of a linear and partitioned finite element method approximating nonlinear fluid-structure interactions</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.02975">A Fourth-Order Cut-cell Multigrid Method for Generic Elliptic Equations on Arbitrary Domains</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.03010">Mathematical aspects of registration methods in bounded domains</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.03086">Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.03160">Stability, convergence, and geometric properties of second-order-in-time space-time discretizations for linear and semilinear wave equations</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.00505">Effect of Electric Charge on Biotherapeutic Transport, Binding and Absorption: A Computational Study</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2410.05409">A Machine Learning Model for Solving Lane-Emden Equation using Legendre Wavelet Neural Network</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2509.00505">On discrete Sobolev inequalities for nonconforming finite elements under a semi-regular mesh condition</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.12275">A Stochastic Genetic Interacting Particle Method for Reaction-Diffusion-Advection Equations</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.19407">A Cartesian Cut-Cell Two-Fluid Method for Two-Phase Diffusion Problems</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2407.04013">A split-step Christov method for approximating rational PDE solutions</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2506.09280">TTrace: Lightweight Error Checking and Diagnosis for Distributed Training</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.14154">Geometric integrators for adiabatically closed simple thermodynamic systems</a> - Wed, 07 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.18998">A Trust-region Funnel Algorithm for Grey-Box Optimisation</a> - Wed, 07 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03668">Discontinuous Galerkin finite element operator network for solving non-smooth PDEs</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03885">Local Interpolation via Low-Rank Tensor Trains</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03931">Constrained dynamics for searching saddle points on general Riemannian manifolds</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03967">On the importance of smoothness, interface resolution and numerical sensitivities in shape and topological sensitivity analysis</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03971">Posterior error bounds for prior-driven balancing in linear Gaussian inverse problems</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04022">A Bivariate Spline Construction of Orthonormal Polynomials over Polygonal Domains and Its Applications to Quadrature</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04075">A higher order sparse grid combination technique</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04112">Algebraic Multigrid with Overlapping Schwarz Smoothers and Local Spectral Coarse Grids for Least Squares Problems</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04119">Quantitative Constraints for Stable Sampling on the Sphere</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04132">Active subspace methods and derivative-based Shapley effects for functions with non-independent variables</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04148">Efficient third-order iterative algorithms for computing zeros of special functions</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04167">From Penrose to Melrose: Computing Scattering Amplitudes at Infinity for Unbounded Media</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03706">The Geometry of the Pivot: A Note on Lazy Pivoted Cholesky and Farthest Point Sampling</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03856">Assessing Meteo-HySEA Performance for Adriatic Meteotsunami Events</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.04049">Quantum computing for multidimensional option pricing: End-to-end pipeline</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2307.05149">Multi-index importance sampling for McKean--Vlasov stochastic differential equations</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2310.13579">Numerical approximation of McKean-Vlasov SDEs via stochastic gradient descent</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2405.15735">A Higher Order Local Mesh Method for Approximating 1-Laplacians on Unknown Manifolds</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.11151">An explicit spectral decomposition of the ADRT</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2512.00266">Neural Multiscale Decomposition for Solving The Nonlinear Klein-Gordon Equation with Time Oscillation</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.01902">Energy Conserving Data Driven Discretizations for Maxwells Equations</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2403.18155">An inexact infeasible arc-search interior-point method for linear optimization problems</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.10363">Hammersley Point Sets and Inverse of Star-Discrepancy</a> - Thu, 08 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2508.11100">Full-Wave Modeling of Transcranial Ultrasound using Volume-Surface Integral Equations and CT-Derived Heterogeneous Skull Data</a> - Thu, 08 Jan 2026 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
