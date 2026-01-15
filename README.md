@@ -10,35 +10,32 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2601.07967">Scattered Data Histopolation in Averaging Kernel Hilbert Spaces</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08001">Operator learning for models of tear film breakup</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08006">A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08051">Reliable eigenspace error estimation using source error estimators</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08188">Numerical analysis of spatiotemporal high-index saddle dynamics for finding multiple solutions of semilinear elliptic problems</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08228">Second-Generation Wavelet-inspired Tensor Product with Applications in Hyperspectral Imaging</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08299">A multi-mesh adaptive finite element method for solving the Gross-Pitaevskii equation</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08478">A whole-brain model of amyloid beta accumulation and cerebral hypoperfusion in Alzheimer's disease</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08498">A Structure Preserving Finite Volume Scheme for the Navier-Stokes-Korteweg Equations</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08527">Sampling via Stochastic Interpolants by Langevin-based Velocity and Initialization Estimation in Flow ODEs</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08553">A note on condition numbers for generalized inverse C^{ddag}_A and their statistical estimation</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08561">Sampling recovery on classes defined by integral operators and sparse approximation with adaptive dictionaries</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08594">Differentiating through Stochastic Differential Equations: A Primer</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08709">Multi-Preconditioned LBFGS for Training Finite-Basis PINNs</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08759">Convergence analysis and adaptive computation of a Banach-space mixed finite element method for generalized bioconvective flows</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.08787">A survey on sampling recovery</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2203.01799">Coupling Deep Learning with Full Waveform Inversion</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2304.02062">An A Posteriori Error Estimator for Electrically Coupled Liquid Crystal Equilibrium Configurations</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2504.02672">Certified Model Order Reduction for parametric Hermitian eigenproblems</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.06869">Structure-preserving space discretization of differential and nonlocal constitutive relations for port-Hamiltonian systems</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.18875">Neural Correction Operator: A Reliable and Fast Approach for Electrical Impedance Tomography</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2508.12197">Implicit-Explicit Scheme with Multiscale Vanka Two-Grid Solver for Heterogeneous Unsaturated Poroelasticity</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2509.13108">Variational data assimilation for the wave equation in heterogeneous media: Numerical investigation of stability</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.17580">Numerical Error Analysis of the Poisson Equation under RHS Inaccuracies in Particle-in-Cell Simulations</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.21429">Macro-element Refinement schemes for THB-Splines: Applications to B'ezier Projection and Structure-Preserving Discretizations</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.22219">The Reduced Basis Multigrid scheme for the Virtual Element Method</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.14219">Analysis of a finite element method for second order uniformly elliptic PDEs in non-divergence form</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.23807">A note on the space-time variational formulation for the wave equation with source term in $L^2(Q)$</a> - Wed, 14 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.07760">Free-RBF-KAN: Kolmogorov-Arnold Networks with Adaptive Radial Basis Functions for Efficient Function Learning</a> - Wed, 14 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.08979">Space-time spectral element method for topology optimization of transient heat conduction</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.08990">Nonlinear Inverse Iterations for Spin-Orbit Coupled Quantum Gases</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09337">On the unmapped tent pitching for the heterogeneous wave equation</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09383">Thermodynamically consistent phase-field modeling and numerical simulation for two-phase fluid-solid dynamics</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09437">A Randomized Milstein Scheme for SDEs with Superlinear Drift Coefficient</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09450">A new class of entropy stable fluctuations for the discontinuous Galerkin method with application to the Saint-Venant-Exner model</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09479">Qualitative and Numerical Simulation of a Time-Fractional SEIR Mpox Model Arising in Population Epidemiology</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09595">Two continuous extensions of the Neural Approximated Virtual Element Method</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09623">Introduction to the Combination of Reduced Order Models and Domain Decomposition: State of the Art and Perspectives</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09657">Explaining oscillatory behavior in convection-diffusion discretization</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.08920">W-DUALMINE: Reliability-Weighted Dual-Expert Fusion With Residual Correlation Preservation for Medical Image Fusion</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09007">Global polynomial-time estimation in statistical nonlinear inverse problems via generalized stability</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09143">Discrete Solution Operator Learning for Geometry-Dependent PDEs</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.09356">Determination of active forces in actomyosin systems as inverse source problems for the Stokes equation</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2412.18717">Variational Bayesian Inference for Tensor Robust Principal Component Analysis</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2504.13814">Preconditioning FEM discretisations of the high-frequency Helmholtz and Maxwell equations by either perturbing the coefficients or adding absorption</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.01552">A mixed Petrov-Galerkin Cosserat rod finite element formulation</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.02677">Moments, Time-Inversion and Source Identification for the Heat Equation</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2509.13950">Hierarchical Importance Sampling for Estimating Occupation Time for SDE Solutions</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2509.20069">Development of a Model Order Reduced Arbitrary Lagrangian Eulerian (MORALE) formulation for structures subjected to dynamic moving loads</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.21289">Multiscale Spectral Generalized Finite Element Methods for Discontinuous Galerkin Schemes</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.03086">Pretrain Finite Element Method: A Pretraining and Warm-start Framework for PDEs via Physics-Informed Neural Operators</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.08006">A Structure-Preserving Penalization Method for the Single-species Rosenbluth-Fokker-Planck Equation</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2309.11451">Classical combinations of quantum states for solving banded circulant linear systems</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.08813">Numerical stability of force-gradient integrators and their Hessian-free variants in lattice QCD simulations</a> - Thu, 15 Jan 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.01295">Sobolev Approximation of Deep ReLU Networks in Log-Barron Space</a> - Thu, 15 Jan 2026 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
