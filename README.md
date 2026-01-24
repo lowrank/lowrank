@@ -10,20 +10,7 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2601.15787">Efficient Numerical Reconstruction of Wave Equation Sources via Droplet-Induced Asymptotics</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.15911">A fully diagonalized spectral method on the unit ball</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.16122">Canonical structure of the LLG equation for exponential updates in micromagnetism</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.16124">A hybrid reconstruction of piece-wise smooth functions from non-uniform Fourier data</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.15442">A tensor network formalism for neuro-symbolic AI</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2501.06107">A domain decomposition strategy for natural imposition of mixed boundary conditions in port-Hamiltonian systems</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2506.07084">The PML method for calculating the propagative wave numbers of electromagnetic wave in periodic structures</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.12629">A Unified Framework for Efficient Kernel and Polynomial Interpolation</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.05160">Do you precondition on the left or on the right?</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.13256">Deep Neural networks for solving high-dimensional parabolic partial differential equations</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2406.01857">Neural Green's Operators for Parametric Partial Differential Equations</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2505.22398">Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.06316">Quantum matrix arithmetics with Hamiltonian evolution</a> - Fri, 23 Jan 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.23027">A Domain Decomposition-based Solver for Acoustic Wave propagation in Two-Dimensional Random Media</a> - Fri, 23 Jan 2026 00:00:00 -0500
+
 <!-- arxiv-math-na ends -->
 
 <div align="center">
