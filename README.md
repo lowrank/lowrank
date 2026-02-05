@@ -10,35 +10,37 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2602.02549">Error Analysis of Matrix Multiplication Emulation Using Ozaki-II Scheme</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.02616">A space-time LATIN-PGD strategy for solving Newtonian compressible flows</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.02779">Comparison of Trefftz-Based PINNs and Standard PINNs Focusing on Structure Preservation</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03083">Scaling Optimized Spectral Approximations on Unbounded Domains: The Generalized Hermite and Laguerre Methods</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03118">The High Cost of Data Augmentation for Learning Equivariant Models</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03166">Event-Level Probabilistic Prediction of Extreme Rainfall over India Using Physics-Gated Latent Dynamics</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03178">Fully Automated Adaptive Parameter Selection for 3-D High-order Nystr"om Boundary Integral Equation Methods</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03239">Deterministic and randomized Kaczmarz methods for $AXB=C$ with applications to color image restoration</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03247">Physics informed learning of orthogonal features with applications in solving partial differential equations</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03322">Weighted finite difference methods for a nonlinear Klein--Gordon equation with high oscillations in space and time</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03348">A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03428">On singular Galerkin discretizations for three models in high-frequency scattering</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.02500">UNSO: Unified Newton Schulz Orthogonalization</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.02945">Bayesian Methods for the Navier-Stokes Equations</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.02948">Variational Sparse Paired Autoencoders (vsPAIR) for Inverse Problems and Uncertainty Quantification</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.02981">Fisher-Information-Based Sensor Placement for Structural Digital Twins: Analytic Results and Benchmarks</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03067">FlashSinkhorn: IO-Aware Entropic Optimal Transport</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03535">Sparse Training of Neural Networks based on Multilevel Mirror Descent</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03654">Noisy nonlocal aggregation model with gradient flow structures</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03682">Improved Analysis of the Accelerated Noisy Power Method with Applications to Decentralized PCA</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03744">Reducing acquisition time and radiation damage: data-driven subsampling for spectro-microscopy</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.03802">Do We Need Asynchronous SGD? On the Near-Optimality of Synchronous Methods</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2509.08936">Quasi-Trefftz spaces for a first-order formulation of the Helmholtz equation</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2512.02537">Numerical Verification of PolyDG Algebraic Solvers for the Pseudo-Stress Stokes Problem</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2505.12940">Multi-Level Monte Carlo Training of Neural Operators</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2508.13232">On Modeling and Solving the Boltzmann Equation</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2509.15069">Efficient Computation of Time-Index Powered Weighted Sums Using Cascaded Accumulators</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.04995">Power Transform Revisited: Numerically Stable, and Federated</a> - Wed, 04 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.16420">A Fast Relax-and-Round Approach to Unit Commitment for Data Center Own Generation</a> - Wed, 04 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04086">Efficient Explicit Taylor ODE Integrators with Symbolic-Numeric Computing</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04207">A frequency-domain method to inverse moving source problem with unknown radiating moment</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04235">Towards $C^0$ finite element methods for fourth-order elliptic equation. Part I: general boundary conditions</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04348">Balancing Inexactness in Mixed Precision Matrix Computations</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04359">On the pure traction problem of linear elasticity: a regularized formulation and its robust approximation</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04368">A Priori and A Posteriori Error Identities for Vectorial Problems via Convex Duality</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04490">Randomized Projection Operators onto Piecewise Polynomial Spaces</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04603">Domain decomposition methods and preconditioning strategies using generalized locally Toepltiz tools: proposals, analysis, and numerical validation</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.03859">Numerical study of loss of hyperbolicity using a cold plasma model</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04082">A Probabilistic Framework for Solving High-Frequency Helmholtz Equations via Diffusion Models</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04264">From Dead Neurons to Deep Approximators: Deep Bernstein Networks as a Provable Alternative to Residual Layers</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04795">Maximum-Volume Nonnegative Matrix Factorization</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.04842">The matrix-vector complexity of $Ax=b$</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2301.06415">Convergence Analysis of the Upwind Difference Methods for Hamilton-Jacobi-Bellman Equations</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2408.05444">Greedy randomized block Kaczmarz method for matrix equation AXB=C and its applications in color image restoration</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2410.10250">Weak error on the densities for the Euler scheme of stable additive SDEs with H{"o}lder drift</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2504.00604">Adaptive hyper-reduction of non-sparse operators: application to parametric particle-based kinetic plasma models</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2504.19359">A filtered finite difference method for a highly oscillatory nonlinear Klein--Gordon equation</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.18436">A Complete-Electrode-Model-Based Forward Approach for Transcranial Temporal Interference Stimulation with Linearization: A Numerical Simulation Study</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2508.02681">Accelerating Conjugate Gradient Solvers for Homogenization Problems with Unitary Neural Operators</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.13021">Computation of stresses in jammed packings modeled with Tresca friction</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.01587">Numerical methods for solving PIDEs arising in swing option pricing under a two-factor mean-reverting model with jumps</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.02552">Sparse Source Identification in Transient Advection-Diffusion Problems with a Primal-Dual-Active-Point Strategy</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.15104">Error Analysis on a Novel Class of Exponential Integrators with Local Linear Extension Techniques for Highly Oscillatory ODEs</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2511.15445">Neural network-driven domain decomposition for efficient solutions to the Helmholtz equation</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.07508">Multiword matrix multiplication over large finite fields in floating-point arithmetic</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.08051">Reliable eigenspace error estimation using source error estimators</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.01656">Numerical methods for diffusion coefficient recovery</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.10739">Quantum Wave Atom Transforms</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.06514">Inference-Time Alignment for Diffusion Models via Variationally Stable Doob's Matching</a> - Thu, 05 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.03744">Reducing acquisition time and radiation damage: data-driven subsampling for spectro-microscopy</a> - Thu, 05 Feb 2026 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
