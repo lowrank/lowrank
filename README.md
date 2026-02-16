@@ -10,7 +10,32 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2602.12337">Temporal-Stability-Enhanced and Energy-Stable Dynamical Low-Rank Approximation for Multiscale Linear Kinetic Transport Equations</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12365">A versatile FEM framework with native GPU scalability via globally-applied AD</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12409">Dirichlet-Neumann Waveform Relaxation Method with Multiple Subdomains for Reaction-Diffusion Equation with a Time Delay</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12483">Quantile Randomized Kaczmarz Algorithm with Whitelist Trust Mechanism</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12491">Proving periodic solutions and branches in the 2D Swift Hohenberg PDE with hexagonal and triangular symmetry</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12559">Convergence Analysis of Block Newton Methods for 1D Shallow Neural Network Approximation</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12580">Adaptive mesh methods for hyperbolic conservation laws with bound-preserving flux limiters</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12676">Semi-implicit Structure Preserving Method for The Landau-Lifshitz Equation</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12788">A parallel space-time $p$-adaptive discontinuous Galerkin method for nonlinear acoustics</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12790">A Stabilized Numerical Framework for Necrotic Tumor Growth via Coupled Boundary Integral and Obstacle Solvers</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12816">Finite Difference Method for Stochastic Cahn-Hilliard Equation Driven by A Fractional Brownian Sheet</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12850">Fast convolution solvers using moment-matching</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12872">Neural Evolutionary Kernel Method: A Knowledge-Guided Framework for Solving Evolutionary PDEs</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12940">Bifurcation curve detection with deflation for multiparametric PDEs</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.13048">Data-Driven Filter Design for Flexible and Noise-Robust Tomographic Imaging</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.13079">Multi-physics Preconditioning for Thermally Activated Batteries</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12290">A new model for two-layer liquid-gas stratified flows in pipes with general cross sections</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12390">Rational Neural Networks have Expressivity Advantages</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12581">The condition number of a random banded Toeplitz matrix is typically large</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.12854">Hyb-Adam-UM: hybrid ultrametric-aware mtDNA phylogeny reconstruction</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2505.05655">Projection-free approximation of flows of harmonic maps with quadratic constraint accuracy and variable step sizes</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.02783">Uniform semiclassical observable error bound of Trotter-Suzuki splitting: a simple algebraic proof</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.07466">Learned Finite Element-based Regularization of the Inverse Problem in Electrocardiographic Imaging</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.10803">Bound-Preserving Adaptive Time-Stepping Method with Energy Stability for Simulating Compressible Gas Flow in Poroelastic Media</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2508.10587">Self-Supervised Temporal Super-Resolution of Energy Data using Generative Adversarial Transformer</a> - Mon, 16 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.21767">Quantum-inspired space-time PDE solver and dynamic mode decomposition</a> - Mon, 16 Feb 2026 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
