@@ -10,32 +10,39 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2602.20282">Two approaches to low-parametric SimRank computation</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20390">The largest 5th pivot may be the root of a 61st degree polynomial</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20395">A parametrix for the surface Stokes equation</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20679">Implicit-explicit all-speed schemes for compressible Cahn-Hilliard-Navier-Stokes equations</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20697">Reduced-order computational homogenization for hyperelastic media using gradient based sensitivity analysis of microstructures</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20719">The Adaptive Solution of High-Frequency Helmholtz Equations via Multi-Grade Deep Learning</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20820">Convergence analysis of $L^{p+1}$-normalized gradient flow for action ground state of nonlinear Schr"odinger equation</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20822">H"older-Logarithmic Stability and Convergence Rates for an Inverse Random Source Problem</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20948">Lanczos with compression for symmetric eigenvalue problems</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20955">Orthonormal polynomial wavelets associated with de la Vall'ee Poussin-type interpolation on $[-1,1]$</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.21197">Variants of Raviart-Thomas mixed elements for curved domains using straight-edged tetrahedra</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20306">Shape-informed cardiac mechanics surrogates in data-scarce regimes via geometric encoding and generative augmentation</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20370">Quantitative Approximation Rates for Group Equivariant Learning</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.20757">Entropy stable numerical schemes for divergence diminishing Chew, Goldberger & Low equations for plasma flows</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2401.07806">Optimal design for linear models via gradient flow</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2402.02667">A Priori Error Estimation of Physics-Informed Neural Networks Solving Allen--Cahn and Cahn--Hilliard Equations</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2504.03449">Sobolev-Poincar'e inequalities for piecewise $W^{1,p}$ functions over general polytopic meshes</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2506.10935">Accelerating Newton-Schulz Iteration for Orthogonalization via Chebyshev-type Polynomials</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2509.23513">Multi-Order Runge-Kutta Methods or how to numerically solve initial value problems of any order</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.20142">General transformation neural networks: A class of parametrized functions for high-dimensional function approximation</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.24527">Robust stability and preconditioning of Darcy-Forchheimer equations</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.16522">Numerical efficiency of explicit time integrators for phase-field models</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2412.00445">Two Models for Surface Segmentation using the Total Variation of the Normal Vector</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2505.24270">Nonlinear PDEs with modulated dispersion IV: normal form approach and unconditional uniqueness</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.08974">Bayesian Active Learning for Bayesian Model Updating: the Art of Acquisition Functions and Beyond</a> - Wed, 25 Feb 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2510.24967">Adaptive Multilevel Newton: A Quadratically Convergent Optimization Method</a> - Wed, 25 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21448">Surrogate-assisted global sensitivity analysis of a hybrid-dimensional Stokes--Brinkman--Darcy model</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21574">Convergence Analysis of a Linear, Unconditionally Energy-Stable SAV Finite Element Method for the Cahn-Hilliard Equation</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21685">Adaptive isogeometric analysis of high-order phase-field fracture based on THB-splines</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21753">A dual lumping procedure for static condensation in mixed NURBS-based isogeometric elements with optimal convergence rates for arbitrary open knot vectors</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21767">Kernel Methods for the Construction of Certified Lyapunov Functions via Approximate Koopman Eigenfunctions</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21911">A generalized Riemann problem-based compact reconstruction method for finite volume schemes</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21913">A fully iterative adaptive energy-based approach for monotone elliptic problems</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21916">Robust Kaczmarz methods for nearly singular linear systems</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21958">Analysis of eigenvalue clustering leads to optimal scaling in numerical radiative transfer</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21974">Subspace gradient descent method for linear tensor equations</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.22068">Optimal error bounds on the exponential integrator for dispersive equations with highly concentrated potential</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.22084">Matrix Perturbation Theory in the Tangent Space of Isospectral Matrices</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21352">An accelerated rearrangement method for two-phase composite optimization</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.21910">The Error of Deep Operator Networks Is the Sum of Its Parts: Branch-Trunk and Mode Error Decompositions</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2303.02252">Oscillatory behaviour of the RBF-FD approximation accuracy under increasing stencil size</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2310.05625">Approximating Sparse Matrices and their Functions using Matrix-vector products</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.03393">A superconvergence result in the RBF-FD method</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2404.03793">Some observations regarding the RBF-FD approximation accuracy dependence on stencil size</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2411.09244">Parallel in time partially explicit splitting scheme for high contrast linear multiscale diffusion problems</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.18659">A filtered two-step variational integrator for charged-particle dynamics in a moderate or strong magnetic field</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2504.00648">A posteriori error analysis of a robust virtual element method for stress-assisted diffusion problems</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2505.12481">Stability and convergence of multi-product expansion splitting methods with negative weights for semilinear parabolic equations</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2505.14232">A Numerical Study of Combining RBF Interpolation and Finite Differences to Approximate Differential Operators</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2512.25017">Convergence of the generalization error for deep gradient flow methods for PDEs</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.06677">On the Role of the Double Fourier Sphere Method in Fast Algorithms on SO(3)</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.07224">Stability and Convergence of Modal Approximations in Coupled Thermoelastic Systems: Theory and Simulation</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.19760">Extreme $L_p$ discrepancy, numerical integration and the curse of dimensionality</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.20697">Reduced-order computational homogenization for hyperelastic media using gradient based sensitivity analysis of microstructures</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2303.11806">Computational Electromagnetics with the RBF-FD Method</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2504.07835">Pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2504.19138">Quasi-Monte Carlo confidence intervals using quantiles of randomized nets</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2505.08246">Identifying Memorization of Diffusion Models through $p$-Laplace Analysis: Estimators, Bounds and Applications</a> - Thu, 26 Feb 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.11917">A DC-Reformulation for Gradient-$L^0$-Constrained Problems</a> - Thu, 26 Feb 2026 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
