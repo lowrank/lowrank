@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/">Can the Most Abstract Math Make the World a Better Place?</a> - Wed, 04 Mar 2026 15:13:50 +0000
 * <a href="https://www.quantamagazine.org/what-crystals-older-than-the-sun-reveal-about-the-start-of-the-solar-system-20260302/">What Crystals Older Than the Sun Reveal About the Start of the Solar System</a> - Mon, 02 Mar 2026 15:12:31 +0000
 * <a href="https://www.quantamagazine.org/break-it-to-make-it-how-fracturing-sculpts-tissues-and-organs-20260227/">Break It To Make It: How Fracturing Sculpts Tissues and Organs</a> - Fri, 27 Feb 2026 15:40:38 +0000
 * <a href="https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/">The Man Who Stole Infinity</a> - Wed, 25 Feb 2026 16:23:43 +0000
 * <a href="https://www.quantamagazine.org/how-can-infinity-come-in-many-sizes-20260223/">How Can Infinity Come in Many Sizes?</a> - Mon, 23 Feb 2026 18:20:41 +0000
-* <a href="https://www.quantamagazine.org/climate-physicists-face-the-ghosts-in-their-machines-clouds-20260220/">Climate Physicists Face the Ghosts in Their Machines: Clouds</a> - Fri, 20 Feb 2026 14:45:17 +0000
 <!-- quanta ends -->
 
 
