@@ -10,33 +10,39 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2603.02459">A survey of sampling discretization of integral and uniform norms</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02463">Error analysis of scalar auxiliary variable finite element methods for the Landau--Lifshitz--Bloch equation</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02763">Local Relaxation Fast Poisson Methods on Hierarchical Meshes</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02916">On The Convergence of the Discretized Linear Static State-Based Peridynamic Equations</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.03196">Infinite dimensional generative sensing</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.03259">Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02269">A Stability Testing Algorithm for Incommensurate Fractional Differential Equation Systems</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02782">A non-autonomous center-stable set theorem for saddle avoidance in optimization</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02793">An Euler scheme for McKean SDEs with Besov drift: convergence rate and implementation</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02809">Lattice-based Deep Neural Networks: Regularity and Tailored Regularization</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.02946">Fast simulation of Volterra processes using random Fourier features with application to the log-stationary fractional Brownian motion</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.03211">Shape Derivative-Informed Neural Operators with Application to Risk-Averse Shape Optimization</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.03238">On Geometry Regularization in Autoencoder Reduced-Order Models with Latent Neural ODE Dynamics</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2403.08617">A semidefinite programming characterization of the Crawford number</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2411.11583">Convergence and long-time behavior of finite volumes for a generalized Poisson-Nernst-Planck system with cross-diffusion and size exclusion</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.12496">Regularity and tailored regularization of Deep Neural Networks, with application to parametric PDEs in uncertainty quantification</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2502.13583">Fundamental Bias in Inverting Random Sampling Matrices with Application to Sub-sampled Newton</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.00246">Matrix-Free Ghost Penalty Evaluation via Tensor Product Factorization</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2503.19784">Adaptive refinement in defeaturing problems via an equilibrated flux a posteriori error estimator</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2507.03126">A PINNs approach for the computation of eigenvalues in elliptic problems</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2511.04197">Numerical boundary flux functions that give provable bounds for nonlinear initial boundary value problems with open boundaries</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2602.23703">A Boundary Integral-based Neural Operator for Mesh Deformation</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.00366">Integral equations for flexural scattering problems with periodic boundaries</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2603.01731">Solving Inverse PDE Problems using Minimization Methods and AI</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2403.20135">Parallel performance of shared memory parallel spectral deferred corrections</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.01248">Stochastic Control Methods for Optimization</a> - Wed, 04 Mar 2026 00:00:00 -0500
-* <a href="https://arxiv.org/abs/2601.09143">Discrete Solution Operator Learning for Geometry-Dependent PDEs</a> - Wed, 04 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.03802">Unsupervised Surrogate-Assisted Synthesis of Free-Form Planar Antenna Topologies for IoT Applications</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.03810">A Bi-Stage Framework for Automatic Development of Pixel-Based Planar Antenna Structures</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.03847">Optimal convergence of local discontinuous Galerkin methods for convection-diffusion equations</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.03933">Implicit-Explicit Trust Region Method for Computing Second-Order Stationary Points of A Class of Landau Models</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.03936">Multivariate Data-dependent Partition of Unity based on Moving Least Squares method</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.04055">A scalar auxiliary variable-based semi-implicit scheme for stochastic Cahn--Hilliard equation</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.04216">Statistical Topological Gradient and Shape Optimization for Robust Metal--Semiconductor Contact Reconstruction</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.04231">A comparative numerical study of graph-based splitting algorithms for linear subspaces</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.04232">A Multi-Fidelity Parametric Framework for Reduced-Order Modeling using Optimal Transport-based Interpolation: Applications to Diffused-Interface Two-Phase Flows</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.04316">Asymptotic Spectral Insights Behind Fast Direct Solvers for High-Frequency Electromagnetic Integral Equations on Non-Canonical Geometries</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.04350">Exp-ParaDiag: Time-Parallel Exponential Integrators for Parabolic PDEs</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.03621">Extending Neural Operators: Robust Handling of Functions Beyond the Training Set</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.03626">Riemannian Langevin Dynamics: Strong Convergence of Geometric Euler-Maruyama Scheme</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.04365">Comparison theorems for the extreme eigenvalues of a random symmetric matrix</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2407.13997">Space-time waveform relaxation multigrid for Navier-Stokes</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2503.18659">A filtered two-step variational integrator for charged-particle dynamics in a moderate or strong magnetic field</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.08380">Stochastic gradient descent based variational inference for infinite-dimensional inverse problems</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.14543">Using BDF schemes in the temporal integration of POD-ROM methods</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.19796">Krylov and core transformation algorithms for an inverse eigenvalue problem to compute recurrences of multiple orthogonal polynomials</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2506.22576">The lightning method for the heat equation</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.16810">The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2507.23199">Error analysis of the projected PO method with additive inflation for the partially observed Lorenz 96 model</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2512.13993">Multiple Scale Methods For Optimization Of Discretized Continuous Functions</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2512.15102">Determinant-Based Error Bounds for CUR Matrix Approximation: Oversampling and Volume Sampling</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2601.20841">Fast Solver for the Reynolds Equation on Piecewise Linear Geometries</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.10541">FastLSQ: A Framework for One-Shot PDE Solving</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.01763">Importance sampling and active subspace in quasi-Monte Carlo</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2603.01916">Performance comparison of Python, MATLAB and R for numerical solutions of SI and SIR epidemiological models</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2501.18575">Comparison of Lubrication Theory and Stokes Flow in Corner Geometries with Flow Separation</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2508.10454">Sum-of-Gaussians tensor neural networks for high-dimensional Schr"odinger equation</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.02540">Even Faster Kernel Matrix Linear Algebra via Density Estimation</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2510.02595">Comparison of Extended Lubrication Theories for Stokes Flow</a> - Thu, 05 Mar 2026 00:00:00 -0500
+* <a href="https://arxiv.org/abs/2602.07970">Learning-guided Kansa collocation for forward and inverse PDEs beyond linearity</a> - Thu, 05 Mar 2026 00:00:00 -0500
 <!-- arxiv-math-na ends -->
 
 <div align="center">
