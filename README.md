@@ -10,43 +10,28 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2603.15671">Stancu-Type Generalizations of Neural Network Operators with Perturbed Sampling Nodes</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.15816">Efficient and Accurate Surrogate Modeling of Turbulent Flows via Space-Dependent Aggregation and Reduced Order Models</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.15964">Unifying Finite Differences and Semi-Lagrangian Schemes via Localized Matrix Exponentials</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16032">Convergence analysis of dynamically regularized Lagrange multiplier pressure correction method for the incompressible Navier-Stokes equations</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16046">An immersed peridynamics method for fluid-driven damage and failure of anisotropic materials</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16186">Weak Adversarial Neural Pushforward Method for the McKean-Vlasov / Mean-Field Fokker-Planck Equation</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16226">Fourth-order compact finite difference methods for 2D and 3D nonlinear convection-diffusion-reaction equations</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16239">Neural Pushforward Samplers for the Fokker-Planck Equation on Embedded Riemannian Manifolds</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16290">Jin-Xin relaxation as a shock-capturing method for high-order DG/FR schemes</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16393">Robust Physics-Guided Diffusion for Full-Waveform Inversion</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16452">The peak heat flux conjecture for the first Dirichlet eigenmode of convex planar domains</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16516">Neural network parametrized level sets for image segmentation</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16539">Perturbation Analysis of the QT-Drazin Inverse of Quaternion Tensors via the QT-Product</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16571">Splitting horizontal and vertical polynomial order in a compatible finite element discretisation for numerical weather prediction</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16644">Perturbation Analysis for Preconditioned Normal Equations in Mixed Precision</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16850">Unifying Optimization and Dynamics to Parallelize Sequential Computation: A Guide to Parallel Newton Methods for Breaking Sequential Bottlenecks</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.15662">The Geometry of Quasi-Cycles: How Stoichiometric Covariance Alters Pre-Bifurcation Signatures</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.15895">An Adaptive Method for Optimal Control Problems Constrained by Parabolic Differential Equations</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.15927">Discovery of interaction and diffusion kernels in particle-to-mean-field multi-agent systems</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16174">Effect of machine arithmetic errors for multi-turn invariant curve destruction</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16214">Towards End-to-End Quantum Estimation of Non-Hermitian Pseudospectra</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16334">Wavenumber-explicit analytic regularity of the heterogeneous Maxwell equations with impedance boundary conditions</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16424">Early-Terminable Energy-Safe Iterative Coupling for Parallel Simulation of Port-Hamiltonian Systems</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.16618">A Jacobi Field Approach to Splitting Detection in Schr"{o}dinger Bridge</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2406.09932">Compression of Currents and Varifolds</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.01057">Sparse Randomized Approximation of Normal Cycles</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.17406">Fast solvers for the high-order FEM simplicial de Rham complex: Extended edition</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.07717">A preconditioned boundary value method for advection-diffusion equations with half Laplacian via spectrum doubling</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.14759">On the convergence of stochastic variance reduced gradient for linear inverse problems</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2511.12298">On the Spectral Clustering of a Class of Multigrid Preconditioners</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2512.21891">Non-polynomial divided difference and blossoming</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2312.07762">Interpretable factorization of clinical questionnaires to identify latent factors of psychopathology</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.14978">Inferring diffusivity from killed diffusion</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2503.22652">Residual-based Chebyshev filtered subspace iteration for sparse Hermitian eigenvalue problems tolerant to inexact matrix-vector products</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.07988">Control of a Uniformly Magnetized Plasma with External Electric Fields</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.25269">Position-Blind Ptychography: Viability of image reconstruction via data-driven variational inference</a> - Wed, 18 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2602.13472">Non-Uniform Quantum Fourier Transform</a> - Wed, 18 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.16980">Interpretable AI-Assisted Early Reliability Prediction for a Two-Parameter Parallel Root-Finding Scheme</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17014">A space-time dual-pairing summation-by-parts framework for forward and adjoint wave equations</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17143">On the role of relaxation and acceleration in the non-overlapping Schwarz alternating method for coupling</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17448">Modified Halley's method for computation of zeros of solution of second order ODEs</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17467">Wavenumber-explicit $hp$-FEM analysis of Maxwell's equations with impedance boundary conditions in piecewise smooth media</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17477">A New Fractional Step Structure Preserving Method for The Landau-Lifshitz-Gilbert Equation</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17611">On the validity limits of the parametrisation method for invariant manifolds: an assessment of practical criteria for vibrating systems</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17906">Decoupled Divergence-Free Neural Networks Basis Method for Incompressible Fluid Problems</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17934">State-dependent temperature control in Langevin diffusions using numerical exploratory Hamiltonian-Jacobi-Bellman equations</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17466">A Full-Density Approach to Simulating Random Iteration Equations with Applications</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17523">Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17641">Automated Grammar-based Algebraic Multigrid Design With Evolutionary Algorithms</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.17970">Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.07341">Operator splitting algorithm for structured population models on metric spaces</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.09469">Global Asymptotic Rates Under Randomization: Gauss-Seidel and Kaczmarz</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.16898">Enhanced shape recovery in advection--diffusion problems via a novel ADMM-based CCBM optimization</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.22863">Mathematical and numerical modeling of coupled oxygen dynamics and neuronal electrophysiology</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2511.21198">Optimal preconditioning techniques for finite volume approximation of three-dimensional conservative space-fractional diffusion equations</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.01938">A Flux-Correction Form of the Third-Order Edge-Based Scheme for a General Numerical Flux Function</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.02207">Novel technique based on L'eja Points Approximation for Log-determinant Estimation of Large matrices</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.16239">Neural Pushforward Samplers for the Fokker-Planck Equation on Embedded Riemannian Manifolds</a> - Thu, 19 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.10322">A Spatio-temporal CP decomposition analysis of New England region in the US</a> - Thu, 19 Mar 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
