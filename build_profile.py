@@ -1,78 +1,73 @@
-import feedparser 
+import feedparser
+import functools
 import re
 import pathlib
+import sys
 
-root = pathlib.Path(__file__).parent.resolve()   
+root = pathlib.Path(__file__).parent.resolve()
+
 
 def fetch_rss_feed(url, num_entries=5):
-    if num_entries == 0:
-        entries = feedparser.parse(url).entries
-    else:
-        entries = feedparser.parse(url).entries[:num_entries]
+    feed = feedparser.parse(url)
+    entries = feed.entries if num_entries == 0 else feed.entries[:num_entries]
 
     return [
         {
             'title': entry['title'],
             'link': entry['link'],
-            'published': entry['published'] if 'published' in entry else '', 
+            'published': entry.get('published', ''),
         }
         for entry in entries
     ]
 
-def replace_chunk(content, marker, chunk, inline=False):
-    r = re.compile(
+
+@functools.lru_cache(maxsize=None)
+def _chunk_pattern(marker):
+    return re.compile(
         r'<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->'.format(marker, marker),
         re.DOTALL,
     )
+
+
+def replace_chunk(content, marker, chunk, inline=False):
+    r = _chunk_pattern(marker)
     if not inline:
         chunk = '\n{}\n'.format(chunk)
     chunk = '<!-- {} starts -->{}<!-- {} ends -->'.format(marker, chunk, marker)
-    chunk = chunk.replace('\\','')
+    chunk = chunk.replace('\\', '')
 
     return r.sub(chunk, content)
 
+
 if __name__ == '__main__':
     readme = root / 'README.md'
-    readme_contents = readme.open().read()
+    readme_contents = readme.read_text()
+
     try:
         entries = fetch_rss_feed('https://api.quantamagazine.org/feed/')
         print('Recent Posts on Quanta-Magazine\n')
         entries_md = '\n'.join(
-            ['* <a href="{link}">{title}</a> - {published}'.format(**entry) for entry in entries]
+            '* <a href="{link}">{title}</a> - {published}'.format(**entry)
+            for entry in entries
         )
-    
-        rewritten = replace_chunk(readme_contents, 'quanta', entries_md)
-        readme.open('w').write(rewritten)
-    except:
-        pass
-    # readme_contents = readme.open().read()
-    # entries = fetch_rss_feed('https://www.siam.org/rss-feed/siam-news/current-issue')
-    
-    # print('Recent Posts on SIAM News Research\n')
-
-    # entries_md = '\n'.join(
-    #     [('* <a href="{link}">{title}</a> - {published}' if len(entry['published'])>0 else '* <a href="{link}">{title}</a>').format(**entry) for entry in entries]
-    # )
-
-    # # print(entries_md)
-    # rewritten = replace_chunk(readme_contents, 'siam-news', entries_md)
-    # readme.open('w').write(rewritten)
-
-    readme_contents = readme.open().read()
+        readme_contents = replace_chunk(readme_contents, 'quanta', entries_md)
+    except Exception as e:
+        print('Error fetching Quanta feed: {}'.format(e), file=sys.stderr)
 
     try:
         entries = fetch_rss_feed('http://export.arxiv.org/rss/math.NA', 0)
         print('Recent Posts on Arxiv Math.NA\n')
-    
         entries_md = '\n'.join(
-            [('* <a href="{link}">{title}</a> - {published}' if len(entry['published'])>0 else '* <a href="{link}">{title}</a>').format(**entry) for entry in entries]
+            (
+                '* <a href="{link}">{title}</a> - {published}'
+                if entry['published']
+                else '* <a href="{link}">{title}</a>'
+            ).format(**entry)
+            for entry in entries
         )
-    
-        # print(entries_md)
-        rewritten = replace_chunk(readme_contents, 'arxiv-math-na', entries_md)
-        readme.open('w').write(rewritten)
-        
-    except:
-        pass
-    
+        readme_contents = replace_chunk(readme_contents, 'arxiv-math-na', entries_md)
+    except Exception as e:
+        print('Error fetching arXiv feed: {}'.format(e), file=sys.stderr)
+
+    readme.write_text(readme_contents)
     print('Done!')
