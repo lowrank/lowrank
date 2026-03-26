@@ -10,31 +10,38 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2603.22534">Continuous-data-assimilation-enabled fast and robust convergence of an Uzawa-based solver for Navier-Stokes equations with large Reynolds number</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.22762">Matrix-Free Stabilized BDF Schemes for Semilinear Parabolic Equations with Unconditional Maximum Bound Principle Preservation and Energy Stability</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23074">Data-dependent approximation through RBF</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23143">A Systematic Framework for Stable and Cost-Efficient Matrix Polynomial Evaluation</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23167">Long-time error analysis of finite element fully discrete schemes for SPDEs with non-globally Lipschitz coefficients</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23185">Arbitrary order stationarity preserving stabilized finite elements for multidimensional nonlinear hyperbolic problems. Application to the Euler equations with gravity</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.22683">Simple but not Simpler: A Surface-Sliding Method for Finding the Minimum Distance between Two Ellipsoids</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.22741">Algorithmic warm starts for Hamiltonian Monte Carlo</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23072">Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23106">High-Resolution Tensor-Network Fourier Methods for Exponentially Compressed Non-Gaussian Aggregate Distributions</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23397">Kinetic Langevin Splitting Schemes for Constrained Sampling</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.23421">Exact analytical PGSE signal for diffusion confined to a cylindrical surface using a spectral Laplacian formalism</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2110.13325">Construction of a set of circulant matrix submatrices for faster MDS matrix verification</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.04989">Randomized block Krylov method for approximation of truncated tensor SVD</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.11333">Implicit dual time-stepping positivity-preserving entropy-stable schemes for the compressible Navier-Stokes equations</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.10428">Penalty-Based Feedback Control and Finite Element Analysis for the Stabilization of Nonlinear Reaction-Diffusion Equations</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.13731">Pass-efficient Randomized Algorithms for Low-rank Approximation of Quaternion Matrices</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.21517">Error Estimates for Sparse Tensor Products of B-spline Approximation Spaces</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2511.16180">Robust PAMPA Scheme in the DG Formulation on Unstructured Triangular Meshes: bound preservation, oscillation elimination, and boundary conditions</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2511.20901">Alleviating missing boundary conditions in elliptic partial differential equations using interior point measurements</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2512.10260">Convergence analysis of contrast source inversion type methods for acoustic inverse medium scattering problems</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.05085">Learning dynamically inspired bases for Koopman and transfer operator approximation</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.00999">The exterior derivative and the mean value equality in $mathbb{R}^n$</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.07787">Minimal Denominators Lying in Subsets of the Ring of Polynomials over a Finite Field</a> - Wed, 25 Mar 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2512.19196">Adaptive Probability Flow Residual Minimization for High-Dimensional Fokker-Planck Equations</a> - Wed, 25 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23614">Absolute values and tensor powers of irreducible characters</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23683">Stochastic nonlocal traffic flow models with Markovian noise</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23716">On two Abelian Groups Related to the Galois Top</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23732">Orthogonal polynomials for the de Rham complex on the disk and cylinder</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23858">Stable High-Order Interpolation on the Grassmann Manifold by Maximum-Volume Coordinates and Arnoldi Orthogonalization</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23901">Deep Kinetic JKO schemes for Vlasov-Fokker-Planck Equations</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24056">Elliptic PDEs on log-Gaussian Shapes: Sparsity and Finite Element Discretization</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24074">QuatIca: Advanced Numerical Linear Algebra and Optimization for Quaternionic Matrices in Python</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24161">Probabilistic Error Analysis of Limited-Precision Stochastic Rounding: Horner's Algorithm and Pairwise Summation</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24189">Volume Term Adaptivity for Discontinuous Galerkin Schemes</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24255">Derivation of optimal stochastic Runge-Kutta methods with exotic and decorated Butcher series for the weak integration of stochastic dynamics</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24306">Multi-dimensional third-order time-implicit scheme for conservation laws</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24314">A High-Order Finite Volume GENO Scheme with Implicit Time Integration for Three-Temperature Radiation Diffusion Equations</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24451">Stable corrections for perturbed diagonally implicit Runge--Kutta methods</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24460">Analysis and numerical simulation of a spatio-temporal Ricker-type model for the control of Aedes aegypti mosquitoes with Sterile Insect Techniques</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24523">Mitigating Barren Plateaus via Domain Decomposition in Variational Quantum Algorithms for Nonlinear PDEs</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24542">Two-level nonlinear Schwarz methods - a parallel implementation with application to nonlinear elasticity and incompressible flow problems</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23658">Boost Like a (Var)Pro: Trust-Region Gradient Boosting via Variable Projection</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.23799">Resolving gradient pathology in physics-informed epidemiological models</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24143">Linear-Nonlinear Fusion Neural Operator for Partial Differential Equations</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24149">On the explicit formula linking a function to the order of its fractional derivative</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24415">Reconstructing effective ultrasound transducer models via distributed source inversion</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.24594">Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2210.10550">Unconditional stability and error estimates of FEMs for the electro-osmotic flow in micro-channels</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2306.11555">Symplectic particle-in-cell methods for hybrid plasma models with Boltzmann electrons and space-charge effects</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2502.03819">Interpolation and inverse problems in spectral Barron spaces</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2511.05145">Implicit reconstruction from point cloud: an adaptive level-set-based semi-Lagrangian method</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2511.15395">On the conditioning of polynomial histopolation</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2511.21491">Nodal Hybrid Neural Solvers for Parametric PDE Systems</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.18978">On Affordable High-Order Entropy-Conservative/Stable and Well-Balanced Methods for Nonconservative Hyperbolic Systems</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.07580">COALA: Numerically Stable and Efficient Framework for Context-Aware Low-Rank Approximation</a> - Thu, 26 Mar 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2512.03923">Quantum-Classical Physics-Informed Neural Networks for Solving Reservoir Seepage Equations</a> - Thu, 26 Mar 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
