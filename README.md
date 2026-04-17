@@ -10,38 +10,35 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2604.13210">A robust iterative scheme for the slightly compressible Darcy-Forchheimer equations</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13227">Inverse scattering beyond Born approximation via rotation-equivariance-aware neural network and low-rank structure</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13506">A monotone iterative reconstruction method for an inverse drift problem in a two-dimensional parabolic equation</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13563">Covariance-Informed Subspace: an Adaptive Gradient-Free Input Dimension Reduction Method for Bayesian Inference</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13754">A representation and comparison of three cubic macro-elements</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13785">Pathwise convergence of a linearization scheme for stochastic differential-algebraic equations under the local Lipschitz coefficients</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13830">Randomized Neural Networks for Integro-Differential Equations with Application to Neutron Transport</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13889">A Two-Level Additive Schwarz Method for Computing Interior Multiple and Clustered Eigenvalues of Symmetric Elliptic Operators</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13921">A higher-order dual cell method for time-domain Maxwell equations</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13982">Approximation properties of double complexes</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.14050">Submatrices with the best-bounded inverses: the equality criteria for $mathds{R}^{n times 2}$</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.14107">Bound-Preserving Flux-Corrected Transport Methods for Solving Richards' Equation</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13105">Reminiscences of S. K. Godunov. The Russian Mathematician</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13196">Deferred Cyclotomic Representation for Stable and Exact Evaluation of q-Hypergeometric Series</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13206">Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13433">PackSELL: A Sparse Matrix Format for Precision-Agnostic High-Performance SpMV</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13678">Weighted Riemannian Optimization for Solving Quadratic Equations from Gaussian Magnitude Measurements</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.13988">Unsupervised domain transfer: Overcoming signal degradation in sleep monitoring by increasing scoring realism</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2405.20836">Fast training of accurate physics-informed neural networks without gradient descent</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2501.08247">A Convergent Geometry-Aware Reduction for Diffusion in Branched Tubular Networks</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.03074">Layer Potential Methods for Doubly-Periodic Harmonic Functions</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.21280">Model reduction of parametric ordinary differential equations via autoencoders: representation properties and convergence analysis</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.11949">Recovery of Integer Images from Minimal DFT Measurements: Uniqueness and Inversion Algorithms</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2601.20119">Improving Smoothed Aggregation AMG Robustness on Stretched Mesh Applications</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.05944">On the submatrices with the best-bounded inverses</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.06556">$LDL^top$ Factorization-based Generalized Low-rank ADI Algorithm for Solving Large-scale Algebraic Riccati Equations</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.08135">A Multilevel Monte Carlo Virtual Element Method for Uncertainty Quantification of Elliptic Partial Differential Equations</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2410.12331">Ellipsoidal Density-Equalizing Map for Genus-0 Closed Surfaces</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.09207">mLaSDI: Multi-stage latent space dynamics identification</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.04995">Power Transform Revisited: Numerically Stable, and Federated</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.07564">A Geomechanically-Informed Framework for Wellbore Trajectory Prediction: Integrating First-Principles Kinematics with a Rigorous Derivation of Gated Recurrent Networks</a> - Thu, 16 Apr 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.25781">A Practitioner's Guide to Kolmogorov-Arnold Networks</a> - Thu, 16 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14347">GTH Algorithm, Censored Markov Chains, and $RG$-Factorization in Block-Form</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14400">Bivariate range functions with superior convergence order</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14418">Subset selection for matrices by column exchange</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14479">Smooth perturbations of diagonally implicit Runge--Kutta methods</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14539">Spurious-mode-free finite element method for scattering resonances in transmission problems</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14797">High-order kernel regularization of singular and hypersingular Helmholtz boundary integral operators</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.15116">Asymptotic gauge-invariant Hybrid High-Order method for magnetic Schr"odinger equations</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.15135">How ill-conditioned can submatrices of the Fourier matrix be?</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.15144">A post-processed higher-order multiscale method for nondivergence-form elliptic equations</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.15147">Energy norm error estimates of a hybrid high-order method for the linear parabolic integro-differential equations on general meshes</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14185">On the Instantaneous Phase and Frequency Estimation of a Non-Stationary Multicomponent Signal. The JADE Algorithm</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.14975">Theta-regularized Kriging: Modelling and Algorithms</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.14192">Superconvergent and Divergence-Free Mixed Finite Element Methods for The Stokes Equation</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2512.24875">A structure-preserving parametric approximation for anisotropic geometric flows via an $alpha$-surface energy matrix</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2601.10557">Chebyshev Accelerated Subspace Eigensolver for Pseudo-hermitian Hamiltonians</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.06431">Certified and accurate computation of function space norms of deep neural networks</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.03659">Optimal numerical integration for functions in fractional Gaussian Sobolev spaces</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.05944">On the submatrices with the best-bounded inverses</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.13754">A representation and comparison of three cubic macro-elements</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.00809">Kernel Neural Operators (KNOs) for Scalable, Memory-efficient, Geometrically-flexible Operator Learning</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.09088">Derivative-free optimization is competitive for aerodynamic design optimization in moderate dimensions</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.24384">Provably convergent stochastic fixed-point algorithm for free-support Wasserstein barycenter of continuous non-parametric measures</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2509.23249">Deep Learning for Subspace Regression</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.16154">Agent-Based Optimal Control for Image Processing</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2511.10909">Bit-Accurate Modeling of GPU Matrix Multiply-Accumulate Units: Demystifying Numerical Discrepancy and Accuracy</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.20370">Quantitative Approximation Rates for Group Equivariant Learning</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.22842">The AI Research Assistant: Promise, Peril, and a Proof of Concept</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.09923">OptEMA: Adaptive Exponential Moving Average for Stochastic Optimization with Zero-Noise Optimality</a> - Fri, 17 Apr 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.13196">Deferred Cyclotomic Representation for Stable and Exact Evaluation of q-Hypergeometric Series</a> - Fri, 17 Apr 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
