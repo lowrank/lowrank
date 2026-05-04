@@ -10,7 +10,25 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2605.00308">Adaptive anisotropic composite quadratures for residual minimisation in neural PDE approximations</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00328">Spectral decomposition of $(star, epsilon)$-palindromic matrix polynomial and its applications</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00409">A variational approach to estimating the state of a magma reservoir from observed displacement</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00456">Deep-Picard Iteration for Space-time Fractional Diffusion PDEs</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00619">Continuous 3D Finite Element Subgrid Basis Functions for Discontinuous Galerkin Methods on Polyhedral Meshes</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00823">Reliability, Robustness, and Resilience Modeling for Surveillance System in Advanced Air Mobility Operations</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00003">A Homotopy Framework for Constrained Multiobjective Optimization</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00212">Structure-Preserving Optimal Control of Maxwell's Equations with Applications to Source Cloaking</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00284">A Dirac-Frenkel-Onsager principle: Instantaneous residual minimization with gauge momentum for nonlinear parametrizations of PDE solutions</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00332">Beyond Independence: on Jointly Normal Priors in Bayesian Inversion</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00532">Linking PageRank, Time Reversal, and Policy Evaluation</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00585">Local Geometry of Least Squares for Unmixing Signals with Parameter-Dependent Dictionaries</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00673">Modular Forms and Numerical Explorations of Rational Approximations to $zeta(3)$</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.00820">HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2505.08934">A Framework for Analysis of DEC Approximations to Hodge-Laplacian Problems using Generalized Whitney Forms</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2506.02320">Greedy recursion parameter selection for one-way spatial integration of hyperbolic equations</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.14026">A Mixed Finite Element Method for the Dirichlet Vector Laplacian in Three Dimensions</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.04299">Dynamics-Encoded Deep Learning for Robust System Identification and Parameter Estimation</a> - Mon, 04 May 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.25372">From Cursed to Competitive: Closing the ZO-FO Gap via Input-to-State Stability</a> - Mon, 04 May 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
