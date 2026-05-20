@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/">Two Researchers Are Rebuilding Mathematics From the Ground Up</a> - Wed, 20 May 2026 14:52:19 +0000
+* <a href="https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/">How Alexander Grothendieck Revolutionized 20th-Century Mathematics</a> - Wed, 20 May 2026 14:50:37 +0000
 * <a href="https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/">What Do Gödel’s Incompleteness Theorems Truly Mean?</a> - Mon, 18 May 2026 15:14:42 +0000
 * <a href="https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/">Rubin Tracks Skyscraper-Size Asteroids, Failed Supernovas, and Interstellar Visitors</a> - Fri, 15 May 2026 13:50:50 +0000
 * <a href="https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/">How the Bird Eye Was Pushed to an Evolutionary Extreme</a> - Wed, 13 May 2026 14:04:30 +0000
-* <a href="https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/">How Unknowable Math Can Help Hide Secrets</a> - Mon, 11 May 2026 14:15:13 +0000
-* <a href="https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-eruptions-like-weather-20260508/">Will We Ever Be Able To Forecast Volcanic Eruptions Like Weather?</a> - Fri, 08 May 2026 14:50:43 +0000
 <!-- quanta ends -->
 
 
