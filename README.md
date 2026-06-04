@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/">More Conversations, Complex Questions, and Bold Ideas in Season Five of ‘The Joy of Why’</a> - Thu, 04 Jun 2026 14:12:35 +0000
 * <a href="https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/">Entanglement Builds Space-Time. Now “Magic” Gives It Gravity.</a> - Wed, 03 Jun 2026 14:34:29 +0000
 * <a href="https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/">The Dirt That Refused To Die</a> - Mon, 01 Jun 2026 14:44:57 +0000
 * <a href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/">Key Chemistry Question Answered, No Quantum Computer Required</a> - Fri, 29 May 2026 13:54:11 +0000
 * <a href="https://www.quantamagazine.org/how-we-see-the-beautiful-violent-sun-20260528/">How We See the Beautiful, Violent Sun</a> - Thu, 28 May 2026 14:16:52 +0000
-* <a href="https://www.quantamagazine.org/when-quiet-undersea-volcanoes-turn-disruptive-20260526/">When Quiet Undersea Volcanoes Turn Disruptive</a> - Tue, 26 May 2026 15:29:26 +0000
 <!-- quanta ends -->
 
 
