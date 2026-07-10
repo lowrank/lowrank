@@ -10,39 +10,39 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2607.06758">Adaptive, Matrix-Free Low-Rank Approximation</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.06788">On the order of Runge Kutta methods reusing last stage</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.06890">A locking free mixed FEM based on a pure pseudostress based formulation for the elasticity eigenproblem</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.06917">RPLSS: A randomized projected linear systems solver</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07006">Solution Analysis of Tensor Equation $mathcal{A} ltimes mathcal{X} ltimes mathcal{B}= mathcal{C}$ via Semi Tensor Product with t-product</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07025">Numerical solutions of an accurate diffuse interface model of the incompressible resistive MHD free surface flow</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07080">Mixed precision explicit numerical methods for ordinary differential equations</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07165">Optimized Stencil Strategy for the Generalized Finite Difference Method: Application to Steady-State Non-Linear Problems</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07242">A framework for generating nonconforming triangular meshes with multiple discretization layers</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07327">Iterative finite element approximation of non-monotone semilinear diffusion-reaction equations</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07385">JAX-FVM: A differentiable, entropy-stable finite volume solver on unstructured meshes for compressible flows</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07440">Compact Rational Krylov for Parametrized Systems with Application to BEM Frequency Sweeping</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07457">An Approximate Bounded Cochain Projection</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07485">A black-box, multilevel algebraic preconditioning framework for conforming finite elements</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07497">Explicit stabilized implementation of singly diagonally implicit Runge-Kutta methods</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07506">Structure-Guided Gauss-Network Method: Linear Advection-Reaction Equation</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.06881">Multiple Double Arithmetic on NVIDIA Tensor Cores</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.06976">Hybrid Least Squares/Gradient Descent Methods for MIONets</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07061">Topological Signatures of Diffusive Release in Porous Media</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07244">The Stability of the Backward Problem for Photoacoustic Imaging in Attenuating Media via Carleman Estimates</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07313">POO-LPSP: Parallel Osprey Optimized Least Penalty-Squared Prioritization Methods for Priority Derivation in the Analytic Hierarchy Process</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07389">Circuit Depth Reduction of One-Ancilla Quantum Differential Equation Solver via Extrapolation</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07623">Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07637">An optimal control approach for neural network architecture adaptation with a posteriori error estimation</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07665">Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-Free Guidance</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.07691">Faster quantum linear system solver beyond the condition number</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.03405">Deep Operator BSDE: a Numerical Scheme to Approximate Solution Operators</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.11210">Dynamical Low-Rank Approximations for Kalman Filtering</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2606.02188">Symmetric-Tensor Distributional Mixed Method for Fourth-Order Elliptic Singular Perturbation Problem</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.03341">An LSQR-based algorithm for large-scale null space computations</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2507.14177">Understanding Two-Layer Neural Networks with Smooth Activation Functions</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2603.11700">Inverse $t$-source problem and a strict positivity property for coupled subdiffusion systems</a> - Thu, 09 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2606.25075">Solver Exactness, Learned Flexibility: Equivariant Boundary-Correction Operators for Stokes Flow</a> - Thu, 09 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.07829">Thermodynamic Structure and Composition in Nonlinear Convection-Diffusion</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.07923">Admissible Discrete Linear Propagators for High-Order Time Splittings of Rotational Nonlinear Schr"odinger Equations with Arbitrary Three-Dimensional Rotation</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.07963">Off-site enforcement of natural conditions on smooth boundaries for finite elements upon fitted straight-edged triangular meshes</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08067">A Non-Decoupled Time-Domain Direct Sampling Method for Inverse Elastic Medium Scattering</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08074">Multi-type Sensor Placement for PDE-based Bayesian Inverse Problems</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08172">Algorithm XXXX: Computation of finite element degree-of-freedom transformation matrices</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08237">3D Virtual Element Method for Advection-Diffusion-Reaction Problems with Variable Coefficients on Locally Quasi-Uniform Polytopes</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08387">Splitting methods for nonlinear Schr"odinger equation without order reduction</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08422">High-order complete flux schemes for convection-diffusion equations on arbitrary subdivisions</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08432">An Iterative Method for Transient Finite Element Simulations of Non-Linear Eddy Current Problems</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08492">Neural and Spectral Operator Surrogates on Gaussian Spaces</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08577">Unconstrained Scheme for Geometrically Constrained Gradient Flows</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08694">Some properties of high-order nonstandard multistep multistage methods</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.07718">LLT: Local Linear Transformer for PDE Operator Learning</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.07841">Tree-based solution representations for quadratic bilinear systems and their consequences in model order reduction</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08113">Sharp Spectral Bounds for Symmetric Positive Definite Tensors via Multiple Algebraic Invariants</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08305">Tracking the boundary between absolute/convective instability using adjoint equations</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08313">Adaptive Row Selection Meets Asynchrony in Randomized Kaczmarz</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.08757">Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2412.16416">Transport Quasi-Monte Carlo</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.13644">Multiphysics embedding localized orthogonal decomposition for thermomechanical coupling problems</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2508.00096">Zeroing Diagonals, Conjugate Hollowization, and Characterizing Nondefinite Operators</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.05325">Approaching the optimal closure: equivariance, inductive bias, and Reynolds-number generalization in data-driven LES</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.12205">Parameter-unbounded convergence of Crossed-Secant accelerated Uzawa and penalty-splitted algorithms for frictionless contact</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.04573">Mixed Finite Elements for Geometrically Exact Beams using Discontinuous Rotations and Discrete Curvature</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.12844">Walk on spheres and Array-RQMC</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.06890">A locking free mixed FEM based on a pure pseudostress based formulation for the elasticity eigenproblem</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.07506">Structure-Guided Gauss-Newton Method: Linear Advection-Reaction Equation</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.23467">Koopman-informed recurrent neural networks</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2510.01788">Neural non-canonical Hamiltonian dynamics for long-time simulations</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.22349">Numerical Experiments with Parameter Setting of Trotterized Quantum Phase Estimation for Quantum Hamiltonian Ground State Computation</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.08763">Weak Adversarial Neural Pushforward Method for the Wigner Transport Equation</a> - Fri, 10 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2605.23391">Coupling-Robust Accuracy in Multiphysics Physics Informed Neural Networks via Kronecker-Preconditioned Optimization</a> - Fri, 10 Jul 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
