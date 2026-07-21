@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-places-home-20260720/">The Organisms That Make Earth’s Harshest Places Home</a> - Mon, 20 Jul 2026 15:03:48 +0000
 * <a href="https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/">Martin Picard’s Mitochondrial Theory of Mind</a> - Fri, 17 Jul 2026 14:31:05 +0000
 * <a href="https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/">Thermodynamic Computers Go With the (Energy) Flow</a> - Wed, 15 Jul 2026 15:24:33 +0000
 * <a href="https://www.quantamagazine.org/why-am-i-left-handed-20260713/">Why Am I Left-Handed?</a> - Mon, 13 Jul 2026 14:22:22 +0000
 * <a href="https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/">We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.</a> - Fri, 10 Jul 2026 14:51:48 +0000
-* <a href="https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-20260709/">Will We Ever Find Alien Civilizations?</a> - Thu, 09 Jul 2026 13:39:13 +0000
 <!-- quanta ends -->
 
 
