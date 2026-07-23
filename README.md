@@ -10,38 +10,39 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2607.18320">Finite element exponential integration for rough solutions of nonlinear wave equations. Part II: Dynamic boundary conditions on curved domains</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.18327">Convergence and almost sure exponential stability of compensated split-step theta scheme for stochastic pantograph models with Poisson random measure</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.18758">A Second-Moment Theory for Floating-Point Reduction Trees</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.18928">Error Bound and Stability Analysis for a Randomized Singly Diagonally Implicit Runge-Kutta Method</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19107">Space-time tensor-product finite element methods for parabolic problems</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19167">Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Omega)$ A Priori Error Bounds with Application to Mean Escape Time Computation</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19188">Numerical methods for Langevin-type SPDE: an implicit Milstein approach and multilevel Monte Carlo techniques</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19250">Uniform-in-Time Weak and Ergodic Error Estimates of a Nonlinearity-Explicit Full Discretization for Superlinear SPDEs Driven by Multiplicative Noise</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19258">Weighted Inverse Lax-Wendroff Boundary Treatment of Discontinuous Galerkin Methods for Conservation Laws</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19264">A Local Macroscopic Conservative Low-Rank Discontinuous Galerkin Method for the Vlasov-Poisson Equation with Dougherty-Fokker-Planck Collisions</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19282">Nystr"om Error Beyond $M$-Matrices: A Minimal Diagonally Dominant Obstruction</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19335">1-Lipschitz Neural Networks on Hadamard Manifolds</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.18312">Vakonomic Fluids</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.18648">Current-Sheet Formation in Electron Magnetohydrodynamics with Split Fractional Dissipation</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.18745">Contraction-Gauge Preconditioning for Quantized Matrix Multiplication</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19124">Fast reconstruction of tensor tomographic X-ray scattering data for real-time applications</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.19283">Resolution of the ENO-TV conjecture: a parity dichotomy</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.02597">Fast randomized Kronecker tensor decomposition: algorithms and error analysis</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2506.14455">Unified numerical analysis for thermoelastic diffusion and thermo-poroelasticity of thin plates</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2509.16018">Discrete Empirical Interpolation Method with Upper and Lower Bound Constraints</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.11379">Forward and backward error bounds for a mixed precision preconditioned conjugate gradient algorithm</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2511.04309">DeepPAAC: A New Deep Galerkin Method for Principal-Agent Problems</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2512.01528">Feedback Integrators: Non-Asymptotic Invariance for One-Step Methods and Gain Selection under Euler Discretization</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2512.12050">An unfitted divergence-free higher order finite element method for the Stokes problem</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2602.07269">Multifidelity sensor placement in Bayesian state estimation problems</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2605.21144">A Bernoulli Phase-Fitted finite difference method with wavenumber-explicit analysis for the Helmholtz problem</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2606.22451">Exact Nonnegative Matrix Factorization via Cone-Ray Witnesses: Certificates, a One-Sided Solver, and a Findability Phase Transition</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.17998">A Direct Approach to Hermite Interpolation</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.14723">Dimension reduction for path signatures</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.17058">A Convergent ADMM Algorithm for Grain Boundary Energy Minimization</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.24632">Theoretical guarantees for stochastic gradient sampling methods via Gaussian convolution inequalities</a> - Wed, 22 Jul 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2605.16305">Conformal tubular parameterization and toroidal bending of tube-like surfaces</a> - Wed, 22 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19377">Reliability-Aware Hard--Soft Physics-Informed Neural Networks for Robust Learning of Challenging Partial Differential Equations</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19413">On unconventional discretisations</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19425">Waves 2026 Book of Abstracts</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19500">Robust Hierarchical Matrix Compression of Acoustic Volume and Boundary Integral Operators</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19507">Bilinear Systems with Quadratic Outputs: $mathcal{H}_2$ Analysis, Optimality Conditions for Model Reduction, and Algorithmic Solutions</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19690">A phase-field neural solver for moving contact line problems with dynamic boundary conditions</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19741">Intrinsic Low-Tucker-Rank Theory and Unified Tensor CUR Decomposition for High-Dimensional Hyperinterpolation</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19786">A Structure-Adaptive Random Feature Method for High-Dimensional Elliptic PDEs</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19878">Relative entropy analysis of the Jin-Xin model: Theory and Numerics</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19896">Multi-domain FEM-BEM coupling with several impenetrable obstacles</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19898">A hierarchical sparse-grid particle method for the Vlasov--Poisson system</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19950">An efficient Galerkin method for high-frequency scattering problems using Wilson bases</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19953">A Third-Order Maximum-Principle-Preserving CWENO Scheme for Two-Dimensional Nonlocal Conservation Laws</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20085">An Optimization Approach to Weight Collocation for Scattered Spherical Data</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20155">Boundary-preserving Lamperti--It^o--Taylor approximations for some stochastic differential equations</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20245">Mixed finite element discretization of intrinsic geometrically exact beams for explicit multibody dynamics</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20331">Wavenumber-explicit stability and preasymptotic error analysis of UPML finite element method for obstacle scattering problems</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20415">Flux-Corrected Diagonal Frog: second order and positivity at all time steps</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.19599">A Splitting Architecture for Exact Reduced Coulomb Friction</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20171">Hard Guarantees at a Measured Price: Entropy-Stable Learned Finite Volumes for Compressible Flow</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20332">Shape optimization for thermoelasticity with temperature-dependent material parameters</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.20378">PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2307.05149">Multi-index importance sampling for McKean--Vlasov stochastic differential equations</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2402.09607">Numerical Exploration of Nonlinear Dispersion Effects via a Strongly Coupled Two-scale System</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2407.15965">High-dimensional sparse trigonometric approximation in the uniform norm and consequences for sampling recovery</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2503.20044">Global Bounds for the Error in Solutions of Linear Hyperbolic Systems due to Inaccurate Boundary Geometry</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2601.11145">Eigenvector-based acceleration strategies for gradient-type methods</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.15702">Non-Asymptotic Variational Learning for Monotone Nonlinear Multiscale Elliptic Equations: Scale-Robust Primal-Dual Bounds and Strong-Form Statistical Ill-Conditioning</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.17606">An operator-splitting algorithm for the hypergraph $p$-Laplacian with applications to missing data recovery</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.20259">Global Optimality Characterizations and Algorithms for Minimizing Quartically-Regularized Third-Order Taylor Polynomials</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2512.12878">On the variational dual formulation of the Nash system and an adaptive convex gradient-flow approach to nonlinear PDEs</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.04842">The matrix-vector complexity of $Ax=b$</a> - Thu, 23 Jul 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.02937">In-span learning: adapting reduced-order models using their own predictions</a> - Thu, 23 Jul 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
