@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
-* <a href="https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-places-home-20260720/">The Organisms That Make Earth’s Harshest Places Home</a> - Mon, 20 Jul 2026 15:03:48 +0000
-* <a href="https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/">Martin Picard’s Mitochondrial Theory of Mind</a> - Fri, 17 Jul 2026 14:31:05 +0000
-* <a href="https://www.quantamagazine.org/thermodynamic-computers-go-with-the-energy-flow-20260715/">Thermodynamic Computers Go With the (Energy) Flow</a> - Wed, 15 Jul 2026 15:24:33 +0000
-* <a href="https://www.quantamagazine.org/why-am-i-left-handed-20260713/">Why Am I Left-Handed?</a> - Mon, 13 Jul 2026 14:22:22 +0000
-* <a href="https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/">We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture.</a> - Fri, 10 Jul 2026 14:51:48 +0000
+* <a href="https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/">How Fast Is the Universe Really Expanding?</a> - Thu, 23 Jul 2026 14:53:45 +0000
+* <a href="https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/">Fields and Abacus Medals 2026</a> - Thu, 23 Jul 2026 14:20:31 +0000
+* <a href="https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/">A Master of the Traveling Salesperson Problem Finds His Own Path</a> - Thu, 23 Jul 2026 14:18:20 +0000
+* <a href="https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/">Living Fully in the Math World Means Threading the Needle</a> - Thu, 23 Jul 2026 13:55:53 +0000
+* <a href="https://www.quantamagazine.org/jacob-tsimerman-wins-2026-fields-medal-for-andre-oort-conjecture-proof-20260723/">Sometimes Being First Means Seeing the End Before Anyone Else</a> - Thu, 23 Jul 2026 13:47:40 +0000
 <!-- quanta ends -->
 
 
