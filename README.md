@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/">Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.</a> - Wed, 29 Jul 2026 14:53:08 +0000
 * <a href="https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-earths-atmosphere-20260727/">A New Way That a Cow’s Inner World Shapes Earth’s Atmosphere</a> - Mon, 27 Jul 2026 14:40:59 +0000
 * <a href="https://www.quantamagazine.org/how-fast-is-the-universe-really-expanding-20260723/">How Fast Is the Universe Really Expanding?</a> - Thu, 23 Jul 2026 14:53:45 +0000
 * <a href="https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/">Fields and Abacus Medals 2026</a> - Thu, 23 Jul 2026 14:20:31 +0000
 * <a href="https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-medal-20260723/">A Master of the Traveling Salesperson Problem Finds His Own Path</a> - Thu, 23 Jul 2026 14:18:20 +0000
-* <a href="https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/">Living Fully in the Math World Means Threading the Needle</a> - Thu, 23 Jul 2026 13:55:53 +0000
 <!-- quanta ends -->
 
 
