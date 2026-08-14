@@ -10,39 +10,31 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-* <a href="https://arxiv.org/abs/2608.11270">Heavy Ball GMRESR method for Nonsymmetric Linear Systems</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11353">Exact characterisation of maximum-angle conditions for spherical finite element meshes</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11462">Linear-cost Polyharmonic Spline Interpolation of Arbitrary Degree</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11486">Stability of Finite-Batch Particle Mean-Field Variational Inference Beyond Strong Convexity</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11520">Contour Hankel dynamics and indicator fields for the Riemann $Xi$-function</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11559">An Interface Green's Function Framework for Complete Discrete $W^{1,infty}$ Analysis of Discontinuous Galerkin Methods</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11764">Variational Enrichment of Adaptive Finite Element Spaces Beyond Polynomials</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11892">Fast eight-order Pade schemes based on Chebyshev polynomials for direct Zakharov-Shabat problem</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11915">Positive quadrature and mobile sampling of multivariate trigonometric polynomials</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11936">A Positivity-Preserving Expectation Scheme for Hamilton--Jacobi--Bellman Equations with Oblique Robin Boundary Conditions</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.12058">Numerical methods for the simulation of quantum walks and quantum annealing</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.12153">Halving the size of skew-symmetric eigenvalue problems via the polar decomposition</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11518">New Orthogonal Multiwavelet Filters Derived by Matrix Spectral Factorization</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.11848">A uniform elliptic reduction, an order-matching criterion, and precision benchmarks for the strong-coupling Birman-Schwinger analysis of the lattice three-boson trimer</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.12044">Model-Consistent Structured-Hankel Matrix Completion for 3D Sparse Multi-frequency Electromagnetic Source Reconstruction</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2412.19011">Spherical Area-Preserving Parameterization via Energy Minimization</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2510.05360">A highly efficient second-order long-time-dynamics-preserving scheme for geophysical fluid models</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2601.09383">Thermodynamically consistent phase-field modeling and numerical simulation for reactive two-phase fluid-solid dynamics</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2601.20207">Local Regularity Estimation through Sobolev-Scale Norm Profile</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2601.20494">Monotone-based Numerical Schemes for Two-Dimensional Systems of Nonlocal Conservation Laws</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2602.06491">An explicit adaptive time-stepping scheme for superlinear stochastic diffusion systems</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2602.11870">Avoiding stabilization terms in virtual elements for eigenvalue problems: The Reduced Basis Virtual Element Method</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2604.16777">A Structure-Preserving GSAV Exponential Integrator for Smectic-A Liquid Crystals</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2605.05619">A semi-generating function approach to the stability of implicit-explicit multistep methods for nonlinear parabolic equations</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2606.07122">A Unified DeepONet Framework for Logarithmically Stable Infinite-Dimensional Inverse Problems</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.25086">On residual bounds of the EDMD solution to the eigenvalue problem for the Koopman operator and backward shadowing stability of the EDMD/KMD</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.09372">A nonlocal nonlinear Schr"odinger model: well-posedness, local limit, and structure-preserving asymptotically compatible Fourier approximations</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2504.16899">Linear convergence of a one-cut conditional gradient method for total variation regularization</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2505.05915">On removing orders from amplitude equations</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2607.18184">anyakrakusuma: A Python Library for Entropic Schr"odinger Bridges on Idealized Geometries</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.01439">Random Inverse Problems with Structural and Probabilistic Ambiguities</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.04201">Unscented KalmanNet: Structure-Preserving Deep Learning with Calibrated Posterior Uncertainty under Incomplete Physics and Unknown Noise</a> - Thu, 13 Aug 2026 00:00:00 -0400
-* <a href="https://arxiv.org/abs/2608.08672">Adaptive Volumetric Parameterization of Simply Connected 3-Manifolds with Applications</a> - Thu, 13 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.12479">Identifying changing partial differential equations using Sampled Local WeakIdent</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.12823">BTF-PINN: Enforcing Dirichlet Boundary Conditions Without Boundary Training</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.12833">Finite element approximation of the linearized Cahn-Hilliard-Cook equation</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.12886">A robust and optimal method for a sixth-order elliptic singular perturbation problem</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.12893">A Counterexample to Robust Second-Order Convergence of the Strang Projector-Splitting Integrator</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.13132">Analysis of Error Propagation in Autoencoder-Based Reduced-Order Neural Ordinary Differential Equations</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.13187">Performance Evaluation of an Adaptive Quadrature and a Double Exponential Formula Using Arbitrary-Precision Floating-Point Arithmetic</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.13407">Stochastic resistive Hall--MHD with current fluctuations: martingale weak solutions via a convergent structure-preserving finite element method</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.12690">Algebraic constructions of point sequences with quasi-uniform two-dimensional projections</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.12937">Transparent Boundary Conditions for the Heat Equation on Metric Graphs</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.13121">Adaptive Schauder Stochastic Mirror Descent in Banach Spaces</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/1604.01713">A block Recycled GMRES method with investigations into aspects of solver performance</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2601.10667">Stable evaluation of derivatives for barycentric and continued fraction representations of rational functions</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.05727">Boundary-optimized closures for diagonal-norm upwind SBP operators</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.18404">Well-posedness and time stepping adaptivity for a class of collocation discretisations of time-fractional subdiffusion equations</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.03933">A Structure-Exploiting Implicit-Explicit Trust Region Method for Computing Second-Order Stationary Points of the Landau-Brazovskii Model</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2604.11356">Numerical analysis for the Stokes problem with non-homogeneous Dirichlet boundary condition</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2606.14369">Local high order space-time adaptive MLSDC</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.11391">Performance evaluation of branch-free fused multiply-add algorithms for multi-component-type multiple-precision floating-point arithmetic</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.22968">Isoperimetric-Combinatorial Bounds for Range-Controlled Matchings and Quasi-Interpolation from Scattered Data</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2607.23850">Goal-Oriented Error Estimation for Least-Squares Finite Element Methods via Physically Meaningful Adjoint PDEs</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.11559">An Interface Green's Function Framework for Complete Discrete $W^{1,infty}$ Analysis of Discontinuous Galerkin Methods</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2504.05068">Global approximations to the error function of real argument for vectorized computation</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.20981">Stochastic gradient with least-squares control variates</a> - Fri, 14 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.00840">Sublinear Time Eigenvector Approximation via Column Sampling</a> - Fri, 14 Aug 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
