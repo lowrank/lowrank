@@ -10,7 +10,30 @@
 
 ### 📝 Today's Arxiv Manuscripts under ``math.NA``
 <!-- arxiv-math-na starts -->
-
+* <a href="https://arxiv.org/abs/2608.20493">Regularized summation of Fourier-Laguerre series in the weighted sup-norm</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.20531">Nystr"om method for symmetric indefinite matrices</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.20633">A new analysis of the randomly pivoted Cholesky algorithm</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.20872">Point Cloud Quality for Meshfree Methods</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.20875">A counterexample to the symmetric-maximizer conjecture for Lyapunov operators</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.21091">A Hybridizable Discontinuous Galerkin Method for Wave Propagation in Elastic Beam Networks</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.21234">Advanced Linear Algebra with Applications - Part I (Numerical linear algebra for PDEs, machine learning, and data assimilation)</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.21235">A Harmonic Framework for Vector Fields and Differential Operators on SO(3)</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.21268">A simple stability analysis of the Lanczos algorithm in finite precision arithmetic</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.21304">Basin-Preserving Discretizations of Modern Hopfield Retrieval Dynamics: Energy Cells, Dissipation, and the Attention Limit</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.20441">Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.20466">A sharp isoperimetric inequality for the Neumann--Poincar'e operator in every dimension</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.21187">Anchored Regularized Direct Least Squares (ARDLS): Integrating Established Prioritization Operators for Priority Elicitation in the Analytic Hierarchy Process</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2410.18780">Variational problems with gradient constraints: $textit{A priori}$ and $textit{a posteriori}$ error identities</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2511.08875">Matrices perturbed by random noise: The accuracy of low-rank approximation</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2512.03452">A fast stochastic interacting particle-field method for 3D parabolic parabolic Chemotaxis systems: numerical algorithms and error analysis</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.05394">Linear Systems and Eigenvalue Problems: Open Questions from a Simons Workshop</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2602.15271">A Patankar predictor-corrector approach for positivity-preserving time integration</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.13579">Computing the Gross-Pitaevskii Ground State via Wasserstein Gradient Flow in Diffeomorphism Space</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2606.22451">Exact Nonnegative Matrix Factorization via Cone-Ray Witnesses: Certificates, a One-Sided Solver, and a Findability Phase Transition</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.11764">Schur-Riesz Variational Enrichment: A Generalized Refinement Framework for Finite Elements</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2608.19797">Optimal Sobolev Approximation by Deterministic and Random Shallow Sigmoidal Networks</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2507.19290">Query Efficient Structured Matrix Learning</a> - Mon, 24 Aug 2026 00:00:00 -0400
+* <a href="https://arxiv.org/abs/2603.09682">A Globally Convergent Third-Order Newton Method via Unified Semidefinite Programming Subproblems</a> - Mon, 24 Aug 2026 00:00:00 -0400
 <!-- arxiv-math-na ends -->
 
 <div align="center">
