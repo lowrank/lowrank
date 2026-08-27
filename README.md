@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/">In Hilbert Space, All Things Are Quantumly Possible</a> - Wed, 26 Aug 2026 14:30:35 +0000
 * <a href="https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/">A New Framework for How the Brain Compresses Our Noisy World</a> - Mon, 24 Aug 2026 14:00:55 +0000
 * <a href="https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/">‘Huge Breakthrough’ in the Math of Imbalance</a> - Fri, 21 Aug 2026 14:53:32 +0000
 * <a href="https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/">Are We Thinking Correctly About AI Intelligence?</a> - Thu, 20 Aug 2026 14:04:40 +0000
 * <a href="https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/">Building a Quantum Computer, One Fragile Qubit at a Time</a> - Wed, 19 Aug 2026 14:16:03 +0000
-* <a href="https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/">Theory of Fluids Enters the 21st Century</a> - Mon, 17 Aug 2026 15:11:17 +0000
 <!-- quanta ends -->
 
 
