@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/">Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.</a> - Wed, 16 Sep 2026 15:56:27 +0000
 * <a href="https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/">Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’</a> - Mon, 14 Sep 2026 15:20:48 +0000
 * <a href="https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/">Why Do These Fossil Shells Flip Their Spirals Every Few Millennia?</a> - Fri, 11 Sep 2026 14:14:40 +0000
 * <a href="https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/">The Four-Color Theorem Gets a Rare New Proof</a> - Thu, 10 Sep 2026 14:27:36 +0000
 * <a href="https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/">What Is Math’s Mysterious Langlands Program Really About?</a> - Wed, 09 Sep 2026 14:44:13 +0000
-* <a href="https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/">AI Has Solved One of Math’s $1 Million Millennium Prize Problems</a> - Tue, 08 Sep 2026 08:43:52 +0000
 <!-- quanta ends -->
 
 
