@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/">Biology Might Not Be Quantum, but Its Math Is Quantumlike</a> - Wed, 23 Sep 2026 14:16:54 +0000
 * <a href="https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/">How Virus-like ‘Jumping Genes’ Became Our Partners in Evolution</a> - Mon, 21 Sep 2026 14:12:36 +0000
 * <a href="https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/">Mathematicians Build Long-Awaited Graph Sandwich</a> - Fri, 18 Sep 2026 13:55:50 +0000
 * <a href="https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/">Where Does the Quantum World End and Ours Begin?</a> - Thu, 17 Sep 2026 15:09:33 +0000
 * <a href="https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/">Ctenophores Aren’t Just Beautiful. They’re Biological Wonders.</a> - Wed, 16 Sep 2026 15:56:27 +0000
-* <a href="https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/">Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’</a> - Mon, 14 Sep 2026 15:20:48 +0000
 <!-- quanta ends -->
 
 
