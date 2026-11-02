@@ -22,11 +22,50 @@ def fetch_rss_feed(url, num_entries=5):
     ]
 
 
+WITHDRAWN_RE = re.compile(r'\bwithdrawn\b|\bwithdrawal\b', re.IGNORECASE)
+
+
+def _is_withdrawn(text):
+    return bool(WITHDRAWN_RE.search(text or ''))
+
+
+def _arxiv_id(link):
+    m = re.search(r'arxiv\.org/abs/([^?#\s]+?)(?:v\d+)?$', link or '')
+    return m.group(1) if m else None
+
+
+def _withdrawn_via_api(link):
+    # The RSS feed omits the comment field, where withdrawals are often noted.
+    arxiv_id = _arxiv_id(link)
+    if not arxiv_id:
+        return False
+    try:
+        api = feedparser.parse(
+            'https://export.arxiv.org/api/query?id_list={}'.format(arxiv_id)
+        )
+        return any(
+            _is_withdrawn(
+                ' '.join(
+                    [
+                        e.get('title', ''),
+                        e.get('summary', ''),
+                        e.get('arxiv_comment', ''),
+                    ]
+                )
+            )
+            for e in api.entries
+        )
+    except Exception:
+        return False
+
+
 def _entry_status(entry):
     status = entry.get('arxiv_announce_type', '')
-    # Withdrawn papers are announced as replacements; the abstract says so.
+    # Withdrawn papers are announced as replacements.
     text = ' '.join([entry.get('summary', ''), entry.get('title', '')])
-    if re.search(r'\bwithdrawn\b|\bwithdrawal\b', text, re.IGNORECASE):
+    if _is_withdrawn(text):
+        return 'withdrawn'
+    if status.startswith('replace') and _withdrawn_via_api(entry.get('link')):
         return 'withdrawn'
     return status
 
