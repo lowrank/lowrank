@@ -16,10 +16,19 @@ def fetch_rss_feed(url, num_entries=5):
             'title': entry['title'],
             'link': entry['link'],
             'published': entry.get('published', ''),
-            'status': entry.get('arxiv_announce_type', ''),
+            'status': _entry_status(entry),
         }
         for entry in entries
     ]
+
+
+def _entry_status(entry):
+    status = entry.get('arxiv_announce_type', '')
+    # Withdrawn papers are announced as replacements; the abstract says so.
+    text = ' '.join([entry.get('summary', ''), entry.get('title', '')])
+    if re.search(r'\bwithdrawn\b|\bwithdrawal\b', text, re.IGNORECASE):
+        return 'withdrawn'
+    return status
 
 
 STATUS_BADGES = {
