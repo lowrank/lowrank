@@ -3,6 +3,7 @@ import functools
 import re
 import pathlib
 import sys
+import urllib.request
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -29,34 +30,19 @@ def _is_withdrawn(text):
     return bool(WITHDRAWN_RE.search(text or ''))
 
 
-def _arxiv_id(link):
-    m = re.search(r'arxiv\.org/abs/([^?#\s]+?)(?:v\d+)?$', link or '')
-    return m.group(1) if m else None
-
-
-def _withdrawn_via_api(link):
-    # The RSS feed omits the comment field, where withdrawals are often noted.
-    arxiv_id = _arxiv_id(link)
-    if not arxiv_id:
+def _withdrawn_via_abs_page(link):
+    # Neither the RSS feed nor the API reflects withdrawals; the abs page does.
+    if not re.match(r'https?://(?:export\.)?arxiv\.org/abs/', link or ''):
         return False
     try:
-        api = feedparser.parse(
-            'https://export.arxiv.org/api/query?id_list={}'.format(arxiv_id)
-        )
-        return any(
-            _is_withdrawn(
-                ' '.join(
-                    [
-                        e.get('title', ''),
-                        e.get('summary', ''),
-                        e.get('arxiv_comment', ''),
-                    ]
-                )
-            )
-            for e in api.entries
-        )
+        req = urllib.request.Request(link, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            html = resp.read().decode('utf-8', 'replace')
     except Exception:
         return False
+    return bool(
+        re.search(r'This paper has been withdrawn|\(withdrawn\)', html, re.IGNORECASE)
+    )
 
 
 def _entry_status(entry):
@@ -65,7 +51,7 @@ def _entry_status(entry):
     text = ' '.join([entry.get('summary', ''), entry.get('title', '')])
     if _is_withdrawn(text):
         return 'withdrawn'
-    if status.startswith('replace') and _withdrawn_via_api(entry.get('link')):
+    if status.startswith('replace') and _withdrawn_via_abs_page(entry.get('link')):
         return 'withdrawn'
     return status
 
