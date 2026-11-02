@@ -3,6 +3,7 @@ import functools
 import re
 import pathlib
 import sys
+import urllib.request
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -22,11 +23,35 @@ def fetch_rss_feed(url, num_entries=5):
     ]
 
 
+WITHDRAWN_RE = re.compile(r'\bwithdrawn\b|\bwithdrawal\b', re.IGNORECASE)
+
+
+def _is_withdrawn(text):
+    return bool(WITHDRAWN_RE.search(text or ''))
+
+
+def _withdrawn_via_abs_page(link):
+    # Neither the RSS feed nor the API reflects withdrawals; the abs page does.
+    if not re.match(r'https?://(?:export\.)?arxiv\.org/abs/', link or ''):
+        return False
+    try:
+        req = urllib.request.Request(link, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            html = resp.read().decode('utf-8', 'replace')
+    except Exception:
+        return False
+    return bool(
+        re.search(r'This paper has been withdrawn|\(withdrawn\)', html, re.IGNORECASE)
+    )
+
+
 def _entry_status(entry):
     status = entry.get('arxiv_announce_type', '')
-    # Withdrawn papers are announced as replacements; the abstract says so.
+    # Withdrawn papers are announced as replacements.
     text = ' '.join([entry.get('summary', ''), entry.get('title', '')])
-    if re.search(r'\bwithdrawn\b|\bwithdrawal\b', text, re.IGNORECASE):
+    if _is_withdrawn(text):
+        return 'withdrawn'
+    if status.startswith('replace') and _withdrawn_via_abs_page(entry.get('link')):
         return 'withdrawn'
     return status
 
