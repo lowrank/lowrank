@@ -16,9 +16,31 @@ def fetch_rss_feed(url, num_entries=5):
             'title': entry['title'],
             'link': entry['link'],
             'published': entry.get('published', ''),
+            'status': entry.get('arxiv_announce_type', ''),
         }
         for entry in entries
     ]
+
+
+STATUS_BADGES = {
+    'new': ('new', '2ea44f'),
+    'cross': ('cross--list', '0969da'),
+    'replace': ('update', 'bf8700'),
+    'replace-cross': ('update', 'bf8700'),
+    'retract': ('retract', 'cf222e'),
+    'withdrawn': ('withdrawn', 'cf222e'),
+}
+
+
+def status_badge(status):
+    label, color = STATUS_BADGES.get(
+        (status or '').strip().lower(), ((status or '').strip(), '6e7781')
+    )
+    if not label:
+        return ''
+    return '<img alt="{0}" src="https://img.shields.io/badge/-{0}-{1}?style=flat-square"> '.format(
+        label, color
+    )
 
 
 @functools.lru_cache(maxsize=None)
@@ -59,10 +81,10 @@ if __name__ == '__main__':
         print('Recent Posts on Arxiv Math.NA\n')
         entries_md = '\n'.join(
             (
-                '* <a href="{link}">{title}</a> - {published}'
+                '* {badge}<a href="{link}">{title}</a> - {published}'
                 if entry['published']
-                else '* <a href="{link}">{title}</a>'
-            ).format(**entry)
+                else '* {badge}<a href="{link}">{title}</a>'
+            ).format(badge=status_badge(entry['status']), **entry)
             for entry in entries
         )
         readme_contents = replace_chunk(readme_contents, 'arxiv-math-na', entries_md)
