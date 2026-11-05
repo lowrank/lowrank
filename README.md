@@ -1,10 +1,10 @@
 ### 📝 Recent Posts on Quanta-Magazine
 <!-- quanta starts -->
+* <a href="https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/">New Research Tests Whether AI Models Know Their Own Thoughts</a> - Wed, 04 Nov 2026 15:32:52 +0000
 * <a href="https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/">Is There Anything Left in the Dream of Cold Fusion?</a> - Mon, 02 Nov 2026 15:48:57 +0000
 * <a href="https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/">A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy</a> - Fri, 30 Oct 2026 14:52:05 +0000
 * <a href="https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/">How Do You Take a Picture of a Black Hole?</a> - Thu, 29 Oct 2026 15:11:57 +0000
 * <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/">How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material</a> - Wed, 28 Oct 2026 16:04:18 +0000
-* <a href="https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/">How Voting Is Like a Klein Bottle</a> - Mon, 26 Oct 2026 14:54:29 +0000
 <!-- quanta ends -->
 
 
