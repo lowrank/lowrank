@@ -4,6 +4,7 @@ import re
 import pathlib
 import sys
 import urllib.request
+from urllib.parse import quote
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -18,12 +19,23 @@ def fetch_rss_feed(url, num_entries=5):
             'link': entry['link'],
             'published': entry.get('published', ''),
             'status': _entry_status(entry),
+            'version': _entry_version(entry),
         }
         for entry in entries
     ]
 
 
 WITHDRAWN_RE = re.compile(r'\bwithdrawn\b|\bwithdrawal\b', re.IGNORECASE)
+ARXIV_VERSION_RE = re.compile(
+    r'\b(?:\d{4}\.\d{4,5}|[a-z-]+(?:\.[a-z]{2})?/\d{7})v(\d+)\b',
+    re.IGNORECASE,
+)
+
+
+def _entry_version(entry):
+    text = ' '.join([entry.get('id', ''), entry.get('summary', '')])
+    match = ARXIV_VERSION_RE.search(text)
+    return match.group(1) if match else None
 
 
 def _is_withdrawn(text):
@@ -66,14 +78,17 @@ STATUS_BADGES = {
 }
 
 
-def status_badge(status):
+def status_badge(status, version=None):
+    status = (status or '').strip().lower()
     label, color = STATUS_BADGES.get(
-        (status or '').strip().lower(), ((status or '').strip(), '6e7781')
+        status, ((status or '').strip(), '6e7781')
     )
     if not label:
         return ''
-    return '<img alt="{0}" src="https://img.shields.io/badge/-{0}-{1}?style=flat-square"> '.format(
-        label, color
+    if status in ('replace', 'replace-cross') and version:
+        label = 'update v{}'.format(version)
+    return '<img alt="{0}" src="https://img.shields.io/badge/-{1}-{2}?style=flat-square"> '.format(
+        label, quote(label, safe='-'), color
     )
 
 
@@ -118,7 +133,9 @@ if __name__ == '__main__':
                 '* {badge}<a href="{link}">{title}</a> - {published}'
                 if entry['published']
                 else '* {badge}<a href="{link}">{title}</a>'
-            ).format(badge=status_badge(entry['status']), **entry)
+            ).format(
+                badge=status_badge(entry['status'], entry['version']), **entry
+            )
             for entry in entries
         )
         readme_contents = replace_chunk(readme_contents, 'arxiv-math-na', entries_md)
