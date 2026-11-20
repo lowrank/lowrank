@@ -40,6 +40,23 @@ class EntryVersionTests(unittest.TestCase):
 
         self.assertEqual(_entry_version(entry), '4')
 
+    def test_uses_link_identifier_with_version_suffix(self):
+        entry = {
+            'id': 'announcement',
+            'link': 'https://arxiv.org/abs/2611.00793v4',
+            'summary': 'This is arXiv:2611.00793v4.',
+        }
+
+        self.assertEqual(_entry_version(entry), '4')
+
+    def test_normalizes_legacy_subject_class_in_summary(self):
+        entry = {
+            'id': 'oai:arXiv.org:math/0611800',
+            'summary': 'This is arXiv:math.CA/0611800v2.',
+        }
+
+        self.assertEqual(_entry_version(entry), '2')
+
 
 if __name__ == '__main__':
     unittest.main()

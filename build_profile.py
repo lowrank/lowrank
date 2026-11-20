@@ -31,7 +31,19 @@ ARXIV_VERSION_RE = re.compile(
     r'\b({})v(\d+)\b'.format(ARXIV_ID_PATTERN),
     re.IGNORECASE,
 )
-ARXIV_ID_RE = re.compile(r'\b({})\b'.format(ARXIV_ID_PATTERN), re.IGNORECASE)
+ARXIV_ID_RE = re.compile(
+    r'\b({})(?:v\d+)?\b'.format(ARXIV_ID_PATTERN),
+    re.IGNORECASE,
+)
+
+
+def _normalize_arxiv_id(paper_id):
+    paper_id = paper_id.lower()
+    if '/' in paper_id:
+        subject, identifier = paper_id.split('/', 1)
+        subject = subject.split('.', 1)[0]
+        return '{}/{}'.format(subject, identifier)
+    return paper_id
 
 
 def _entry_version(entry):
@@ -46,7 +58,7 @@ def _entry_version(entry):
 
     paper_id = identifier.group(1).lower()
     for match in ARXIV_VERSION_RE.finditer(entry.get('summary', '')):
-        if match.group(1).lower() == paper_id:
+        if _normalize_arxiv_id(match.group(1)) == _normalize_arxiv_id(paper_id):
             return match.group(2)
     return None
 
