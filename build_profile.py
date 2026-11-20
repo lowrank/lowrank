@@ -26,16 +26,29 @@ def fetch_rss_feed(url, num_entries=5):
 
 
 WITHDRAWN_RE = re.compile(r'\bwithdrawn\b|\bwithdrawal\b', re.IGNORECASE)
+ARXIV_ID_PATTERN = r'(?:\d{4}\.\d{4,5}|[a-z-]+(?:\.[a-z]{2})?/\d{7})'
 ARXIV_VERSION_RE = re.compile(
-    r'\b(?:\d{4}\.\d{4,5}|[a-z-]+(?:\.[a-z]{2})?/\d{7})v(\d+)\b',
+    r'\b({})v(\d+)\b'.format(ARXIV_ID_PATTERN),
     re.IGNORECASE,
 )
+ARXIV_ID_RE = re.compile(r'\b({})\b'.format(ARXIV_ID_PATTERN), re.IGNORECASE)
 
 
 def _entry_version(entry):
-    text = ' '.join([entry.get('id', ''), entry.get('summary', '')])
-    match = ARXIV_VERSION_RE.search(text)
-    return match.group(1) if match else None
+    entry_id = entry.get('id', '')
+    match = ARXIV_VERSION_RE.search(entry_id)
+    if match:
+        return match.group(2)
+
+    identifier = ARXIV_ID_RE.search(' '.join([entry_id, entry.get('link', '')]))
+    if not identifier:
+        return None
+
+    paper_id = identifier.group(1).lower()
+    for match in ARXIV_VERSION_RE.finditer(entry.get('summary', '')):
+        if match.group(1).lower() == paper_id:
+            return match.group(2)
+    return None
 
 
 def _is_withdrawn(text):
