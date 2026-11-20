@@ -1,6 +1,6 @@
 import unittest
 
-from build_profile import _entry_version
+from build_profile import _entry_version, status_badge
 
 
 class EntryVersionTests(unittest.TestCase):
@@ -19,6 +19,9 @@ class EntryVersionTests(unittest.TestCase):
         }
 
         self.assertIsNone(_entry_version(entry))
+        badge = status_badge('replace', _entry_version(entry))
+        self.assertIn('alt="update"', badge)
+        self.assertNotIn('update v3', badge)
 
     def test_uses_matching_version_from_summary(self):
         entry = {
